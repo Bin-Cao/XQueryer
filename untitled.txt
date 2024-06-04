@@ -1,0 +1,15 @@
+角度embedding 
+
+Atom 信息加进去
+
+读取10个样本
+
+试试tensorboard
+
+torch.Size([2, 3501])
+torch.Size([2, 128, 876])
+torch.Size([876, 2, 128])
+torch.Size([877, 2, 128])
+torch.Size([877, 2, 128])
+torch.Size([877, 2, 128])
+torch.Size([2, 100315])
