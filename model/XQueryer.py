@@ -9,7 +9,7 @@ from torch.nn.init import trunc_normal_
 
 class Xmodel(nn.Module):
 
-    def __init__(self, embed_dim=3500, nhead=5, num_encoder_layers=6, dim_feedforward=192,
+    def __init__(self, embed_dim=3500, nhead=5, num_encoder_layers=4, dim_feedforward=192,
                  dropout=0., activation="relu", num_classes=10):
         super().__init__()
 
@@ -202,10 +202,9 @@ class CrossAttnLayer(nn.Module):
     def __init__(self, d_model, nhead, dim_feedforward=2048, dropout=0.1, activation="relu"):
         super().__init__()
         # Define element_map
-        self.element_map = nn.Sequential(
-            nn.Linear(92, 1024),  # Increase the dimensionality
+        self.element_map = nn.Sequential(       
+            nn.Linear(92, 192 * 3500), # Increase the dimensionality
             nn.ReLU(),
-            nn.Linear(1024, 192 * 3500) 
         )
 
         self.cross_attn = nn.MultiheadAttention(d_model, nhead, dropout=dropout)

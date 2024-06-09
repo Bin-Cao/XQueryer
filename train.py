@@ -180,8 +180,8 @@ if __name__ == '__main__':
     parser.add_argument('--num_workers', default=16, type=int, metavar='N')
     parser.add_argument('--warmup-epochs', default=20, type=int, metavar='N', help='number of warmup epochs')
     parser.add_argument('--lr', '--learning-rate', default=8e-5, type=float, metavar='LR', help='initial (base) learning rate', dest='lr')
-    parser.add_argument('--data_dir_train', default=['/data/cb_dataset/train1.db','/data/cb_dataset/train2.db'], type=list)
-    parser.add_argument('--data_dir_val', default=['/data/cb_dataset/val.db'], type=list)
+    parser.add_argument('--data_dir_train', nargs='+', default=['/data/cb_dataset/train1.db','/data/cb_dataset/train2.db'], type=str, help='List of training data directories, e.g., --data_dir_train= /path/to/train1.db /path/to/train2.db')
+    parser.add_argument('--data_dir_val', nargs='+', default=['/data/cb_dataset/val.db'], type=str, help='List of validation data directories, e.g., --data_dir_val= /path/to/val.db')
     parser.add_argument('--atom_embed', default=True, type=bool)
     parser.add_argument('--num_classes', default=100315, type=int, metavar='N')
 
