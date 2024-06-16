@@ -5,11 +5,11 @@ import torch
 import torch.nn.functional as F
 from torch import nn
 from torch.nn.init import trunc_normal_
-
+import torch.fft
 
 class Xmodel(nn.Module):
 
-    def __init__(self, embed_dim=3500, nhead=5, num_encoder_layers=4, dim_feedforward=192,
+    def __init__(self, embed_dim=3500, nhead=5, num_encoder_layers=4, dim_feedforward=768,
                  dropout=0., activation="relu", num_classes=10):
         super().__init__()
 
@@ -29,17 +29,18 @@ class Xmodel(nn.Module):
 
         self.norm_after = nn.LayerNorm(embed_dim)
 
-        self.cls_head = nn.Sequential(
-            nn.Linear(embed_dim, int(embed_dim * 4)),
-            nn.BatchNorm1d(int(embed_dim * 4)),
-            nn.ReLU(inplace=True),
-            nn.Dropout(0.5),
-            nn.Linear(int(embed_dim * 4), int(embed_dim * 4)),
-            nn.BatchNorm1d(int(embed_dim * 4)),
-            nn.ReLU(inplace=True),
-            nn.Dropout(0.5),
-            nn.Linear(int(embed_dim * 4), num_classes)
-        )
+    self.cls_head = nn.Sequential(
+        nn.Linear(embed_dim, 2048), 
+        nn.BatchNorm1d(2048),
+        nn.ReLU(inplace=True),
+        nn.Dropout(0.5),
+        nn.Linear(2048, 1024), 
+        nn.BatchNorm1d(1024),
+        nn.ReLU(inplace=True),
+        nn.Dropout(0.5),
+        nn.Linear(1024, num_classes) 
+    )
+
 
         self._reset_parameters()
         self.init_weights()
@@ -71,27 +72,33 @@ class Xmodel(nn.Module):
     def forward(self, x, elem):
         x = x[:, :3500]
         N = x.shape[0]
+        sampling_rate = x[0,1]-x[0,0]
 
         # normalize to 0-1
         x = x / 100
         x = x.unsqueeze(1) # N*1*3500
         
-        x = self.conv(x) # N*192*3500
+        x1 = self.conv(x) # N*192*3500
+        x2 = self.conv(SignalProcessor(x,sampling_rate).filter_high_frequencies(percentage=0.3)) # N*192*3500
+        x3 = self.conv(SignalProcessor(x,sampling_rate).filter_high_frequencies(percentage=0.6)) # N*192*3500
+        x4 = self.conv(SignalProcessor(x,sampling_rate).filter_high_frequencies(percentage=0.9)) # N*192*3500
+
+        x = torch.cat((x1, x2, x3, x4,), dim=1) # N*768*3500
 
         # flatten NxCxL to CxNxL
-        x = x.permute(1, 0, 2).contiguous() # 192*N*3500
+        x = x.permute(1, 0, 2).contiguous() # 768*N*3500
         print(x.shape)
 
         """
         cls_token = self.cls_token.expand(-1, N, -1)
         print(cls_token.shape)
-        x = torch.cat((cls_token, x), dim=0) # 193*N*3501
+        x = torch.cat((cls_token, x), dim=0) # 769*N*3501
         print(x.shape)
         """
 
 
         pos_embed = self.pos_embed.permute(2, 0, 1).contiguous().repeat(1, N, 1) 
-        print(pos_embed.shape) # 192*N*3500
+        print(pos_embed.shape) # 768*N*3500
 
         elem = elem.unsqueeze(1) # N*1*92
         elem = elem.permute(1, 0, 2).contiguous() # 1*N*92
@@ -202,8 +209,10 @@ class CrossAttnLayer(nn.Module):
     def __init__(self, d_model, nhead, dim_feedforward=2048, dropout=0.1, activation="relu"):
         super().__init__()
         # Define element_map
-        self.element_map = nn.Sequential(       
-            nn.Linear(92, 192 * 3500), # Increase the dimensionality
+        self.element_map = nn.Sequential(  
+            nn.Linear(92, 2048),   
+            nn.Dropout(0.5),  
+            nn.Linear(2048, 768 * 3500), # Increase the dimensionality
             nn.ReLU(),
         )
 
@@ -221,7 +230,7 @@ class CrossAttnLayer(nn.Module):
         self.activation = _get_activation_fn(activation)
 
     def forward(self, src, pos, elem):
-        q = self.element_map(elem).view(192, -1, 3500) # 192, N, 3500
+        q = self.element_map(elem).view(768, -1, 3500) # 768, N, 3500
         k = v = with_pos_embed(src, pos)
         src2 = self.cross_attn(q, k, value=v)[0]
         src = src + self.dropout1(src2)
@@ -310,3 +319,37 @@ def get_1d_sincos_pos_embed_from_grid(embed_dim, pos):
 
     emb = np.concatenate([emb_sin, emb_cos], axis=1)  # (M, D)
     return emb
+
+
+
+class SignalProcessor:
+    def __init__(self, signals, sampling_rate):
+        """
+        Initializes the SignalProcessor with a signal and its sampling rate.
+
+        Parameters:
+        signals (torch.Tensor): The time-domain signals with shape (N, 1, 1000).
+        sampling_rate (float): The sampling rate in Hz.
+        """
+        self.signals = signals
+        self.sampling_rate = sampling_rate
+        self.frequency = torch.fft.fftfreq(signals.shape[-1], d=1/sampling_rate)
+        self.fourier_transforms = torch.fft.fft(signals, dim=-1)
+    
+    def filter_high_frequencies(self, percentage=0.2):
+        """
+        Filters out the top given percentage of high frequencies from the signal.
+
+        Parameters:
+        percentage (float): The percentage of high frequencies to filter out.
+
+        Returns:
+        torch.Tensor: The filtered signals in the time domain.
+        """
+        n = self.signals.shape[-1]
+        cutoff_index = int(n * (1 - percentage) / 2)
+        filtered_fourier_transforms = self.fourier_transforms.clone()
+        filtered_fourier_transforms[..., cutoff_index:-cutoff_index] = 0
+        
+        filtered_signals = torch.fft.ifft(filtered_fourier_transforms, dim=-1)
+        return filtered_signals.real
