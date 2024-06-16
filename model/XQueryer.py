@@ -29,17 +29,17 @@ class Xmodel(nn.Module):
 
         self.norm_after = nn.LayerNorm(embed_dim)
 
-    self.cls_head = nn.Sequential(
-        nn.Linear(embed_dim, 2048), 
-        nn.BatchNorm1d(2048),
-        nn.ReLU(inplace=True),
-        nn.Dropout(0.5),
-        nn.Linear(2048, 1024), 
-        nn.BatchNorm1d(1024),
-        nn.ReLU(inplace=True),
-        nn.Dropout(0.5),
-        nn.Linear(1024, num_classes) 
-    )
+        self.cls_head = nn.Sequential(
+            nn.Linear(embed_dim, 2048), 
+            nn.BatchNorm1d(2048),
+            nn.ReLU(inplace=True),
+            nn.Dropout(0.5),
+            nn.Linear(2048, 1024), 
+            nn.BatchNorm1d(1024),
+            nn.ReLU(inplace=True),
+            nn.Dropout(0.5),
+            nn.Linear(1024, num_classes) 
+        )
 
 
         self._reset_parameters()
