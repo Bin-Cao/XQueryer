@@ -210,9 +210,8 @@ class CrossAttnLayer(nn.Module):
         super().__init__()
         # Define element_map
         self.element_map = nn.Sequential(  
-            nn.Linear(92, 2048),   
+            nn.Linear(92, 768 * 3500),   
             nn.Dropout(0.5),  
-            nn.Linear(2048, 768 * 3500), # Increase the dimensionality
             nn.ReLU(),
         )
 
