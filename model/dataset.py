@@ -37,8 +37,8 @@ class ASEDataset(Dataset):
                 # Extract relevant data from the row
                 latt_dis = eval(getattr(row, 'latt_dis'))
                 intensity = eval(getattr(row, 'intensity'))
-                # id_num = eval(getattr(row, 'id')) -1 
-                id_num = 0
+                id_num = getattr(row, 'Label')
+                
             
 
                 # Convert to tensors
