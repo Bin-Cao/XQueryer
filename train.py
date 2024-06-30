@@ -130,6 +130,12 @@ def main():
     scaler = torch.cuda.amp.GradScaler()
     start_epoch = 0
 
+    # 早停止相关变量
+    best_loss = float('inf')
+    epochs_no_improve = 0
+    early_stop = False
+    patience = args.patience
+
     for epoch in range(start_epoch + 1, args.epochs + 1):
         if distributed:
             train_sampler.set_epoch(epoch)
@@ -145,6 +151,22 @@ def main():
                              'optimizer': optimizer.state_dict()}, is_best=False,
                             filepath=f'{log.get_path()}/checkpoints/',
                             filename=f'checkpoint_{epoch:04d}.pth')
+
+            # 检查验证集损失是否有改善
+            if loss_val < best_loss:
+                best_loss = loss_val
+                epochs_no_improve = 0
+            else:
+                epochs_no_improve += 1
+
+            # 检查是否需要早停止
+            if epochs_no_improve >= patience:
+                print(f"Early stopping at epoch {epoch}")
+                early_stop = True
+                break
+
+        if early_stop:
+            break
 
 if __name__ == '__main__':
     rank, local_rank = 0, 0
@@ -183,6 +205,7 @@ if __name__ == '__main__':
     parser.add_argument('--data_dir_val', nargs='+', default=['/data/cb_dataset/val.db'], type=str, help='List of validation data directories, e.g., --data_dir_val= /path/to/val.db')
     parser.add_argument('--atom_embed', type=lambda x: (str(x).lower() in ['true','1']), default=True)
     parser.add_argument('--num_classes', default=100315, type=int, metavar='N')
+    parser.add_argument('--patience', default=5, type=int, metavar='N', help='early stopping patience')
 
     args = parser.parse_args()
 
