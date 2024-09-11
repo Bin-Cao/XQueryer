@@ -1,0 +1,119 @@
+Xmodel(
+  (conv): ConvModule(
+    (conv1): Conv1d(1, 32, kernel_size=(17,), stride=(1,), padding=(8,))
+    (bn1): BatchNorm1d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (act1): ReLU()
+    (conv2): Conv1d(1, 32, kernel_size=(33,), stride=(1,), padding=(16,))
+    (bn2): BatchNorm1d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (act2): ReLU()
+    (conv3): Conv1d(1, 32, kernel_size=(65,), stride=(1,), padding=(32,))
+    (bn3): BatchNorm1d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (act3): ReLU()
+    (conv4): Conv1d(1, 32, kernel_size=(129,), stride=(1,), padding=(64,))
+    (bn4): BatchNorm1d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (act4): ReLU()
+    (conv5): Conv1d(1, 32, kernel_size=(257,), stride=(1,), padding=(128,))
+    (bn5): BatchNorm1d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (act5): ReLU()
+    (conv6): Conv1d(1, 32, kernel_size=(513,), stride=(1,), padding=(256,))
+    (bn6): BatchNorm1d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (act6): ReLU()
+  )
+  (encoder): SelfAttnModule(
+    (layers): ModuleList(
+      (0-2): 3 x CrossAttnLayer(
+        (element_map): Sequential(
+          (0): Linear(in_features=92, out_features=2688000, bias=True)
+          (1): Dropout(p=0.5, inplace=False)
+          (2): ReLU()
+        )
+        (cross_attn): MultiheadAttention(
+          (out_proj): NonDynamicallyQuantizableLinear(in_features=3500, out_features=3500, bias=True)
+        )
+        (linear1): Linear(in_features=3500, out_features=768, bias=True)
+        (dropout): Dropout(p=0.0, inplace=False)
+        (linear2): Linear(in_features=768, out_features=3500, bias=True)
+        (norm1): LayerNorm((3500,), eps=1e-05, elementwise_affine=True)
+        (norm2): LayerNorm((3500,), eps=1e-05, elementwise_affine=True)
+        (dropout1): Dropout(p=0.0, inplace=False)
+        (dropout2): Dropout(p=0.0, inplace=False)
+      )
+    )
+  )
+  (norm_after): LayerNorm((3500,), eps=1e-05, elementwise_affine=True)
+  (cls_head): Sequential(
+    (0): Linear(in_features=3500, out_features=2048, bias=True)
+    (1): BatchNorm1d(2048, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU(inplace=True)
+    (3): Dropout(p=0.5, inplace=False)
+    (4): Linear(in_features=2048, out_features=1024, bias=True)
+    (5): BatchNorm1d(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (6): ReLU(inplace=True)
+    (7): Dropout(p=0.5, inplace=False)
+    (8): Linear(in_features=1024, out_features=100315, bias=True)
+  )
+)
+---------------- Epoch 1 ----------------
+loss_train : 10.2112
+loss_val   : 8.179
+acc_train  : 5.1193%
+acc_val    : 37.0506%
+Checkpoint saved!
+---------------- Epoch 2 ----------------
+loss_train : 5.4646
+loss_val   : 2.5088
+acc_train  : 55.1339%
+acc_val    : 80.4157%
+---------------- Epoch 3 ----------------
+loss_train : 1.346
+loss_val   : 0.4207
+acc_train  : 81.4304%
+acc_val    : 93.5859%
+---------------- Epoch 4 ----------------
+loss_train : 0.3494
+loss_val   : 0.137
+acc_train  : 89.5896%
+acc_val    : 95.933%
+---------------- Epoch 5 ----------------
+loss_train : 0.1699
+loss_val   : 0.0785
+acc_train  : 92.5454%
+acc_val    : 96.7541%
+Checkpoint saved!
+---------------- Epoch 6 ----------------
+loss_train : 0.1095
+loss_val   : 0.0564
+acc_train  : 94.1647%
+acc_val    : 97.0976%
+---------------- Epoch 7 ----------------
+loss_train : 0.0795
+loss_val   : 0.0371
+acc_train  : 95.2471%
+acc_val    : 97.7632%
+---------------- Epoch 8 ----------------
+loss_train : 0.0613
+loss_val   : 0.0343
+acc_train  : 96.0524%
+acc_val    : 97.8276%
+---------------- Epoch 9 ----------------
+loss_train : 0.0491
+loss_val   : 0.0317
+acc_train  : 96.6479%
+acc_val    : 97.6277%
+---------------- Epoch 10 ----------------
+loss_train : 0.0412
+loss_val   : 0.0231
+acc_train  : 97.0891%
+acc_val    : 98.118%
+Checkpoint saved!
+---------------- Epoch 11 ----------------
+loss_train : 0.0361
+loss_val   : 0.0225
+acc_train  : 97.328%
+acc_val    : 98.221%
+---------------- Epoch 12 ----------------
+loss_train : 0.0311
+loss_val   : 0.1182
+acc_train  : 97.6581%
+acc_val    : 94.0052%
+
