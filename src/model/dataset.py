@@ -4,11 +4,11 @@ import numpy as np
 import ase.db
 import json
 from scipy.interpolate import interp1d
-import ast
+import ase
 import random
 
 class ASEDataset(Dataset):
-    def __init__(self, db_paths,encode_element):
+    def __init__(self, db_paths,encode_element,train=False):
         with open('./CGCNN_atom_emb.json' , 'r') as file:
             self.cgcnn_emb = json.load(file)
         self.db_paths = db_paths
@@ -40,7 +40,10 @@ class ASEDataset(Dataset):
                     element_value=torch.mean(torch.tensor(element_value, dtype=torch.float32),dim=0)
                 # Extract relevant data from the row
                 #latt_dis = eval(getattr(row, 'latt_dis'))
-                intensity = eval(getattr(row, 'intensity'))
+                if self.train:
+                    intensity = self.mixture( eval(getattr(row, 'intensity')) )
+                else:
+                    intensity = eval(getattr(row, 'intensity')) 
                 id_num = getattr(row, 'Label')
                 
                 # Convert to tensors
@@ -69,6 +72,13 @@ class ASEDataset(Dataset):
         indices_to_remove = random.sample(range(len(lst)), num_elements_to_remove)
         new_lst = [item for index, item in enumerate(lst) if index not in indices_to_remove]   
         return new_lst
+
+    def mixture(self,xrd,ratio=0.08):
+        num = random.randint(1, 100315)
+        _row = ase.db.connect('/data/cb/val.db').get(num)
+        _int = eval(getattr(_row, 'intensity'))
+        result = np.array(xrd) * (1 - ratio) + np.array(_int) * ratio
+        return result
 
 
     def symbol_to_atomic_number(self,symbol_list):

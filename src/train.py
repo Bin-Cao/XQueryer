@@ -110,7 +110,7 @@ def main():
     if rank == 0:
         log.printlog(model)
 
-    trainset = ASEDataset(args.data_dir_train, args.atom_embed)
+    trainset = ASEDataset(args.data_dir_train, args.atom_embed,tarin=True)
     valset = ASEDataset(args.data_dir_val, args.atom_embed)
 
     if distributed:
