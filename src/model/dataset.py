@@ -13,6 +13,7 @@ class ASEDataset(Dataset):
             self.cgcnn_emb = json.load(file)
         self.db_paths = db_paths
         self.encode_element = encode_element
+        self.train = train
         self.dbs = [ase.db.connect(db_path) for db_path in db_paths]
         print("Loaded data from:", db_paths)
 
@@ -258,4 +259,3 @@ class EXPDataset(Dataset):
         ynew = f(xnew)
 
         return ynew
-
