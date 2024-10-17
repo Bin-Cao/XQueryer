@@ -63,7 +63,7 @@ class ASEDataset(Dataset):
                         #'latt_dis': tensor_latt_dis,
                         'intensity': tensor_intensity,
                         'id': tensor_id,
-                        'element': torch.zeros(92, dtype=torch.int)
+                        'element': torch.zeros(92, dtype=torch.float32)
                     }              
             cumulative_length += len(db)
 
