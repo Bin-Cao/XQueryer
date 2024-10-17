@@ -1,5 +1,5 @@
 
-# XQueryer GitHub Repository
+# XQueryer Repository
 
 ## Overview
 - **Source Code**: Available in the [./src](./src) directory.
