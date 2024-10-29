@@ -8,16 +8,20 @@ from model.dataset import ASEDataset
 from model.XQueryer import Xmodel
 from torch.cuda.amp import autocast
 from sklearn.metrics import f1_score, precision_score, recall_score
+import json
 
+# Load the dictionary from the JSON file
+with open('entries_dict.json', 'r') as file:
+    entries_dict = json.load(file)
 
-def run_one_epoch(model, dataloader, device):
+def run_one_epoch(model, dataloader, device, entries_dict):
     model.eval()  # Set the model to evaluation mode
 
     epoch_loss = 0.0
     correct_cnt = 0
     total_cnt = 0
 
-    # Initialize lists for storing true and predicted labels
+    # Initialize lists for storing true and predicted sg values
     all_preds = []
     all_labels = []
 
@@ -43,14 +47,21 @@ def run_one_epoch(model, dataloader, device):
         loss = criterion(logits, label_cls)
         epoch_loss += loss.item()
 
-        # Get predictions and update accuracy counters
+        # Get predictions
         preds = logits.argmax(1)
-        correct_cnt += (preds == label_cls).sum().item()
-        total_cnt += label_cls.size(0)
 
-        # Store predictions and true labels for metric calculations
-        all_preds.extend(preds.cpu().numpy())
-        all_labels.extend(label_cls.cpu().numpy())
+        # Map `preds` and `label_cls` to 'sg' values based on 'key'
+        pred_sg = [entries_dict[str(key.item())]['sg'] for key in preds]
+        label_sg = [entries_dict[str(key.item())]['sg'] for key in label_cls]
+
+        # Store mapped `sg` values for metric calculations
+        all_preds.extend(pred_sg)
+        all_labels.extend(label_sg)
+
+        # Count correct predictions
+        correct_sg_cnt = sum(p == l for p, l in zip(pred_sg, label_sg))
+        correct_cnt += correct_sg_cnt
+        total_cnt += label_cls.size(0)
 
     pbar.close()
 
@@ -61,13 +72,15 @@ def run_one_epoch(model, dataloader, device):
     # Calculate overall accuracy
     accuracy = correct_cnt / total_cnt if total_cnt > 0 else 0
 
-    # Calculate precision, recall, and F1 score
+    # Calculate precision, recall, and F1 score for `sg` values
     precision = precision_score(all_labels, all_preds, average='macro', zero_division=0)
     recall = recall_score(all_labels, all_preds, average='macro', zero_division=0)
     f1 = f1_score(all_labels, all_preds, average='macro', zero_division=0)
 
     # Return metrics for the epoch
     return epoch_loss / iters, accuracy, correct_cnt, total_cnt, precision, recall, f1
+
+
 
 def main():
     device = torch.device(args.device if torch.cuda.is_available() else 'cpu')
@@ -80,7 +93,7 @@ def main():
     valset = ASEDataset(args.data_dir, args.atom_embed)
     val_loader = DataLoader(valset, batch_size=args.batch_size, num_workers=args.num_workers, pin_memory=True, shuffle=False)
 
-    loss_val, acc_val, correct_cnt, total_cnt, precision, recall, f1 = run_one_epoch(model, val_loader, device)
+    loss_val, acc_val, correct_cnt, total_cnt, precision, recall, f1 = run_one_epoch(model, val_loader, device,entries_dict)
 
     print("Validation Loss: ", loss_val)
     print("Validation Accuracy: ", acc_val)
