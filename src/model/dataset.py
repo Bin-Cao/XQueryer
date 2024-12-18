@@ -42,10 +42,16 @@ class ASEDataset(Dataset):
                     element_value=torch.mean(torch.tensor(element_value, dtype=torch.float32),dim=0)
                 # Extract relevant data from the row
                 #latt_dis = eval(getattr(row, 'latt_dis'))
+                intensity = eval(getattr(row, 'intensity'))
+
+                """
+                # Mixture of XRD patterns
+                # You need to modify the dir of mixtured patterns and the ratio of mixture in  function mixture()
                 if self.train:
                     intensity = self.mixture( eval(getattr(row, 'intensity')) )
                 else:
                     intensity = eval(getattr(row, 'intensity')) 
+                """
                 id_num = getattr(row, 'Label')
                 
                 # Convert to tensors
