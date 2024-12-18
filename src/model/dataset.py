@@ -6,6 +6,7 @@ import json
 from scipy.interpolate import interp1d
 import ase
 import random
+import ast
 
 class ASEDataset(Dataset):
     def __init__(self, db_paths,encode_element,train=False):
