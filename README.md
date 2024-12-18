@@ -10,6 +10,8 @@
 
 ## Tutorials
 - **Training/Val/Testing**: [model_tutorial](./src/Tutorial.ipynb)
+- **Simulation**: [sim_tutorial](./sim/XRD.ipynb)
+- ***High-throughput simulation**: [HTsim_tutorial](./sim/tutorial_sim.ipynb)
 ## About 
 Maintained by Bin Cao. Please feel free to open issues in the Github or contact Bin Cao
 (bcao686@connect.hkust-gz.edu.cn) in case of any problems/comments/suggestions in using the code. 
