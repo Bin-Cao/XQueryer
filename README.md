@@ -8,7 +8,8 @@
 - **Website**: Access the project website at [http://xqueryer.caobin.asia](http://xqueryer.caobin.asia).
 - **Simulation Code**: Available in the [./sim](./sim) directory.
 
-
+## Tutorials
+- **Training/Val/Testing**: [model_tutorial](./src/Tutorial.ipynb)
 ## About 
 Maintained by Bin Cao. Please feel free to open issues in the Github or contact Bin Cao
 (bcao686@connect.hkust-gz.edu.cn) in case of any problems/comments/suggestions in using the code. 
