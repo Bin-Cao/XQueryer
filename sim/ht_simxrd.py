@@ -90,8 +90,8 @@ def process_entry(_id, database, times):
             background_ratio = 0.05
             mixture_noise_ratio = 0.02
             dis_detector2sample = 500
-            half_height_slit_detector_H = 50
-            half_height_sample_S = 25
+            half_height_slit_detector_H = 5
+            half_height_sample_S = 2.5
             zero_shift = random.uniform(-1.5, 1.5)
 
             # Generate the simulated diffraction pattern
