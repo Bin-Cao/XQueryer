@@ -71,8 +71,8 @@ def process_entry(_id, database, times):
                 
                 Instrument Parameters:
                 dis_detector2sample (int, optional): Distance between the detector and the sample in mm. Defaults to 500.
-                half_height_slit_detector (int, optional): Half height of the slit-shaped detector in mm. Defaults to 50 (2H = 100 mm).
-                half_height_sample (int, optional): Half height of the sample in mm. Defaults to 25 (height = 50 mm).
+                half_height_slit_detector (int, optional): Half height of the slit-shaped detector in mm. Defaults to 5 (2H = 10 mm).
+                half_height_sample (int, optional): Half height of the sample in mm. Defaults to 2.5 (height = 5 mm).
                 zero_shift (float, optional): Zero shift of angular position in degrees. Defaults to 0.1.
         
             Returns:
