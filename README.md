@@ -4,34 +4,13 @@
 Official Implementation of An Integrated Software-Hardware Smart Structure Identification System in Powder X-ray Diffraction
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>XQueryer System</title>
-    <style>
-        .image-container {
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            text-align: center;
-        }
-        .image-container h1 {
-            font-size: 24px;
-            margin-bottom: 20px;
-        }
-    </style>
-</head>
-<body>
-    <div class="image-container">
-        <h1>XQueryer System</h1>
-        <img src="https://github.com/user-attachments/assets/09eaddef-a9a2-408a-897f-d2c355331c60" width="500" alt="gif">
-    </div>
-</body>
-</html>
 
+<h1 align="center">
+  <a href=""><img src="https://github.com/user-attachments/assets/09eaddef-a9a2-408a-897f-d2c355331c60" alt="Bgolearn" width="350"></a>
+  <br>
+  XQueryer System
+  <br>
+</h1>
 
 
 ## Overview
