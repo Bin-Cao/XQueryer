@@ -1,6 +1,8 @@
 
 # XQueryer Repository
 
+Official Implementation of An Integrated Software-Hardware Smart Structure Identification System in Powder X-ray Diffraction
+
 ## Overview
 - **Source Code**: Available in the [./src](./src) directory.
 - **Pretrained Model**: Hosted on [Hugging Face](https://huggingface.co/datasets/caobin/XQueryer).
