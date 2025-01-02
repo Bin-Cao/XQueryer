@@ -1,7 +1,7 @@
 
 # XQueryer Repository
 
-Official Implementation of An Integrated Software-Hardware Smart Structure Identification System in Powder X-ray Diffraction
+
 
 
 
@@ -12,6 +12,7 @@ Official Implementation of An Integrated Software-Hardware Smart Structure Ident
   <br>
 </h1>
 
+The Official Implementation of An Integrated Software-Hardware Smart Structure Identification System in Powder X-ray Diffraction
 
 ## Overview
 - **Source Code**: Available in the [./src](./src) directory.
