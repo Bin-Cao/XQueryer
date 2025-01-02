@@ -4,11 +4,11 @@
 <h1 align="center">
   <a href=""><img src="https://github.com/user-attachments/assets/09eaddef-a9a2-408a-897f-d2c355331c60" alt="Bgolearn" width="350"></a>
   <br>
-  [XQueryer System](https://www.youtube.com/watch?v=OYPoh7K5uM0)
+  XQueryer System
   <br>
 </h1>
 
-The Official Implementation of An Integrated Software-Hardware Smart Structure Identification System in Powder X-ray Diffraction
+The Official Implementation of [An Integrated Software-Hardware Smart Structure Identification System in Powder X-ray Diffraction](https://www.youtube.com/watch?v=OYPoh7K5uM0) | Paper 
 
 ## Overview
 - **Source Code**: Available in the [./src](./src) directory.
