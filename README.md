@@ -7,7 +7,7 @@ Official Implementation of An Integrated Software-Hardware Smart Structure Ident
 - **Source Code**: Available in the [./src](./src) directory.
 - **Pretrained Model**: Hosted on [Hugging Face](https://huggingface.co/datasets/caobin/XQueryer). 
 - **Dataset**: [OneDrive](https://hkustgz-my.sharepoint.com/:f:/g/personal/bcao686_connect_hkust-gz_edu_cn/EuXEw_kv8-RGtHbhLemh69gB5i9NatNVvbohTNSafj0UnA?e=hFsSdx)
-- **Website**: Access the project website at [http://xqueryer.caobin.asia](http://xqueryer.caobin.asia).
+- **Website**: Access the project website at [https://xqueryer.caobin.asia](https://xqueryer.caobin.asia).
 - **Simulation Code**: Available in the [./sim](./sim) directory.
 
 ## Tutorials
