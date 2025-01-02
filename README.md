@@ -3,7 +3,8 @@
 
 Official Implementation of An Integrated Software-Hardware Smart Structure Identification System in Powder X-ray Diffraction
 
-![gif](https://github.com/user-attachments/assets/09eaddef-a9a2-408a-897f-d2c355331c60)
+<img src="https://github.com/user-attachments/assets/09eaddef-a9a2-408a-897f-d2c355331c60" width="500" alt="gif">
+
 
 ## Overview
 - **Source Code**: Available in the [./src](./src) directory.
