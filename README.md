@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-The Official Implementation of [An Integrated Software-Hardware Smart Structure Identification System in Powder X-ray Diffraction](https://www.youtube.com/watch?v=OYPoh7K5uM0) | Paper 
+The Official Implementation of [An Integrated Software-Hardware Smart Structure Identification System in Powder X-ray Diffraction](https://www.youtube.com/watch?v=OYPoh7K5uM0) | Paper | [Benchmarks](https://github.com/WPEM/XqueryerBench)
 
 ## Overview
 - **Source Code**: Available in the [./src](./src) directory.
