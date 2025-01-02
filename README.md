@@ -1,8 +1,4 @@
 
-# XQueryer Repository
-
-
-
 
 
 <h1 align="center">
