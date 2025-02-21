@@ -11,7 +11,7 @@
 The Official Implementation of [An Integrated Software-Hardware Smart Structure Identification System in Powder X-ray Diffraction](https://www.youtube.com/watch?v=OYPoh7K5uM0) | Paper | [Benchmarks](https://github.com/WPEM/XqueryerBench)
 
 
-we introduce an integrated software-hardware system for intelligent structure identification. Our system performs real-time structure identification across more than 100,000 structures in the Materials Project database.
+we introduce an integrated software-hardware system for intelligent structure identification. Our system performs **real-time** structure identification across more than **100,000** structures in the Materials Project database.
 
 
 ## Overview
