@@ -8,7 +8,10 @@
   <br>
 </h1>
 
-The Official Implementation of [An Integrated Software-Hardware Smart Structure Identification System in Powder X-ray Diffraction](https://www.youtube.com/watch?v=OYPoh7K5uM0) | Paper | [Benchmarks](https://github.com/WPEM/XqueryerBench)
+The Official Implementation of **An Integrated Software-Hardware Smart Structure Identification System in Powder X-ray Diffraction**
+
+
+[Video](https://www.youtube.com/watch?v=OYPoh7K5uM0) |[Benchmarks](https://github.com/WPEM/XqueryerBench) | [Orial MRS](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/presentations/view/2025-mrs-spring-meeting/2025-mrs-spring-meeting-4205765) | Paper 
 
 
 we introduce an integrated software-hardware system for intelligent structure identification. Our system performs **real-time** structure identification across more than **100,000** structures in the Materials Project database.
