@@ -14,7 +14,7 @@ The Official Implementation of **An Integrated Software-Hardware Smart Structure
 [Video](https://www.youtube.com/watch?v=OYPoh7K5uM0) |[Benchmarks](https://github.com/WPEM/XqueryerBench) | [Orial MRS, Seattle USA](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/presentations/view/2025-mrs-spring-meeting/2025-mrs-spring-meeting-4205765) | Paper 
 
 
-Our system revolutionizes PXRD-based crystal identification with high-fidelity data synthesis and the state-of-the-art **XQueryer** model. Seamlessly integrating with diffractometers, it enables precise, AI-driven material discovery and extends to broader chemical and spectroscopic applications.
+Our system revolutionizes PXRD-based crystal identification with high-fidelity data synthesis and the state-of-the-art **XQueryer** model. Seamlessly integrating with diffractometers, it enables precise, AI-driven material discovery and extends to broader chemical applications.
 
 
 ## Overview
