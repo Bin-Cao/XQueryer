@@ -32,7 +32,8 @@ class ASEDataset(Dataset):
                 row = db.get(adjusted_idx + 1)  # ASE db indexing starts from 1
                 if self.encode_element:
                     atoms = row.toatoms()
-                    element = self.random_remove_elements(set(atoms.get_chemical_symbols()))
+                    element = atoms.get_chemical_symbols()
+                    #element = self.random_remove_elements(set(atoms.get_chemical_symbols()))
                     element_encode = self.symbol_to_atomic_number(element)
                     element_value = []
                     for code in element_encode:
@@ -243,26 +244,22 @@ class EXPDataset(Dataset):
         return atomic_number_list
     
     def upsample(self, rows):
-        # 将 rows 转换为 NumPy 数组，并确保数据类型正确
         rows = np.array(rows, dtype=object)
-        # 删除第一列相同的行，只保留第一次出现的
         _, unique_indices = np.unique(rows[:, 0], return_index=True)
         rows = rows[unique_indices]
-        # 检查第一个元素并插入新元素（如果需要）
+
         if float(rows[0][0]) > 10:
             rows = np.insert(rows, 0, ['10', float(rows[0][1])], axis=0)
-        # 检查最后一个元素并追加新元素（如果需要）
+
         if float(rows[-1][0]) < 80:
             rows = np.append(rows, [['80', float(rows[-1][1])]], axis=0)
-        # 将字符串转换为浮点数
+
         rowsData = np.array(rows, dtype=np.float32)
         x = rowsData[:, 0].astype(np.float32)
         y = rowsData[:, 1].astype(np.float32)
-        # 创建插值函数
         f = interp1d(x, y, kind='slinear', fill_value="extrapolate")
-        # 定义新的 x 值范围
         xnew = np.linspace(10, 80, 3501)
-        # 进行插值
         ynew = f(xnew)
+        ynew = ynew / ynew.max() * 100
 
         return ynew
