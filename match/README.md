@@ -1,7 +1,7 @@
 
 ## RRUFF–MP ID Matching
 
-This repository contains code and data for matching mineral entries from the RRUFF database with corresponding materials in the Materials Project (MP) database. The main matching script is located in [`./main.py`](./main.py).
+This folder contains code and data for matching mineral entries from the RRUFF database with corresponding materials in the Materials Project (MP) database. The main matching script is located in [`./main.py`](./main.py).
 
 ### Overview
 
@@ -24,7 +24,7 @@ A two-fold matching strategy is applied:
    * **Lattice constants within 1%** deviation, even if exact elemental matches are not present.
      These pairs are labeled as `relaxed` in the same file.
 
-The second matching type is motivated by the fact that RRUFF is a relatively small database, and many structures not be present in the MP dataset. Therefore, this relaxed matching allows us to capture similar crystal structures that induce **similar XRD peak distributions**, even if they are not identical in composition. This aligns with the *in-of-library identification* concept discussed in the supplementary materials of our paper.
+The second matching type is motivated by the fact that RRUFF is a relatively small database, and many structures not be present in the MP dataset. Therefore, this relaxed matching allows us to capture similar crystal structures that induce **similar XRD peak distributions**, even if they are not identical in composition. This aligns with the *in-library identification* concept discussed in the supplementary materials of our paper.
 
 ### Files
 
