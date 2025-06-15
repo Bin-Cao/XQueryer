@@ -37,7 +37,7 @@ def upsample(rows):
     x = rowsData[:, 0].astype(np.float32)
     y = rowsData[:, 1].astype(np.float32)
     f = interp1d(x, y, kind='slinear', fill_value="extrapolate")
-    xnew = np.linspace(10, 80, 3501)
+    xnew = np.linspace(10, 80, 3500)
     ynew = f(xnew)
 
     return ynew
@@ -79,10 +79,14 @@ def save_match(rruff_atoms, angle, intensity, rruffid, mp_entry, match_type):
     int_int = upsample(np.column_stack((eval(angle), eval(intensity))))
     int_int = int_int / int_int.max() * 100
 
+
+    n_dis =  ', '.join(map(str, np.linspace(10, 80, 3500)))
+    n_int =  ', '.join(map(str, int_int))
+    
     savedb.write(
         atoms=rruff_atoms,
-        angle=str(np.linspace(10, 80, 3501)),
-        intensity=str(int_int),
+        angle=n_dis,
+        intensity=n_int,
         RRUFFID=rruffid,
         mpid=mp_entry['mpid'],
         Label=int(mp_entry['Label'])

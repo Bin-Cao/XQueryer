@@ -32,8 +32,8 @@ class ASEDataset(Dataset):
                 row = db.get(adjusted_idx + 1)  # ASE db indexing starts from 1
                 if self.encode_element:
                     atoms = row.toatoms()
-                    element = atoms.get_chemical_symbols()
-                    #element = self.random_remove_elements(set(atoms.get_chemical_symbols()))
+                    #element = atoms.get_chemical_symbols()
+                    element = self.random_remove_elements(set(atoms.get_chemical_symbols()))
                     element_encode = self.symbol_to_atomic_number(element)
                     element_value = []
                     for code in element_encode:
