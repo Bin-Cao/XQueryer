@@ -38,5 +38,8 @@ The second matching type is motivated by the fact that RRUFF is a relatively sma
 * `matched_dict.pkl`:
   A Python dictionary storing all matched pairs for easier programmatic access.
 
+* `correct_ids.txt`:
+  The correct identified rruff data id.
+
 * `main.py`:
   The core matching script that performs the ID matching process and includes detailed logic for both strict and relaxed criteria.
