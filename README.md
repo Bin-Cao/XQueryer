@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-  <a href=""><img src="https://github.com/user-attachments/assets/09eaddef-a9a2-408a-897f-d2c355331c60" alt="Bgolearn" width="380"></a>
+  <a href=""><img src="https://github.com/user-attachments/assets/09eaddef-a9a2-408a-897f-d2c355331c60" alt="Bgolearn" width="300"></a>
   <br>
   XQueryer System
   <br>
@@ -11,10 +11,10 @@
 The Official Implementation of **An Integrated Software-Hardware Smart Structure Identification System in Powder X-ray Diffraction**
 
 
-[Video](https://www.youtube.com/watch?v=OYPoh7K5uM0) | [Benchmarks](https://github.com/WPEM/XqueryerBench) | [MRS Orial, Seattle USA](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/presentations/view/2025-mrs-spring-meeting/2025-mrs-spring-meeting-4205765) | Paper 
+[Website](https://xqueryer.caobin.asia/about) | [Video](https://www.youtube.com/watch?v=OYPoh7K5uM0) | [Benchmarks](https://github.com/WPEM/XqueryerBench) | [MRS Orial, Seattle USA](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/presentations/view/2025-mrs-spring-meeting/2025-mrs-spring-meeting-4205765) | Paper 
 
 
-Our system revolutionizes PXRD-based crystal identification with high-fidelity data synthesis and the state-of-the-art **XQueryer** model. Seamlessly integrating with diffractometers, it enables precise, AI-driven material discovery and extends to broader chemical applications.
+Our system revolutionizes PXRD-based crystal identification with high-fidelity data synthesis and the state-of-the-art **XQueryer** model. Seamlessly integrating with diffractometers, it enables precise, AI-driven material discovery and extends to broader chemical applications. (The paper is currently under peer review, and updates may be made during this time.)
 
 
 ## Overview
