@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-The Official Implementation of **An Integrated Software-Hardware Smart Structure Identification System in Powder X-ray Diffraction**
+The Official Implementation of **XQueryer: An Intelligent Crystal Structure Identifier for Powder X-ray Diffraction**
 
 
 [Website](https://xqueryer.caobin.asia/about) | [YouTube](https://www.youtube.com/watch?v=OYPoh7K5uM0) | [Benchmarks](https://github.com/WPEM/XqueryerBench) | [MRS Orial, Seattle USA](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/presentations/view/2025-mrs-spring-meeting/2025-mrs-spring-meeting-4205765) | Paper 
