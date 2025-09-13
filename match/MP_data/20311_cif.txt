@@ -1,0 +1,2 @@
+Cu16Eu6Sn8
+Atoms(symbols='Eu6Cu16Sn8', pbc=False)

@@ -1,0 +1,2 @@
+Cu40Zr28
+Atoms(symbols='Cu40Zr28', pbc=False)

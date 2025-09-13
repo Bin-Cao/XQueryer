@@ -1,0 +1,2 @@
+Cl12In2K4Li2
+Atoms(symbols='K2LiInCl6K2LiInCl6', pbc=False)

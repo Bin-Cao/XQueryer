@@ -1,0 +1,2 @@
+Na10O30P6V4
+Atoms(symbols='Na5V2P3O15Na5V2P3O15', pbc=False)

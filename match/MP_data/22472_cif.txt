@@ -1,0 +1,2 @@
+Fe15Li15O32Si
+Atoms(symbols='Fe15Li15O32Si', pbc=False)

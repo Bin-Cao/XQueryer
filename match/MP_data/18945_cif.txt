@@ -1,0 +1,2 @@
+Bi6Pr10
+Atoms(symbols='Pr10Bi6', pbc=False)

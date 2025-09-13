@@ -1,0 +1,2 @@
+O10Ti6
+Atoms(symbols='Ti6O10', pbc=False)

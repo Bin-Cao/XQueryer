@@ -1,0 +1,2 @@
+Co5Li7O12
+Atoms(symbols='Li7Co5O12', pbc=False)

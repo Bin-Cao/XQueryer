@@ -1,0 +1,2 @@
+F6NTa
+Atoms(symbols='TaNF6', pbc=False)

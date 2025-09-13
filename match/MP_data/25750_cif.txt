@@ -1,0 +1,2 @@
+Tb4Zn12
+Atoms(symbols='Tb4Zn12', pbc=False)

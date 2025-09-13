@@ -1,0 +1,2 @@
+Be12Ti
+Atoms(symbols='TiBe12', pbc=False)

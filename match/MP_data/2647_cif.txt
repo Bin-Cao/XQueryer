@@ -1,0 +1,2 @@
+B22Li12O44Rb10
+Atoms(symbols='B22Li12O44Rb10', pbc=False)

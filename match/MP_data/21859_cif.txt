@@ -1,0 +1,2 @@
+H35MoN4Na2O38V9
+Atoms(symbols='H35MoN4Na2O38V9', pbc=False)

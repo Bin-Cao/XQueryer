@@ -1,0 +1,2 @@
+AsHo
+Atoms(symbols='HoAs', pbc=False)

@@ -1,0 +1,2 @@
+Si2Zn6
+Atoms(symbols='Zn3SiZn3Si', pbc=False)

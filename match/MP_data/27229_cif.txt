@@ -1,0 +1,2 @@
+Cu8Na2O24Te4Tl6
+Atoms(symbols='NaTl3Cu4Te2O12NaTl3Cu4Te2O12', pbc=False)

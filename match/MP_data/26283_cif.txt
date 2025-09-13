@@ -1,0 +1,2 @@
+Mg149Ta
+Atoms(symbols='Mg149Ta', pbc=False)

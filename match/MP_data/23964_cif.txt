@@ -1,0 +1,2 @@
+Ag4Au4Dy8
+Atoms(symbols='Dy2AgAuDy2AgAuDy2AgAuDy2AgAu', pbc=False)

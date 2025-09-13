@@ -1,0 +1,2 @@
+Bi3Cr6Na3O18
+Atoms(symbols='NaCr2BiO6NaCr2BiO6NaCr2BiO6', pbc=False)

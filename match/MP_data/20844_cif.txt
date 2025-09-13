@@ -1,0 +1,2 @@
+Mg2O8Re2
+Atoms(symbols='MgReO4MgReO4', pbc=False)

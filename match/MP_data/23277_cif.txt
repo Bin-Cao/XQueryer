@@ -1,0 +1,2 @@
+O44Pr4Se16
+Atoms(symbols='O44Pr4Se16', pbc=False)

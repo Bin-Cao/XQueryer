@@ -1,0 +1,2 @@
+Ag3In3Se6
+Atoms(symbols='InAgSe2InAgSe2InAgSe2', pbc=False)

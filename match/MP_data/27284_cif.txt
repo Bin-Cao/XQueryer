@@ -1,0 +1,2 @@
+F2Ho8Na10O32Si8
+Atoms(symbols='Na5Ho4Si4O16FNa5Ho4Si4O16F', pbc=False)

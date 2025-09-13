@@ -1,0 +1,2 @@
+Ga12Hf8
+Atoms(symbols='Hf4Ga6Hf4Ga6', pbc=False)

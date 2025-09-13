@@ -1,0 +1,2 @@
+Mg15W
+Atoms(symbols='Mg15W', pbc=False)

@@ -1,0 +1,2 @@
+K8Ni12Se16
+Atoms(symbols='K4Ni6Se8K4Ni6Se8', pbc=False)

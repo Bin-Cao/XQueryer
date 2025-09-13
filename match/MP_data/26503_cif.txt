@@ -1,0 +1,2 @@
+B16Er4Mo4
+Atoms(symbols='Er4B16Mo4', pbc=False)

@@ -1,0 +1,2 @@
+H16N6O30Sm2
+Atoms(symbols='Sm2H16N6O30', pbc=False)

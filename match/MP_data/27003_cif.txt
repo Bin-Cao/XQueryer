@@ -1,0 +1,2 @@
+F18Na6Pt3
+Atoms(symbols='Na6Pt3F18', pbc=False)

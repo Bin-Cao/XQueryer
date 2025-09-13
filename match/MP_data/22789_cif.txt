@@ -1,0 +1,2 @@
+Mo4NiO15
+Atoms(symbols='NiMo4O15', pbc=False)

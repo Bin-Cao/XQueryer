@@ -1,0 +1,2 @@
+B2Li6
+Atoms(symbols='Li3BLi3B', pbc=False)

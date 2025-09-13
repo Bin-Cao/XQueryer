@@ -1,0 +1,2 @@
+Rh5Y
+Atoms(symbols='YRh5', pbc=False)

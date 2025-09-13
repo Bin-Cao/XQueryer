@@ -1,0 +1,2 @@
+H2CuO12Se4Sr2
+Atoms(symbols='Sr2CuH2Se4O12', pbc=False)

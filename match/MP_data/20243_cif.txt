@@ -1,0 +1,2 @@
+B4O12Sm4
+Atoms(symbols='Sm4B4O12', pbc=False)

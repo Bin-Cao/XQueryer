@@ -1,0 +1,2 @@
+CuFLiO
+Atoms(symbols='LiCuOF', pbc=False)

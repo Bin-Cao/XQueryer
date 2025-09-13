@@ -1,0 +1,2 @@
+La6Na6O60Sr8Ti20
+Atoms(symbols='La6Na6O60Sr8Ti20', pbc=False)

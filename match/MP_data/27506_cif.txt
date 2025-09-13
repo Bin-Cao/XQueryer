@@ -1,0 +1,2 @@
+Cl4Mg2O20
+Atoms(symbols='Mg2Cl4O20', pbc=False)

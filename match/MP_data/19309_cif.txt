@@ -1,0 +1,2 @@
+Cs12Fe4O10
+Atoms(symbols='Cs6Fe2O5Cs6Fe2O5', pbc=False)

@@ -1,0 +1,2 @@
+Co3Ni2O16Te3
+Atoms(symbols='Co3Ni2Te3O16', pbc=False)

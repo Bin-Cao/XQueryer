@@ -1,0 +1,2 @@
+Dy20Rh12
+Atoms(symbols='Dy10Rh6Dy10Rh6', pbc=False)

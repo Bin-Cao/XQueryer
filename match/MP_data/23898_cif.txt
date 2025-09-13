@@ -1,0 +1,2 @@
+Co6Te2
+Atoms(symbols='Co3TeCo3Te', pbc=False)

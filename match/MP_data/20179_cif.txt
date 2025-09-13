@@ -1,0 +1,2 @@
+Fe6O36Ta12
+Atoms(symbols='Ta12Fe6O36', pbc=False)

@@ -1,0 +1,2 @@
+CoMg15
+Atoms(symbols='Mg15Co', pbc=False)

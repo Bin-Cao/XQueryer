@@ -1,0 +1,2 @@
+Ca2Dy6
+Atoms(symbols='CaDy3CaDy3', pbc=False)

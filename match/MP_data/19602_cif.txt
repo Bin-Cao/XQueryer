@@ -1,0 +1,2 @@
+HfTc
+Atoms(symbols='HfTc', pbc=False)

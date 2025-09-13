@@ -1,0 +1,2 @@
+In10Mg2
+Atoms(symbols='MgIn5MgIn5', pbc=False)

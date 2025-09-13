@@ -1,0 +1,2 @@
+Ge16Pr8Pt8
+Atoms(symbols='Pr4Ge8Pt4Pr4Ge8Pt4', pbc=False)

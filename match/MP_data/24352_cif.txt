@@ -1,0 +1,2 @@
+H2In2
+Atoms(symbols='In2H2', pbc=False)

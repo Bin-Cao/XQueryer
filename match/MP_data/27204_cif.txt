@@ -1,0 +1,2 @@
+B36O21Sr3
+Atoms(symbols='SrB12O7SrB12O7SrB12O7', pbc=False)

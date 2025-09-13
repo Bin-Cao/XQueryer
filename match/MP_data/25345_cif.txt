@@ -1,0 +1,2 @@
+In8Pt16U16
+Atoms(symbols='U8In4Pt8U8In4Pt8', pbc=False)

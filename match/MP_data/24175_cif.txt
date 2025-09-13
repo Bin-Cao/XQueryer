@@ -1,0 +1,2 @@
+O72Sr24Te24
+Atoms(symbols='O72Sr24Te24', pbc=False)

@@ -1,0 +1,2 @@
+Eu4Ga4Ge2S14
+Atoms(symbols='Eu4Ga4Ge2S14', pbc=False)

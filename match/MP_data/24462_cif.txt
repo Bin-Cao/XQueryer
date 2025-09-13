@@ -1,0 +1,2 @@
+AlI2NO15
+Atoms(symbols='AlI2NO15', pbc=False)

@@ -1,0 +1,2 @@
+Bi24V32
+Atoms(symbols='V16Bi12V16Bi12', pbc=False)

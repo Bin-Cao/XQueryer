@@ -1,0 +1,2 @@
+La27Pt18
+Atoms(symbols='La9Pt6La9Pt6La9Pt6', pbc=False)

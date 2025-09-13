@@ -1,0 +1,2 @@
+Co20Ga8Sm8
+Atoms(symbols='Sm4Ga4Co10Sm4Ga4Co10', pbc=False)

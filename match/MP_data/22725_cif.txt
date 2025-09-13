@@ -1,0 +1,2 @@
+Br4Mg2O12
+Atoms(symbols='MgBr2O6MgBr2O6', pbc=False)

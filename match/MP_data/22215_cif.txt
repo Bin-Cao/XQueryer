@@ -1,0 +1,2 @@
+H6Fe3Li6O30P6V3
+Atoms(symbols='Li6V3Fe3P6H6O30', pbc=False)

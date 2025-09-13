@@ -1,0 +1,2 @@
+CaMn7O12
+Atoms(symbols='CaMn7O12', pbc=False)

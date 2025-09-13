@@ -1,0 +1,2 @@
+Al22Mg34Tl2
+Atoms(symbols='Mg17Al11TlMg17Al11Tl', pbc=False)

@@ -1,0 +1,2 @@
+Ag6Cr2
+Atoms(symbols='CrAg3CrAg3', pbc=False)

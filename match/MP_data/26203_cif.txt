@@ -1,0 +1,2 @@
+HMg149
+Atoms(symbols='HMg149', pbc=False)

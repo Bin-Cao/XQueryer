@@ -1,0 +1,2 @@
+In18Ni8Tb22
+Atoms(symbols='Tb11In9Ni4Tb11In9Ni4', pbc=False)

@@ -1,0 +1,2 @@
+C16Ba4O38Zr2
+Atoms(symbols='Ba4Zr2C16O38', pbc=False)

@@ -1,0 +1,2 @@
+La2O19Th8
+Atoms(symbols='La2Th8O19', pbc=False)

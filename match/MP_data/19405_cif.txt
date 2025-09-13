@@ -1,0 +1,2 @@
+Sm12Tl20
+Atoms(symbols='Sm6Tl10Sm6Tl10', pbc=False)

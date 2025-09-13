@@ -1,0 +1,2 @@
+Li32N8Te4
+Atoms(symbols='Li16Te2N4Li16Te2N4', pbc=False)

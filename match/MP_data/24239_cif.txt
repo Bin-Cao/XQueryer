@@ -1,0 +1,2 @@
+H2Ir2
+Atoms(symbols='H2Ir2', pbc=False)

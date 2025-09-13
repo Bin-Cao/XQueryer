@@ -1,0 +1,2 @@
+Er4O10Pa4
+Atoms(symbols='Er2Pa2O5Er2Pa2O5', pbc=False)

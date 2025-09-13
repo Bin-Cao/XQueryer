@@ -1,0 +1,2 @@
+H40Eu8Mg12
+Atoms(symbols='Eu4Mg6H20Eu4Mg6H20', pbc=False)

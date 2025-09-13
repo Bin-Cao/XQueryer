@@ -1,0 +1,2 @@
+CeLiMg6
+Atoms(symbols='LiCeMg6', pbc=False)

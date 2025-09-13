@@ -1,0 +1,2 @@
+Ac2Pm6
+Atoms(symbols='Ac2Pm6', pbc=False)

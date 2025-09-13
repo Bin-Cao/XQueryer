@@ -1,0 +1,2 @@
+BaPm
+Atoms(symbols='BaPm', pbc=False)

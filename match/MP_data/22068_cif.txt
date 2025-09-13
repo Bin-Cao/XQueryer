@@ -1,0 +1,2 @@
+Br2O6Tl2
+Atoms(symbols='TlBrO3TlBrO3', pbc=False)

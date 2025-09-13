@@ -1,0 +1,2 @@
+Bi3Li3O18Ti6
+Atoms(symbols='LiTi2BiO6LiTi2BiO6LiTi2BiO6', pbc=False)

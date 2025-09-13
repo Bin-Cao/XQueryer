@@ -1,0 +1,2 @@
+Au30Mn6Y18
+Atoms(symbols='Y6Mn2Au10Y6Mn2Au10Y6Mn2Au10', pbc=False)

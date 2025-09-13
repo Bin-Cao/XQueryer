@@ -1,0 +1,2 @@
+In9
+Atoms(symbols='In9', pbc=False)

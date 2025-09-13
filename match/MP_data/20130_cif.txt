@@ -1,0 +1,2 @@
+Co21W18
+Atoms(symbols='Co7W6Co7W6Co7W6', pbc=False)

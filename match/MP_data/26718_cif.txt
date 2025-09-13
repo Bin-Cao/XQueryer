@@ -1,0 +1,2 @@
+S27Tl54
+Atoms(symbols='S27Tl54', pbc=False)

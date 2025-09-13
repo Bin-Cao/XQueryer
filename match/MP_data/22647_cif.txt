@@ -1,0 +1,2 @@
+I40N16O16Pt8
+Atoms(symbols='I40N16O16Pt8', pbc=False)

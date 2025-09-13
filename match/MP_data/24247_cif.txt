@@ -1,0 +1,2 @@
+Cu6Hf2
+Atoms(symbols='HfCu3HfCu3', pbc=False)

@@ -1,0 +1,2 @@
+Bi3Mn6Na3O18
+Atoms(symbols='NaMn2BiO6NaMn2BiO6NaMn2BiO6', pbc=False)

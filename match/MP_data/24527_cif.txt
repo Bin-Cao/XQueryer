@@ -1,0 +1,2 @@
+Au12Cl48N12O8
+Atoms(symbols='Au12Cl48N12O8', pbc=False)

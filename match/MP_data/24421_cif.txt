@@ -1,0 +1,2 @@
+H20Cd4Cs12
+Atoms(symbols='Cs6Cd2H10Cs6Cd2H10', pbc=False)

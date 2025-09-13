@@ -1,0 +1,2 @@
+As2MgMn2O18Pb2
+Atoms(symbols='MgMn2As2Pb2O18', pbc=False)

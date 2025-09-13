@@ -1,0 +1,2 @@
+Na4O4
+Atoms(symbols='Na4O4', pbc=False)

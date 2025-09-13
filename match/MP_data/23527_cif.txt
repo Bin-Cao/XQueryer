@@ -1,0 +1,2 @@
+Cl20Ir4N20Pt4
+Atoms(symbols='Ir4Pt4N20Cl20', pbc=False)

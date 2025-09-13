@@ -1,0 +1,2 @@
+Cs2Mg12Y2
+Atoms(symbols='CsYMg6CsYMg6', pbc=False)

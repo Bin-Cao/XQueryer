@@ -1,0 +1,2 @@
+H2K6O2S8W2
+Atoms(symbols='K6H2W2S8O2', pbc=False)

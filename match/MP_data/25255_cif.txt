@@ -1,0 +1,2 @@
+Mo16N12O62
+Atoms(symbols='Mo16N12O62', pbc=False)

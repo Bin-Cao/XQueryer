@@ -1,0 +1,2 @@
+Cl12Mo4Nd20O92Te28
+Atoms(symbols='Cl12Mo4Nd20O92Te28', pbc=False)

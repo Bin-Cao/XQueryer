@@ -1,0 +1,2 @@
+Ir18La27
+Atoms(symbols='La9Ir6La9Ir6La9Ir6', pbc=False)

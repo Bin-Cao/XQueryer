@@ -1,0 +1,2 @@
+F38Fe6Sr10
+Atoms(symbols='Sr10Fe6F38', pbc=False)

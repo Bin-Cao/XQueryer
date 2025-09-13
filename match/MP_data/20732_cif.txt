@@ -1,0 +1,2 @@
+Nb4Si2Te8
+Atoms(symbols='Nb4Si2Te8', pbc=False)

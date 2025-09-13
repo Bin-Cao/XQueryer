@@ -1,0 +1,2 @@
+P4Se12Sm2Tl2
+Atoms(symbols='Sm2Tl2P4Se12', pbc=False)

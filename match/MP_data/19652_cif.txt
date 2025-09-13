@@ -1,0 +1,2 @@
+HgPr
+Atoms(symbols='PrHg', pbc=False)

@@ -1,0 +1,2 @@
+CuDy2O14S2Te2
+Atoms(symbols='Dy2CuTe2S2O14', pbc=False)

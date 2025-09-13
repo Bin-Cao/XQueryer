@@ -1,0 +1,2 @@
+H24Al2La4Ni18
+Atoms(symbols='La2AlNi9H12La2AlNi9H12', pbc=False)

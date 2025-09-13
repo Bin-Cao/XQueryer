@@ -1,0 +1,2 @@
+Au12Nd6Sn10
+Atoms(symbols='Nd6Sn10Au12', pbc=False)

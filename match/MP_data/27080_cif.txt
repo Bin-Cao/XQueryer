@@ -1,0 +1,2 @@
+B28Er12W4
+Atoms(symbols='Er6B14W2Er6B14W2', pbc=False)

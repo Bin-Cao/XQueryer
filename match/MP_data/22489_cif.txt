@@ -1,0 +1,2 @@
+F20In6Rb2
+Atoms(symbols='Rb2In6F20', pbc=False)

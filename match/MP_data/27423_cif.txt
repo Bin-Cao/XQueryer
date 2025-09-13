@@ -1,0 +1,2 @@
+N4O18Pb4Se2
+Atoms(symbols='Pb4Se2N4O18', pbc=False)

@@ -1,0 +1,2 @@
+Pr28Pt12
+Atoms(symbols='Pr14Pt6Pr14Pt6', pbc=False)

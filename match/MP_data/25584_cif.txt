@@ -1,0 +1,2 @@
+Au8Er20Sb4
+Atoms(symbols='Er10Sb2Au4Er10Sb2Au4', pbc=False)

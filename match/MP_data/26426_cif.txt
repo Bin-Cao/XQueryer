@@ -1,0 +1,2 @@
+Ag12Cs4Tb8Te20
+Atoms(symbols='Cs2Tb4Ag6Te10Cs2Tb4Ag6Te10', pbc=False)

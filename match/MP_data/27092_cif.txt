@@ -1,0 +1,2 @@
+H2F8Mn2Na4O6P2
+Atoms(symbols='Na4Mn2P2H2O6F8', pbc=False)

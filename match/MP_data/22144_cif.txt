@@ -1,0 +1,2 @@
+F22Fe5Li11O2
+Atoms(symbols='Li11Fe5O2F22', pbc=False)

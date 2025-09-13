@@ -1,0 +1,2 @@
+K60
+Atoms(symbols='K60', pbc=False)

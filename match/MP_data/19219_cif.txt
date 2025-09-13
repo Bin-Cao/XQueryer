@@ -1,0 +1,2 @@
+Ir2Mg2Nd4O12
+Atoms(symbols='Nd4Mg2Ir2O12', pbc=False)

@@ -1,0 +1,2 @@
+F19Fe10O
+Atoms(symbols='Fe10OF19', pbc=False)

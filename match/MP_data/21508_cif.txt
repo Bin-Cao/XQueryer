@@ -1,0 +1,2 @@
+Co6Li15Mn3O24
+Atoms(symbols='Li5MnCo2O8Li5MnCo2O8Li5MnCo2O8', pbc=False)

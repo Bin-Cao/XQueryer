@@ -1,0 +1,2 @@
+F24Ni4O12U4
+Atoms(symbols='U2Ni2O6F12U2Ni2O6F12', pbc=False)

@@ -1,0 +1,2 @@
+Er2Mn12P7
+Atoms(symbols='Er2Mn12P7', pbc=False)

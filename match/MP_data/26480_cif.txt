@@ -1,0 +1,2 @@
+Bi16Se18
+Atoms(symbols='Bi8Se9Bi8Se9', pbc=False)

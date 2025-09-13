@@ -1,0 +1,2 @@
+HgTl
+Atoms(symbols='TlHg', pbc=False)

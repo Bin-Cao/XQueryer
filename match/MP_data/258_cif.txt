@@ -1,0 +1,2 @@
+CB2N
+Atoms(symbols='B2CN', pbc=False)

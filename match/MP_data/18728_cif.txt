@@ -1,0 +1,2 @@
+H2As2F14Hg
+Atoms(symbols='HgAs2H2F14', pbc=False)

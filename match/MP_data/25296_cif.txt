@@ -1,0 +1,2 @@
+TiU
+Atoms(symbols='UTi', pbc=False)

@@ -1,0 +1,2 @@
+C20I4O20Tc4
+Atoms(symbols='Tc2C10I2O10Tc2C10I2O10', pbc=False)

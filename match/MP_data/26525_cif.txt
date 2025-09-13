@@ -1,0 +1,2 @@
+Al16Cd4O28
+Atoms(symbols='Al8Cd2O14Al8Cd2O14', pbc=False)

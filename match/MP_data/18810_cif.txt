@@ -1,0 +1,2 @@
+Li6N6U3
+Atoms(symbols='Li6U3N6', pbc=False)

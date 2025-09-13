@@ -1,0 +1,2 @@
+I36Ni3Tb21
+Atoms(symbols='Tb7NiI12Tb7NiI12Tb7NiI12', pbc=False)

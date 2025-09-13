@@ -1,0 +1,2 @@
+H8O16P4Tl2Zn
+Atoms(symbols='Tl2ZnP4H8O16', pbc=False)

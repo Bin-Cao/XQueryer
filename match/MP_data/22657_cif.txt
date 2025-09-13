@@ -1,0 +1,2 @@
+O20Si4Y8
+Atoms(symbols='Y8Si4O20', pbc=False)

@@ -1,0 +1,2 @@
+AlDy
+Atoms(symbols='DyAl', pbc=False)

@@ -1,0 +1,2 @@
+O28Ru4Tb12
+Atoms(symbols='Tb6Ru2O14Tb6Ru2O14', pbc=False)

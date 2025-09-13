@@ -1,0 +1,2 @@
+La8O64S12
+Atoms(symbols='La8O64S12', pbc=False)

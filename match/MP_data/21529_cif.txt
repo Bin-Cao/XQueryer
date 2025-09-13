@@ -1,0 +1,2 @@
+Cs12Ga4O12
+Atoms(symbols='Cs6Ga2O6Cs6Ga2O6', pbc=False)

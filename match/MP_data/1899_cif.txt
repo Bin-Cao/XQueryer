@@ -1,0 +1,2 @@
+Cu2HoS2
+Atoms(symbols='HoCu2S2', pbc=False)

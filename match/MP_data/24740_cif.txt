@@ -1,0 +1,2 @@
+Co2Mo12O68
+Atoms(symbols='Co2Mo12O68', pbc=False)

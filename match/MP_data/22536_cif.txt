@@ -1,0 +1,2 @@
+Cr6Li30O72Si24
+Atoms(symbols='Cr6Li30O72Si24', pbc=False)

@@ -1,0 +1,2 @@
+C16Cl16N8Si8Ti4
+Atoms(symbols='Ti4Si8C16N8Cl16', pbc=False)

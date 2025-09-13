@@ -1,0 +1,2 @@
+O16Si4Zn8
+Atoms(symbols='Zn8Si4O16', pbc=False)

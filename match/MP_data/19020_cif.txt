@@ -1,0 +1,2 @@
+Bi16I6Pt10
+Atoms(symbols='Bi8Pt5I3Bi8Pt5I3', pbc=False)

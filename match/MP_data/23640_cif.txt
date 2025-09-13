@@ -1,0 +1,2 @@
+Ga4O18Te6
+Atoms(symbols='Ga4Te6O18', pbc=False)

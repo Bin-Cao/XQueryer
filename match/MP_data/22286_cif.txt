@@ -1,0 +1,2 @@
+CrCu3Se4Sr
+Atoms(symbols='SrCrCu3Se4', pbc=False)

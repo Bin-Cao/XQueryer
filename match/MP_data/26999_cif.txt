@@ -1,0 +1,2 @@
+C32Ir16
+Atoms(symbols='Ir8C16Ir8C16', pbc=False)

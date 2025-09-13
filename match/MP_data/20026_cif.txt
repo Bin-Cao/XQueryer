@@ -1,0 +1,2 @@
+AgI6K2Sc
+Atoms(symbols='K2ScAgI6', pbc=False)

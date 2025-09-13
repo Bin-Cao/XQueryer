@@ -1,0 +1,2 @@
+Ga12La14Mg4O43Sr2
+Atoms(symbols='Ga12La14Mg4O43Sr2', pbc=False)

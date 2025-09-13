@@ -1,0 +1,2 @@
+Ge8Ti24
+Atoms(symbols='Ti12Ge4Ti12Ge4', pbc=False)

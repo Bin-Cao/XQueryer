@@ -1,0 +1,2 @@
+CNa4O4
+Atoms(symbols='Na4CO4', pbc=False)

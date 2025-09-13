@@ -1,0 +1,2 @@
+C8CoLiN8O12
+Atoms(symbols='LiCoC8N8O12', pbc=False)

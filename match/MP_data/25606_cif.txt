@@ -1,0 +1,2 @@
+Fe12S4
+Atoms(symbols='Fe12S4', pbc=False)

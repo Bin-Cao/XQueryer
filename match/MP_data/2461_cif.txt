@@ -1,0 +1,2 @@
+Rb2Te32Zr24
+Atoms(symbols='Rb2Zr24Te32', pbc=False)

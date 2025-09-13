@@ -1,0 +1,2 @@
+Bi16Hf8
+Atoms(symbols='Hf8Bi16', pbc=False)

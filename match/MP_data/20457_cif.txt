@@ -1,0 +1,2 @@
+BaINiO6
+Atoms(symbols='BaNiIO6', pbc=False)

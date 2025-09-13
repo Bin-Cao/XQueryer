@@ -1,0 +1,2 @@
+Nd2O8Pa2
+Atoms(symbols='Nd2Pa2O8', pbc=False)

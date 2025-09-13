@@ -1,0 +1,2 @@
+Be6Si2
+Atoms(symbols='Be3SiBe3Si', pbc=False)

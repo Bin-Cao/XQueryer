@@ -1,0 +1,2 @@
+Pd24Ti8
+Atoms(symbols='Ti4Pd12Ti4Pd12', pbc=False)

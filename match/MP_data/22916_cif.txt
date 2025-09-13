@@ -1,0 +1,2 @@
+Cl10O4Zn4
+Atoms(symbols='Zn4Cl10O4', pbc=False)

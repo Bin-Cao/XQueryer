@@ -1,0 +1,2 @@
+H36Fe6Mg4Na2O52P8
+Atoms(symbols='H36Fe6Mg4Na2O52P8', pbc=False)

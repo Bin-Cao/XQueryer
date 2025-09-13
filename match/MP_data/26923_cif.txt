@@ -1,0 +1,2 @@
+As4CdO16
+Atoms(symbols='CdAs4O16', pbc=False)

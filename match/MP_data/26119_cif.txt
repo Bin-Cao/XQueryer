@@ -1,0 +1,2 @@
+C3Cl9Hg3N3
+Atoms(symbols='Hg3C3N3Cl9', pbc=False)

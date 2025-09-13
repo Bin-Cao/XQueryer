@@ -1,0 +1,2 @@
+As6W4
+Atoms(symbols='As6W4', pbc=False)

@@ -1,0 +1,2 @@
+Hf8Mo16
+Atoms(symbols='Hf8Mo16', pbc=False)

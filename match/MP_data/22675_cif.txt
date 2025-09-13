@@ -1,0 +1,2 @@
+Cl24Mn8N8
+Atoms(symbols='Mn4N4Cl12Mn4N4Cl12', pbc=False)

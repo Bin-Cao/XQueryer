@@ -1,0 +1,2 @@
+Fe6Li8Mn4O32Sn6
+Atoms(symbols='Li4Mn2Fe3Sn3O16Li4Mn2Fe3Sn3O16', pbc=False)

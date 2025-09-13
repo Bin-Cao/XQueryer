@@ -1,0 +1,2 @@
+LuNi5
+Atoms(symbols='LuNi5', pbc=False)

@@ -1,0 +1,2 @@
+CH6Cl3NPb
+Atoms(symbols='H6PbCNCl3', pbc=False)

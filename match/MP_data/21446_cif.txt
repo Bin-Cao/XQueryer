@@ -1,0 +1,2 @@
+Gd12Li36O36
+Atoms(symbols='Gd12Li36O36', pbc=False)

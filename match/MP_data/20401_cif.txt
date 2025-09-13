@@ -1,0 +1,2 @@
+La10Sb6
+Atoms(symbols='La10Sb6', pbc=False)

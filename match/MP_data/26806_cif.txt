@@ -1,0 +1,2 @@
+CoHo2O14S2Te2
+Atoms(symbols='Ho2CoTe2S2O14', pbc=False)

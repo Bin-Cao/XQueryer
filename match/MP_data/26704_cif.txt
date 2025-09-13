@@ -1,0 +1,2 @@
+Co2Ga2S14Sm6
+Atoms(symbols='Sm6Ga2Co2S14', pbc=False)

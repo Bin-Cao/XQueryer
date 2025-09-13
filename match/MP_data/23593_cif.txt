@@ -1,0 +1,2 @@
+H24Cr2F12N6O6
+Atoms(symbols='Cr2H24N6O6F12', pbc=False)

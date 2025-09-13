@@ -1,0 +1,2 @@
+CsCu3Se4V
+Atoms(symbols='CsVCu3Se4', pbc=False)

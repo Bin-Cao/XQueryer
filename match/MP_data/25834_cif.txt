@@ -1,0 +1,2 @@
+B8Co8Dy2
+Atoms(symbols='Dy2Co8B8', pbc=False)

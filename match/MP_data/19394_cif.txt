@@ -1,0 +1,2 @@
+AlSm
+Atoms(symbols='SmAl', pbc=False)

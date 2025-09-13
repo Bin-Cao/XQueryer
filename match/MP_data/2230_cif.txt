@@ -1,0 +1,2 @@
+Mg3N6Si3
+Atoms(symbols='MgSiN2MgSiN2MgSiN2', pbc=False)

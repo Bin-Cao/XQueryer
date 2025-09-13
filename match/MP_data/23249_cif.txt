@@ -1,0 +1,2 @@
+B20Na8O44
+Atoms(symbols='B20Na8O44', pbc=False)

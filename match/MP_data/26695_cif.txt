@@ -1,0 +1,2 @@
+CuO14S2Te2Y2
+Atoms(symbols='Y2CuTe2S2O14', pbc=False)

@@ -1,0 +1,2 @@
+Cs20O16Y4
+Atoms(symbols='Cs20Y4O16', pbc=False)

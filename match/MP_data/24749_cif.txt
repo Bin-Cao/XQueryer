@@ -1,0 +1,2 @@
+Nd6Pa2
+Atoms(symbols='Nd3PaNd3Pa', pbc=False)

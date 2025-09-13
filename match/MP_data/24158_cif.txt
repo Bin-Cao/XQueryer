@@ -1,0 +1,2 @@
+CoMo6Na3O32
+Atoms(symbols='Na3CoMo6O32', pbc=False)

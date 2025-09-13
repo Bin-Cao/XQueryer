@@ -1,0 +1,2 @@
+C4K24O116W16
+Atoms(symbols='C4K24O116W16', pbc=False)

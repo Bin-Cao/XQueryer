@@ -1,0 +1,2 @@
+CoLi5Ni9O20
+Atoms(symbols='Li5CoNi9O20', pbc=False)

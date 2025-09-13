@@ -1,0 +1,2 @@
+Cl6O12Sm2
+Atoms(symbols='Sm2Cl6O12', pbc=False)

@@ -1,0 +1,2 @@
+H16Cl4Co2O16Se4
+Atoms(symbols='Co2H16Se4Cl4O16', pbc=False)

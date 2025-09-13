@@ -1,0 +1,2 @@
+BaSe32Sn32
+Atoms(symbols='BaSe32Sn32', pbc=False)

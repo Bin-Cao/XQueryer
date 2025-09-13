@@ -1,0 +1,2 @@
+LiO
+Atoms(symbols='LiO', pbc=False)

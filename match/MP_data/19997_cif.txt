@@ -1,0 +1,2 @@
+P4W2
+Atoms(symbols='P4W2', pbc=False)

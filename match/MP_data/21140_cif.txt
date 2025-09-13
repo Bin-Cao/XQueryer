@@ -1,0 +1,2 @@
+Ge13Sb13Te32
+Atoms(symbols='Ge13Sb13Te32', pbc=False)

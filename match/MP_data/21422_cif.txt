@@ -1,0 +1,2 @@
+H16Ga8Na8O48Si12
+Atoms(symbols='H16Ga8Na8O48Si12', pbc=False)

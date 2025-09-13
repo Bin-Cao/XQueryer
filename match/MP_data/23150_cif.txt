@@ -1,0 +1,2 @@
+O60Si40
+Atoms(symbols='O60Si40', pbc=False)

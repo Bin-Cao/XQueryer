@@ -1,0 +1,2 @@
+C2H4O12P4Pr2
+Atoms(symbols='Pr2P4H4C2O12', pbc=False)

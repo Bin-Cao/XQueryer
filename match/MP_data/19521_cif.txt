@@ -1,0 +1,2 @@
+GaIr
+Atoms(symbols='GaIr', pbc=False)

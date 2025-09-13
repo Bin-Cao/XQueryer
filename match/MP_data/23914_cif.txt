@@ -1,0 +1,2 @@
+AgI
+Atoms(symbols='AgI', pbc=False)

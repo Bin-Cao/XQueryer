@@ -1,0 +1,2 @@
+K5O45W15
+Atoms(symbols='K5O45W15', pbc=False)

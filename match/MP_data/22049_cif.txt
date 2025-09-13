@@ -1,0 +1,2 @@
+O8Y4
+Atoms(symbols='Y2O4Y2O4', pbc=False)

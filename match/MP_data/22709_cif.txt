@@ -1,0 +1,2 @@
+O84P24U8
+Atoms(symbols='O84P24U8', pbc=False)

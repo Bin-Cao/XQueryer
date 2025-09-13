@@ -1,0 +1,2 @@
+Co14Li18O32
+Atoms(symbols='Co14Li18O32', pbc=False)

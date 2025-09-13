@@ -1,0 +1,2 @@
+Al4K4N16
+Atoms(symbols='K4Al4N16', pbc=False)

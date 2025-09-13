@@ -1,0 +1,2 @@
+Mg3Tb15
+Atoms(symbols='Tb5MgTb5MgTb5Mg', pbc=False)

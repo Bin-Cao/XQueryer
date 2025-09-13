@@ -1,0 +1,2 @@
+H40Ni4O40Se8
+Atoms(symbols='H40Ni4O40Se8', pbc=False)

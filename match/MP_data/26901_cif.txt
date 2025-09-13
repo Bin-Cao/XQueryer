@@ -1,0 +1,2 @@
+Co16Nb8
+Atoms(symbols='Nb8Co16', pbc=False)

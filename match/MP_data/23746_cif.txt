@@ -1,0 +1,2 @@
+Ag8Ca4Sm4
+Atoms(symbols='CaSmAg2CaSmAg2CaSmAg2CaSmAg2', pbc=False)

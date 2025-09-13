@@ -1,0 +1,2 @@
+I66La10Sr18
+Atoms(symbols='I66La10Sr18', pbc=False)

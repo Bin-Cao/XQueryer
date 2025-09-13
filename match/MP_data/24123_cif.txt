@@ -1,0 +1,2 @@
+Li2Ni6
+Atoms(symbols='LiNi3LiNi3', pbc=False)

@@ -1,0 +1,2 @@
+H16O24Sr4
+Atoms(symbols='Sr2H8O12Sr2H8O12', pbc=False)

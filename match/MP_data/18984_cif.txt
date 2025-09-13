@@ -1,0 +1,2 @@
+Cl6O6Re2
+Atoms(symbols='Re2Cl6O6', pbc=False)

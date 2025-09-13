@@ -1,0 +1,2 @@
+Ho4O4Te2
+Atoms(symbols='Ho2TeO2Ho2TeO2', pbc=False)

@@ -1,0 +1,2 @@
+Dy10Mo4O24
+Atoms(symbols='Dy5Mo2O12Dy5Mo2O12', pbc=False)

@@ -1,0 +1,2 @@
+Cl6NiO6Sn
+Atoms(symbols='NiSnCl6O6', pbc=False)

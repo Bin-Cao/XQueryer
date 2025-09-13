@@ -1,0 +1,2 @@
+B18Fe9Nd12
+Atoms(symbols='Nd4Fe3B6Nd4Fe3B6Nd4Fe3B6', pbc=False)

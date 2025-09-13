@@ -1,0 +1,2 @@
+Cu4S4
+Atoms(symbols='CuSCuSCuSCuS', pbc=False)

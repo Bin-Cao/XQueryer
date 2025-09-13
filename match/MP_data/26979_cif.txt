@@ -1,0 +1,2 @@
+Cu2K4O14P4
+Atoms(symbols='K4Cu2P4O14', pbc=False)

@@ -1,0 +1,2 @@
+Hg22MgN6
+Atoms(symbols='MgHg22N6', pbc=False)

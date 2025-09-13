@@ -1,0 +1,2 @@
+CuF6K2Ta
+Atoms(symbols='K2TaCuF6', pbc=False)

@@ -1,0 +1,2 @@
+Co2I2S2
+Atoms(symbols='CoSICoSI', pbc=False)

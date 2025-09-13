@@ -1,0 +1,2 @@
+Fe6O34Ru3Sr18
+Atoms(symbols='Fe6O34Ru3Sr18', pbc=False)

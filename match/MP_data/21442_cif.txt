@@ -1,0 +1,2 @@
+Cu2Ho2O4
+Atoms(symbols='Ho2Cu2O4', pbc=False)

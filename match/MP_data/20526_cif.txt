@@ -1,0 +1,2 @@
+Cl72La4Sr30
+Atoms(symbols='Cl72La4Sr30', pbc=False)

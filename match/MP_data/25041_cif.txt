@@ -1,0 +1,2 @@
+ReZn
+Atoms(symbols='ZnRe', pbc=False)

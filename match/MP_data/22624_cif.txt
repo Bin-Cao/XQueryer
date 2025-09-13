@@ -1,0 +1,2 @@
+As4O20Zr3
+Atoms(symbols='Zr3As4O20', pbc=False)

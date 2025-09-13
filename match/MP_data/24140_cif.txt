@@ -1,0 +1,2 @@
+Cu2Pb6
+Atoms(symbols='CuPb3CuPb3', pbc=False)

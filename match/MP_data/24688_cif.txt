@@ -1,0 +1,2 @@
+Br6K2
+Atoms(symbols='K2Br6', pbc=False)

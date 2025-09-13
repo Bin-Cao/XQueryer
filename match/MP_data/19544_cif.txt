@@ -1,0 +1,2 @@
+Cl12Li20O4
+Atoms(symbols='Li10Cl6O2Li10Cl6O2', pbc=False)

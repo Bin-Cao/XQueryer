@@ -1,0 +1,2 @@
+LiPt
+Atoms(symbols='LiPt', pbc=False)

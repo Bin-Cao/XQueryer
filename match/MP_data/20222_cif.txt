@@ -1,0 +1,2 @@
+Cs20N40Os20
+Atoms(symbols='Cs20N40Os20', pbc=False)

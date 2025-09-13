@@ -1,0 +1,2 @@
+Mg149Sb
+Atoms(symbols='Mg149Sb', pbc=False)

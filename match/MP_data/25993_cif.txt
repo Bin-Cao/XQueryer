@@ -1,0 +1,2 @@
+H24N6Nb2O16
+Atoms(symbols='NbH12N3O8NbH12N3O8', pbc=False)

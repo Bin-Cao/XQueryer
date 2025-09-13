@@ -1,0 +1,2 @@
+O52Si24
+Atoms(symbols='O52Si24', pbc=False)

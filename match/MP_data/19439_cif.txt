@@ -1,0 +1,2 @@
+AuY
+Atoms(symbols='YAu', pbc=False)

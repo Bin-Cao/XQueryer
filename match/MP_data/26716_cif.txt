@@ -1,0 +1,2 @@
+Ge20Li16Pr14
+Atoms(symbols='Li8Pr7Ge10Li8Pr7Ge10', pbc=False)

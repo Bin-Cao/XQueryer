@@ -1,0 +1,2 @@
+Br2Fe2N6O6
+Atoms(symbols='Fe2Br2N6O6', pbc=False)

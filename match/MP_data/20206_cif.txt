@@ -1,0 +1,2 @@
+Ge4Li20P12
+Atoms(symbols='Li10Ge2P6Li10Ge2P6', pbc=False)

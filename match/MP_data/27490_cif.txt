@@ -1,0 +1,2 @@
+C7K5MoN7O
+Atoms(symbols='K5MoC7N7O', pbc=False)

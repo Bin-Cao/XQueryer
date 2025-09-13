@@ -1,0 +1,2 @@
+H40Al8Ca8
+Atoms(symbols='Ca8Al8H40', pbc=False)

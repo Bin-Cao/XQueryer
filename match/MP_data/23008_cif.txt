@@ -1,0 +1,2 @@
+H40O60Si40
+Atoms(symbols='H40O60Si40', pbc=False)

@@ -1,0 +1,2 @@
+LuNd3
+Atoms(symbols='Nd3Lu', pbc=False)

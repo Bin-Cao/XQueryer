@@ -1,0 +1,2 @@
+H48Cu2Mn6Na2O48S8
+Atoms(symbols='H48Cu2Mn6Na2O48S8', pbc=False)

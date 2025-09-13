@@ -1,0 +1,2 @@
+H32Co2N8O22P6
+Atoms(symbols='H32Co2N8O22P6', pbc=False)

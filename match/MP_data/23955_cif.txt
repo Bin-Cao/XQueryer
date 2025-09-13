@@ -1,0 +1,2 @@
+Ag4Au6Cl34N12
+Atoms(symbols='Ag2Au3N6Cl17Ag2Au3N6Cl17', pbc=False)

@@ -1,0 +1,2 @@
+Al2Mg5Na12O72Si29
+Atoms(symbols='Al2Mg5Na12O72Si29', pbc=False)

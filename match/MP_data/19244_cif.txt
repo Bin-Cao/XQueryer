@@ -1,0 +1,2 @@
+La2Os8Sb24
+Atoms(symbols='LaSb12Os4LaSb12Os4', pbc=False)

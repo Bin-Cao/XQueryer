@@ -1,0 +1,2 @@
+Er6In10
+Atoms(symbols='Er6In10', pbc=False)

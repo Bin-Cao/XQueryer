@@ -1,0 +1,2 @@
+Au6Na2
+Atoms(symbols='NaAu3NaAu3', pbc=False)

@@ -1,0 +1,2 @@
+SrTb
+Atoms(symbols='SrTb', pbc=False)

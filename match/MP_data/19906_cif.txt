@@ -1,0 +1,2 @@
+H14Cu4K6
+Atoms(symbols='K3Cu2H7K3Cu2H7', pbc=False)

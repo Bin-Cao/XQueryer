@@ -1,0 +1,2 @@
+Al10Eu10
+Atoms(symbols='Eu10Al10', pbc=False)

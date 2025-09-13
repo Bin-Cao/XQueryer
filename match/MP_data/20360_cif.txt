@@ -1,0 +1,2 @@
+Hg2Nd
+Atoms(symbols='NdHg2', pbc=False)

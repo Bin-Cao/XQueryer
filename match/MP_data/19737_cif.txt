@@ -1,0 +1,2 @@
+F6HgNa2Pd
+Atoms(symbols='Na2HgPdF6', pbc=False)

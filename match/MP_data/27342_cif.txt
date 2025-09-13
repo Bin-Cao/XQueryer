@@ -1,0 +1,2 @@
+O14Tl3V5
+Atoms(symbols='Tl3V5O14', pbc=False)

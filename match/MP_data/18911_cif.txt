@@ -1,0 +1,2 @@
+Dy12O28Ta4
+Atoms(symbols='Dy6Ta2O14Dy6Ta2O14', pbc=False)

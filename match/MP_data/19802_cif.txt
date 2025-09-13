@@ -1,0 +1,2 @@
+K2Pr2Te8
+Atoms(symbols='K2Pr2Te8', pbc=False)

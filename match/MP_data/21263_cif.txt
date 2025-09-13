@@ -1,0 +1,2 @@
+Cd16Mn4O20
+Atoms(symbols='Mn4Cd16O20', pbc=False)

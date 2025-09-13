@@ -1,0 +1,2 @@
+Bi4Cu2LaO12Sr3
+Atoms(symbols='Sr3LaCu2Bi4O12', pbc=False)

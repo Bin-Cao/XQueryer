@@ -1,0 +1,2 @@
+C10H18Gd2N4O16
+Atoms(symbols='GdH9C5N2O8GdH9C5N2O8', pbc=False)

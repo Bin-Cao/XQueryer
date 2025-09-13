@@ -1,0 +1,2 @@
+C6Ba2CuO16
+Atoms(symbols='Ba2CuC6O16', pbc=False)

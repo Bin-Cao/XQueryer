@@ -1,0 +1,2 @@
+Co28La8
+Atoms(symbols='La4Co14La4Co14', pbc=False)

@@ -1,0 +1,2 @@
+B2Co8Pr2
+Atoms(symbols='Pr2Co8B2', pbc=False)

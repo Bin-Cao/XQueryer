@@ -1,0 +1,2 @@
+Bi3Na3Ni6O18
+Atoms(symbols='NaNi2BiO6NaNi2BiO6NaNi2BiO6', pbc=False)

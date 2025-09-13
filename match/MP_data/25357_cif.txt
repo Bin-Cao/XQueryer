@@ -1,0 +1,2 @@
+Al36Eu3Mg48
+Atoms(symbols='Al36Eu3Mg48', pbc=False)

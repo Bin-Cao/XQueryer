@@ -1,0 +1,2 @@
+C16Fe2Mo12N4O40
+Atoms(symbols='C16Fe2Mo12N4O40', pbc=False)

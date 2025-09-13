@@ -1,0 +1,2 @@
+Bi4Cu6O28P4
+Atoms(symbols='Cu3Bi2P2O14Cu3Bi2P2O14', pbc=False)

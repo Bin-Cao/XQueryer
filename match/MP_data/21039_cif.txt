@@ -1,0 +1,2 @@
+Cl6O46Pr10Te14W2
+Atoms(symbols='Cl6O46Pr10Te14W2', pbc=False)

@@ -1,0 +1,2 @@
+C6Mn6Na15O42P6
+Atoms(symbols='C6Mn6Na15O42P6', pbc=False)

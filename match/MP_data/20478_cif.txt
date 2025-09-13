@@ -1,0 +1,2 @@
+Eu27Pt18
+Atoms(symbols='Eu9Pt6Eu9Pt6Eu9Pt6', pbc=False)

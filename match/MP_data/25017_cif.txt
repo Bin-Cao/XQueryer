@@ -1,0 +1,2 @@
+Br2Se6
+Atoms(symbols='Se3BrSe3Br', pbc=False)

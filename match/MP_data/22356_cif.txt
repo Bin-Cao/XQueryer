@@ -1,0 +1,2 @@
+F24Ni8Rb4
+Atoms(symbols='Rb2Ni4F12Rb2Ni4F12', pbc=False)

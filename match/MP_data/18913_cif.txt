@@ -1,0 +1,2 @@
+H20Cu4Zr8
+Atoms(symbols='Zr4Cu2H10Zr4Cu2H10', pbc=False)

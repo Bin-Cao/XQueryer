@@ -1,0 +1,2 @@
+Al11AuMg17
+Atoms(symbols='Mg17Al11Au', pbc=False)

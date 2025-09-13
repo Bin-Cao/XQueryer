@@ -1,0 +1,2 @@
+U8
+Atoms(symbols='U8', pbc=False)

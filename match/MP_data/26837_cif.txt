@@ -1,0 +1,2 @@
+O14P2Pb3TeZn3
+Atoms(symbols='Zn3TeP2Pb3O14', pbc=False)

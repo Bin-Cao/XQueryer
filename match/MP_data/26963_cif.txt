@@ -1,0 +1,2 @@
+H3N3O12Se3
+Atoms(symbols='H3Se3N3O12', pbc=False)

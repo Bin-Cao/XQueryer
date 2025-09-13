@@ -1,0 +1,2 @@
+H8CaO14P2V2
+Atoms(symbols='CaV2P2H8O14', pbc=False)

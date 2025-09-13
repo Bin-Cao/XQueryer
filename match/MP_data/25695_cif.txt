@@ -1,0 +1,2 @@
+Al4O14Ta3
+Atoms(symbols='Ta3Al4O14', pbc=False)

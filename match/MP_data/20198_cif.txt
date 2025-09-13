@@ -1,0 +1,2 @@
+Li24Pt18Si6
+Atoms(symbols='Li8Si2Pt6Li8Si2Pt6Li8Si2Pt6', pbc=False)

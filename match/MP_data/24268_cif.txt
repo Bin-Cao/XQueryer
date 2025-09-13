@@ -1,0 +1,2 @@
+Co2K6
+Atoms(symbols='K3CoK3Co', pbc=False)

@@ -1,0 +1,2 @@
+H12MgO9Se
+Atoms(symbols='MgH12SeO9', pbc=False)

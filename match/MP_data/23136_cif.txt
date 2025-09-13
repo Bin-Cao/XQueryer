@@ -1,0 +1,2 @@
+C8Mo3N2S13
+Atoms(symbols='Mo3C8S13N2', pbc=False)

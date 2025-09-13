@@ -1,0 +1,2 @@
+In12Lu20
+Atoms(symbols='Lu10In6Lu10In6', pbc=False)

@@ -1,0 +1,2 @@
+Nb21Ni18
+Atoms(symbols='Nb7Ni6Nb7Ni6Nb7Ni6', pbc=False)

@@ -1,0 +1,2 @@
+H6Na2Ni4O20S4
+Atoms(symbols='NaNi2H3S2O10NaNi2H3S2O10', pbc=False)

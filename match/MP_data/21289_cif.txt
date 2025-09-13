@@ -1,0 +1,2 @@
+Ga4Nd12O24
+Atoms(symbols='Nd6Ga2O12Nd6Ga2O12', pbc=False)

@@ -1,0 +1,2 @@
+Co4Fe12Li8O32
+Atoms(symbols='Li8Fe12Co4O32', pbc=False)

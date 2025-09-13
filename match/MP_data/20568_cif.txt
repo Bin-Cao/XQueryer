@@ -1,0 +1,2 @@
+Mn3Nd4O20Rh2Sr6
+Atoms(symbols='Sr6Nd4Mn3Rh2O20', pbc=False)

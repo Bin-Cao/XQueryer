@@ -1,0 +1,2 @@
+Be2Cr2Dy6S14
+Atoms(symbols='Dy6Be2Cr2S14', pbc=False)

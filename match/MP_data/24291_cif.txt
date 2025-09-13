@@ -1,0 +1,2 @@
+Ir4O10Ru4
+Atoms(symbols='Ir2Ru2O5Ir2Ru2O5', pbc=False)

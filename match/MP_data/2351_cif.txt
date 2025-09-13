@@ -1,0 +1,2 @@
+Se4Si4U4
+Atoms(symbols='U2Si2Se2U2Si2Se2', pbc=False)

@@ -1,0 +1,2 @@
+F4Pb12Sr20
+Atoms(symbols='Sr10Pb6F2Sr10Pb6F2', pbc=False)

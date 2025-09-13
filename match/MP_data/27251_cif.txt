@@ -1,0 +1,2 @@
+H4O26Ti12
+Atoms(symbols='Ti6H2O13Ti6H2O13', pbc=False)

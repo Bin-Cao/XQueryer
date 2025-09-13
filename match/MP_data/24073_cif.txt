@@ -1,0 +1,2 @@
+Cu2Ru6
+Atoms(symbols='CuRu3CuRu3', pbc=False)

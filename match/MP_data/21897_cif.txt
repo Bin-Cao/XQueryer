@@ -1,0 +1,2 @@
+Ag2Eu2O4
+Atoms(symbols='EuAgO2EuAgO2', pbc=False)

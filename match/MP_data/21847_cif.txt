@@ -1,0 +1,2 @@
+F54Fe18Li18
+Atoms(symbols='F54Fe18Li18', pbc=False)

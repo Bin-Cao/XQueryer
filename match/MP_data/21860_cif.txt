@@ -1,0 +1,2 @@
+Co6Fe4O32Sb6
+Atoms(symbols='Fe2Co3Sb3O16Fe2Co3Sb3O16', pbc=False)

@@ -1,0 +1,2 @@
+Ba16Co14O38
+Atoms(symbols='Ba16Co14O38', pbc=False)

@@ -1,0 +1,2 @@
+Cs4Te16
+Atoms(symbols='Cs4Te16', pbc=False)

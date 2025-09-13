@@ -1,0 +1,2 @@
+CuLi4O16P4V3
+Atoms(symbols='Li4V3CuP4O16', pbc=False)

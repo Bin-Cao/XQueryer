@@ -1,0 +1,2 @@
+AuI4NaO12
+Atoms(symbols='NaAuI4O12', pbc=False)

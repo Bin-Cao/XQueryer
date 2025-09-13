@@ -1,0 +1,2 @@
+CaHg
+Atoms(symbols='CaHg', pbc=False)

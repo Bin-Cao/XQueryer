@@ -1,0 +1,2 @@
+Co16In4Lu4
+Atoms(symbols='LuInCo4LuInCo4LuInCo4LuInCo4', pbc=False)

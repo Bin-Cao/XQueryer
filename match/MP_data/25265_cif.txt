@@ -1,0 +1,2 @@
+C2Fe4Mg12O47
+Atoms(symbols='C2Fe4Mg12O47', pbc=False)

@@ -1,0 +1,2 @@
+H4Cr4O32Se12
+Atoms(symbols='Cr4H4Se12O32', pbc=False)

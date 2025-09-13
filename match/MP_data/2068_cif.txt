@@ -1,0 +1,2 @@
+B16Ce4O30
+Atoms(symbols='Ce4B16O30', pbc=False)

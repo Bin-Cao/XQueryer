@@ -1,0 +1,2 @@
+LiPa
+Atoms(symbols='LiPa', pbc=False)

@@ -1,0 +1,2 @@
+Ho16Te24
+Atoms(symbols='Ho8Te12Ho8Te12', pbc=False)

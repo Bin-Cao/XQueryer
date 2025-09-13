@@ -1,0 +1,2 @@
+Cu2Hf2Mg12
+Atoms(symbols='HfMg6CuHfMg6Cu', pbc=False)

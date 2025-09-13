@@ -1,0 +1,2 @@
+H16F4Mo2N4O10
+Atoms(symbols='Mo2H16N4O10F4', pbc=False)

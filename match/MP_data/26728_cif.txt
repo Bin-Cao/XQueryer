@@ -1,0 +1,2 @@
+In10Th6
+Atoms(symbols='Th6In10', pbc=False)

@@ -1,0 +1,2 @@
+In3Na3Pd6
+Atoms(symbols='NaInPd2NaInPd2NaInPd2', pbc=False)

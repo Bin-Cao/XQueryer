@@ -1,0 +1,2 @@
+PdRu
+Atoms(symbols='PdRu', pbc=False)

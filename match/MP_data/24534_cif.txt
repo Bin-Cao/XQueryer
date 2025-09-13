@@ -1,0 +1,2 @@
+KY
+Atoms(symbols='KY', pbc=False)

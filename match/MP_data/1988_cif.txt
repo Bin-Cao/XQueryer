@@ -1,0 +1,2 @@
+K2Mg12Sr2
+Atoms(symbols='KSrMg6KSrMg6', pbc=False)

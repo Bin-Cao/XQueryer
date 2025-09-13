@@ -1,0 +1,2 @@
+Ti6Zn2
+Atoms(symbols='Ti3ZnTi3Zn', pbc=False)

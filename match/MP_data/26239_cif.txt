@@ -1,0 +1,2 @@
+H6LaO12P3
+Atoms(symbols='LaP3H6O12', pbc=False)

@@ -1,0 +1,2 @@
+CeTe6Tl9
+Atoms(symbols='CeTl9Te6', pbc=False)

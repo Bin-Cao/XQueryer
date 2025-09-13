@@ -1,0 +1,2 @@
+Ga2Si6
+Atoms(symbols='GaSi3GaSi3', pbc=False)

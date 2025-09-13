@@ -1,0 +1,2 @@
+Fe6Pa2
+Atoms(symbols='Pa2Fe6', pbc=False)

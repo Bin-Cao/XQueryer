@@ -1,0 +1,2 @@
+BrCa
+Atoms(symbols='CaBr', pbc=False)

@@ -1,0 +1,2 @@
+H24Cl8N6O6Re2
+Atoms(symbols='Re2H24N6Cl8O6', pbc=False)

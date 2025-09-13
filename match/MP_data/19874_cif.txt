@@ -1,0 +1,2 @@
+ScZn
+Atoms(symbols='ScZn', pbc=False)

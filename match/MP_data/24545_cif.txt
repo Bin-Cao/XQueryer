@@ -1,0 +1,2 @@
+OsZn
+Atoms(symbols='ZnOs', pbc=False)

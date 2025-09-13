@@ -1,0 +1,2 @@
+Ca2Fe6Na2O16Ti2
+Atoms(symbols='Na2Ca2Ti2Fe6O16', pbc=False)

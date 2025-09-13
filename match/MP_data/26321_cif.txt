@@ -1,0 +1,2 @@
+Ge8Ho12Ni4
+Atoms(symbols='Ho12Ni4Ge8', pbc=False)

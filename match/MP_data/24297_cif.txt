@@ -1,0 +1,2 @@
+B12CoK2O30
+Atoms(symbols='K2CoB12O30', pbc=False)

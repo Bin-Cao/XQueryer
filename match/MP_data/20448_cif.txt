@@ -1,0 +1,2 @@
+La6O24Ru2Sr6Zn4
+Atoms(symbols='Sr3La3Zn2RuO12Sr3La3Zn2RuO12', pbc=False)

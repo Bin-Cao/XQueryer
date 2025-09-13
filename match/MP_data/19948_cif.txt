@@ -1,0 +1,2 @@
+TcTi
+Atoms(symbols='TiTc', pbc=False)

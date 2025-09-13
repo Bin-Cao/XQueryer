@@ -1,0 +1,2 @@
+Cl8N10O4Pd2Ru2
+Atoms(symbols='Pd2Ru2N10Cl8O4', pbc=False)

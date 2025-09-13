@@ -1,0 +1,2 @@
+Cu4Mg22O26
+Atoms(symbols='Mg11Cu2O13Mg11Cu2O13', pbc=False)

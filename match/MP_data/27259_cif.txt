@@ -1,0 +1,2 @@
+K6O16P4Pr2
+Atoms(symbols='K6Pr2P4O16', pbc=False)

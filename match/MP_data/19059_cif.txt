@@ -1,0 +1,2 @@
+Cu4Dy4K2S9
+Atoms(symbols='K2Dy4Cu4S9', pbc=False)

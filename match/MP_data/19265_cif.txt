@@ -1,0 +1,2 @@
+CeOs4Sb12
+Atoms(symbols='CeSb12Os4', pbc=False)

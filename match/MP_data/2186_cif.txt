@@ -1,0 +1,2 @@
+Ir4O12
+Atoms(symbols='Ir2O6Ir2O6', pbc=False)

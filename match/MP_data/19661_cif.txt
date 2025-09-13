@@ -1,0 +1,2 @@
+Fe8K4O14
+Atoms(symbols='K2Fe4O7K2Fe4O7', pbc=False)

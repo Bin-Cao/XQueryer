@@ -1,0 +1,2 @@
+Co12S18
+Atoms(symbols='Co4S6Co4S6Co4S6', pbc=False)

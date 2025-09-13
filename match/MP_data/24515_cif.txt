@@ -1,0 +1,2 @@
+C6H12CrN3O12
+Atoms(symbols='CrH12C6N3O12', pbc=False)

@@ -1,0 +1,2 @@
+Ac2Ce6
+Atoms(symbols='AcCe3AcCe3', pbc=False)

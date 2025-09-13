@@ -1,0 +1,2 @@
+H14N2O21S4Sc2
+Atoms(symbols='Sc2H14S4N2O21', pbc=False)

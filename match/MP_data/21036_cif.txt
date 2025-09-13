@@ -1,0 +1,2 @@
+F2InMg4Na3O22Si8
+Atoms(symbols='Na3Mg4InSi8O22F2', pbc=False)

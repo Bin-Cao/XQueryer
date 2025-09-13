@@ -1,0 +1,2 @@
+Co4Hf6Si6
+Atoms(symbols='Hf6Co4Si6', pbc=False)

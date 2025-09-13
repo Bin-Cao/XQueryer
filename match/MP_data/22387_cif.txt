@@ -1,0 +1,2 @@
+O28Sb6
+Atoms(symbols='Sb6O28', pbc=False)

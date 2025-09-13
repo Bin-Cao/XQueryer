@@ -1,0 +1,2 @@
+Cd6Te2
+Atoms(symbols='Cd3TeCd3Te', pbc=False)

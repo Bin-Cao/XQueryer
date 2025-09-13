@@ -1,0 +1,2 @@
+B28Er12Fe4
+Atoms(symbols='Er6Fe2B14Er6Fe2B14', pbc=False)

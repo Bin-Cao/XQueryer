@@ -1,0 +1,2 @@
+Co4Se12U4
+Atoms(symbols='U4Co4Se12', pbc=False)

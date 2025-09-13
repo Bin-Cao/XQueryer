@@ -1,0 +1,2 @@
+Ba8Fe18O40
+Atoms(symbols='Ba8Fe18O40', pbc=False)

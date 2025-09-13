@@ -1,0 +1,2 @@
+Ho6Pr2S12
+Atoms(symbols='Pr2Ho6S12', pbc=False)

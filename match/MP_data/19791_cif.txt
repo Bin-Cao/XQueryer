@@ -1,0 +1,2 @@
+TlY
+Atoms(symbols='YTl', pbc=False)

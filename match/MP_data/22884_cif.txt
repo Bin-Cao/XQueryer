@@ -1,0 +1,2 @@
+CrKO2
+Atoms(symbols='KCrO2', pbc=False)

@@ -1,0 +1,2 @@
+H32Be8Li16
+Atoms(symbols='Li16Be8H32', pbc=False)

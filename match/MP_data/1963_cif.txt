@@ -1,0 +1,2 @@
+HCaGaSn
+Atoms(symbols='CaGaSnH', pbc=False)

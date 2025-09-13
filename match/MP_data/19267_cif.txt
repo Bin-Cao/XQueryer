@@ -1,0 +1,2 @@
+AlY
+Atoms(symbols='YAl', pbc=False)

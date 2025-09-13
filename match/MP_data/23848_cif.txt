@@ -1,0 +1,2 @@
+Cd2Ge6
+Atoms(symbols='CdGe3CdGe3', pbc=False)

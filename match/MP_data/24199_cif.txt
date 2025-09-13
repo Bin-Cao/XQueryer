@@ -1,0 +1,2 @@
+Eu16Ga32S64
+Atoms(symbols='Eu16Ga32S64', pbc=False)

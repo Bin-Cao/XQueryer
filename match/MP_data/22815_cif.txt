@@ -1,0 +1,2 @@
+Ag2Na2O10S2
+Atoms(symbols='Na2Ag2S2O10', pbc=False)

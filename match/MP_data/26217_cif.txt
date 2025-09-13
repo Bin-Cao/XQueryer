@@ -1,0 +1,2 @@
+H4Li4O10Se2
+Atoms(symbols='Li4H4Se2O10', pbc=False)

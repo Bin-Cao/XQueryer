@@ -1,0 +1,2 @@
+Ga2In2O10Zn4
+Atoms(symbols='Zn4In2Ga2O10', pbc=False)

@@ -1,0 +1,2 @@
+Fe6Mg4Mo10O60Sr20
+Atoms(symbols='Fe6Mg4Mo10O60Sr20', pbc=False)

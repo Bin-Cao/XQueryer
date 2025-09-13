@@ -1,0 +1,2 @@
+H4Eu20Sn12
+Atoms(symbols='Eu10Sn6H2Eu10Sn6H2', pbc=False)

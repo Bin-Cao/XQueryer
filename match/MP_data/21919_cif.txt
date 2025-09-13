@@ -1,0 +1,2 @@
+Br32
+Atoms(symbols='Br32', pbc=False)

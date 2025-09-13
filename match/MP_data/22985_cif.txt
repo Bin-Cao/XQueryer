@@ -1,0 +1,2 @@
+C16Mo6N4Se26
+Atoms(symbols='Mo3C8Se13N2Mo3C8Se13N2', pbc=False)

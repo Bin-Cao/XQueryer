@@ -1,0 +1,2 @@
+K4NiO25P6
+Atoms(symbols='K4NiP6O25', pbc=False)

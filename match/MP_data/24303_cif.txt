@@ -1,0 +1,2 @@
+NdPr
+Atoms(symbols='PrNd', pbc=False)

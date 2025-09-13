@@ -1,0 +1,2 @@
+C2B18
+Atoms(symbols='B9CB9C', pbc=False)

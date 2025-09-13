@@ -1,0 +1,2 @@
+TlU
+Atoms(symbols='UTl', pbc=False)

@@ -1,0 +1,2 @@
+F12K4Li2Ta2
+Atoms(symbols='K2LiTaF6K2LiTaF6', pbc=False)

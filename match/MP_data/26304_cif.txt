@@ -1,0 +1,2 @@
+K2N4O10Pt
+Atoms(symbols='K2PtN4O10', pbc=False)

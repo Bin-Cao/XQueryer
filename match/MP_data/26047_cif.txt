@@ -1,0 +1,2 @@
+Ce6Sn10
+Atoms(symbols='Ce6Sn10', pbc=False)

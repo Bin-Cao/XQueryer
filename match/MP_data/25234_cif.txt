@@ -1,0 +1,2 @@
+K4P8Te4
+Atoms(symbols='K4Te4P8', pbc=False)

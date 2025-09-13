@@ -1,0 +1,2 @@
+As8Cl4N4O14
+Atoms(symbols='As4N2Cl2O7As4N2Cl2O7', pbc=False)

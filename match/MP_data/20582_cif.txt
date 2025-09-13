@@ -1,0 +1,2 @@
+N34Nb40
+Atoms(symbols='N34Nb40', pbc=False)

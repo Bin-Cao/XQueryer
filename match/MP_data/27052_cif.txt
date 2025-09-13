@@ -1,0 +1,2 @@
+H16As4B4F4N4O16
+Atoms(symbols='B2As2H8N2O8F2B2As2H8N2O8F2', pbc=False)

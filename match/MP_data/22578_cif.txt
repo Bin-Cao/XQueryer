@@ -1,0 +1,2 @@
+Ga12Sc20
+Atoms(symbols='Sc10Ga6Sc10Ga6', pbc=False)

@@ -1,0 +1,2 @@
+H24As4N4O16
+Atoms(symbols='As2H12N2O8As2H12N2O8', pbc=False)

@@ -1,0 +1,2 @@
+Co2Tl6
+Atoms(symbols='Tl6Co2', pbc=False)

@@ -1,0 +1,2 @@
+Na2O18P4Sr
+Atoms(symbols='Na2SrP4O18', pbc=False)

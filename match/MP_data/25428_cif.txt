@@ -1,0 +1,2 @@
+Cr12Fe8O60
+Atoms(symbols='Cr12Fe8O60', pbc=False)

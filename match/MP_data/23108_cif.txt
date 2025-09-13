@@ -1,0 +1,2 @@
+N8O18
+Atoms(symbols='N8O18', pbc=False)

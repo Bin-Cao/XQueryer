@@ -1,0 +1,2 @@
+Xe8
+Atoms(symbols='Xe8', pbc=False)

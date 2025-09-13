@@ -1,0 +1,2 @@
+Ga4Ho8Os4
+Atoms(symbols='Ho2GaOsHo2GaOsHo2GaOsHo2GaOs', pbc=False)

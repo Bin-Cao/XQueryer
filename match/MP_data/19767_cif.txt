@@ -1,0 +1,2 @@
+C4K3N4O2Re
+Atoms(symbols='K3ReC4N4O2', pbc=False)

@@ -1,0 +1,2 @@
+Ce27Pt18
+Atoms(symbols='Ce9Pt6Ce9Pt6Ce9Pt6', pbc=False)

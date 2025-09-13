@@ -1,0 +1,2 @@
+EuSr
+Atoms(symbols='SrEu', pbc=False)

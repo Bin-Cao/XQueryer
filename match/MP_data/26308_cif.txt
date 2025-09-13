@@ -1,0 +1,2 @@
+O32P8Sr4Ti4
+Atoms(symbols='Sr2Ti2P4O16Sr2Ti2P4O16', pbc=False)

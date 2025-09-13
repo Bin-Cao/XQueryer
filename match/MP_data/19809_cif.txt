@@ -1,0 +1,2 @@
+MgTl
+Atoms(symbols='MgTl', pbc=False)

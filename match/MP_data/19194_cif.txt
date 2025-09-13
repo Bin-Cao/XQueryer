@@ -1,0 +1,2 @@
+Co4Pr10
+Atoms(symbols='Pr10Co4', pbc=False)

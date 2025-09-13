@@ -1,0 +1,2 @@
+Ni16Ti16
+Atoms(symbols='Ti8Ni8Ti8Ni8', pbc=False)

@@ -1,0 +1,2 @@
+C28Cl12N4Si4Ti4
+Atoms(symbols='Ti4Si4C28N4Cl12', pbc=False)

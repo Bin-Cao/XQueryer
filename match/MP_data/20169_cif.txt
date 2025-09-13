@@ -1,0 +1,2 @@
+Ho12O28Ta4
+Atoms(symbols='Ho6Ta2O14Ho6Ta2O14', pbc=False)

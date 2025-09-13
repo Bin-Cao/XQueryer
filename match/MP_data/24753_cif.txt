@@ -1,0 +1,2 @@
+Cd3O30P6
+Atoms(symbols='Cd3P6O30', pbc=False)

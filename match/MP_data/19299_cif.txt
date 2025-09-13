@@ -1,0 +1,2 @@
+Ce27Rh18
+Atoms(symbols='Ce9Rh6Ce9Rh6Ce9Rh6', pbc=False)

@@ -1,0 +1,2 @@
+C28Ho16
+Atoms(symbols='Ho16C28', pbc=False)

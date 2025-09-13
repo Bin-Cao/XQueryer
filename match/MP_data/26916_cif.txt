@@ -1,0 +1,2 @@
+Cr40F124K20
+Atoms(symbols='Cr40F124K20', pbc=False)

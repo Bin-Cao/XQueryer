@@ -1,0 +1,2 @@
+Br12Lu4O32
+Atoms(symbols='Lu4Br12O32', pbc=False)

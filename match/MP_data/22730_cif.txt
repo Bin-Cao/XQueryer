@@ -1,0 +1,2 @@
+H6F3O3V
+Atoms(symbols='VH6O3F3', pbc=False)

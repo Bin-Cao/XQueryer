@@ -1,0 +1,2 @@
+B8Co22Ho6
+Atoms(symbols='Ho3Co11B4Ho3Co11B4', pbc=False)

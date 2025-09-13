@@ -1,0 +1,2 @@
+Al12Ce30Ru18
+Atoms(symbols='Ce10Al4Ru6Ce10Al4Ru6Ce10Al4Ru6', pbc=False)

@@ -1,0 +1,2 @@
+Cl6Cs3O4V
+Atoms(symbols='Cs3VCl6O4', pbc=False)

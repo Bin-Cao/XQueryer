@@ -1,0 +1,2 @@
+PtTc
+Atoms(symbols='TcPt', pbc=False)

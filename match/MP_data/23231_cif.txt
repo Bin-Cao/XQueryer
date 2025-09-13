@@ -1,0 +1,2 @@
+C8Cr2K2O26
+Atoms(symbols='K2Cr2C8O26', pbc=False)

@@ -1,0 +1,2 @@
+AuNd
+Atoms(symbols='NdAu', pbc=False)

@@ -1,0 +1,2 @@
+F24K12Ru4
+Atoms(symbols='K3RuF6K3RuF6K3RuF6K3RuF6', pbc=False)

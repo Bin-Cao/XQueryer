@@ -1,0 +1,2 @@
+FU
+Atoms(symbols='UF', pbc=False)

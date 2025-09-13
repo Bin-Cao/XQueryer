@@ -1,0 +1,2 @@
+Os4Y12
+Atoms(symbols='Y12Os4', pbc=False)

@@ -1,0 +1,2 @@
+Ga18Ir4
+Atoms(symbols='Ga18Ir4', pbc=False)

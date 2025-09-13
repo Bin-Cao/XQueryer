@@ -1,0 +1,2 @@
+Gd2O4
+Atoms(symbols='Gd2O4', pbc=False)

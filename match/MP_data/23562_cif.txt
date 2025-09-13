@@ -1,0 +1,2 @@
+O120S24Sr12
+Atoms(symbols='O120S24Sr12', pbc=False)

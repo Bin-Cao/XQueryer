@@ -1,0 +1,2 @@
+Ni6Se8
+Atoms(symbols='Ni6Se8', pbc=False)

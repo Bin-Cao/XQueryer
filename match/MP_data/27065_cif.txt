@@ -1,0 +1,2 @@
+B18Cl3K9O30
+Atoms(symbols='K3B6ClO10K3B6ClO10K3B6ClO10', pbc=False)

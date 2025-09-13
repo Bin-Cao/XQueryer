@@ -1,0 +1,2 @@
+H8K2O14V2
+Atoms(symbols='K2V2H8O14', pbc=False)

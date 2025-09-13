@@ -1,0 +1,2 @@
+Ir12La28
+Atoms(symbols='La14Ir6La14Ir6', pbc=False)

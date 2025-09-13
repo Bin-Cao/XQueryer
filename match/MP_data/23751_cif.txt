@@ -1,0 +1,2 @@
+AgPt
+Atoms(symbols='AgPt', pbc=False)

@@ -1,0 +1,2 @@
+Hg6K2
+Atoms(symbols='K2Hg6', pbc=False)

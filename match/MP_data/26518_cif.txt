@@ -1,0 +1,2 @@
+H6As2F12O2
+Atoms(symbols='As2H6O2F12', pbc=False)

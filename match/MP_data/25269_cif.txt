@@ -1,0 +1,2 @@
+Li95Mn16O64
+Atoms(symbols='Li95Mn16O64', pbc=False)

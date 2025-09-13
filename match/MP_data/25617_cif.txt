@@ -1,0 +1,2 @@
+Ho15Mg3
+Atoms(symbols='Ho5MgHo5MgHo5Mg', pbc=False)

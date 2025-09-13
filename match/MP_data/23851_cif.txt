@@ -1,0 +1,2 @@
+Ca2Ho6
+Atoms(symbols='CaHo3CaHo3', pbc=False)

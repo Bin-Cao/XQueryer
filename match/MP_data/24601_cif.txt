@@ -1,0 +1,2 @@
+H6F4
+Atoms(symbols='H6F4', pbc=False)

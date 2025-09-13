@@ -1,0 +1,2 @@
+Br6O12Pr2
+Atoms(symbols='Pr2Br6O12', pbc=False)

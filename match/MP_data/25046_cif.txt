@@ -1,0 +1,2 @@
+I2V2
+Atoms(symbols='V2I2', pbc=False)

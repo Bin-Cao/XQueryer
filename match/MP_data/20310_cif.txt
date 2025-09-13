@@ -1,0 +1,2 @@
+O34Sm12U6
+Atoms(symbols='Sm6U3O17Sm6U3O17', pbc=False)

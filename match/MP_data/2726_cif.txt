@@ -1,0 +1,2 @@
+Dy2Ga8Ti4
+Atoms(symbols='DyTi2Ga4DyTi2Ga4', pbc=False)

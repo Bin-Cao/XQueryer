@@ -1,0 +1,2 @@
+Br6InK2Rb
+Atoms(symbols='K2RbInBr6', pbc=False)

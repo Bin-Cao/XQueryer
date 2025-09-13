@@ -1,0 +1,2 @@
+H38Mo6Nd2O43Te
+Atoms(symbols='H38Mo6Nd2O43Te', pbc=False)

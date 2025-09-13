@@ -1,0 +1,2 @@
+Br20Cs12Fe4
+Atoms(symbols='Cs6Fe2Br10Cs6Fe2Br10', pbc=False)

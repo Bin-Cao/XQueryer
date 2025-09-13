@@ -1,0 +1,2 @@
+BePd
+Atoms(symbols='BePd', pbc=False)

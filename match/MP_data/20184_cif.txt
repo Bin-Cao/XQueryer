@@ -1,0 +1,2 @@
+Sb2Te3
+Atoms(symbols='Sb2Te3', pbc=False)

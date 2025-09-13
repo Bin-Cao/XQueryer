@@ -1,0 +1,2 @@
+H16As2Li2O20U2
+Atoms(symbols='Li2U2As2H16O20', pbc=False)

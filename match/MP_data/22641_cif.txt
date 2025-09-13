@@ -1,0 +1,2 @@
+Mg2O34Si4U4
+Atoms(symbols='MgU2Si2O17MgU2Si2O17', pbc=False)

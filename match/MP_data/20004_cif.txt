@@ -1,0 +1,2 @@
+F2O14Ta6
+Atoms(symbols='Ta3O7FTa3O7F', pbc=False)

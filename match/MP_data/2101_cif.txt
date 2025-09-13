@@ -1,0 +1,2 @@
+H15Ca40N20
+Atoms(symbols='H15Ca40N20', pbc=False)

@@ -1,0 +1,2 @@
+Cd10N4O32
+Atoms(symbols='Cd5N2O16Cd5N2O16', pbc=False)

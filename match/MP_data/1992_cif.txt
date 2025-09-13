@@ -1,0 +1,2 @@
+K6La2O16P4
+Atoms(symbols='K6La2P4O16', pbc=False)

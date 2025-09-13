@@ -1,0 +1,2 @@
+La8Mn4Na4O36Ti8
+Atoms(symbols='Na2La4Ti4Mn2O18Na2La4Ti4Mn2O18', pbc=False)

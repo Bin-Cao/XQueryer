@@ -1,0 +1,2 @@
+Er12Ru4
+Atoms(symbols='Er12Ru4', pbc=False)

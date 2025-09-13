@@ -1,0 +1,2 @@
+K7NaO32Te4
+Atoms(symbols='K7NaTe4O32', pbc=False)

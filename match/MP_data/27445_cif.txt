@@ -1,0 +1,2 @@
+F16Hg2O2Sb2
+Atoms(symbols='Hg2Sb2O2F16', pbc=False)

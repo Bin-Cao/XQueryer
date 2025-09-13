@@ -1,0 +1,2 @@
+Cl44Sr18Th2
+Atoms(symbols='Cl44Sr18Th2', pbc=False)

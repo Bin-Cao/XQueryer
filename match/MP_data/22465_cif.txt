@@ -1,0 +1,2 @@
+Br12Nd4O72
+Atoms(symbols='Br12Nd4O72', pbc=False)

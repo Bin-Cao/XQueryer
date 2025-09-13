@@ -1,0 +1,2 @@
+Lu3Mo18S24
+Atoms(symbols='LuMo6S8LuMo6S8LuMo6S8', pbc=False)

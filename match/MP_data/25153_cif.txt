@@ -1,0 +1,2 @@
+Dy3Ru6Sc3
+Atoms(symbols='DyScRu2DyScRu2DyScRu2', pbc=False)

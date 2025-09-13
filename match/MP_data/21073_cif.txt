@@ -1,0 +1,2 @@
+Ge3La6Mg3O18
+Atoms(symbols='La2MgGeO6La2MgGeO6La2MgGeO6', pbc=False)

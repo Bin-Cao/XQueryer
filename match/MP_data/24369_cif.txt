@@ -1,0 +1,2 @@
+Na6Ni2
+Atoms(symbols='Na3NiNa3Ni', pbc=False)

@@ -1,0 +1,2 @@
+Co2I4O12
+Atoms(symbols='CoI2O6CoI2O6', pbc=False)

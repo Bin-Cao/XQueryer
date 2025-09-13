@@ -1,0 +1,2 @@
+Cr2Ni3O56P16Rb8Ti3
+Atoms(symbols='Cr2Ni3O56P16Rb8Ti3', pbc=False)

@@ -1,0 +1,2 @@
+ErU
+Atoms(symbols='ErU', pbc=False)

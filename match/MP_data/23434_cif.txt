@@ -1,0 +1,2 @@
+C10Mn4N2O22P2
+Atoms(symbols='Mn4P2C10N2O22', pbc=False)

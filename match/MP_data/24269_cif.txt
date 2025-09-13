@@ -1,0 +1,2 @@
+Ge6In2
+Atoms(symbols='InGe3InGe3', pbc=False)

@@ -1,0 +1,2 @@
+CuKO6Te
+Atoms(symbols='KCuTeO6', pbc=False)

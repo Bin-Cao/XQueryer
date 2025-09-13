@@ -1,0 +1,2 @@
+Dy4Pb4Rh8
+Atoms(symbols='DyRh2PbDyRh2PbDyRh2PbDyRh2Pb', pbc=False)

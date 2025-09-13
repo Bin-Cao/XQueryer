@@ -1,0 +1,2 @@
+C4H8Nd4O24P8
+Atoms(symbols='Nd2P4H4C2O12Nd2P4H4C2O12', pbc=False)

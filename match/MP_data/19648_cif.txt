@@ -1,0 +1,2 @@
+Ce2Fe10
+Atoms(symbols='CeFe5CeFe5', pbc=False)

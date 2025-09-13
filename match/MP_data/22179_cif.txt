@@ -1,0 +1,2 @@
+C8N2OSe10Sn5
+Atoms(symbols='Sn5C8Se10N2O', pbc=False)

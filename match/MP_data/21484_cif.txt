@@ -1,0 +1,2 @@
+H10Cd4Cl3Na3O24P6
+Atoms(symbols='Na3Cd4P6H10Cl3O24', pbc=False)

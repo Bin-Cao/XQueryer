@@ -1,0 +1,2 @@
+GdTc3
+Atoms(symbols='GdTc3', pbc=False)

@@ -1,0 +1,2 @@
+Al12La30Ru18
+Atoms(symbols='La10Al4Ru6La10Al4Ru6La10Al4Ru6', pbc=False)

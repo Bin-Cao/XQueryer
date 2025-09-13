@@ -1,0 +1,2 @@
+AlO4Ta
+Atoms(symbols='TaAlO4', pbc=False)

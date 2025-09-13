@@ -1,0 +1,2 @@
+CdMn7O12
+Atoms(symbols='Mn7CdO12', pbc=False)

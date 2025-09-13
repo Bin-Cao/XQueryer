@@ -1,0 +1,2 @@
+O20Re6
+Atoms(symbols='Re3O10Re3O10', pbc=False)

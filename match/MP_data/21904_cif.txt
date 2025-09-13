@@ -1,0 +1,2 @@
+Co24Li16O64Sn8
+Atoms(symbols='Co24Li16O64Sn8', pbc=False)

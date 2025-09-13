@@ -1,0 +1,2 @@
+CuLiN
+Atoms(symbols='LiCuN', pbc=False)

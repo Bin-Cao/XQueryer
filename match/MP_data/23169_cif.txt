@@ -1,0 +1,2 @@
+Cl12Fe2K6Na2
+Atoms(symbols='K3NaFeCl6K3NaFeCl6', pbc=False)

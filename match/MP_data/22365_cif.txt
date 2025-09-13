@@ -1,0 +1,2 @@
+O12Rh8
+Atoms(symbols='Rh8O12', pbc=False)

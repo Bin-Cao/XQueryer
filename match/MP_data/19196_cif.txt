@@ -1,0 +1,2 @@
+F4Fe4Na4O16S4
+Atoms(symbols='Na4Fe4S4O16F4', pbc=False)

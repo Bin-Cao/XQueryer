@@ -1,0 +1,2 @@
+C2Bi2K2O14P2
+Atoms(symbols='K2Bi2P2C2O14', pbc=False)

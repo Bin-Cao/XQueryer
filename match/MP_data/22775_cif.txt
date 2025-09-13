@@ -1,0 +1,2 @@
+C12Ca18F18Na6O42
+Atoms(symbols='C12Ca18F18Na6O42', pbc=False)

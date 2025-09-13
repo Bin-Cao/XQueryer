@@ -1,0 +1,2 @@
+B18Co9Er12
+Atoms(symbols='Er4Co3B6Er4Co3B6Er4Co3B6', pbc=False)

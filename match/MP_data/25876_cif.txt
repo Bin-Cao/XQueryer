@@ -1,0 +1,2 @@
+Hf18Ni22
+Atoms(symbols='Hf9Ni11Hf9Ni11', pbc=False)

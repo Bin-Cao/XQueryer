@@ -1,0 +1,2 @@
+Dy2O14S2Te2Zn
+Atoms(symbols='Dy2ZnTe2S2O14', pbc=False)

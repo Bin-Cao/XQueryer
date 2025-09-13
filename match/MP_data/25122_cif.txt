@@ -1,0 +1,2 @@
+Na12Ru4
+Atoms(symbols='Na12Ru4', pbc=False)

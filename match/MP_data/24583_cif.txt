@@ -1,0 +1,2 @@
+C8H28Al2F8N2O2
+Atoms(symbols='Al2H28C8N2O2F8', pbc=False)

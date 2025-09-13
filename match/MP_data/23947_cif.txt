@@ -1,0 +1,2 @@
+Co4Ga8Ir4
+Atoms(symbols='Ga2CoIrGa2CoIrGa2CoIrGa2CoIr', pbc=False)

@@ -1,0 +1,2 @@
+C30Al30
+Atoms(symbols='Al30C30', pbc=False)

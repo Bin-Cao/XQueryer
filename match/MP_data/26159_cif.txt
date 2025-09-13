@@ -1,0 +1,2 @@
+B6Bi2Cd8O20
+Atoms(symbols='Cd4BiB3O10Cd4BiB3O10', pbc=False)

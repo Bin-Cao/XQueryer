@@ -1,0 +1,2 @@
+H20O20S2V2
+Atoms(symbols='V2H20S2O20', pbc=False)

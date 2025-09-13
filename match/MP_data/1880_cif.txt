@@ -1,0 +1,2 @@
+K3S6Zr3
+Atoms(symbols='KZrS2KZrS2KZrS2', pbc=False)

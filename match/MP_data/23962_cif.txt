@@ -1,0 +1,2 @@
+Ag4Ba4
+Atoms(symbols='Ba4Ag4', pbc=False)

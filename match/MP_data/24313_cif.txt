@@ -1,0 +1,2 @@
+CsEu
+Atoms(symbols='CsEu', pbc=False)

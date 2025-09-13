@@ -1,0 +1,2 @@
+H15Ga5Na6O32Si7
+Atoms(symbols='H15Ga5Na6O32Si7', pbc=False)

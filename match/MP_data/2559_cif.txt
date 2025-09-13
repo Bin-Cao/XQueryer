@@ -1,0 +1,2 @@
+Ag3Lu3O6
+Atoms(symbols='LuAgO2LuAgO2LuAgO2', pbc=False)

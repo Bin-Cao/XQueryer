@@ -1,0 +1,2 @@
+B10In2O20
+Atoms(symbols='InB5O10InB5O10', pbc=False)

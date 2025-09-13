@@ -1,0 +1,2 @@
+Cl8Co4N24O8
+Atoms(symbols='Co2N12Cl4O4Co2N12Cl4O4', pbc=False)

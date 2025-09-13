@@ -1,0 +1,2 @@
+Be2Ga6
+Atoms(symbols='BeGa3BeGa3', pbc=False)

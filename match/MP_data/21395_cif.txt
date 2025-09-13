@@ -1,0 +1,2 @@
+Cr2F4Mg8Na6O44Si16
+Atoms(symbols='Cr2F4Mg8Na6O44Si16', pbc=False)

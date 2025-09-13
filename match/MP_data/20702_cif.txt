@@ -1,0 +1,2 @@
+H3Co2NaO10S2
+Atoms(symbols='NaCo2H3S2O10', pbc=False)

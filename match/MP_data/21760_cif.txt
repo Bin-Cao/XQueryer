@@ -1,0 +1,2 @@
+Cr5Li32Mn11O48
+Atoms(symbols='Cr5Li32Mn11O48', pbc=False)

@@ -1,0 +1,2 @@
+AgCs2GaI6
+Atoms(symbols='Cs2GaAgI6', pbc=False)

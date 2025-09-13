@@ -1,0 +1,2 @@
+CaFe5Na3O16Ti3
+Atoms(symbols='Na3CaTi3Fe5O16', pbc=False)

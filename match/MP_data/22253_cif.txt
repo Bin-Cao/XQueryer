@@ -1,0 +1,2 @@
+Br6O14Sc2
+Atoms(symbols='Sc2Br6O14', pbc=False)

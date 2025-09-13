@@ -1,0 +1,2 @@
+Cl2Li2O14
+Atoms(symbols='Li2Cl2O14', pbc=False)

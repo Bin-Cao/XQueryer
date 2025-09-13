@@ -1,0 +1,2 @@
+Dy14Rh6
+Atoms(symbols='Dy14Rh6', pbc=False)

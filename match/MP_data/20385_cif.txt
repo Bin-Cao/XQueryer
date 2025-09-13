@@ -1,0 +1,2 @@
+NO5Rb5
+Atoms(symbols='Rb5NO5', pbc=False)

@@ -1,0 +1,2 @@
+F32Fe12Li8
+Atoms(symbols='Li4Fe6F16Li4Fe6F16', pbc=False)

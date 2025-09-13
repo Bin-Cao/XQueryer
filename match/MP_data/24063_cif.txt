@@ -1,0 +1,2 @@
+CaLa
+Atoms(symbols='CaLa', pbc=False)

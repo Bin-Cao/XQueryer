@@ -1,0 +1,2 @@
+MoSe2
+Atoms(symbols='MoSe2', pbc=False)

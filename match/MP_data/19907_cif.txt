@@ -1,0 +1,2 @@
+F6LiRh
+Atoms(symbols='LiRhF6', pbc=False)

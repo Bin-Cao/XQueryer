@@ -1,0 +1,2 @@
+Cr3Mo18Se24
+Atoms(symbols='CrMo6Se8CrMo6Se8CrMo6Se8', pbc=False)

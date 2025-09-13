@@ -1,0 +1,2 @@
+Cu3La3O20Sr6Ti3
+Atoms(symbols='Sr6La3Ti3Cu3O20', pbc=False)

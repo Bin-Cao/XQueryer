@@ -1,0 +1,2 @@
+C36Mn9O54
+Atoms(symbols='C36Mn9O54', pbc=False)

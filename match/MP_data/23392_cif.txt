@@ -1,0 +1,2 @@
+CaCu3GaSe4
+Atoms(symbols='CaGaCu3Se4', pbc=False)

@@ -1,0 +1,2 @@
+SiSn3
+Atoms(symbols='SiSn3', pbc=False)

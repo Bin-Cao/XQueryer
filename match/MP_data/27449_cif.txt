@@ -1,0 +1,2 @@
+H6Cs2O12P4
+Atoms(symbols='Cs2P4H6O12', pbc=False)

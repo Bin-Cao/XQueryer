@@ -1,0 +1,2 @@
+Cr8Li24O64P16
+Atoms(symbols='Cr8Li24O64P16', pbc=False)

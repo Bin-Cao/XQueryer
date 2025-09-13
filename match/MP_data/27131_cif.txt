@@ -1,0 +1,2 @@
+As36Os12Th3
+Atoms(symbols='ThAs12Os4ThAs12Os4ThAs12Os4', pbc=False)

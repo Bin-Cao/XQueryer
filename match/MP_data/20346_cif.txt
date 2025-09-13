@@ -1,0 +1,2 @@
+Ag6Sr14
+Atoms(symbols='Sr14Ag6', pbc=False)

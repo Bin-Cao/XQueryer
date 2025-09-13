@@ -1,0 +1,2 @@
+La6Mn2O14
+Atoms(symbols='La6Mn2O14', pbc=False)

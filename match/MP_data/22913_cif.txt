@@ -1,0 +1,2 @@
+Cl12La4O36
+Atoms(symbols='La2Cl6O18La2Cl6O18', pbc=False)

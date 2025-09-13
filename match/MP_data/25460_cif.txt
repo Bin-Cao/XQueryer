@@ -1,0 +1,2 @@
+Ga8Sn4Ta20
+Atoms(symbols='Ta10Ga4Sn2Ta10Ga4Sn2', pbc=False)

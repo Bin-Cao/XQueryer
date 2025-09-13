@@ -1,0 +1,2 @@
+Er8O20Ti4
+Atoms(symbols='Er4Ti2O10Er4Ti2O10', pbc=False)

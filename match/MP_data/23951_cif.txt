@@ -1,0 +1,2 @@
+H2Fe6
+Atoms(symbols='Fe3HFe3H', pbc=False)

@@ -1,0 +1,2 @@
+Cu2Li4O8Sn2
+Atoms(symbols='Li2CuSnO4Li2CuSnO4', pbc=False)

@@ -1,0 +1,2 @@
+In4La8Ni8
+Atoms(symbols='La8In4Ni8', pbc=False)

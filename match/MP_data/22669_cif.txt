@@ -1,0 +1,2 @@
+N8O40Sr4
+Atoms(symbols='Sr2N4O20Sr2N4O20', pbc=False)

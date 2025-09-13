@@ -1,0 +1,2 @@
+Fe21Ta18
+Atoms(symbols='Ta6Fe7Ta6Fe7Ta6Fe7', pbc=False)

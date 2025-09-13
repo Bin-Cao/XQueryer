@@ -1,0 +1,2 @@
+FLi19Mn4O35P8
+Atoms(symbols='FLi19Mn4O35P8', pbc=False)

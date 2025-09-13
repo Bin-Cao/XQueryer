@@ -1,0 +1,2 @@
+Eu4Mo4O14
+Atoms(symbols='Eu4Mo4O14', pbc=False)

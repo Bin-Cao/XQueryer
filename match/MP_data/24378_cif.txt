@@ -1,0 +1,2 @@
+F28I4
+Atoms(symbols='I2F14I2F14', pbc=False)

@@ -1,0 +1,2 @@
+Lu2Ta6
+Atoms(symbols='Lu2Ta6', pbc=False)

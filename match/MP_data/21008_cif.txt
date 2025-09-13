@@ -1,0 +1,2 @@
+La5Mg4NaO24W4
+Atoms(symbols='NaLa5Mg4W4O24', pbc=False)

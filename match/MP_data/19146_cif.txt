@@ -1,0 +1,2 @@
+Ga12Pr20
+Atoms(symbols='Pr10Ga6Pr10Ga6', pbc=False)

@@ -1,0 +1,2 @@
+Nb28Te24
+Atoms(symbols='Nb28Te24', pbc=False)

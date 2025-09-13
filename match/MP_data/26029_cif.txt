@@ -1,0 +1,2 @@
+C2Er10Si6
+Atoms(symbols='Er10Si6C2', pbc=False)

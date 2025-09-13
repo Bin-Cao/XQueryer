@@ -1,0 +1,2 @@
+H28Co2N8O14P2
+Atoms(symbols='Co2P2H28N8O14', pbc=False)

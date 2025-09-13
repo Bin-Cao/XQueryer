@@ -1,0 +1,2 @@
+Ho6Na2
+Atoms(symbols='NaHo3NaHo3', pbc=False)

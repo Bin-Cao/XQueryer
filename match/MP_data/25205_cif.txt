@@ -1,0 +1,2 @@
+InTh
+Atoms(symbols='ThIn', pbc=False)

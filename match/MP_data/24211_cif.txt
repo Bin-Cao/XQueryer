@@ -1,0 +1,2 @@
+Eu2Ho6
+Atoms(symbols='EuHo3EuHo3', pbc=False)

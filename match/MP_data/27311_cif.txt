@@ -1,0 +1,2 @@
+Mn12P7Th2
+Atoms(symbols='Th2Mn12P7', pbc=False)

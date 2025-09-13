@@ -1,0 +1,2 @@
+As12NdOs4
+Atoms(symbols='NdAs12Os4', pbc=False)

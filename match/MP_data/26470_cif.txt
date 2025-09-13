@@ -1,0 +1,2 @@
+Lu16Te24
+Atoms(symbols='Lu8Te12Lu8Te12', pbc=False)

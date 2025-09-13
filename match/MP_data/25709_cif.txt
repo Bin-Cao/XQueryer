@@ -1,0 +1,2 @@
+N4O12Pd2
+Atoms(symbols='Pd2N4O12', pbc=False)

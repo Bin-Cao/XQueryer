@@ -1,0 +1,2 @@
+Be2Ru6
+Atoms(symbols='BeRu3BeRu3', pbc=False)

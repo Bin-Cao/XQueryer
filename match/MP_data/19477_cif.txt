@@ -1,0 +1,2 @@
+Cl18Ni3O18Sn3
+Atoms(symbols='NiSnCl6O6NiSnCl6O6NiSnCl6O6', pbc=False)

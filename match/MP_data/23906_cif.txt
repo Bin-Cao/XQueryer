@@ -1,0 +1,2 @@
+Cd8O30Se8
+Atoms(symbols='Cd8Se8O30', pbc=False)

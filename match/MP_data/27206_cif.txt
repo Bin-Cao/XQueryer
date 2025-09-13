@@ -1,0 +1,2 @@
+N2Nd2O17S4
+Atoms(symbols='Nd2S4N2O17', pbc=False)

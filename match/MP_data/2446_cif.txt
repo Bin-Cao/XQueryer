@@ -1,0 +1,2 @@
+Al18K2O28
+Atoms(symbols='K2Al18O28', pbc=False)

@@ -1,0 +1,2 @@
+H2B2Co2O18P4Pb2
+Atoms(symbols='Co2B2P4H2Pb2O18', pbc=False)

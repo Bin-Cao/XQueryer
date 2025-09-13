@@ -1,0 +1,2 @@
+Mn2Se6Th2
+Atoms(symbols='Th2Mn2Se6', pbc=False)

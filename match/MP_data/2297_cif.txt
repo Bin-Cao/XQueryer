@@ -1,0 +1,2 @@
+Co16Ho4In4
+Atoms(symbols='HoInCo4HoInCo4HoInCo4HoInCo4', pbc=False)

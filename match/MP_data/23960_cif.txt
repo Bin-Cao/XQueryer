@@ -1,0 +1,2 @@
+Be6S2
+Atoms(symbols='Be6S2', pbc=False)

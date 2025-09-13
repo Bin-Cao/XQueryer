@@ -1,0 +1,2 @@
+La44Sn40
+Atoms(symbols='La44Sn40', pbc=False)

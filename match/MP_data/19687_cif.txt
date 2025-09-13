@@ -1,0 +1,2 @@
+Al30Dy10
+Atoms(symbols='Dy5Al15Dy5Al15', pbc=False)

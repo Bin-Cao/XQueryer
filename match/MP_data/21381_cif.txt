@@ -1,0 +1,2 @@
+CrLi8Mn3O24P6
+Atoms(symbols='Li8Mn3CrP6O24', pbc=False)

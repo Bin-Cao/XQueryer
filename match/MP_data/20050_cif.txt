@@ -1,0 +1,2 @@
+Ni4Sc6Si6
+Atoms(symbols='Sc6Si6Ni4', pbc=False)

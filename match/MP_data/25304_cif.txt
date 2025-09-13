@@ -1,0 +1,2 @@
+B2Ho2Na2O10
+Atoms(symbols='Na2Ho2B2O10', pbc=False)

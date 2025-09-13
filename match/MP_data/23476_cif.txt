@@ -1,0 +1,2 @@
+Ba6Na2
+Atoms(symbols='Ba3NaBa3Na', pbc=False)

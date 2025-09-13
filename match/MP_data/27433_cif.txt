@@ -1,0 +1,2 @@
+As16Hf28
+Atoms(symbols='Hf14As8Hf14As8', pbc=False)

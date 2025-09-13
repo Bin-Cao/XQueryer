@@ -1,0 +1,2 @@
+DyNi5
+Atoms(symbols='DyNi5', pbc=False)

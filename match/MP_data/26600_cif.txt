@@ -1,0 +1,2 @@
+O14S2Sm2Te2Zn
+Atoms(symbols='Sm2ZnTe2S2O14', pbc=False)

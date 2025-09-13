@@ -1,0 +1,2 @@
+Mg149Si
+Atoms(symbols='Mg149Si', pbc=False)

@@ -1,0 +1,2 @@
+K2Li2O18W6
+Atoms(symbols='K2Li2W6O18', pbc=False)

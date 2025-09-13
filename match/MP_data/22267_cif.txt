@@ -1,0 +1,2 @@
+Cu2Ge4O36U4
+Atoms(symbols='U2CuGe2O18U2CuGe2O18', pbc=False)

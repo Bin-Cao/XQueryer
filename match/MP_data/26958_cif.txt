@@ -1,0 +1,2 @@
+Cu9Dy2Mn3P7
+Atoms(symbols='Dy2Mn3Cu9P7', pbc=False)

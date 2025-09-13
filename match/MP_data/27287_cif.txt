@@ -1,0 +1,2 @@
+In18Ni8Sm22
+Atoms(symbols='Sm11In9Ni4Sm11In9Ni4', pbc=False)

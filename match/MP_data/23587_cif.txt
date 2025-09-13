@@ -1,0 +1,2 @@
+Mn3Mo9
+Atoms(symbols='MnMo3MnMo3MnMo3', pbc=False)

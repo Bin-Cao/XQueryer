@@ -1,0 +1,2 @@
+Nd4O18Th6
+Atoms(symbols='Nd2Th3O9Nd2Th3O9', pbc=False)

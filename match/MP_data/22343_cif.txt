@@ -1,0 +1,2 @@
+Cu12F44Li8
+Atoms(symbols='Cu12F44Li8', pbc=False)

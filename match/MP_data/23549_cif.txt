@@ -1,0 +1,2 @@
+Cu8N8O32Te8
+Atoms(symbols='Cu4Te4N4O16Cu4Te4N4O16', pbc=False)

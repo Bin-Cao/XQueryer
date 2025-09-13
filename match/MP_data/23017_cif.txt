@@ -1,0 +1,2 @@
+In8O24
+Atoms(symbols='In4O12In4O12', pbc=False)

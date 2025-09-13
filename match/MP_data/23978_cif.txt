@@ -1,0 +1,2 @@
+Li2U2
+Atoms(symbols='LiULiU', pbc=False)

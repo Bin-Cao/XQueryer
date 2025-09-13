@@ -1,0 +1,2 @@
+Co2Fe2Mg12
+Atoms(symbols='Mg6FeCoMg6FeCo', pbc=False)

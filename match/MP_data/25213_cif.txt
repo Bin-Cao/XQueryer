@@ -1,0 +1,2 @@
+F10Fe2Hg2O4
+Atoms(symbols='Fe2Hg2O4F10', pbc=False)

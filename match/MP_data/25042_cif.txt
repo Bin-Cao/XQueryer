@@ -1,0 +1,2 @@
+Hg24
+Atoms(symbols='Hg24', pbc=False)

@@ -1,0 +1,2 @@
+Ba24Ga24N40
+Atoms(symbols='Ba24Ga24N40', pbc=False)

@@ -1,0 +1,2 @@
+N6O30Pr2
+Atoms(symbols='Pr2N6O30', pbc=False)

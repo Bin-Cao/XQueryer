@@ -1,0 +1,2 @@
+H24Cl4Cr2I2N8
+Atoms(symbols='CrH12IN4Cl2CrH12IN4Cl2', pbc=False)

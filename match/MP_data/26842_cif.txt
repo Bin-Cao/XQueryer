@@ -1,0 +1,2 @@
+H16Cs4Ga4
+Atoms(symbols='Cs4Ga4H16', pbc=False)

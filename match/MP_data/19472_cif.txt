@@ -1,0 +1,2 @@
+Gd10Pb6
+Atoms(symbols='Gd10Pb6', pbc=False)

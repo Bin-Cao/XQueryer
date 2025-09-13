@@ -1,0 +1,2 @@
+As4O20Pb2Zn4
+Atoms(symbols='Zn2As2PbO10Zn2As2PbO10', pbc=False)

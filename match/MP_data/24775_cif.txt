@@ -1,0 +1,2 @@
+H80B64
+Atoms(symbols='H80B64', pbc=False)

@@ -1,0 +1,2 @@
+Ga2N2O10P2
+Atoms(symbols='Ga2P2N2O10', pbc=False)

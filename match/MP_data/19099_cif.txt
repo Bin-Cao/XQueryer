@@ -1,0 +1,2 @@
+As2Cu5O10
+Atoms(symbols='Cu5As2O10', pbc=False)

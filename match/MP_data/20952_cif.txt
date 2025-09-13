@@ -1,0 +1,2 @@
+Bi9O36SiSr3Ta7
+Atoms(symbols='Sr3Ta7SiBi9O36', pbc=False)

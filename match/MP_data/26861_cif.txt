@@ -1,0 +1,2 @@
+As4Bi4Cu6Na4O26
+Atoms(symbols='Na2Cu3Bi2As2O13Na2Cu3Bi2As2O13', pbc=False)

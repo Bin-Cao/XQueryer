@@ -1,0 +1,2 @@
+Nd16O76Re22
+Atoms(symbols='Nd16O76Re22', pbc=False)

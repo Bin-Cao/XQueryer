@@ -1,0 +1,2 @@
+F26Hf4Na10
+Atoms(symbols='Na5Hf2F13Na5Hf2F13', pbc=False)

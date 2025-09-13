@@ -1,0 +1,2 @@
+Cu17F16La13O35Sr4
+Atoms(symbols='Cu17F16La13O35Sr4', pbc=False)

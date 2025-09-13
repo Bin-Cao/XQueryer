@@ -1,0 +1,2 @@
+CrO12W3
+Atoms(symbols='CrW3O12', pbc=False)

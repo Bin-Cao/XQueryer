@@ -1,0 +1,2 @@
+KMg6Mo
+Atoms(symbols='KMg6Mo', pbc=False)

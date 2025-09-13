@@ -1,0 +1,2 @@
+B8N4O22
+Atoms(symbols='B8N4O22', pbc=False)

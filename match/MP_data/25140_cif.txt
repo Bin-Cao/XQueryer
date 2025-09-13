@@ -1,0 +1,2 @@
+In6Tl2
+Atoms(symbols='TlIn3TlIn3', pbc=False)

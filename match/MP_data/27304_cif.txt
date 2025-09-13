@@ -1,0 +1,2 @@
+Co2Ga2Nd6Se14
+Atoms(symbols='Nd6Ga2Co2Se14', pbc=False)

@@ -1,0 +1,2 @@
+CeCu2LiP2
+Atoms(symbols='LiCeCu2P2', pbc=False)

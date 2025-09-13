@@ -1,0 +1,2 @@
+Al2Co2Pr6S14
+Atoms(symbols='Pr6Al2Co2S14', pbc=False)

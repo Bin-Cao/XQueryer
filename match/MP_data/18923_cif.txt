@@ -1,0 +1,2 @@
+BeTi
+Atoms(symbols='TiBe', pbc=False)

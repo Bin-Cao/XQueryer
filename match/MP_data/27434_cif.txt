@@ -1,0 +1,2 @@
+Dy12Ni4Si8
+Atoms(symbols='Dy12Si8Ni4', pbc=False)

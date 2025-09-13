@@ -1,0 +1,2 @@
+B28Fe4Ho12
+Atoms(symbols='Ho6Fe2B14Ho6Fe2B14', pbc=False)

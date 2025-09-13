@@ -1,0 +1,2 @@
+Ga2Mg12Ni2
+Atoms(symbols='Mg6GaNiMg6GaNi', pbc=False)

@@ -1,0 +1,2 @@
+B18Mn6Nd15
+Atoms(symbols='Nd5Mn2B6Nd5Mn2B6Nd5Mn2B6', pbc=False)

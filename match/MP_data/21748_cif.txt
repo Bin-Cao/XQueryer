@@ -1,0 +1,2 @@
+Dy2O18Zr8
+Atoms(symbols='DyZr4O9DyZr4O9', pbc=False)

@@ -1,0 +1,2 @@
+CaMn3O9Pr2
+Atoms(symbols='CaPr2Mn3O9', pbc=False)

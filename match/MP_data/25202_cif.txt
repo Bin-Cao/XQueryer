@@ -1,0 +1,2 @@
+H2Tl6
+Atoms(symbols='Tl6H2', pbc=False)

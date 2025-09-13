@@ -1,0 +1,2 @@
+Co2F2Na2O12Se2
+Atoms(symbols='Na2Co2Se2O12F2', pbc=False)

@@ -1,0 +1,2 @@
+O62P4W18
+Atoms(symbols='O62P4W18', pbc=False)

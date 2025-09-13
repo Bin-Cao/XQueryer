@@ -1,0 +1,2 @@
+CrNaO2
+Atoms(symbols='NaCrO2', pbc=False)

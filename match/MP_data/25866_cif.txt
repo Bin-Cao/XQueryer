@@ -1,0 +1,2 @@
+H2Cu3Mo2O10
+Atoms(symbols='Cu3Mo2H2O10', pbc=False)

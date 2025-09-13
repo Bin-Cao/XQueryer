@@ -1,0 +1,2 @@
+Ga4Th2
+Atoms(symbols='ThGa2ThGa2', pbc=False)

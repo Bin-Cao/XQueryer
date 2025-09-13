@@ -1,0 +1,2 @@
+Mo2Ni6
+Atoms(symbols='Ni6Mo2', pbc=False)

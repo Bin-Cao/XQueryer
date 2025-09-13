@@ -1,0 +1,2 @@
+Ga22Te40Zn7
+Atoms(symbols='Ga22Te40Zn7', pbc=False)

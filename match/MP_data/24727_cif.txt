@@ -1,0 +1,2 @@
+C6H24Ce2O34Rb8
+Atoms(symbols='C6H24Ce2O34Rb8', pbc=False)

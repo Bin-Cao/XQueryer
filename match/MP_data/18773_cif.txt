@@ -1,0 +1,2 @@
+Eu10Mo4O24
+Atoms(symbols='Eu5Mo2O12Eu5Mo2O12', pbc=False)

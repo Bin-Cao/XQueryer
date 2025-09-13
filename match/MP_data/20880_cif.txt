@@ -1,0 +1,2 @@
+Co18Mn2O20
+Atoms(symbols='MnCo9O10MnCo9O10', pbc=False)

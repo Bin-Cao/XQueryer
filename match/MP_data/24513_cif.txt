@@ -1,0 +1,2 @@
+Cr20F104Na12Sr16
+Atoms(symbols='Cr20F104Na12Sr16', pbc=False)

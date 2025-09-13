@@ -1,0 +1,2 @@
+Nb10P2Si6
+Atoms(symbols='Nb10Si6P2', pbc=False)

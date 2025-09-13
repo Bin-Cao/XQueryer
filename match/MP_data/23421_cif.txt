@@ -1,0 +1,2 @@
+Cl6La2O14
+Atoms(symbols='La2Cl6O14', pbc=False)

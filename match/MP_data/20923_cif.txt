@@ -1,0 +1,2 @@
+Cr3O24Ta8
+Atoms(symbols='Ta8Cr3O24', pbc=False)

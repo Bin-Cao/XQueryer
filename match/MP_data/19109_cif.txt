@@ -1,0 +1,2 @@
+NbRu
+Atoms(symbols='NbRu', pbc=False)

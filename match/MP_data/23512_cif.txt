@@ -1,0 +1,2 @@
+Ga6Li2
+Atoms(symbols='LiGa3LiGa3', pbc=False)

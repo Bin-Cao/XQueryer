@@ -1,0 +1,2 @@
+BeMg149
+Atoms(symbols='BeMg149', pbc=False)

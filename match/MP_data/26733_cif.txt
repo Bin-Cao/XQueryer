@@ -1,0 +1,2 @@
+O14Rb3V5
+Atoms(symbols='Rb3V5O14', pbc=False)

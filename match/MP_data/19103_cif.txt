@@ -1,0 +1,2 @@
+La14Pd6
+Atoms(symbols='La14Pd6', pbc=False)

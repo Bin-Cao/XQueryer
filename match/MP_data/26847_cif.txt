@@ -1,0 +1,2 @@
+Co2Dy6Ga2Se14
+Atoms(symbols='Dy6Ga2Co2Se14', pbc=False)

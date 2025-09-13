@@ -1,0 +1,2 @@
+Ir8Si10
+Atoms(symbols='Si10Ir8', pbc=False)

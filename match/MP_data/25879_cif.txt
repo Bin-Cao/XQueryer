@@ -1,0 +1,2 @@
+Ge3Pa3Tc6
+Atoms(symbols='PaTc2GePaTc2GePaTc2Ge', pbc=False)

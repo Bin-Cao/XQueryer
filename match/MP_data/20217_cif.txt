@@ -1,0 +1,2 @@
+H4O2Si2
+Atoms(symbols='SiH2OSiH2O', pbc=False)

@@ -1,0 +1,2 @@
+Ba2O10Pd2
+Atoms(symbols='Ba2Pd2O10', pbc=False)

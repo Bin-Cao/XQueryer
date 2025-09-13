@@ -1,0 +1,2 @@
+Ag2Cu6
+Atoms(symbols='Cu3AgCu3Ag', pbc=False)

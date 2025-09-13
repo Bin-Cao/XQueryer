@@ -1,0 +1,2 @@
+DyHg2
+Atoms(symbols='DyHg2', pbc=False)

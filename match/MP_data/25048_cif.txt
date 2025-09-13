@@ -1,0 +1,2 @@
+Ge16Ni36Pr4
+Atoms(symbols='Pr2Ni18Ge8Pr2Ni18Ge8', pbc=False)

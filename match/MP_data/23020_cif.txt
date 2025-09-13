@@ -1,0 +1,2 @@
+Au4Ca4Ga4
+Atoms(symbols='Ca4Ga4Au4', pbc=False)

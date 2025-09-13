@@ -1,0 +1,2 @@
+Al2Ga6
+Atoms(symbols='AlGa3AlGa3', pbc=False)

@@ -1,0 +1,2 @@
+Br12NiSc7
+Atoms(symbols='Sc7NiBr12', pbc=False)

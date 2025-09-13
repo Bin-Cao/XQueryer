@@ -1,0 +1,2 @@
+O56Re16
+Atoms(symbols='O56Re16', pbc=False)

@@ -1,0 +1,2 @@
+Mn19Nd20O60
+Atoms(symbols='Mn19Nd20O60', pbc=False)

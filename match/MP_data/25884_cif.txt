@@ -1,0 +1,2 @@
+Si12Ti4V16
+Atoms(symbols='Ti2V8Si6Ti2V8Si6', pbc=False)

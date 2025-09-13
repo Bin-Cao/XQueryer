@@ -1,0 +1,2 @@
+Bi14F22O10
+Atoms(symbols='Bi7O5F11Bi7O5F11', pbc=False)

@@ -1,0 +1,2 @@
+Cu6Pm3Si3
+Atoms(symbols='PmCu2SiPmCu2SiPmCu2Si', pbc=False)

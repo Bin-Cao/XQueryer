@@ -1,0 +1,2 @@
+K2O14Te2U3
+Atoms(symbols='K2U3Te2O14', pbc=False)

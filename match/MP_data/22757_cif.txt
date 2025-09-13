@@ -1,0 +1,2 @@
+Cd4N4Na4O40P8
+Atoms(symbols='Na2Cd2P4N2O20Na2Cd2P4N2O20', pbc=False)

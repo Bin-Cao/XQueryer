@@ -1,0 +1,2 @@
+K9
+Atoms(symbols='K9', pbc=False)

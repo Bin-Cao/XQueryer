@@ -1,0 +1,2 @@
+Ir6Ni2
+Atoms(symbols='NiIr3NiIr3', pbc=False)

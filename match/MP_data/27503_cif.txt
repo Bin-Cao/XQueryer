@@ -1,0 +1,2 @@
+Cu18Hg9S36Sb12
+Atoms(symbols='Cu18Hg9S36Sb12', pbc=False)

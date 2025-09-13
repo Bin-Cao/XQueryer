@@ -1,0 +1,2 @@
+Ca4La14Mn20Na2O60
+Atoms(symbols='Ca4La14Mn20Na2O60', pbc=False)

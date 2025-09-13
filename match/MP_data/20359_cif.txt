@@ -1,0 +1,2 @@
+CuIKO6
+Atoms(symbols='KCuIO6', pbc=False)

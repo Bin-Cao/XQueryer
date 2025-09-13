@@ -1,0 +1,2 @@
+Cu3Mo18Se24
+Atoms(symbols='CuMo6Se8CuMo6Se8CuMo6Se8', pbc=False)

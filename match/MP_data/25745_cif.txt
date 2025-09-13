@@ -1,0 +1,2 @@
+Ca12Tl20
+Atoms(symbols='Ca6Tl10Ca6Tl10', pbc=False)

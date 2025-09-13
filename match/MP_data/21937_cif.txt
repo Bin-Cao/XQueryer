@@ -1,0 +1,2 @@
+CuMn7O48P12
+Atoms(symbols='CuMn7O48P12', pbc=False)

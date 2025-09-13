@@ -1,0 +1,2 @@
+CuINaS
+Atoms(symbols='NaCuSI', pbc=False)

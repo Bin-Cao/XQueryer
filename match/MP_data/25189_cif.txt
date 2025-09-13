@@ -1,0 +1,2 @@
+Cr4Se12Th4
+Atoms(symbols='Th4Cr4Se12', pbc=False)

@@ -1,0 +1,2 @@
+H2W2
+Atoms(symbols='H2W2', pbc=False)

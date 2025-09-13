@@ -1,0 +1,2 @@
+Er2O6
+Atoms(symbols='Er2O6', pbc=False)

@@ -1,0 +1,2 @@
+Nb44S48
+Atoms(symbols='Nb44S48', pbc=False)

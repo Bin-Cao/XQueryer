@@ -1,0 +1,2 @@
+Ho3Mo18Se24
+Atoms(symbols='HoMo6Se8HoMo6Se8HoMo6Se8', pbc=False)

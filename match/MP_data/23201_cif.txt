@@ -1,0 +1,2 @@
+Fe2MnO18P2
+Atoms(symbols='MnFe2P2O18', pbc=False)

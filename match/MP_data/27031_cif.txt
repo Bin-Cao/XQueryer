@@ -1,0 +1,2 @@
+Ag16Mg16Sb16
+Atoms(symbols='Mg8Ag8Sb8Mg8Ag8Sb8', pbc=False)

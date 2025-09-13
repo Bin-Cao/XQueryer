@@ -1,0 +1,2 @@
+BaDy
+Atoms(symbols='BaDy', pbc=False)

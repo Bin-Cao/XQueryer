@@ -1,0 +1,2 @@
+Ce2O17S4
+Atoms(symbols='Ce2S4O17', pbc=False)

@@ -1,0 +1,2 @@
+Cl64N32Zn16
+Atoms(symbols='Cl64N32Zn16', pbc=False)

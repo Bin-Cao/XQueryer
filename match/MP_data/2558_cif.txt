@@ -1,0 +1,2 @@
+ErPt5
+Atoms(symbols='ErPt5', pbc=False)

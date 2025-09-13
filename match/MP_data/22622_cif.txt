@@ -1,0 +1,2 @@
+Fe2Li20O120Sc18Si40
+Atoms(symbols='Fe2Li20O120Sc18Si40', pbc=False)

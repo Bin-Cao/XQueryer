@@ -1,0 +1,2 @@
+DyP
+Atoms(symbols='DyP', pbc=False)

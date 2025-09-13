@@ -1,0 +1,2 @@
+Bi47Nb16O111
+Atoms(symbols='Bi47Nb16O111', pbc=False)

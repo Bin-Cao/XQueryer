@@ -1,0 +1,2 @@
+As4Cd2O14Sr2
+Atoms(symbols='Sr2Cd2As4O14', pbc=False)

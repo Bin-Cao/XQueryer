@@ -1,0 +1,2 @@
+Al8Ca4O24Si4
+Atoms(symbols='Ca4Al8Si4O24', pbc=False)

@@ -1,0 +1,2 @@
+K4Mg4Nb4O60
+Atoms(symbols='K4Mg4Nb4O60', pbc=False)

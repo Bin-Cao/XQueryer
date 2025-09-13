@@ -1,0 +1,2 @@
+Ir2La6O14
+Atoms(symbols='La6Ir2O14', pbc=False)

@@ -1,0 +1,2 @@
+Cl16K4N4O8Os4
+Atoms(symbols='K2Os2N2Cl8O4K2Os2N2Cl8O4', pbc=False)

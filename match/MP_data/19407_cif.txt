@@ -1,0 +1,2 @@
+BeRh
+Atoms(symbols='BeRh', pbc=False)

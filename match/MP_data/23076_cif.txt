@@ -1,0 +1,2 @@
+O18P4Rb2Zn2
+Atoms(symbols='Rb2Zn2P4O18', pbc=False)

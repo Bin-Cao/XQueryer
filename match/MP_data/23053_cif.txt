@@ -1,0 +1,2 @@
+Ga20Ir12
+Atoms(symbols='Ga20Ir12', pbc=False)

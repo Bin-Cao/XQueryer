@@ -1,0 +1,2 @@
+C8N2O24P6Zn2
+Atoms(symbols='Zn2P6C8N2O24', pbc=False)

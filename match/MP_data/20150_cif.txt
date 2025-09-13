@@ -1,0 +1,2 @@
+B6Gd2O12
+Atoms(symbols='Gd2B6O12', pbc=False)

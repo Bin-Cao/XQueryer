@@ -1,0 +1,2 @@
+H18Ge7O23
+Atoms(symbols='Ge7H18O23', pbc=False)

@@ -1,0 +1,2 @@
+Cu2LiP2Y
+Atoms(symbols='LiYCu2P2', pbc=False)

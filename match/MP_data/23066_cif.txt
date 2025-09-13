@@ -1,0 +1,2 @@
+H8Ca4
+Atoms(symbols='Ca4H8', pbc=False)

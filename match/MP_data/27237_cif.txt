@@ -1,0 +1,2 @@
+In4Pd17Se4
+Atoms(symbols='In4Pd17Se4', pbc=False)

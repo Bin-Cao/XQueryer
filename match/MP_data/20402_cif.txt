@@ -1,0 +1,2 @@
+Na6Nb4O24Sm2Ti4
+Atoms(symbols='Na6Sm2Ti4Nb4O24', pbc=False)

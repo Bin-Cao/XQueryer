@@ -1,0 +1,2 @@
+Se12Sn4Tl16
+Atoms(symbols='Tl8Sn2Se6Tl8Sn2Se6', pbc=False)

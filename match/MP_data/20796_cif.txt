@@ -1,0 +1,2 @@
+Be6Fe8O24Si6Te2
+Atoms(symbols='Be6Fe8Si6Te2O24', pbc=False)

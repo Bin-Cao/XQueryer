@@ -1,0 +1,2 @@
+Be6Co2
+Atoms(symbols='Be6Co2', pbc=False)

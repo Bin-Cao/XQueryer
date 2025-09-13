@@ -1,0 +1,2 @@
+H20Fe16O34
+Atoms(symbols='H20Fe16O34', pbc=False)

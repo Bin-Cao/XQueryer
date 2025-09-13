@@ -1,0 +1,2 @@
+C2K6Mn2O14P2
+Atoms(symbols='K6Mn2P2C2O14', pbc=False)

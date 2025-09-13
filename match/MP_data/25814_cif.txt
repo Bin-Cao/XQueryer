@@ -1,0 +1,2 @@
+Ge4Pr20Si8
+Atoms(symbols='Pr10Si4Ge2Pr10Si4Ge2', pbc=False)

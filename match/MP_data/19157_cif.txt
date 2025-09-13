@@ -1,0 +1,2 @@
+I2Na2O12Sr4
+Atoms(symbols='Na2Sr4I2O12', pbc=False)

@@ -1,0 +1,2 @@
+Na8O26Ti12
+Atoms(symbols='Na4Ti6O13Na4Ti6O13', pbc=False)

@@ -1,0 +1,2 @@
+C8Na10Ni4O32P2
+Atoms(symbols='Na10Ni4P2C8O32', pbc=False)

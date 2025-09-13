@@ -1,0 +1,2 @@
+Cs2F10O2Zr2
+Atoms(symbols='Cs2Zr2O2F10', pbc=False)

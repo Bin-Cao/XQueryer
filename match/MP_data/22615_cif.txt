@@ -1,0 +1,2 @@
+O36Se8U4
+Atoms(symbols='U2Se4O18U2Se4O18', pbc=False)

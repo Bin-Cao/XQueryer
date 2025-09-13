@@ -1,0 +1,2 @@
+Cl20Co4Ir2N20
+Atoms(symbols='Co2IrN10Cl10Co2IrN10Cl10', pbc=False)

@@ -1,0 +1,2 @@
+Cu2O12Sb4
+Atoms(symbols='Cu2Sb4O12', pbc=False)

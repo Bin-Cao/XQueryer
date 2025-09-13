@@ -1,0 +1,2 @@
+O28Sn8Ti8Zn4
+Atoms(symbols='Ti4Zn2Sn4O14Ti4Zn2Sn4O14', pbc=False)

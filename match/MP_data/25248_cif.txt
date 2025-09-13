@@ -1,0 +1,2 @@
+Os6W2
+Atoms(symbols='Os6W2', pbc=False)

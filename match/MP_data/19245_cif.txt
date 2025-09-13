@@ -1,0 +1,2 @@
+K3Mo18S24
+Atoms(symbols='KMo6S8KMo6S8KMo6S8', pbc=False)

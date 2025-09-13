@@ -1,0 +1,2 @@
+B33Li3
+Atoms(symbols='LiB11LiB11LiB11', pbc=False)

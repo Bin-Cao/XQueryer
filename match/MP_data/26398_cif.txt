@@ -1,0 +1,2 @@
+H8Cl16Ga8
+Atoms(symbols='Ga4H4Cl8Ga4H4Cl8', pbc=False)

@@ -1,0 +1,2 @@
+Mg2Pt4
+Atoms(symbols='Mg2Pt4', pbc=False)

@@ -1,0 +1,2 @@
+Ce5Cu2Nd3O24Sr8
+Atoms(symbols='Sr8Ce5Nd3Cu2O24', pbc=False)

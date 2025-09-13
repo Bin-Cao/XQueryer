@@ -1,0 +1,2 @@
+In20Y12
+Atoms(symbols='Y6In10Y6In10', pbc=False)

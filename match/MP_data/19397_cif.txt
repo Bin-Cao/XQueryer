@@ -1,0 +1,2 @@
+Cs4F12Na2Ta2
+Atoms(symbols='Cs2NaTaF6Cs2NaTaF6', pbc=False)

@@ -1,0 +1,2 @@
+AlCa10O50Si10TaTi8
+Atoms(symbols='AlCa10O50Si10TaTi8', pbc=False)

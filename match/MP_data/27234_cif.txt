@@ -1,0 +1,2 @@
+Be2Cr2S14Sm6
+Atoms(symbols='Sm6Be2Cr2S14', pbc=False)

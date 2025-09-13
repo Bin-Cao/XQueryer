@@ -1,0 +1,2 @@
+N22Nb20O2
+Atoms(symbols='Nb20N22O2', pbc=False)

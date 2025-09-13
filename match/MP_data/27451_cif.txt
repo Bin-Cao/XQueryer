@@ -1,0 +1,2 @@
+H20Ga4Sr4
+Atoms(symbols='Sr4Ga4H20', pbc=False)

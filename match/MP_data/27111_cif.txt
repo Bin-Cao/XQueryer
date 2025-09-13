@@ -1,0 +1,2 @@
+Al20Cu24U4
+Atoms(symbols='U2Al10Cu12U2Al10Cu12', pbc=False)

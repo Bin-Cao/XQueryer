@@ -1,0 +1,2 @@
+Hf8Li8O20
+Atoms(symbols='Li4Hf4O10Li4Hf4O10', pbc=False)

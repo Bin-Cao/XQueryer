@@ -1,0 +1,2 @@
+C2H4Cl32O10Se8Ti4
+Atoms(symbols='Ti4H4C2Se8Cl32O10', pbc=False)

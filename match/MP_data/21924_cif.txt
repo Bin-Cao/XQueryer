@@ -1,0 +1,2 @@
+Al2O6Pd2
+Atoms(symbols='Al2Pd2O6', pbc=False)

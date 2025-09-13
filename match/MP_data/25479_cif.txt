@@ -1,0 +1,2 @@
+H20Cl28Mo12N4O2
+Atoms(symbols='H20Cl28Mo12N4O2', pbc=False)

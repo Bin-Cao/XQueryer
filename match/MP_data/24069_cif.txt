@@ -1,0 +1,2 @@
+DyMg2
+Atoms(symbols='DyMg2', pbc=False)

@@ -1,0 +1,2 @@
+Co36Ga4La28O120Sr12
+Atoms(symbols='Co36Ga4La28O120Sr12', pbc=False)

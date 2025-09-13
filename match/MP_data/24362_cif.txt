@@ -1,0 +1,2 @@
+As3Fe4O23
+Atoms(symbols='Fe4As3O23', pbc=False)

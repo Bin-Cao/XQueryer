@@ -1,0 +1,2 @@
+Pt12Y28
+Atoms(symbols='Y14Pt6Y14Pt6', pbc=False)

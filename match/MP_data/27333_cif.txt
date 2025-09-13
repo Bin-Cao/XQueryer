@@ -1,0 +1,2 @@
+H18Sm6
+Atoms(symbols='Sm6H18', pbc=False)

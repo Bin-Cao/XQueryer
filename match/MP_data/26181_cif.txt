@@ -1,0 +1,2 @@
+IrMg149
+Atoms(symbols='IrMg149', pbc=False)

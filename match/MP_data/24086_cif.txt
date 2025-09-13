@@ -1,0 +1,2 @@
+C40Cl16O20Ru8S20
+Atoms(symbols='C40Cl16O20Ru8S20', pbc=False)

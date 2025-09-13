@@ -1,0 +1,2 @@
+Co4Mo6
+Atoms(symbols='Co4Mo6', pbc=False)

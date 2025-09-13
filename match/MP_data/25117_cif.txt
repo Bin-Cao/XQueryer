@@ -1,0 +1,2 @@
+Er24Ga4Ni8
+Atoms(symbols='Er12Ga2Ni4Er12Ga2Ni4', pbc=False)

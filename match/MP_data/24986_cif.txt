@@ -1,0 +1,2 @@
+Mg2Th6
+Atoms(symbols='Th3MgTh3Mg', pbc=False)

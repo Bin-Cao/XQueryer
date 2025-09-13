@@ -1,0 +1,2 @@
+Br18Gd3Na9
+Atoms(symbols='Na3GdBr6Na3GdBr6Na3GdBr6', pbc=False)

@@ -1,0 +1,2 @@
+B6Ge2O16Sr3
+Atoms(symbols='Sr3Ge2B6O16', pbc=False)

@@ -1,0 +1,2 @@
+Cu4Eu4Pr4S12
+Atoms(symbols='Pr4Eu4Cu4S12', pbc=False)

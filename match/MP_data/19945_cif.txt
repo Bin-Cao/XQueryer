@@ -1,0 +1,2 @@
+PdTi
+Atoms(symbols='TiPd', pbc=False)

@@ -1,0 +1,2 @@
+NO4Se9Sn3Zn3
+Atoms(symbols='Zn3Sn3Se9NO4', pbc=False)

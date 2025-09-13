@@ -1,0 +1,2 @@
+I2N2O20Te2
+Atoms(symbols='Te2I2N2O20', pbc=False)

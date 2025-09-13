@@ -1,0 +1,2 @@
+O2Pa6
+Atoms(symbols='Pa6O2', pbc=False)

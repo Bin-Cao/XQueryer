@@ -1,0 +1,2 @@
+La6Mn4O28Sb6
+Atoms(symbols='La6Mn4Sb6O28', pbc=False)

@@ -1,0 +1,2 @@
+Er68Ru24Te12
+Atoms(symbols='Er68Ru24Te12', pbc=False)

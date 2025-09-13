@@ -1,0 +1,2 @@
+Nb6O29Sr14
+Atoms(symbols='Sr14Nb6O29', pbc=False)

@@ -1,0 +1,2 @@
+H8O12P2Y2
+Atoms(symbols='Y2P2H8O12', pbc=False)

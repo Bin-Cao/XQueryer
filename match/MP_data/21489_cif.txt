@@ -1,0 +1,2 @@
+Fe5Mg7Na7O48P12
+Atoms(symbols='Fe5Mg7Na7O48P12', pbc=False)

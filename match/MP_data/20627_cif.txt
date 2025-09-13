@@ -1,0 +1,2 @@
+F27Sm3Th5
+Atoms(symbols='Sm3Th5F27', pbc=False)

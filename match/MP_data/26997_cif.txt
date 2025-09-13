@@ -1,0 +1,2 @@
+C24Rh10Tb16
+Atoms(symbols='Tb8Rh5C12Tb8Rh5C12', pbc=False)

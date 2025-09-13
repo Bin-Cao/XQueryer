@@ -1,0 +1,2 @@
+MgO9S
+Atoms(symbols='MgSO9', pbc=False)

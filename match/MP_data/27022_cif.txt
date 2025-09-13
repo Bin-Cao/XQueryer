@@ -1,0 +1,2 @@
+Mg149Mo
+Atoms(symbols='Mg149Mo', pbc=False)

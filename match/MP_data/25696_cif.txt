@@ -1,0 +1,2 @@
+La12Os4
+Atoms(symbols='La12Os4', pbc=False)

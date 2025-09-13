@@ -1,0 +1,2 @@
+C4Au2Cl4CuN4O6
+Atoms(symbols='CuAu2C4N4Cl4O6', pbc=False)

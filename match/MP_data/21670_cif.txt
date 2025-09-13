@@ -1,0 +1,2 @@
+Cu12F48Li16
+Atoms(symbols='Cu12F48Li16', pbc=False)

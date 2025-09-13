@@ -1,0 +1,2 @@
+B24O56Sr4
+Atoms(symbols='B24O56Sr4', pbc=False)

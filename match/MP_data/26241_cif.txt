@@ -1,0 +1,2 @@
+Br10NiY6
+Atoms(symbols='Y6NiBr10', pbc=False)

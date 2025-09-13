@@ -1,0 +1,2 @@
+Cs4Li4O4
+Atoms(symbols='Cs4Li4O4', pbc=False)

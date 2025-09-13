@@ -1,0 +1,2 @@
+H18Ni4Zr8
+Atoms(symbols='Zr8Ni4H18', pbc=False)

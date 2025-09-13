@@ -1,0 +1,2 @@
+Ba4Ru12Sn24
+Atoms(symbols='Ba2Sn12Ru6Ba2Sn12Ru6', pbc=False)

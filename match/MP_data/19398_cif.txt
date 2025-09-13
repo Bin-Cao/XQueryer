@@ -1,0 +1,2 @@
+Co8Dy24Ga4
+Atoms(symbols='Dy12Ga2Co4Dy12Ga2Co4', pbc=False)

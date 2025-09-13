@@ -1,0 +1,2 @@
+PaTi
+Atoms(symbols='PaTi', pbc=False)

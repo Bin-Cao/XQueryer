@@ -1,0 +1,2 @@
+Ga4LiY
+Atoms(symbols='LiYGa4', pbc=False)

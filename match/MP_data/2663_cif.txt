@@ -1,0 +1,2 @@
+Lu3Te6Tl3
+Atoms(symbols='LuTlTe2LuTlTe2LuTlTe2', pbc=False)

@@ -1,0 +1,2 @@
+Ho6La2S12
+Atoms(symbols='La2Ho6S12', pbc=False)

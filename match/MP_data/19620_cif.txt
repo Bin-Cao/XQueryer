@@ -1,0 +1,2 @@
+F18Ni3O18Ti3
+Atoms(symbols='TiNiO6F6TiNiO6F6TiNiO6F6', pbc=False)

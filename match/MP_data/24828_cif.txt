@@ -1,0 +1,2 @@
+HfPm
+Atoms(symbols='PmHf', pbc=False)

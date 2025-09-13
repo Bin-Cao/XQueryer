@@ -1,0 +1,2 @@
+Au18Ba27
+Atoms(symbols='Ba9Au6Ba9Au6Ba9Au6', pbc=False)

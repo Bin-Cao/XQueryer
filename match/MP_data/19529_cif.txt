@@ -1,0 +1,2 @@
+Pt18Sr27
+Atoms(symbols='Sr9Pt6Sr9Pt6Sr9Pt6', pbc=False)

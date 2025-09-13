@@ -1,0 +1,2 @@
+H32O20Sr2
+Atoms(symbols='Sr2H32O20', pbc=False)

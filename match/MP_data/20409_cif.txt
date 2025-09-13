@@ -1,0 +1,2 @@
+H3Mn2Mo2NaO10
+Atoms(symbols='NaMn2Mo2H3O10', pbc=False)

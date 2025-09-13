@@ -1,0 +1,2 @@
+CsGd
+Atoms(symbols='CsGd', pbc=False)

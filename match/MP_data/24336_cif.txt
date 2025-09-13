@@ -1,0 +1,2 @@
+Cs8Mo4O16
+Atoms(symbols='Cs8Mo4O16', pbc=False)

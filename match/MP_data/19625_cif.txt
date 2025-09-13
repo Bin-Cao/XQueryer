@@ -1,0 +1,2 @@
+HfPt
+Atoms(symbols='HfPt', pbc=False)

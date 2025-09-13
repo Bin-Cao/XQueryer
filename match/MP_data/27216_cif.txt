@@ -1,0 +1,2 @@
+C4Er4O16
+Atoms(symbols='Er4C4O16', pbc=False)

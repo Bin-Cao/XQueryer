@@ -1,0 +1,2 @@
+La3Na3O60Sr14Ti20
+Atoms(symbols='La3Na3O60Sr14Ti20', pbc=False)

@@ -1,0 +1,2 @@
+FeLi8O48P12Zr7
+Atoms(symbols='FeLi8O48P12Zr7', pbc=False)

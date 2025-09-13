@@ -1,0 +1,2 @@
+Nd2Ni12P7
+Atoms(symbols='Nd2Ni12P7', pbc=False)

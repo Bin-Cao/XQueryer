@@ -1,0 +1,2 @@
+NiO9S
+Atoms(symbols='NiSO9', pbc=False)

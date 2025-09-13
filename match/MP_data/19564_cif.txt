@@ -1,0 +1,2 @@
+H3Ca18Cr6N18
+Atoms(symbols='Ca6Cr2HN6Ca6Cr2HN6Ca6Cr2HN6', pbc=False)

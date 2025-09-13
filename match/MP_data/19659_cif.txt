@@ -1,0 +1,2 @@
+Sb6Se14Sm20
+Atoms(symbols='Sm10Sb3Se7Sm10Sb3Se7', pbc=False)

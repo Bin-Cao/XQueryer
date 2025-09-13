@@ -1,0 +1,2 @@
+CaMn2O12Si4
+Atoms(symbols='CaMn2Si4O12', pbc=False)

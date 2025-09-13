@@ -1,0 +1,2 @@
+C16N4O40SiW12
+Atoms(symbols='C16N4O40SiW12', pbc=False)

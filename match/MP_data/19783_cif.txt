@@ -1,0 +1,2 @@
+LaTl
+Atoms(symbols='LaTl', pbc=False)

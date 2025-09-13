@@ -1,0 +1,2 @@
+Ge3Te3
+Atoms(symbols='GeTeGeTeGeTe', pbc=False)

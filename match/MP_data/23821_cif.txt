@@ -1,0 +1,2 @@
+Fe2Rh6
+Atoms(symbols='Fe2Rh6', pbc=False)

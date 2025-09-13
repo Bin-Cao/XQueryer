@@ -1,0 +1,2 @@
+Ba4O32P8Th4
+Atoms(symbols='Ba2Th2P4O16Ba2Th2P4O16', pbc=False)

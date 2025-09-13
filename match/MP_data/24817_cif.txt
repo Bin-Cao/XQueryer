@@ -1,0 +1,2 @@
+NaPt
+Atoms(symbols='NaPt', pbc=False)

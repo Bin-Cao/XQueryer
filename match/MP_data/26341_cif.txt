@@ -1,0 +1,2 @@
+Lu10Pt6
+Atoms(symbols='Lu10Pt6', pbc=False)

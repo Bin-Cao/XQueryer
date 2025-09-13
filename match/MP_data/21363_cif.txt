@@ -1,0 +1,2 @@
+Fe12Li16Ni12O48
+Atoms(symbols='Fe12Li16Ni12O48', pbc=False)

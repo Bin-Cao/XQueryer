@@ -1,0 +1,2 @@
+P2Tl2
+Atoms(symbols='Tl2P2', pbc=False)

@@ -1,0 +1,2 @@
+ErIn
+Atoms(symbols='ErIn', pbc=False)

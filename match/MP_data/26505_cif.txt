@@ -1,0 +1,2 @@
+Be51Ta6
+Atoms(symbols='Ta2Be17Ta2Be17Ta2Be17', pbc=False)

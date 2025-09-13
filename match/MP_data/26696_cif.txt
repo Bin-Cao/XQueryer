@@ -1,0 +1,2 @@
+Eu10Si6
+Atoms(symbols='Eu10Si6', pbc=False)

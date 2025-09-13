@@ -1,0 +1,2 @@
+Co12Ge20Y8
+Atoms(symbols='Y4Co6Ge10Y4Co6Ge10', pbc=False)

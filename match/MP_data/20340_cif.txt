@@ -1,0 +1,2 @@
+Cl4Cu14Na8O36P8
+Atoms(symbols='Cl4Cu14Na8O36P8', pbc=False)

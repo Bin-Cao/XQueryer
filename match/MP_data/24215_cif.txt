@@ -1,0 +1,2 @@
+Ho10Mg2
+Atoms(symbols='Ho5MgHo5Mg', pbc=False)

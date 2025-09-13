@@ -1,0 +1,2 @@
+Be2Ni6
+Atoms(symbols='BeNi3BeNi3', pbc=False)

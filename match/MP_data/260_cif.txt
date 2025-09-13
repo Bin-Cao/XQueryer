@@ -1,0 +1,2 @@
+CIr
+Atoms(symbols='IrC', pbc=False)

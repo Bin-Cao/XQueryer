@@ -1,0 +1,2 @@
+Ag3Br3O9
+Atoms(symbols='AgBrO3AgBrO3AgBrO3', pbc=False)

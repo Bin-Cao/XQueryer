@@ -1,0 +1,2 @@
+Gd4Ni32Si12
+Atoms(symbols='Gd2Si6Ni16Gd2Si6Ni16', pbc=False)

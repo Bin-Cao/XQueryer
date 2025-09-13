@@ -1,0 +1,2 @@
+AuDy
+Atoms(symbols='DyAu', pbc=False)

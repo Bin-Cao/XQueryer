@@ -1,0 +1,2 @@
+Bi12Eu8Li14
+Atoms(symbols='Li7Eu4Bi6Li7Eu4Bi6', pbc=False)

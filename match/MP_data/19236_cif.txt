@@ -1,0 +1,2 @@
+Rb32Sn32
+Atoms(symbols='Rb32Sn32', pbc=False)

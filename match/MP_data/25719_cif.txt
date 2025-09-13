@@ -1,0 +1,2 @@
+Fe28Th8
+Atoms(symbols='Th4Fe14Th4Fe14', pbc=False)

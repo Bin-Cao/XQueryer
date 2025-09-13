@@ -1,0 +1,2 @@
+B80Cu16
+Atoms(symbols='B80Cu16', pbc=False)

@@ -1,0 +1,2 @@
+Cl18Gd8N2Na4O2
+Atoms(symbols='Na4Gd8N2Cl18O2', pbc=False)

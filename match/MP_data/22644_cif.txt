@@ -1,0 +1,2 @@
+H16O32Sn24
+Atoms(symbols='H16O32Sn24', pbc=False)

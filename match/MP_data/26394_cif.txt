@@ -1,0 +1,2 @@
+Ag2Sb6Zr10
+Atoms(symbols='Zr10Ag2Sb6', pbc=False)

@@ -1,0 +1,2 @@
+H4W12
+Atoms(symbols='H2W6H2W6', pbc=False)

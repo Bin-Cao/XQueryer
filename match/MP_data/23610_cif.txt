@@ -1,0 +1,2 @@
+H12B12BrK3
+Atoms(symbols='K3B12H12Br', pbc=False)

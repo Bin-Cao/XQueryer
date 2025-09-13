@@ -1,0 +1,2 @@
+O16U4
+Atoms(symbols='UO4UO4UO4UO4', pbc=False)

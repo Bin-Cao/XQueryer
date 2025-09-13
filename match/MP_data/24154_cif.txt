@@ -1,0 +1,2 @@
+KPt
+Atoms(symbols='KPt', pbc=False)

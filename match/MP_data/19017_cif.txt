@@ -1,0 +1,2 @@
+La10Ni10O60Sr10Ta10
+Atoms(symbols='La10Ni10O60Sr10Ta10', pbc=False)

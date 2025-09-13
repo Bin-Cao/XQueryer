@@ -1,0 +1,2 @@
+Cu24La24O60
+Atoms(symbols='Cu24La24O60', pbc=False)

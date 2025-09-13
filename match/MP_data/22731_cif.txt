@@ -1,0 +1,2 @@
+N12O32S8
+Atoms(symbols='S8N12O32', pbc=False)

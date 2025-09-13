@@ -1,0 +1,2 @@
+CrNaSe2
+Atoms(symbols='NaCrSe2', pbc=False)

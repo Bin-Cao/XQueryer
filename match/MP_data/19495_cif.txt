@@ -1,0 +1,2 @@
+DyTl
+Atoms(symbols='DyTl', pbc=False)

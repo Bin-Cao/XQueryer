@@ -1,0 +1,2 @@
+Ac3
+Atoms(symbols='Ac3', pbc=False)

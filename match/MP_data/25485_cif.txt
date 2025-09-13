@@ -1,0 +1,2 @@
+Ba4Cd2O22P6
+Atoms(symbols='Ba2CdP3O11Ba2CdP3O11', pbc=False)

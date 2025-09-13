@@ -1,0 +1,2 @@
+B24Ni48Tb4
+Atoms(symbols='B24Ni48Tb4', pbc=False)

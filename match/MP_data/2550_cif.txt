@@ -1,0 +1,2 @@
+C2B4Ni4U2
+Atoms(symbols='UNi2B2CUNi2B2C', pbc=False)

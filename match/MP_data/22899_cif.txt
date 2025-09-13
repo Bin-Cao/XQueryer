@@ -1,0 +1,2 @@
+Fe9Li21O72P18Sb3
+Atoms(symbols='Fe9Li21O72P18Sb3', pbc=False)

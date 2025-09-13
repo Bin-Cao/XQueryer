@@ -1,0 +1,2 @@
+H36Ba4Re4
+Atoms(symbols='Ba2Re2H18Ba2Re2H18', pbc=False)

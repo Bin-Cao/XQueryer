@@ -1,0 +1,2 @@
+Sb10Te60Tl90
+Atoms(symbols='Sb10Te60Tl90', pbc=False)

@@ -1,0 +1,2 @@
+ErP
+Atoms(symbols='ErP', pbc=False)

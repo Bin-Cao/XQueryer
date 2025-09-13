@@ -1,0 +1,2 @@
+Mg2N4O28Se4
+Atoms(symbols='Mg2Se4N4O28', pbc=False)

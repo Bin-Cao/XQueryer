@@ -1,0 +1,2 @@
+Ir4Nd4O14
+Atoms(symbols='Nd4Ir4O14', pbc=False)

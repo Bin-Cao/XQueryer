@@ -1,0 +1,2 @@
+FeN9O18S6
+Atoms(symbols='FeS6N9O18', pbc=False)

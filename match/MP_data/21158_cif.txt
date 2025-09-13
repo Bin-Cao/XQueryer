@@ -1,0 +1,2 @@
+Cu2Fe4Na2O24V6
+Atoms(symbols='Na2V6Fe4Cu2O24', pbc=False)

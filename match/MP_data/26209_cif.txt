@@ -1,0 +1,2 @@
+Xe9
+Atoms(symbols='Xe9', pbc=False)

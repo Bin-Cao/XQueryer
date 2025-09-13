@@ -1,0 +1,2 @@
+Fe2Na2Nd2O12W2
+Atoms(symbols='Na2Nd2Fe2W2O12', pbc=False)

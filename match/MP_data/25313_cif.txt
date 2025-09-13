@@ -1,0 +1,2 @@
+H2I6
+Atoms(symbols='H2I6', pbc=False)

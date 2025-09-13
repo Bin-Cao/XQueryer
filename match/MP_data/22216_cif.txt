@@ -1,0 +1,2 @@
+O24Pt4
+Atoms(symbols='Pt2O12Pt2O12', pbc=False)

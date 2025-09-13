@@ -1,0 +1,2 @@
+Co18Nb21
+Atoms(symbols='Nb7Co6Nb7Co6Nb7Co6', pbc=False)

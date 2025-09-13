@@ -1,0 +1,2 @@
+Er12Pt4
+Atoms(symbols='Er12Pt4', pbc=False)

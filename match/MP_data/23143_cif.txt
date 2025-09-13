@@ -1,0 +1,2 @@
+Cl6Na42O80S20Zn2
+Atoms(symbols='Cl6Na42O80S20Zn2', pbc=False)

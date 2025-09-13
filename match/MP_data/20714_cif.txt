@@ -1,0 +1,2 @@
+Ca15S65Sn25
+Atoms(symbols='Ca15S65Sn25', pbc=False)

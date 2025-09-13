@@ -1,0 +1,2 @@
+N37Nb27O3
+Atoms(symbols='N37Nb27O3', pbc=False)

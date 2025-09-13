@@ -1,0 +1,2 @@
+Cl16O20Sn4
+Atoms(symbols='Sn2Cl8O10Sn2Cl8O10', pbc=False)

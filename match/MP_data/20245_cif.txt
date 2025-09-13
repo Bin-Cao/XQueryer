@@ -1,0 +1,2 @@
+F2Fe3O12Ta3Zn
+Atoms(symbols='Ta3ZnFe3O12F2', pbc=False)

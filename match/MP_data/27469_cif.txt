@@ -1,0 +1,2 @@
+Al2Dy6Fe2S14
+Atoms(symbols='Dy6Al2Fe2S14', pbc=False)

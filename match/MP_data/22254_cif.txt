@@ -1,0 +1,2 @@
+Br6O12V2
+Atoms(symbols='V2Br6O12', pbc=False)

@@ -1,0 +1,2 @@
+Ge8Ni16P8
+Atoms(symbols='Ni16Ge8P8', pbc=False)

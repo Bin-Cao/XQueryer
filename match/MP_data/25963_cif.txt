@@ -1,0 +1,2 @@
+K2O14Si2U2
+Atoms(symbols='K2U2Si2O14', pbc=False)

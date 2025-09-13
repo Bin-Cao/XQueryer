@@ -1,0 +1,2 @@
+Al2Ni16Pr6
+Atoms(symbols='Pr6Al2Ni16', pbc=False)

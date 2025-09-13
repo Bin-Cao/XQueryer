@@ -1,0 +1,2 @@
+Cu19O41Sr19
+Atoms(symbols='Cu19O41Sr19', pbc=False)

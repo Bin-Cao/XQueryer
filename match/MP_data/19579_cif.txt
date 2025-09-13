@@ -1,0 +1,2 @@
+CuF3Li3O
+Atoms(symbols='Li3CuOF3', pbc=False)

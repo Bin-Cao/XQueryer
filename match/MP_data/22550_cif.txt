@@ -1,0 +1,2 @@
+Cu4I8Na4O16
+Atoms(symbols='Na2Cu2I4O8Na2Cu2I4O8', pbc=False)

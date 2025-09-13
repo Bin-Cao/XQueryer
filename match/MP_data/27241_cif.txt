@@ -1,0 +1,2 @@
+Be2Ce6Cr2S14
+Atoms(symbols='Ce6Be2Cr2S14', pbc=False)

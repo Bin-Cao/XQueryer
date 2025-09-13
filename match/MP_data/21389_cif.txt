@@ -1,0 +1,2 @@
+C16Na20Ni8O64P4
+Atoms(symbols='C16Na20Ni8O64P4', pbc=False)

@@ -1,0 +1,2 @@
+Ga4Ni2Y2
+Atoms(symbols='Y2Ga4Ni2', pbc=False)

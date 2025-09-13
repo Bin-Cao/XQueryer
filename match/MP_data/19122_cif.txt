@@ -1,0 +1,2 @@
+Pd12Sm28
+Atoms(symbols='Sm14Pd6Sm14Pd6', pbc=False)

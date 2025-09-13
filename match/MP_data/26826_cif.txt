@@ -1,0 +1,2 @@
+H18Er6
+Atoms(symbols='Er6H18', pbc=False)

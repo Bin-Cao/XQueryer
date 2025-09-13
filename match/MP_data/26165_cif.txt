@@ -1,0 +1,2 @@
+Mg3Pr15
+Atoms(symbols='Pr5MgPr5MgPr5Mg', pbc=False)

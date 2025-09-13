@@ -1,0 +1,2 @@
+DyPa
+Atoms(symbols='DyPa', pbc=False)

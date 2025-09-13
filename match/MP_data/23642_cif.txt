@@ -1,0 +1,2 @@
+C6H24FeI2O6
+Atoms(symbols='FeH24C6I2O6', pbc=False)

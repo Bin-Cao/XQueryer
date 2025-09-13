@@ -1,0 +1,2 @@
+As7Ce2Cu9Mn3
+Atoms(symbols='Ce2Mn3Cu9As7', pbc=False)

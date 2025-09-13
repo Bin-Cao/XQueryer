@@ -1,0 +1,2 @@
+Mn14O24Pr2
+Atoms(symbols='PrMn7O12PrMn7O12', pbc=False)

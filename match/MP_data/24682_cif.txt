@@ -1,0 +1,2 @@
+Na2Tl6
+Atoms(symbols='Na2Tl6', pbc=False)

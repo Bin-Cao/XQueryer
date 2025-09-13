@@ -1,0 +1,2 @@
+Br4O24Sb16
+Atoms(symbols='Sb8Br2O12Sb8Br2O12', pbc=False)

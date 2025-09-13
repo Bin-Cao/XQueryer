@@ -1,0 +1,2 @@
+Al2CaSb2
+Atoms(symbols='CaAl2Sb2', pbc=False)

@@ -1,0 +1,2 @@
+I24Mg4O24Te4
+Atoms(symbols='Mg4Te4I24O24', pbc=False)

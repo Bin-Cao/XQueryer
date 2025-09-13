@@ -1,0 +1,2 @@
+C4Li6Mn4Na6O28P4
+Atoms(symbols='Na6Li6Mn4P4C4O28', pbc=False)

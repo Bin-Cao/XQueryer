@@ -1,0 +1,2 @@
+C20H60F24N4O4Te4
+Atoms(symbols='C20H60F24N4O4Te4', pbc=False)

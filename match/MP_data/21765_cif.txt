@@ -1,0 +1,2 @@
+Co3Cr3Li4Mn2O16
+Atoms(symbols='Li4Mn2Cr3Co3O16', pbc=False)

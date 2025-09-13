@@ -1,0 +1,2 @@
+BaI4O12Pd
+Atoms(symbols='BaPdI4O12', pbc=False)

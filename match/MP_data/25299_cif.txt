@@ -1,0 +1,2 @@
+Co8Mo12
+Atoms(symbols='Co8Mo12', pbc=False)

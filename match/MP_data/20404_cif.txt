@@ -1,0 +1,2 @@
+KNiO6Te
+Atoms(symbols='KNiTeO6', pbc=False)

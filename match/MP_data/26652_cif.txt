@@ -1,0 +1,2 @@
+H6O12P4Rb2
+Atoms(symbols='Rb2P4H6O12', pbc=False)

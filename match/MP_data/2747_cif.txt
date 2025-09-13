@@ -1,0 +1,2 @@
+Dy4In4Pt16
+Atoms(symbols='DyInPt4DyInPt4DyInPt4DyInPt4', pbc=False)

@@ -1,0 +1,2 @@
+K2Mg12Ni2
+Atoms(symbols='KMg6NiKMg6Ni', pbc=False)

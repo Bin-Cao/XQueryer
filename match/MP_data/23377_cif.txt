@@ -1,0 +1,2 @@
+Be12Cu4
+Atoms(symbols='Be3CuBe3CuBe3CuBe3Cu', pbc=False)

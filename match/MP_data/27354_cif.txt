@@ -1,0 +1,2 @@
+Ge18Nd4
+Atoms(symbols='Nd4Ge18', pbc=False)

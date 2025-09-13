@@ -1,0 +1,2 @@
+N6O8Pt2
+Atoms(symbols='Pt2N6O8', pbc=False)

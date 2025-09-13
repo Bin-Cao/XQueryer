@@ -1,0 +1,2 @@
+Cr4Ga12Zr6
+Atoms(symbols='Zr6Cr4Ga12', pbc=False)

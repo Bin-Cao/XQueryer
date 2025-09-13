@@ -1,0 +1,2 @@
+H2B3Fe9NaO31Si6
+Atoms(symbols='NaFe9Si6B3H2O31', pbc=False)

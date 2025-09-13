@@ -1,0 +1,2 @@
+Co8Ga4Zr4
+Atoms(symbols='ZrGaCo2ZrGaCo2ZrGaCo2ZrGaCo2', pbc=False)

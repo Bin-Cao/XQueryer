@@ -1,0 +1,2 @@
+W20Zr12
+Atoms(symbols='Zr6W10Zr6W10', pbc=False)

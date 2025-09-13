@@ -1,0 +1,2 @@
+C8O20Tl2
+Atoms(symbols='Tl2C8O20', pbc=False)

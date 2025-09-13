@@ -1,0 +1,2 @@
+Cl20N20Pt2Rh4
+Atoms(symbols='PtRh2N10Cl10PtRh2N10Cl10', pbc=False)

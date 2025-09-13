@@ -1,0 +1,2 @@
+Co12Li2P7
+Atoms(symbols='Li2Co12P7', pbc=False)

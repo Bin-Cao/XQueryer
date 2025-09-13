@@ -1,0 +1,2 @@
+H22CuN6Na4O22P6
+Atoms(symbols='H22CuN6Na4O22P6', pbc=False)

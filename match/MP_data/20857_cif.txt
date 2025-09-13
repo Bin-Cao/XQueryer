@@ -1,0 +1,2 @@
+F24O12Sm16
+Atoms(symbols='Sm16O12F24', pbc=False)

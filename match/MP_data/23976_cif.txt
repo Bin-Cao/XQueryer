@@ -1,0 +1,2 @@
+Pt12Zr20
+Atoms(symbols='Zr10Pt6Zr10Pt6', pbc=False)

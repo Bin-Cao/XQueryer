@@ -1,0 +1,2 @@
+Pa2Tc6
+Atoms(symbols='PaTc3PaTc3', pbc=False)

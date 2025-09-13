@@ -1,0 +1,2 @@
+K2Li2Mn4O24Si8
+Atoms(symbols='KLiMn2Si4O12KLiMn2Si4O12', pbc=False)

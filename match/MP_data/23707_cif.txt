@@ -1,0 +1,2 @@
+B12Na2Nd2O26
+Atoms(symbols='Na2Nd2B12O26', pbc=False)

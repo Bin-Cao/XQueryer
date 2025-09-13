@@ -1,0 +1,2 @@
+Co12La12O72Sr12Ta12
+Atoms(symbols='Co12La12O72Sr12Ta12', pbc=False)

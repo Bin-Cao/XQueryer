@@ -1,0 +1,2 @@
+C18Li18O36
+Atoms(symbols='C18Li18O36', pbc=False)

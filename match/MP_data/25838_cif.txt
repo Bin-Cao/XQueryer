@@ -1,0 +1,2 @@
+Al8K8Li31O32
+Atoms(symbols='Al8K8Li31O32', pbc=False)

@@ -1,0 +1,2 @@
+W25
+Atoms(symbols='W25', pbc=False)

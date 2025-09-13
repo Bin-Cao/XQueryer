@@ -1,0 +1,2 @@
+In6Se8V2
+Atoms(symbols='VIn3Se4VIn3Se4', pbc=False)

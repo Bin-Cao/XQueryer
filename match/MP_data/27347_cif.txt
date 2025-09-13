@@ -1,0 +1,2 @@
+Ni2S14Sm8
+Atoms(symbols='Sm8Ni2S14', pbc=False)

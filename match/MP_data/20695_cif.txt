@@ -1,0 +1,2 @@
+Nb7O21Sr6
+Atoms(symbols='Sr6Nb7O21', pbc=False)

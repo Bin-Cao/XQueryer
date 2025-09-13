@@ -1,0 +1,2 @@
+Be5Sc
+Atoms(symbols='ScBe5', pbc=False)

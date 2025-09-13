@@ -1,0 +1,2 @@
+C4K12Mo16N4O64S4
+Atoms(symbols='C4K12Mo16N4O64S4', pbc=False)

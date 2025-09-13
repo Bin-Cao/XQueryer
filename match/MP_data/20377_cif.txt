@@ -1,0 +1,2 @@
+Re2Se8Ta2
+Atoms(symbols='TaReSe4TaReSe4', pbc=False)

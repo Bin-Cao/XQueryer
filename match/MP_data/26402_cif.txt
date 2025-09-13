@@ -1,0 +1,2 @@
+B6Co14Er4
+Atoms(symbols='Er4Co14B6', pbc=False)

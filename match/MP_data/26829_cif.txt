@@ -1,0 +1,2 @@
+As7Ni12Y2
+Atoms(symbols='Y2Ni12As7', pbc=False)

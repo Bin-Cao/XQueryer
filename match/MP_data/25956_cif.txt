@@ -1,0 +1,2 @@
+Cr4Sb20U12
+Atoms(symbols='U6Cr2Sb10U6Cr2Sb10', pbc=False)

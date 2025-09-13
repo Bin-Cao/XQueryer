@@ -1,0 +1,2 @@
+C24Dy16Rh10
+Atoms(symbols='Dy8Rh5C12Dy8Rh5C12', pbc=False)

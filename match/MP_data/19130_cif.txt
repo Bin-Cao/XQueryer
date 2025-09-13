@@ -1,0 +1,2 @@
+Ce20Sn12
+Atoms(symbols='Ce10Sn6Ce10Sn6', pbc=False)

@@ -1,0 +1,2 @@
+H12Co4Zr4
+Atoms(symbols='Zr2Co2H6Zr2Co2H6', pbc=False)

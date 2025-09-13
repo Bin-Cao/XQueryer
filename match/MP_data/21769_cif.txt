@@ -1,0 +1,2 @@
+Co3Li6NiO24P6
+Atoms(symbols='Li6Co3NiP6O24', pbc=False)

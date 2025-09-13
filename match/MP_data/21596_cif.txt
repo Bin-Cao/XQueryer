@@ -1,0 +1,2 @@
+FeLi3O12V4
+Atoms(symbols='Li3V4FeO12', pbc=False)

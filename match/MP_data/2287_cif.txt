@@ -1,0 +1,2 @@
+B24O40Rb8
+Atoms(symbols='B24O40Rb8', pbc=False)

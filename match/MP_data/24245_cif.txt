@@ -1,0 +1,2 @@
+H2Pd6
+Atoms(symbols='HPd3HPd3', pbc=False)

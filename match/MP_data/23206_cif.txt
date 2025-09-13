@@ -1,0 +1,2 @@
+Cu3InPbSe4
+Atoms(symbols='InCu3PbSe4', pbc=False)

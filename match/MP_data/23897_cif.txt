@@ -1,0 +1,2 @@
+B96N16O4
+Atoms(symbols='B96N16O4', pbc=False)

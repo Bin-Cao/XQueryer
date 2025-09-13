@@ -1,0 +1,2 @@
+Al2N2O6Sm4
+Atoms(symbols='Sm2AlNO3Sm2AlNO3', pbc=False)

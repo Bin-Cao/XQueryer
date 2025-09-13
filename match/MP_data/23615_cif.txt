@@ -1,0 +1,2 @@
+H6Cs2Li4O6
+Atoms(symbols='Cs2Li4H6O6', pbc=False)

@@ -1,0 +1,2 @@
+F2Fe10Li2O10
+Atoms(symbols='LiFe5O5FLiFe5O5F', pbc=False)

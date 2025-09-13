@@ -1,0 +1,2 @@
+Al22Mg34Si2
+Atoms(symbols='Mg17Al11SiMg17Al11Si', pbc=False)

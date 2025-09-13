@@ -1,0 +1,2 @@
+C16N4O16Tc4
+Atoms(symbols='Tc4C16N4O16', pbc=False)

@@ -1,0 +1,2 @@
+SmTl
+Atoms(symbols='SmTl', pbc=False)

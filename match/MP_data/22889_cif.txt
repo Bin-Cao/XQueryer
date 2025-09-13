@@ -1,0 +1,2 @@
+H4Na2NiO10Se2
+Atoms(symbols='Na2NiH4Se2O10', pbc=False)

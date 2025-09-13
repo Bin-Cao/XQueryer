@@ -1,0 +1,2 @@
+N6O30Tb2
+Atoms(symbols='Tb2N6O30', pbc=False)

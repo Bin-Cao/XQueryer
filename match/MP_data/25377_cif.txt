@@ -1,0 +1,2 @@
+Ba2Eu4O10Pt2
+Atoms(symbols='Ba2Eu4Pt2O10', pbc=False)

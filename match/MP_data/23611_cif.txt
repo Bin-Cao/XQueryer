@@ -1,0 +1,2 @@
+Au2Cl2
+Atoms(symbols='Au2Cl2', pbc=False)

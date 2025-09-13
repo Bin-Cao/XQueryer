@@ -1,0 +1,2 @@
+B12Er3Fe9O36
+Atoms(symbols='ErFe3B4O12ErFe3B4O12ErFe3B4O12', pbc=False)

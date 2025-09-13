@@ -1,0 +1,2 @@
+Ce3Na5Nb2O24Ti6
+Atoms(symbols='Na5Ce3Ti6Nb2O24', pbc=False)

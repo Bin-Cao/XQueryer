@@ -1,0 +1,2 @@
+Al4Mg4Pr8
+Atoms(symbols='Pr2MgAlPr2MgAlPr2MgAlPr2MgAl', pbc=False)

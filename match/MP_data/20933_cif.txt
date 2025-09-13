@@ -1,0 +1,2 @@
+C9B18U9
+Atoms(symbols='U3B6C3U3B6C3U3B6C3', pbc=False)

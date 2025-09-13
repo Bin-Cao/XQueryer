@@ -1,0 +1,2 @@
+B6Co12Y
+Atoms(symbols='YCo12B6', pbc=False)

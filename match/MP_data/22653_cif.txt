@@ -1,0 +1,2 @@
+Ag3Cl3O9
+Atoms(symbols='AgClO3AgClO3AgClO3', pbc=False)

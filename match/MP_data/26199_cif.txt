@@ -1,0 +1,2 @@
+Co8Er24Ga4
+Atoms(symbols='Er12Ga2Co4Er12Ga2Co4', pbc=False)

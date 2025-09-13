@@ -1,0 +1,2 @@
+Fe12Ho2P7
+Atoms(symbols='Ho2Fe12P7', pbc=False)

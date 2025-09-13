@@ -1,0 +1,2 @@
+ClFe2O12Te4
+Atoms(symbols='Fe2Te4ClO12', pbc=False)

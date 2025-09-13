@@ -1,0 +1,2 @@
+Cl6CuErK2
+Atoms(symbols='K2ErCuCl6', pbc=False)

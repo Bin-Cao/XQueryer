@@ -1,0 +1,2 @@
+AgAu
+Atoms(symbols='AgAu', pbc=False)

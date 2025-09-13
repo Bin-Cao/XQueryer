@@ -1,0 +1,2 @@
+Hg60
+Atoms(symbols='Hg60', pbc=False)

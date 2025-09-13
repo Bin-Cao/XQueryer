@@ -1,0 +1,2 @@
+O72Sb16Te16
+Atoms(symbols='O72Sb16Te16', pbc=False)

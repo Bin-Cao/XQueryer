@@ -1,0 +1,2 @@
+BrU
+Atoms(symbols='UBr', pbc=False)

@@ -1,0 +1,2 @@
+Al2Ce4N2O6
+Atoms(symbols='Ce2AlNO3Ce2AlNO3', pbc=False)

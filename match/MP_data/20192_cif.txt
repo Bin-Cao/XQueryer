@@ -1,0 +1,2 @@
+P12Tc8
+Atoms(symbols='Tc4P6Tc4P6', pbc=False)

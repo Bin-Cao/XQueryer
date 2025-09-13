@@ -1,0 +1,2 @@
+Fe18Ho3Sn18
+Atoms(symbols='Ho3Fe18Sn18', pbc=False)

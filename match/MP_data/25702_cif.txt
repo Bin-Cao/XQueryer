@@ -1,0 +1,2 @@
+H40Mo6N2Na4O40Te
+Atoms(symbols='H40Mo6N2Na4O40Te', pbc=False)

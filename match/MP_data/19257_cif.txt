@@ -1,0 +1,2 @@
+Mo8O56Si16
+Atoms(symbols='Mo8O56Si16', pbc=False)

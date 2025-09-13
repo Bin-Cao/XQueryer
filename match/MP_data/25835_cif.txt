@@ -1,0 +1,2 @@
+Cl6Lu2O12
+Atoms(symbols='Lu2Cl6O12', pbc=False)

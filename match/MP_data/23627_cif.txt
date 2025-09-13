@@ -1,0 +1,2 @@
+Ge6Li2
+Atoms(symbols='LiGe3LiGe3', pbc=False)

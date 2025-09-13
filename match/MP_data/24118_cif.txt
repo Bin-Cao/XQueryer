@@ -1,0 +1,2 @@
+Au2Ga6
+Atoms(symbols='Ga3AuGa3Au', pbc=False)

@@ -1,0 +1,2 @@
+H12Br2NiO14
+Atoms(symbols='NiH12Br2O14', pbc=False)

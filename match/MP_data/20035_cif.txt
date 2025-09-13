@@ -1,0 +1,2 @@
+B2Co13Y3
+Atoms(symbols='Y3Co13B2', pbc=False)

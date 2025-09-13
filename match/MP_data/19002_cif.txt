@@ -1,0 +1,2 @@
+F18Hf3Ni3O18
+Atoms(symbols='HfNiO6F6HfNiO6F6HfNiO6F6', pbc=False)

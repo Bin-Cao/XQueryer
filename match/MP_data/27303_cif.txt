@@ -1,0 +1,2 @@
+Ag10O8P2Se2
+Atoms(symbols='Ag10P2Se2O8', pbc=False)

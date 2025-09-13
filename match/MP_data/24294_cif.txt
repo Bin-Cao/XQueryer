@@ -1,0 +1,2 @@
+H2Pd2
+Atoms(symbols='H2Pd2', pbc=False)

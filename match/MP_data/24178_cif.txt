@@ -1,0 +1,2 @@
+ErEu
+Atoms(symbols='EuEr', pbc=False)

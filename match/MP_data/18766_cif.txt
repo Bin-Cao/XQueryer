@@ -1,0 +1,2 @@
+Mn18Si21
+Atoms(symbols='Mn6Si7Mn6Si7Mn6Si7', pbc=False)

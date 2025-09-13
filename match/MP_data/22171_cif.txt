@@ -1,0 +1,2 @@
+Br12O32Y4
+Atoms(symbols='Y4Br12O32', pbc=False)

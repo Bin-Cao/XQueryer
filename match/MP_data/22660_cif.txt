@@ -1,0 +1,2 @@
+Ca18O120W40
+Atoms(symbols='Ca18O120W40', pbc=False)

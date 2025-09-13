@@ -1,0 +1,2 @@
+C8Cl6N2Ni2
+Atoms(symbols='Ni2C8N2Cl6', pbc=False)

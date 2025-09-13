@@ -1,0 +1,2 @@
+Cl20Cs12Ni4
+Atoms(symbols='Cs6Ni2Cl10Cs6Ni2Cl10', pbc=False)

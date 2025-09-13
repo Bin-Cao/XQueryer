@@ -1,0 +1,2 @@
+Cl2Co
+Atoms(symbols='CoCl2', pbc=False)

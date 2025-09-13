@@ -1,0 +1,2 @@
+Ag2Na6
+Atoms(symbols='Na3AgNa3Ag', pbc=False)

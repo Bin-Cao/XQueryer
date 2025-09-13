@@ -1,0 +1,2 @@
+C4Bi4La2O4
+Atoms(symbols='LaBi2C2O2LaBi2C2O2', pbc=False)

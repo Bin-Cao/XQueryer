@@ -1,0 +1,2 @@
+Nb2O14Sc6
+Atoms(symbols='Sc6Nb2O14', pbc=False)

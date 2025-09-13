@@ -1,0 +1,2 @@
+Fe4Na28O18
+Atoms(symbols='Na28Fe4O18', pbc=False)

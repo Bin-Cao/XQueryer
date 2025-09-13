@@ -1,0 +1,2 @@
+Fe8Hf12Si12
+Atoms(symbols='Hf6Fe4Si6Hf6Fe4Si6', pbc=False)

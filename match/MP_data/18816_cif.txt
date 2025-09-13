@@ -1,0 +1,2 @@
+F20Na8Ti4
+Atoms(symbols='Na8Ti4F20', pbc=False)

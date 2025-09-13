@@ -1,0 +1,2 @@
+Na3O13Ti6
+Atoms(symbols='Na3Ti6O13', pbc=False)

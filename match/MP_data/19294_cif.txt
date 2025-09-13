@@ -1,0 +1,2 @@
+B2Ce3Ni13
+Atoms(symbols='Ce3Ni13B2', pbc=False)

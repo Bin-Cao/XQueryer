@@ -1,0 +1,2 @@
+C70B8Ta72
+Atoms(symbols='C70B8Ta72', pbc=False)

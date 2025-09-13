@@ -1,0 +1,2 @@
+Cr18Ni2O60Pr14Sr6
+Atoms(symbols='Cr18Ni2O60Pr14Sr6', pbc=False)

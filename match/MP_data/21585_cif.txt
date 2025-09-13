@@ -1,0 +1,2 @@
+Co2Li3O8Si2
+Atoms(symbols='Li3Co2Si2O8', pbc=False)

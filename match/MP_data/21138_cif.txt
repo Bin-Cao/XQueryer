@@ -1,0 +1,2 @@
+As12O24Te6
+Atoms(symbols='Te6As12O24', pbc=False)

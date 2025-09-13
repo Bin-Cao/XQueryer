@@ -1,0 +1,2 @@
+C16Mn12W40
+Atoms(symbols='C16Mn12W40', pbc=False)

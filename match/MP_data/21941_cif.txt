@@ -1,0 +1,2 @@
+O20W4
+Atoms(symbols='W4O20', pbc=False)

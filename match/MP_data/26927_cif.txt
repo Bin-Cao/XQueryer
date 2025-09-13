@@ -1,0 +1,2 @@
+Er2O14S2Te2Zn
+Atoms(symbols='Er2ZnTe2S2O14', pbc=False)

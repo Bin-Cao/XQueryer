@@ -1,0 +1,2 @@
+H4As2In2O10
+Atoms(symbols='In2As2H4O10', pbc=False)

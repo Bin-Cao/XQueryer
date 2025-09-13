@@ -1,0 +1,2 @@
+CuLaO8RuSr3
+Atoms(symbols='Sr3LaCuRuO8', pbc=False)

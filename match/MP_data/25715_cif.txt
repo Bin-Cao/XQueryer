@@ -1,0 +1,2 @@
+Fe2Mn4O12Sb2
+Atoms(symbols='Mn4Fe2Sb2O12', pbc=False)

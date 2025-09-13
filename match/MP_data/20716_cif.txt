@@ -1,0 +1,2 @@
+Cs6F18Mo3Na3
+Atoms(symbols='Cs2NaMoF6Cs2NaMoF6Cs2NaMoF6', pbc=False)

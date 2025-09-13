@@ -1,0 +1,2 @@
+In6Ni6Sm6
+Atoms(symbols='Sm3In3Ni3Sm3In3Ni3', pbc=False)

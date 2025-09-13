@@ -1,0 +1,2 @@
+C4Ho20Si12
+Atoms(symbols='Ho10Si6C2Ho10Si6C2', pbc=False)

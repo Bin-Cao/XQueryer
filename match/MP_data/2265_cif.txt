@@ -1,0 +1,2 @@
+Cs2Fe2Mg12
+Atoms(symbols='CsMg6FeCsMg6Fe', pbc=False)

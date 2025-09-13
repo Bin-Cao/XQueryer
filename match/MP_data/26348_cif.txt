@@ -1,0 +1,2 @@
+Cr3V9
+Atoms(symbols='V3CrV3CrV3Cr', pbc=False)

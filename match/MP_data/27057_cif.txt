@@ -1,0 +1,2 @@
+HAl2Li2O14Si4
+Atoms(symbols='Li2Al2Si4HO14', pbc=False)

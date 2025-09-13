@@ -1,0 +1,2 @@
+As33Na21O93
+Atoms(symbols='As33Na21O93', pbc=False)

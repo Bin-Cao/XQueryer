@@ -1,0 +1,2 @@
+Cl2Eu7F12
+Atoms(symbols='Eu7Cl2F12', pbc=False)

@@ -1,0 +1,2 @@
+F12La4Mn12O24Sr6
+Atoms(symbols='Sr6La4Mn12O24F12', pbc=False)

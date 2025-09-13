@@ -1,0 +1,2 @@
+Cu3La7O16SrZn
+Atoms(symbols='SrLa7ZnCu3O16', pbc=False)

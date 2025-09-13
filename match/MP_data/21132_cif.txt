@@ -1,0 +1,2 @@
+B3Cu3Li3O9
+Atoms(symbols='Li3Cu3B3O9', pbc=False)

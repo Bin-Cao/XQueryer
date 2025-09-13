@@ -1,0 +1,2 @@
+La4O28Ru4Tb8
+Atoms(symbols='La2Tb4Ru2O14La2Tb4Ru2O14', pbc=False)

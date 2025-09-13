@@ -1,0 +1,2 @@
+Be2Cu2F8O10
+Atoms(symbols='Be2Cu2O10F8', pbc=False)

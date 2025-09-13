@@ -1,0 +1,2 @@
+O12Te6
+Atoms(symbols='Te6O12', pbc=False)

@@ -1,0 +1,2 @@
+Cl18Mg3O18Te3
+Atoms(symbols='MgTeCl6O6MgTeCl6O6MgTeCl6O6', pbc=False)

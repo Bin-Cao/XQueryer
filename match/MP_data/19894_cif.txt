@@ -1,0 +1,2 @@
+B18Co6Dy15
+Atoms(symbols='Dy5Co2B6Dy5Co2B6Dy5Co2B6', pbc=False)

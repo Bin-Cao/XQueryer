@@ -1,0 +1,2 @@
+O53Sb26
+Atoms(symbols='O53Sb26', pbc=False)

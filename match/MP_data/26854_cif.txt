@@ -1,0 +1,2 @@
+Co12P7Sc2
+Atoms(symbols='Sc2Co12P7', pbc=False)

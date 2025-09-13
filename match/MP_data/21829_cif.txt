@@ -1,0 +1,2 @@
+Cr4Li8O16Ti4
+Atoms(symbols='Li8Ti4Cr4O16', pbc=False)

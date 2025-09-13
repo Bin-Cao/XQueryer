@@ -1,0 +1,2 @@
+Co18Ta21
+Atoms(symbols='Ta7Co6Ta7Co6Ta7Co6', pbc=False)

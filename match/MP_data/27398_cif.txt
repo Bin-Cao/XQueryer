@@ -1,0 +1,2 @@
+I6K6O36Te3
+Atoms(symbols='K2TeI2O12K2TeI2O12K2TeI2O12', pbc=False)

@@ -1,0 +1,2 @@
+Nd12O28Ta4
+Atoms(symbols='Nd6Ta2O14Nd6Ta2O14', pbc=False)

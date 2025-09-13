@@ -1,0 +1,2 @@
+Dy3Os6Ta3
+Atoms(symbols='DyTaOs2DyTaOs2DyTaOs2', pbc=False)

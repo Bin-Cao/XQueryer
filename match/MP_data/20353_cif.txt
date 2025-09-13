@@ -1,0 +1,2 @@
+Cl6PrRb3
+Atoms(symbols='Rb3PrCl6', pbc=False)

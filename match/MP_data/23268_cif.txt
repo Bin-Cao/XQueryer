@@ -1,0 +1,2 @@
+Cu8P20Sn2
+Atoms(symbols='Cu4SnP10Cu4SnP10', pbc=False)

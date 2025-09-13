@@ -1,0 +1,2 @@
+N28P16
+Atoms(symbols='P8N14P8N14', pbc=False)

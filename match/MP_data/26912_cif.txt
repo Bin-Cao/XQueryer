@@ -1,0 +1,2 @@
+Eu4Hf4O14
+Atoms(symbols='Eu4Hf4O14', pbc=False)

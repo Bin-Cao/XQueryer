@@ -1,0 +1,2 @@
+Cl6CuNa2Sc
+Atoms(symbols='Na2ScCuCl6', pbc=False)

@@ -1,0 +1,2 @@
+SrY
+Atoms(symbols='SrY', pbc=False)

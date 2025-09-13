@@ -1,0 +1,2 @@
+F44Mn24O4
+Atoms(symbols='F44Mn24O4', pbc=False)

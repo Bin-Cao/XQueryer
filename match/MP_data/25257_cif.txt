@@ -1,0 +1,2 @@
+Al8Si12U12
+Atoms(symbols='U6Al4Si6U6Al4Si6', pbc=False)

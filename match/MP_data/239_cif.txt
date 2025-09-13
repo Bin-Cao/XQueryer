@@ -1,0 +1,2 @@
+FeN
+Atoms(symbols='FeN', pbc=False)

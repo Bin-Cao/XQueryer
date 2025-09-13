@@ -1,0 +1,2 @@
+Br4Mn8O12
+Atoms(symbols='Mn8Br4O12', pbc=False)

@@ -1,0 +1,2 @@
+Co6Li2Ni2O16
+Atoms(symbols='LiCo3NiO8LiCo3NiO8', pbc=False)

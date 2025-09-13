@@ -1,0 +1,2 @@
+Cu4La7O22SrTi4
+Atoms(symbols='SrLa7Ti4Cu4O22', pbc=False)

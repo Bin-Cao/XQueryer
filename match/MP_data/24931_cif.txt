@@ -1,0 +1,2 @@
+PTa
+Atoms(symbols='TaP', pbc=False)

@@ -1,0 +1,2 @@
+As2F12N2O4
+Atoms(symbols='AsNO2F6AsNO2F6', pbc=False)

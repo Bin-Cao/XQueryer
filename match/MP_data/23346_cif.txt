@@ -1,0 +1,2 @@
+Cl6Er2O12
+Atoms(symbols='Er2Cl6O12', pbc=False)

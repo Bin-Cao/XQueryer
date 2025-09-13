@@ -1,0 +1,2 @@
+H36F18Ge3Ni3O18
+Atoms(symbols='H36F18Ge3Ni3O18', pbc=False)

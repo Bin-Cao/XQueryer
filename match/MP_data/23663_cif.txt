@@ -1,0 +1,2 @@
+C16Cl14Ho2N8
+Atoms(symbols='Ho2C16N8Cl14', pbc=False)

@@ -1,0 +1,2 @@
+Dy15Mg3
+Atoms(symbols='Dy5MgDy5MgDy5Mg', pbc=False)

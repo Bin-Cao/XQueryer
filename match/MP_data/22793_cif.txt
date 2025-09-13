@@ -1,0 +1,2 @@
+O28Pr4Si8Y4
+Atoms(symbols='Pr4Y4Si8O28', pbc=False)

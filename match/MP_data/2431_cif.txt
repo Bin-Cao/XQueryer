@@ -1,0 +1,2 @@
+B10Li2Na4O28P4
+Atoms(symbols='Na4Li2B10P4O28', pbc=False)

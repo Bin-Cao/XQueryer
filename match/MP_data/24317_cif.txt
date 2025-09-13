@@ -1,0 +1,2 @@
+ErGd3
+Atoms(symbols='Gd3Er', pbc=False)

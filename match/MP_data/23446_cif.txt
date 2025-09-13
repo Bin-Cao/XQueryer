@@ -1,0 +1,2 @@
+Fe9Li8O96P24Ti7
+Atoms(symbols='Fe9Li8O96P24Ti7', pbc=False)

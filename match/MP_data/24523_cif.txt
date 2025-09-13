@@ -1,0 +1,2 @@
+LuTe
+Atoms(symbols='LuTe', pbc=False)

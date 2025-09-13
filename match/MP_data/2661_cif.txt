@@ -1,0 +1,2 @@
+Li9
+Atoms(symbols='Li9', pbc=False)

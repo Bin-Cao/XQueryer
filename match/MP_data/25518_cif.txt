@@ -1,0 +1,2 @@
+Al12Mg16N
+Atoms(symbols='Mg16Al12N', pbc=False)

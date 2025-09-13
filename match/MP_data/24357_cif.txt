@@ -1,0 +1,2 @@
+C64Ga16N16Si16
+Atoms(symbols='C64Ga16N16Si16', pbc=False)

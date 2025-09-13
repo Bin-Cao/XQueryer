@@ -1,0 +1,2 @@
+Nd8O18Sr6
+Atoms(symbols='Sr6Nd8O18', pbc=False)

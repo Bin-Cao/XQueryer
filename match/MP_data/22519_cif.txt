@@ -1,0 +1,2 @@
+La30Ni16O64
+Atoms(symbols='La30Ni16O64', pbc=False)

@@ -1,0 +1,2 @@
+GaHfMg14
+Atoms(symbols='HfMg14Ga', pbc=False)

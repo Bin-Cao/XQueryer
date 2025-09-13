@@ -1,0 +1,2 @@
+Be16Ca8O80P12
+Atoms(symbols='Be16Ca8O80P12', pbc=False)

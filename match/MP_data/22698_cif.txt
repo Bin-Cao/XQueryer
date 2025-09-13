@@ -1,0 +1,2 @@
+In4Mn4Na8O36Si8
+Atoms(symbols='Na4Mn2In2Si4O18Na4Mn2In2Si4O18', pbc=False)

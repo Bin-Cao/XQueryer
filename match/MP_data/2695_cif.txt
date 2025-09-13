@@ -1,0 +1,2 @@
+Ru3Si2Th
+Atoms(symbols='ThSi2Ru3', pbc=False)

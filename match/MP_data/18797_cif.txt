@@ -1,0 +1,2 @@
+Pr28Rh12
+Atoms(symbols='Pr14Rh6Pr14Rh6', pbc=False)

@@ -1,0 +1,2 @@
+F2Mo4O14Y2
+Atoms(symbols='Y2Mo4O14F2', pbc=False)

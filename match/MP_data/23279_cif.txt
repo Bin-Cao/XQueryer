@@ -1,0 +1,2 @@
+IrN9O12
+Atoms(symbols='IrN9O12', pbc=False)

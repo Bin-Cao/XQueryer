@@ -1,0 +1,2 @@
+B16Ca8Mn8O52
+Atoms(symbols='B16Ca8Mn8O52', pbc=False)

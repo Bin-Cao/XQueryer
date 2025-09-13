@@ -1,0 +1,2 @@
+CoW
+Atoms(symbols='CoW', pbc=False)

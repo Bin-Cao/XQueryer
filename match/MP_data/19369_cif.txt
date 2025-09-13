@@ -1,0 +1,2 @@
+Cs6F12Ti2
+Atoms(symbols='Cs3TiF6Cs3TiF6', pbc=False)

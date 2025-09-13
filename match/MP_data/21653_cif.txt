@@ -1,0 +1,2 @@
+Bi6Lu6O18
+Atoms(symbols='Lu2Bi2O6Lu2Bi2O6Lu2Bi2O6', pbc=False)

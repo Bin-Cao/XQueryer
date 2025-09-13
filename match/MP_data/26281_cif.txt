@@ -1,0 +1,2 @@
+Cr2Nd2O12Te2
+Atoms(symbols='Nd2Cr2Te2O12', pbc=False)

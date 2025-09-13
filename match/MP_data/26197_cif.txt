@@ -1,0 +1,2 @@
+CrMg149
+Atoms(symbols='CrMg149', pbc=False)

@@ -1,0 +1,2 @@
+FNiO
+Atoms(symbols='NiOF', pbc=False)

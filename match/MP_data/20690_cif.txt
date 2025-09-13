@@ -1,0 +1,2 @@
+F32Pb20
+Atoms(symbols='Pb10F16Pb10F16', pbc=False)

@@ -1,0 +1,2 @@
+Cr4Nb16Si12
+Atoms(symbols='Nb8Cr2Si6Nb8Cr2Si6', pbc=False)

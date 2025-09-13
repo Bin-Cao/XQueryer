@@ -1,0 +1,2 @@
+Cs2K6
+Atoms(symbols='CsK3CsK3', pbc=False)

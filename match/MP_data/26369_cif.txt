@@ -1,0 +1,2 @@
+IMg149
+Atoms(symbols='IMg149', pbc=False)

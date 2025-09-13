@@ -1,0 +1,2 @@
+ReTc
+Atoms(symbols='ReTc', pbc=False)

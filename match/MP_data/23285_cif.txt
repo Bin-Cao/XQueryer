@@ -1,0 +1,2 @@
+K3Rh
+Atoms(symbols='K3Rh', pbc=False)

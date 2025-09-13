@@ -1,0 +1,2 @@
+Ce6Er2
+Atoms(symbols='Ce3ErCe3Er', pbc=False)

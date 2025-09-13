@@ -1,0 +1,2 @@
+Ce8Te12
+Atoms(symbols='Ce8Te12', pbc=False)

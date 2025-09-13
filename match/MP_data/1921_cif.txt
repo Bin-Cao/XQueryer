@@ -1,0 +1,2 @@
+N6Na2O18Rb4
+Atoms(symbols='Rb4Na2N6O18', pbc=False)

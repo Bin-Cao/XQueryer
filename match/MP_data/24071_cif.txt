@@ -1,0 +1,2 @@
+HoZr
+Atoms(symbols='HoZr', pbc=False)

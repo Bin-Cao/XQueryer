@@ -1,0 +1,2 @@
+CuMg5
+Atoms(symbols='Mg5Cu', pbc=False)

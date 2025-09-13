@@ -1,0 +1,2 @@
+AcLa
+Atoms(symbols='AcLa', pbc=False)

@@ -1,0 +1,2 @@
+H18Dy6
+Atoms(symbols='Dy6H18', pbc=False)

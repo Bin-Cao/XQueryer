@@ -1,0 +1,2 @@
+Nd19O60Ti20
+Atoms(symbols='Nd19O60Ti20', pbc=False)

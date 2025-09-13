@@ -1,0 +1,2 @@
+Cu6F28O32Zr4
+Atoms(symbols='Cu6F28O32Zr4', pbc=False)

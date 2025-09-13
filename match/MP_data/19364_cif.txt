@@ -1,0 +1,2 @@
+Dy3Mo18S24
+Atoms(symbols='DyMo6S8DyMo6S8DyMo6S8', pbc=False)

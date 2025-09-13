@@ -1,0 +1,2 @@
+Al22Li2Mg34
+Atoms(symbols='LiMg17Al11LiMg17Al11', pbc=False)

@@ -1,0 +1,2 @@
+La2Mn14O24
+Atoms(symbols='LaMn7O12LaMn7O12', pbc=False)

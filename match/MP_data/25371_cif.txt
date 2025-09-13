@@ -1,0 +1,2 @@
+O12Tl6
+Atoms(symbols='Tl6O12', pbc=False)

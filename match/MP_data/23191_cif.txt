@@ -1,0 +1,2 @@
+O64S8Th4
+Atoms(symbols='O64S8Th4', pbc=False)

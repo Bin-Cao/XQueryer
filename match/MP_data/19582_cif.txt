@@ -1,0 +1,2 @@
+TeU
+Atoms(symbols='UTe', pbc=False)

@@ -1,0 +1,2 @@
+AuLiO14S4
+Atoms(symbols='LiAuS4O14', pbc=False)

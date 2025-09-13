@@ -1,0 +1,2 @@
+As36Pr3Ru12
+Atoms(symbols='PrAs12Ru4PrAs12Ru4PrAs12Ru4', pbc=False)

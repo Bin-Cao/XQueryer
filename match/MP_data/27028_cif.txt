@@ -1,0 +1,2 @@
+Ag10O8P2Te2
+Atoms(symbols='Ag10Te2P2O8', pbc=False)

@@ -1,0 +1,2 @@
+Br4Te8Tl20
+Atoms(symbols='Tl10Te4Br2Tl10Te4Br2', pbc=False)

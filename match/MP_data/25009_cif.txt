@@ -1,0 +1,2 @@
+PaTb
+Atoms(symbols='TbPa', pbc=False)

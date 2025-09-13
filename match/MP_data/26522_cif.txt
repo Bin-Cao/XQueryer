@@ -1,0 +1,2 @@
+Fe2Ga2S14Tb6
+Atoms(symbols='Tb6Ga2Fe2S14', pbc=False)

@@ -1,0 +1,2 @@
+H6Al6Na8O28Si6
+Atoms(symbols='Na8Al6Si6H6O28', pbc=False)

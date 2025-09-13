@@ -1,0 +1,2 @@
+Mn21O36Pb3
+Atoms(symbols='Mn7PbO12Mn7PbO12Mn7PbO12', pbc=False)

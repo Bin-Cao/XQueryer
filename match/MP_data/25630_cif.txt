@@ -1,0 +1,2 @@
+I4N16
+Atoms(symbols='I4N16', pbc=False)

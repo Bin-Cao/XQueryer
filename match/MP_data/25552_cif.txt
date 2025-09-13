@@ -1,0 +1,2 @@
+Be4O32S4
+Atoms(symbols='Be2S2O16Be2S2O16', pbc=False)

@@ -1,0 +1,2 @@
+Co3Fe2Mn3O16
+Atoms(symbols='Mn3Fe2Co3O16', pbc=False)

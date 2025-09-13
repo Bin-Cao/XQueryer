@@ -1,0 +1,2 @@
+Mn2O14Si4Sr4
+Atoms(symbols='Sr4Mn2Si4O14', pbc=False)

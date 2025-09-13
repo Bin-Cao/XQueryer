@@ -1,0 +1,2 @@
+IPm
+Atoms(symbols='PmI', pbc=False)

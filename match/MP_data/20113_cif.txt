@@ -1,0 +1,2 @@
+Mo4O24Si8
+Atoms(symbols='Si4Mo2O12Si4Mo2O12', pbc=False)

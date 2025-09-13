@@ -1,0 +1,2 @@
+CoMo4O15
+Atoms(symbols='CoMo4O15', pbc=False)

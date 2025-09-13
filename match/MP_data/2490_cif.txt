@@ -1,0 +1,2 @@
+La2Mg12Zn2
+Atoms(symbols='LaMg6ZnLaMg6Zn', pbc=False)

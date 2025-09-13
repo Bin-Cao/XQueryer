@@ -1,0 +1,2 @@
+Er3Mo18Se24
+Atoms(symbols='ErMo6Se8ErMo6Se8ErMo6Se8', pbc=False)

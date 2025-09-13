@@ -1,0 +1,2 @@
+La14Mn17O60Sr6Ti3
+Atoms(symbols='La14Mn17O60Sr6Ti3', pbc=False)

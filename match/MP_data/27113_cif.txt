@@ -1,0 +1,2 @@
+Co12Dy2P7
+Atoms(symbols='Dy2Co12P7', pbc=False)

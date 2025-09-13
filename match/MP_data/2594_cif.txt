@@ -1,0 +1,2 @@
+Lu4Pt4
+Atoms(symbols='Lu4Pt4', pbc=False)

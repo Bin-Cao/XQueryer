@@ -1,0 +1,2 @@
+CeCl6K2Rb
+Atoms(symbols='K2RbCeCl6', pbc=False)

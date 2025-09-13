@@ -1,0 +1,2 @@
+C12Nd4O40
+Atoms(symbols='Nd4C12O40', pbc=False)

@@ -1,0 +1,2 @@
+As12O24
+Atoms(symbols='As12O24', pbc=False)

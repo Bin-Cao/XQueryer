@@ -1,0 +1,2 @@
+Co5O15Sm10
+Atoms(symbols='Sm10Co5O15', pbc=False)

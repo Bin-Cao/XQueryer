@@ -1,0 +1,2 @@
+Li3Mo18Se24
+Atoms(symbols='LiMo6Se8LiMo6Se8LiMo6Se8', pbc=False)

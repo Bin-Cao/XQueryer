@@ -1,0 +1,2 @@
+K2Na8O44Pd2Te4
+Atoms(symbols='K2Na8Te4Pd2O44', pbc=False)

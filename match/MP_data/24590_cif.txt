@@ -1,0 +1,2 @@
+KPm
+Atoms(symbols='KPm', pbc=False)

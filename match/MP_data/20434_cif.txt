@@ -1,0 +1,2 @@
+O28Ti8Y8
+Atoms(symbols='Y8Ti8O28', pbc=False)

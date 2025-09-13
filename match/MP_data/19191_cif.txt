@@ -1,0 +1,2 @@
+B18Ce12Co9
+Atoms(symbols='Ce4Co3B6Ce4Co3B6Ce4Co3B6', pbc=False)

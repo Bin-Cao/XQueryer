@@ -1,0 +1,2 @@
+I2K10Mo12O58
+Atoms(symbols='I2K10Mo12O58', pbc=False)

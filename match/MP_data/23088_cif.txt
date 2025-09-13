@@ -1,0 +1,2 @@
+Eu4Ho2O12Ta2
+Atoms(symbols='Eu4Ho2Ta2O12', pbc=False)
