@@ -1,0 +1,2 @@
+In4Pr12Se24
+Atoms(symbols='Pr12In4Se24', pbc=False)

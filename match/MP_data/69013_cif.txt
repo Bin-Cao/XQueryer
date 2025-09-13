@@ -1,0 +1,2 @@
+CuHf2Sb3
+Atoms(symbols='Hf2CuSb3', pbc=False)

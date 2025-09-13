@@ -1,0 +1,2 @@
+Cu4Mg2O12Pr2
+Atoms(symbols='Pr2Mg2Cu4O12', pbc=False)

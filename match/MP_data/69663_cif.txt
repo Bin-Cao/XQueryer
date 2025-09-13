@@ -1,0 +1,2 @@
+Ag2Ge2La2
+Atoms(symbols='La2Ag2Ge2', pbc=False)

@@ -1,0 +1,2 @@
+O28Sn20
+Atoms(symbols='Sn10O14Sn10O14', pbc=False)

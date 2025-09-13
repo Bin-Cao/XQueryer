@@ -1,0 +1,2 @@
+Pd4Sn2U4
+Atoms(symbols='U4Sn2Pd4', pbc=False)

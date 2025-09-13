@@ -1,0 +1,2 @@
+Cu28S16Tl4
+Atoms(symbols='Tl4Cu28S16', pbc=False)

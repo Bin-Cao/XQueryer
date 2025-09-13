@@ -1,0 +1,2 @@
+Ni4O16Pr8
+Atoms(symbols='Pr4Ni2O8Pr4Ni2O8', pbc=False)

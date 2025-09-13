@@ -1,0 +1,2 @@
+PY
+Atoms(symbols='YP', pbc=False)

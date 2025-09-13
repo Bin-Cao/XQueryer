@@ -1,0 +1,2 @@
+Ce3Mg3Tl3
+Atoms(symbols='Ce3Mg3Tl3', pbc=False)

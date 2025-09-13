@@ -1,0 +1,2 @@
+Ga20Lu12O48
+Atoms(symbols='Ga20Lu12O48', pbc=False)

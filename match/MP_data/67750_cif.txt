@@ -1,0 +1,2 @@
+Al36Re3
+Atoms(symbols='Al12ReAl12ReAl12Re', pbc=False)

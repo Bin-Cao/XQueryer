@@ -1,0 +1,2 @@
+CsMgO5V2
+Atoms(symbols='CsMgV2O5', pbc=False)

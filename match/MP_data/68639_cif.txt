@@ -1,0 +1,2 @@
+C20B8Dy20
+Atoms(symbols='Dy20B8C20', pbc=False)

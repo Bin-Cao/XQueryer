@@ -1,0 +1,2 @@
+Ca8Co8Mo16O56
+Atoms(symbols='Ca8Co8Mo16O56', pbc=False)

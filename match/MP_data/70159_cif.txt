@@ -1,0 +1,2 @@
+CaFe3O12Ti4
+Atoms(symbols='CaTi4Fe3O12', pbc=False)

@@ -1,0 +1,2 @@
+TiZn
+Atoms(symbols='TiZn', pbc=False)

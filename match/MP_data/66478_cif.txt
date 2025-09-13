@@ -1,0 +1,2 @@
+O20S12Sb20
+Atoms(symbols='Sb20S12O20', pbc=False)

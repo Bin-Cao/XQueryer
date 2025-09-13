@@ -1,0 +1,2 @@
+Be16Mo8
+Atoms(symbols='Be8Mo4Be8Mo4', pbc=False)

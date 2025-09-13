@@ -1,0 +1,2 @@
+B24Ho16O60
+Atoms(symbols='B24Ho16O60', pbc=False)

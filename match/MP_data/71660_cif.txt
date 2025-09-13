@@ -1,0 +1,2 @@
+MgO8PrRe2
+Atoms(symbols='PrMgRe2O8', pbc=False)

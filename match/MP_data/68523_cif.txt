@@ -1,0 +1,2 @@
+Fe3Ga
+Atoms(symbols='GaFe3', pbc=False)

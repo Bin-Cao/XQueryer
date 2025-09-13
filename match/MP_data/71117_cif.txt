@@ -1,0 +1,2 @@
+Mo20O32Pb4
+Atoms(symbols='Mo20Pb4O32', pbc=False)

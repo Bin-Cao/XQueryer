@@ -1,0 +1,2 @@
+Ge68Na8Rb4
+Atoms(symbols='Ge68Na8Rb4', pbc=False)

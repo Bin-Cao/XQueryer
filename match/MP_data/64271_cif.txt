@@ -1,0 +1,2 @@
+BiN
+Atoms(symbols='BiN', pbc=False)

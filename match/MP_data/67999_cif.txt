@@ -1,0 +1,2 @@
+O25Ta9V
+Atoms(symbols='Ta9VO25', pbc=False)

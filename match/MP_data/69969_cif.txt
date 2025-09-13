@@ -1,0 +1,2 @@
+Ir24Si40
+Atoms(symbols='Ir24Si40', pbc=False)

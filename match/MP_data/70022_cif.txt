@@ -1,0 +1,2 @@
+Ir4La8Ni4O24
+Atoms(symbols='La8Ni4Ir4O24', pbc=False)

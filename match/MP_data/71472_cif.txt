@@ -1,0 +1,2 @@
+Mg2Na10O12Re2
+Atoms(symbols='Na5MgReO6Na5MgReO6', pbc=False)

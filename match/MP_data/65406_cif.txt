@@ -1,0 +1,2 @@
+F18Mo3Zn3
+Atoms(symbols='ZnMoF6ZnMoF6ZnMoF6', pbc=False)

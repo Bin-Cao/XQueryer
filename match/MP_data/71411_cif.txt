@@ -1,0 +1,2 @@
+In2Mg2O16Rb2W4
+Atoms(symbols='RbMgInW2O8RbMgInW2O8', pbc=False)

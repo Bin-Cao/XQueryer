@@ -1,0 +1,2 @@
+C18H18K2Mn7O40
+Atoms(symbols='C18H18K2Mn7O40', pbc=False)

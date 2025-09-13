@@ -1,0 +1,2 @@
+K12Na4O32W8
+Atoms(symbols='K6Na2W4O16K6Na2W4O16', pbc=False)

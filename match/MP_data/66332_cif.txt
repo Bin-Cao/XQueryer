@@ -1,0 +1,2 @@
+La6Mg3O18Sn3
+Atoms(symbols='La2MgSnO6La2MgSnO6La2MgSnO6', pbc=False)

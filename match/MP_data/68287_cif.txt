@@ -1,0 +1,2 @@
+Hg16O56Te16
+Atoms(symbols='Hg16O56Te16', pbc=False)

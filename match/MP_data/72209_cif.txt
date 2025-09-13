@@ -1,0 +1,2 @@
+CoLa2MgO6Ti
+Atoms(symbols='La2MgTiCoO6', pbc=False)

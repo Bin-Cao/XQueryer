@@ -1,0 +1,2 @@
+La6O18Te3
+Atoms(symbols='La2TeO6La2TeO6La2TeO6', pbc=False)

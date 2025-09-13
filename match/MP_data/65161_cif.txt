@@ -1,0 +1,2 @@
+Al16Ca8O32
+Atoms(symbols='Ca8Al16O32', pbc=False)

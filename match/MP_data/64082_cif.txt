@@ -1,0 +1,2 @@
+Ca4Ni2O12W2
+Atoms(symbols='Ca2NiWO6Ca2NiWO6', pbc=False)

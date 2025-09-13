@@ -1,0 +1,2 @@
+IMgNaNiO6
+Atoms(symbols='NaMgNiIO6', pbc=False)

@@ -1,0 +1,2 @@
+ErRh5
+Atoms(symbols='ErRh5', pbc=False)

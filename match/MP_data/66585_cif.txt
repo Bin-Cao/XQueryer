@@ -1,0 +1,2 @@
+PSc
+Atoms(symbols='ScP', pbc=False)

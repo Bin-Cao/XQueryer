@@ -1,0 +1,2 @@
+F72Li36V12
+Atoms(symbols='F72Li36V12', pbc=False)

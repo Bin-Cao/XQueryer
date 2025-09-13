@@ -1,0 +1,2 @@
+MgNiO7P2
+Atoms(symbols='MgNiP2O7', pbc=False)

@@ -1,0 +1,2 @@
+FeZn13
+Atoms(symbols='Zn13Fe', pbc=False)

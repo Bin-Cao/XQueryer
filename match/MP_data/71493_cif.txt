@@ -1,0 +1,2 @@
+Cr2Er2MgO8
+Atoms(symbols='Er2MgCr2O8', pbc=False)

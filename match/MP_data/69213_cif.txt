@@ -1,0 +1,2 @@
+Cu6Se4
+Atoms(symbols='Cu6Se4', pbc=False)

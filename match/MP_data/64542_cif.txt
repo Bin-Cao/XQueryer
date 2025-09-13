@@ -1,0 +1,2 @@
+Ge8N12Na4
+Atoms(symbols='Na2Ge4N6Na2Ge4N6', pbc=False)

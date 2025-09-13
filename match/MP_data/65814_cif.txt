@@ -1,0 +1,2 @@
+F18Ti3Zn3
+Atoms(symbols='TiZnF6TiZnF6TiZnF6', pbc=False)

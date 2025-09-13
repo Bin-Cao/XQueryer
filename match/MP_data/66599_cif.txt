@@ -1,0 +1,2 @@
+Al4Ho8
+Atoms(symbols='Ho8Al4', pbc=False)

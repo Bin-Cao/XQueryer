@@ -1,0 +1,2 @@
+Cr2Mo2O14V2
+Atoms(symbols='V2Cr2Mo2O14', pbc=False)

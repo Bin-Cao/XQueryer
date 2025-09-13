@@ -1,0 +1,2 @@
+EuHg2
+Atoms(symbols='EuHg2', pbc=False)

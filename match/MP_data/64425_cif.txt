@@ -1,0 +1,2 @@
+Mg2Si4
+Atoms(symbols='MgSi2MgSi2', pbc=False)

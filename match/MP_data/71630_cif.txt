@@ -1,0 +1,2 @@
+CuMgNdO8W2
+Atoms(symbols='NdMgCuW2O8', pbc=False)

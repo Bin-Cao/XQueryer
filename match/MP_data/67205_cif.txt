@@ -1,0 +1,2 @@
+K4S32Sb20
+Atoms(symbols='K4Sb20S32', pbc=False)

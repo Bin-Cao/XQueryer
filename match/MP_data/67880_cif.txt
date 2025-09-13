@@ -1,0 +1,2 @@
+K2O4
+Atoms(symbols='KO2KO2', pbc=False)

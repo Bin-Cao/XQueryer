@@ -1,0 +1,2 @@
+La2Na2O24Se8
+Atoms(symbols='NaLaSe4O12NaLaSe4O12', pbc=False)

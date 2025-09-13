@@ -1,0 +1,2 @@
+Cu8F56Ga8Na16
+Atoms(symbols='Cu8F56Ga8Na16', pbc=False)

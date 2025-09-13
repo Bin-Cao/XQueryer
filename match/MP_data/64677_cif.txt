@@ -1,0 +1,2 @@
+Ba4Ca2Cu2F28Sn4
+Atoms(symbols='Ba4Ca2Cu2Sn4F28', pbc=False)

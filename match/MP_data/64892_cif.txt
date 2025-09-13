@@ -1,0 +1,2 @@
+Eu2Ge8Na2O24
+Atoms(symbols='NaEuGe4O12NaEuGe4O12', pbc=False)

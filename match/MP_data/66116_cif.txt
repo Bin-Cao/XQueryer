@@ -1,0 +1,2 @@
+B10Cu2Lu2O20
+Atoms(symbols='Lu2Cu2B10O20', pbc=False)

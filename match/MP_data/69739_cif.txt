@@ -1,0 +1,2 @@
+BaDyFe2O5
+Atoms(symbols='BaDyFe2O5', pbc=False)

@@ -1,0 +1,2 @@
+O12V5
+Atoms(symbols='V5O12', pbc=False)

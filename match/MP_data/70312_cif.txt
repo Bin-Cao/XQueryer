@@ -1,0 +1,2 @@
+B4Nb4Ni8O24
+Atoms(symbols='Nb4Ni8B4O24', pbc=False)

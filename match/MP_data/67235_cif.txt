@@ -1,0 +1,2 @@
+F32Na12Ta4
+Atoms(symbols='Na6Ta2F16Na6Ta2F16', pbc=False)

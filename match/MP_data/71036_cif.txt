@@ -1,0 +1,2 @@
+Cr30P19U2
+Atoms(symbols='U2Cr30P19', pbc=False)

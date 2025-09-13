@@ -1,0 +1,2 @@
+Fe2Li2O14P4
+Atoms(symbols='Li2Fe2P4O14', pbc=False)

@@ -1,0 +1,2 @@
+Cu2FeMgS4Sn
+Atoms(symbols='MgFeCu2SnS4', pbc=False)

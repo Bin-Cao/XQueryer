@@ -1,0 +1,2 @@
+N50Sb50
+Atoms(symbols='N50Sb50', pbc=False)

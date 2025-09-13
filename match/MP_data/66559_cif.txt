@@ -1,0 +1,2 @@
+Ge12Hf20
+Atoms(symbols='Hf10Ge6Hf10Ge6', pbc=False)

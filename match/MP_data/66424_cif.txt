@@ -1,0 +1,2 @@
+Mo4N4
+Atoms(symbols='MoNMoNMoNMoN', pbc=False)

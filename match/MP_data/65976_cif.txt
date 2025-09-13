@@ -1,0 +1,2 @@
+F9In3Mn3
+Atoms(symbols='MnInF3MnInF3MnInF3', pbc=False)

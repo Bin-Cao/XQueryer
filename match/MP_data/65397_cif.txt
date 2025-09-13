@@ -1,0 +1,2 @@
+Ca2Eu2O24Sn8
+Atoms(symbols='CaEuSn4O12CaEuSn4O12', pbc=False)

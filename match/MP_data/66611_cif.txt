@@ -1,0 +1,2 @@
+Ba2Bi2Eu2O12Sm2
+Atoms(symbols='Ba2Sm2Eu2Bi2O12', pbc=False)

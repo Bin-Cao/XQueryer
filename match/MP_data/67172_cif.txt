@@ -1,0 +1,2 @@
+F80U16
+Atoms(symbols='F80U16', pbc=False)

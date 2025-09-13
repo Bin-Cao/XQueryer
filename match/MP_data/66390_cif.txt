@@ -1,0 +1,2 @@
+O28Pr8Ti8
+Atoms(symbols='Pr8Ti8O28', pbc=False)

@@ -1,0 +1,2 @@
+GaMgO6SbSr2
+Atoms(symbols='Sr2MgGaSbO6', pbc=False)

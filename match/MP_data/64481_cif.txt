@@ -1,0 +1,2 @@
+Cs4Ni6Se8
+Atoms(symbols='Cs2Ni3Se4Cs2Ni3Se4', pbc=False)

@@ -1,0 +1,2 @@
+Mg2O16Sc4V4
+Atoms(symbols='MgSc2V2O8MgSc2V2O8', pbc=False)

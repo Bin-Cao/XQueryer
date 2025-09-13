@@ -1,0 +1,2 @@
+Dy8Si16Ti12
+Atoms(symbols='Dy8Ti12Si16', pbc=False)

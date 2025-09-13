@@ -1,0 +1,2 @@
+Ga2MnS4
+Atoms(symbols='MnGa2S4', pbc=False)

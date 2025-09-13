@@ -1,0 +1,2 @@
+B6Co4O13
+Atoms(symbols='Co4B6O13', pbc=False)

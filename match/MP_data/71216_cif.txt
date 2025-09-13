@@ -1,0 +1,2 @@
+F84Ga12Mn12Na24
+Atoms(symbols='F84Ga12Mn12Na24', pbc=False)

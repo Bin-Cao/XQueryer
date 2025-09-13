@@ -1,0 +1,2 @@
+F14O2V6
+Atoms(symbols='V6O2F14', pbc=False)

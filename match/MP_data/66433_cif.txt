@@ -1,0 +1,2 @@
+Ho4Pt4Sb4
+Atoms(symbols='HoSbPtHoSbPtHoSbPtHoSbPt', pbc=False)

@@ -1,0 +1,2 @@
+CoO6V2
+Atoms(symbols='V2CoO6', pbc=False)

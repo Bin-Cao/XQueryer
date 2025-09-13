@@ -1,0 +1,2 @@
+SnTe
+Atoms(symbols='SnTe', pbc=False)

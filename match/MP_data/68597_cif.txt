@@ -1,0 +1,2 @@
+InSb
+Atoms(symbols='InSb', pbc=False)

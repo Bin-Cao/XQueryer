@@ -1,0 +1,2 @@
+Co12O24Zn3
+Atoms(symbols='ZnCo4O8ZnCo4O8ZnCo4O8', pbc=False)

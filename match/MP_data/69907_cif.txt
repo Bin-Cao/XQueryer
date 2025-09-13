@@ -1,0 +1,2 @@
+Ga5NiU
+Atoms(symbols='UGa5Ni', pbc=False)

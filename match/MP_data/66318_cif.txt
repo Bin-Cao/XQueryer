@@ -1,0 +1,2 @@
+Hf2P4S12
+Atoms(symbols='Hf2P4S12', pbc=False)

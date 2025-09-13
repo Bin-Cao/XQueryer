@@ -1,0 +1,2 @@
+CH22Al2Ca4O20
+Atoms(symbols='Ca4Al2H22CO20', pbc=False)

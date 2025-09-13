@@ -1,0 +1,2 @@
+Co4MgO8Zn
+Atoms(symbols='MgZnCo4O8', pbc=False)

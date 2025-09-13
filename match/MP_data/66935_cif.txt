@@ -1,0 +1,2 @@
+Ag4O52P16Ta4
+Atoms(symbols='Ag4O52P16Ta4', pbc=False)

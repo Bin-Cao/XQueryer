@@ -1,0 +1,2 @@
+Eu6Li12O24Si6
+Atoms(symbols='Li6Eu3Si3O12Li6Eu3Si3O12', pbc=False)

@@ -1,0 +1,2 @@
+O240Si120
+Atoms(symbols='O240Si120', pbc=False)

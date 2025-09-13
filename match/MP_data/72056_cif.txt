@@ -1,0 +1,2 @@
+MgO12Te3W
+Atoms(symbols='MgTe3WO12', pbc=False)

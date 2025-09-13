@@ -1,0 +1,2 @@
+Nb8Ni4O24
+Atoms(symbols='Nb8Ni4O24', pbc=False)

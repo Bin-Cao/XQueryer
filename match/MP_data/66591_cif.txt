@@ -1,0 +1,2 @@
+CuGe4Ho2O12
+Atoms(symbols='Ho2CuGe4O12', pbc=False)

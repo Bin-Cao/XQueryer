@@ -1,0 +1,2 @@
+Gd6In6Ir6
+Atoms(symbols='Gd3In3Ir3Gd3In3Ir3', pbc=False)

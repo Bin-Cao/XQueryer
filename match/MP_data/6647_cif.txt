@@ -1,0 +1,2 @@
+Ge8Ni4O24
+Atoms(symbols='Ni4Ge8O24', pbc=False)

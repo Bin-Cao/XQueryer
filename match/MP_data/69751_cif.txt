@@ -1,0 +1,2 @@
+Co6Cu12O42Sr12Y4
+Atoms(symbols='Co6Cu12O42Sr12Y4', pbc=False)

@@ -1,0 +1,2 @@
+MgO3SrTi
+Atoms(symbols='SrMgTiO3', pbc=False)

@@ -1,0 +1,2 @@
+Te4Zr12
+Atoms(symbols='Zr12Te4', pbc=False)

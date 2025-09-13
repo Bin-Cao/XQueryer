@@ -1,0 +1,2 @@
+Ca2Eu2Na2O12W2
+Atoms(symbols='Na2Ca2Eu2W2O12', pbc=False)

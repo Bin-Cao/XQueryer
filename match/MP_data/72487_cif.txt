@@ -1,0 +1,2 @@
+Fe2MgO12Se4Sr
+Atoms(symbols='SrMgFe2Se4O12', pbc=False)

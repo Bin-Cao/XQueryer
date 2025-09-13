@@ -1,0 +1,2 @@
+CeFeGe3
+Atoms(symbols='CeFeGe3', pbc=False)

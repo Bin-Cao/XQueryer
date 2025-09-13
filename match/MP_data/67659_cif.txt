@@ -1,0 +1,2 @@
+Sb24Sr16
+Atoms(symbols='Sr16Sb24', pbc=False)

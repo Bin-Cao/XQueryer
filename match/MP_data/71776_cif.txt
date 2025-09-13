@@ -1,0 +1,2 @@
+FeLaMgO3
+Atoms(symbols='LaMgFeO3', pbc=False)

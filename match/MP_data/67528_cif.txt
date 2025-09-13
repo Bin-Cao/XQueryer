@@ -1,0 +1,2 @@
+K6O16P4Sm2
+Atoms(symbols='K6Sm2P4O16', pbc=False)

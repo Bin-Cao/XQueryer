@@ -1,0 +1,2 @@
+HoRh
+Atoms(symbols='HoRh', pbc=False)

@@ -1,0 +1,2 @@
+Hg2U
+Atoms(symbols='UHg2', pbc=False)

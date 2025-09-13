@@ -1,0 +1,2 @@
+CuLi2O12V5
+Atoms(symbols='Li2V5CuO12', pbc=False)

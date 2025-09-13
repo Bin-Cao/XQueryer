@@ -1,0 +1,2 @@
+Mg2Mn2O8Sr4
+Atoms(symbols='Sr2MgMnO4Sr2MgMnO4', pbc=False)

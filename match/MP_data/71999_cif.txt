@@ -1,0 +1,2 @@
+CuMgNaO2
+Atoms(symbols='NaMgCuO2', pbc=False)

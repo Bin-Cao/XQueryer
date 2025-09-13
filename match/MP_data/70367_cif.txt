@@ -1,0 +1,2 @@
+As8In4K8Na4
+Atoms(symbols='K4Na2In2As4K4Na2In2As4', pbc=False)

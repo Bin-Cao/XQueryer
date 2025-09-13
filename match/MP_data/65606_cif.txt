@@ -1,0 +1,2 @@
+Na2O16Ta6
+Atoms(symbols='Na2Ta6O16', pbc=False)

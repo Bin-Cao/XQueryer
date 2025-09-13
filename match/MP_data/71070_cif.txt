@@ -1,0 +1,2 @@
+Br2Fe2MgO5Sr3
+Atoms(symbols='Sr3MgFe2Br2O5', pbc=False)

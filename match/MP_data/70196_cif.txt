@@ -1,0 +1,2 @@
+Pa6Sb8
+Atoms(symbols='Pa6Sb8', pbc=False)

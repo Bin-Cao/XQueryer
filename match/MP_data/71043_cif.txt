@@ -1,0 +1,2 @@
+FeMgO4Ti
+Atoms(symbols='MgTiFeO4', pbc=False)

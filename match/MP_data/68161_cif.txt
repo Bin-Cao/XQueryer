@@ -1,0 +1,2 @@
+Er4F28Pt4
+Atoms(symbols='Er4Pt4F28', pbc=False)

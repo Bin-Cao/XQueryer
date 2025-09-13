@@ -1,0 +1,2 @@
+CoO24P6Sn2V3
+Atoms(symbols='V3CoSn2P6O24', pbc=False)

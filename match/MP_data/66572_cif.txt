@@ -1,0 +1,2 @@
+K6Te6
+Atoms(symbols='K6Te6', pbc=False)

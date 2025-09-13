@@ -1,0 +1,2 @@
+La4O22Si4V5
+Atoms(symbols='La4V5Si4O22', pbc=False)

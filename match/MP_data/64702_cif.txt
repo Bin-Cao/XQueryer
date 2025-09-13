@@ -1,0 +1,2 @@
+F10Mo2
+Atoms(symbols='MoF5MoF5', pbc=False)

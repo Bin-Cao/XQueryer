@@ -1,0 +1,2 @@
+Ir2O14Sm6
+Atoms(symbols='Sm6Ir2O14', pbc=False)

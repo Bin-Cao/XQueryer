@@ -1,0 +1,2 @@
+AsKZn
+Atoms(symbols='KZnAs', pbc=False)

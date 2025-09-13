@@ -1,0 +1,2 @@
+La4P28
+Atoms(symbols='La4P28', pbc=False)

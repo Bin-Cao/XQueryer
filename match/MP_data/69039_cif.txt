@@ -1,0 +1,2 @@
+K12Mn2S8
+Atoms(symbols='K12Mn2S8', pbc=False)

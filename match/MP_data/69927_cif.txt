@@ -1,0 +1,2 @@
+Hf4In10
+Atoms(symbols='Hf4In10', pbc=False)

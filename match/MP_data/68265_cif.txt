@@ -1,0 +1,2 @@
+Al26Ba14
+Atoms(symbols='Ba7Al13Ba7Al13', pbc=False)

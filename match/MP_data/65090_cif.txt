@@ -1,0 +1,2 @@
+Hf8Na2O24Sm2
+Atoms(symbols='NaSmHf4O12NaSmHf4O12', pbc=False)

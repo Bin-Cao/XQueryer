@@ -1,0 +1,2 @@
+B12Fe9O36Tb3
+Atoms(symbols='TbFe3B4O12TbFe3B4O12TbFe3B4O12', pbc=False)

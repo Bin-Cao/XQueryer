@@ -1,0 +1,2 @@
+Co4F20Zn4
+Atoms(symbols='Zn2Co2F10Zn2Co2F10', pbc=False)

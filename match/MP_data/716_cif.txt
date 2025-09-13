@@ -1,0 +1,2 @@
+CoMg3
+Atoms(symbols='Mg3Co', pbc=False)

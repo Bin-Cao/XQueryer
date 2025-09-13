@@ -1,0 +1,2 @@
+Dy2K2O24Ti8
+Atoms(symbols='KDyTi4O12KDyTi4O12', pbc=False)

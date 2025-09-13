@@ -1,0 +1,2 @@
+CrEuMgO3
+Atoms(symbols='EuMgCrO3', pbc=False)

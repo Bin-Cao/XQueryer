@@ -1,0 +1,2 @@
+As12Cu16K4O48
+Atoms(symbols='As12Cu16K4O48', pbc=False)

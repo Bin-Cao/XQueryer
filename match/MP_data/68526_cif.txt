@@ -1,0 +1,2 @@
+Ge4In2Pr4
+Atoms(symbols='Pr4In2Ge4', pbc=False)

@@ -1,0 +1,2 @@
+Ge2Sm2Ti2
+Atoms(symbols='Sm2Ti2Ge2', pbc=False)

@@ -1,0 +1,2 @@
+Hf12Re12Si24
+Atoms(symbols='Hf12Re12Si24', pbc=False)

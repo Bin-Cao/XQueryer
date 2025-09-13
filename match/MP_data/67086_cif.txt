@@ -1,0 +1,2 @@
+La8O48W12
+Atoms(symbols='La8O48W12', pbc=False)

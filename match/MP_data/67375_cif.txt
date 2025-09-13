@@ -1,0 +1,2 @@
+K12Na4O24Th8
+Atoms(symbols='K6Na2Th4O12K6Na2Th4O12', pbc=False)

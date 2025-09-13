@@ -1,0 +1,2 @@
+Eu4Hg4Sn4
+Atoms(symbols='Eu2Sn2Hg2Eu2Sn2Hg2', pbc=False)

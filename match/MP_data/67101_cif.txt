@@ -1,0 +1,2 @@
+O18Rb4Si6Ti2
+Atoms(symbols='Rb4Ti2Si6O18', pbc=False)

@@ -1,0 +1,2 @@
+CoMgO8Re2
+Atoms(symbols='MgCoRe2O8', pbc=False)

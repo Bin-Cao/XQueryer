@@ -1,0 +1,2 @@
+B24Dy16O60
+Atoms(symbols='B24Dy16O60', pbc=False)

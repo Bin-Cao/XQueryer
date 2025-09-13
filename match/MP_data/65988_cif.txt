@@ -1,0 +1,2 @@
+Fe8Gd2K2O24
+Atoms(symbols='KGdFe4O12KGdFe4O12', pbc=False)

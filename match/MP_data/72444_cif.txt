@@ -1,0 +1,2 @@
+MgNiO3Sr
+Atoms(symbols='SrMgNiO3', pbc=False)

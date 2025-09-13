@@ -1,0 +1,2 @@
+Au6Na18S12
+Atoms(symbols='Na6Au2S4Na6Au2S4Na6Au2S4', pbc=False)

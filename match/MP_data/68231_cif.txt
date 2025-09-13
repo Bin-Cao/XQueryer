@@ -1,0 +1,2 @@
+F3MoNa3O3
+Atoms(symbols='Na3MoO3F3', pbc=False)

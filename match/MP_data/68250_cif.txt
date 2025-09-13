@@ -1,0 +1,2 @@
+TeTh
+Atoms(symbols='ThTe', pbc=False)

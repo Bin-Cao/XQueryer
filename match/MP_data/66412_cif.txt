@@ -1,0 +1,2 @@
+Ca2Ge4Rh4
+Atoms(symbols='CaGe2Rh2CaGe2Rh2', pbc=False)

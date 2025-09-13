@@ -1,0 +1,2 @@
+Ga4La4O2S12Zn2
+Atoms(symbols='La4Zn2Ga4S12O2', pbc=False)

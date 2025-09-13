@@ -1,0 +1,2 @@
+CeTl3
+Atoms(symbols='CeTl3', pbc=False)

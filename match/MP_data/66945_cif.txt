@@ -1,0 +1,2 @@
+As12Ni20Sr4
+Atoms(symbols='Sr2Ni10As6Sr2Ni10As6', pbc=False)

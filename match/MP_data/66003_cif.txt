@@ -1,0 +1,2 @@
+Dy2Fe8O24Sr2
+Atoms(symbols='SrDyFe4O12SrDyFe4O12', pbc=False)

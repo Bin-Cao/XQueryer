@@ -1,0 +1,2 @@
+In2Nb6
+Atoms(symbols='Nb6In2', pbc=False)

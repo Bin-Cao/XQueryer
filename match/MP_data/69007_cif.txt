@@ -1,0 +1,2 @@
+Ag2Co2O4
+Atoms(symbols='Co2Ag2O4', pbc=False)

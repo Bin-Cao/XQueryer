@@ -1,0 +1,2 @@
+Pt4Sn8
+Atoms(symbols='Sn2PtSn2PtSn2PtSn2Pt', pbc=False)

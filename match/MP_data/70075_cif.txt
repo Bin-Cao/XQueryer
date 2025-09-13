@@ -1,0 +1,2 @@
+EuGa2
+Atoms(symbols='EuGa2', pbc=False)

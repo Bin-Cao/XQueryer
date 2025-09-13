@@ -1,0 +1,2 @@
+C60Rb6
+Atoms(symbols='C60Rb6', pbc=False)

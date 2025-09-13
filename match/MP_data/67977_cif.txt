@@ -1,0 +1,2 @@
+Nd4O16Ta4
+Atoms(symbols='Nd4Ta4O16', pbc=False)

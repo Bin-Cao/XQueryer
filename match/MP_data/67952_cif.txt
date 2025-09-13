@@ -1,0 +1,2 @@
+O16P4Tl4Zn4
+Atoms(symbols='Tl4Zn4P4O16', pbc=False)

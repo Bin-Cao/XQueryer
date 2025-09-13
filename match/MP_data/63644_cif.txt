@@ -1,0 +1,2 @@
+Ca4Co2O12Ta2
+Atoms(symbols='Ca4Ta2Co2O12', pbc=False)

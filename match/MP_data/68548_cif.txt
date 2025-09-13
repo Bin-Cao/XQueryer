@@ -1,0 +1,2 @@
+Na20P12Sn4
+Atoms(symbols='Na20Sn4P12', pbc=False)

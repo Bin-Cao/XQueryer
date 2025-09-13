@@ -1,0 +1,2 @@
+S24Sc4U12
+Atoms(symbols='Sc4U12S24', pbc=False)

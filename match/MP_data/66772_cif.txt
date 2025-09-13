@@ -1,0 +1,2 @@
+Mg24N16
+Atoms(symbols='Mg24N16', pbc=False)

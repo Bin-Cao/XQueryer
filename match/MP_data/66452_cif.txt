@@ -1,0 +1,2 @@
+MgTb
+Atoms(symbols='TbMg', pbc=False)

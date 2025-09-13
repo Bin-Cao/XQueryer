@@ -1,0 +1,2 @@
+Se3
+Atoms(symbols='Se3', pbc=False)

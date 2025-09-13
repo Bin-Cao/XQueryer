@@ -1,0 +1,2 @@
+Co8Dy2Nd2O24
+Atoms(symbols='NdDyCo4O12NdDyCo4O12', pbc=False)

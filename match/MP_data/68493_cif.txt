@@ -1,0 +1,2 @@
+Cr4Na4O24Si8
+Atoms(symbols='Na2Cr2Si4O12Na2Cr2Si4O12', pbc=False)

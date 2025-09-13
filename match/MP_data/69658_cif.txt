@@ -1,0 +1,2 @@
+O4Pb4
+Atoms(symbols='Pb4O4', pbc=False)

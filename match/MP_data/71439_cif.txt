@@ -1,0 +1,2 @@
+MgNiO8Re2
+Atoms(symbols='MgRe2NiO8', pbc=False)

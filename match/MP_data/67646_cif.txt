@@ -1,0 +1,2 @@
+LaPt5
+Atoms(symbols='LaPt5', pbc=False)

@@ -1,0 +1,2 @@
+Au2Gd2Sn2
+Atoms(symbols='Gd2Sn2Au2', pbc=False)

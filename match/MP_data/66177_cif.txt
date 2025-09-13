@@ -1,0 +1,2 @@
+B4K6Nb6O24
+Atoms(symbols='K3Nb3B2O12K3Nb3B2O12', pbc=False)

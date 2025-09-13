@@ -1,0 +1,2 @@
+Gd24S32
+Atoms(symbols='Gd6S8Gd6S8Gd6S8Gd6S8', pbc=False)

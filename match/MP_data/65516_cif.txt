@@ -1,0 +1,2 @@
+Cr8La2Na2O24
+Atoms(symbols='NaLaCr4O12NaLaCr4O12', pbc=False)

@@ -1,0 +1,2 @@
+Co6O16Tl6
+Atoms(symbols='Tl6Co6O16', pbc=False)

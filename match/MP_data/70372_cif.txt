@@ -1,0 +1,2 @@
+In10S24Tb6
+Atoms(symbols='Tb6In10S24', pbc=False)

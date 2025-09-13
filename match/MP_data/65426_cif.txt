@@ -1,0 +1,2 @@
+Eu2Hf4O12Sm2
+Atoms(symbols='SmEuHf2O6SmEuHf2O6', pbc=False)

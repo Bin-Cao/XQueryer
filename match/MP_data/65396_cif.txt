@@ -1,0 +1,2 @@
+K2Nd2O24Sn8
+Atoms(symbols='KNdSn4O12KNdSn4O12', pbc=False)

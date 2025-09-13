@@ -1,0 +1,2 @@
+MgMn4NiO8
+Atoms(symbols='MgMn4NiO8', pbc=False)

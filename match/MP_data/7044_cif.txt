@@ -1,0 +1,2 @@
+Cr2Cu4O14Sr4
+Atoms(symbols='Sr4Cr2Cu4O14', pbc=False)

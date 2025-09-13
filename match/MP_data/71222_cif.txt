@@ -1,0 +1,2 @@
+Br4MgMo2O4
+Atoms(symbols='MgMo2Br4O4', pbc=False)

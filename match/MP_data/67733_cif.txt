@@ -1,0 +1,2 @@
+O44Pr8Si8V10
+Atoms(symbols='O44Pr8Si8V10', pbc=False)

@@ -1,0 +1,2 @@
+Fe4Gd2
+Atoms(symbols='Gd2Fe4', pbc=False)

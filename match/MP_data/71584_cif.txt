@@ -1,0 +1,2 @@
+Cu16Mg6Si7
+Atoms(symbols='Mg6Cu16Si7', pbc=False)

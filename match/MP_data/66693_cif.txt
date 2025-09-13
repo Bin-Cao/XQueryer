@@ -1,0 +1,2 @@
+Os16Si24
+Atoms(symbols='Si24Os16', pbc=False)

@@ -1,0 +1,2 @@
+Ca3F18Sb3
+Atoms(symbols='CaSbF6CaSbF6CaSbF6', pbc=False)

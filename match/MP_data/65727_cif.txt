@@ -1,0 +1,2 @@
+Ca2Dy2Mn8O24
+Atoms(symbols='CaDyMn4O12CaDyMn4O12', pbc=False)

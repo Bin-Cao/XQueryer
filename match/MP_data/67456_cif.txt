@@ -1,0 +1,2 @@
+Cu4Dy8O20Sr4
+Atoms(symbols='Sr4Dy8Cu4O20', pbc=False)

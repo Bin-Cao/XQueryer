@@ -1,0 +1,2 @@
+Mg4O16Ti6
+Atoms(symbols='Mg2Ti3O8Mg2Ti3O8', pbc=False)

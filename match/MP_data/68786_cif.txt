@@ -1,0 +1,2 @@
+As6Ba3Ni6O24
+Atoms(symbols='BaNi2As2O8BaNi2As2O8BaNi2As2O8', pbc=False)

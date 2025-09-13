@@ -1,0 +1,2 @@
+HFeMgO2
+Atoms(symbols='MgFeHO2', pbc=False)

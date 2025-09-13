@@ -1,0 +1,2 @@
+MgMnO8V3
+Atoms(symbols='MgMnV3O8', pbc=False)

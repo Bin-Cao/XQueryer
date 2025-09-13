@@ -1,0 +1,2 @@
+Ca2Dy2Ni8O24
+Atoms(symbols='CaDyNi4O12CaDyNi4O12', pbc=False)

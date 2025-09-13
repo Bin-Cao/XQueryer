@@ -1,0 +1,2 @@
+Ni4O28P8Sr4
+Atoms(symbols='Sr4Ni4P8O28', pbc=False)

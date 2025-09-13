@@ -1,0 +1,2 @@
+Co4F11MgO
+Atoms(symbols='MgCo4OF11', pbc=False)

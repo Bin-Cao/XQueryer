@@ -1,0 +1,2 @@
+MgO5Pr2S2Ti2
+Atoms(symbols='Pr2MgTi2S2O5', pbc=False)

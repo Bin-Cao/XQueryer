@@ -1,0 +1,2 @@
+B20Co4Ho4O40
+Atoms(symbols='B20Co4Ho4O40', pbc=False)

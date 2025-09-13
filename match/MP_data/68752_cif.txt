@@ -1,0 +1,2 @@
+AsU
+Atoms(symbols='UAs', pbc=False)

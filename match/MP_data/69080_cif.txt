@@ -1,0 +1,2 @@
+Co2Ge6La2
+Atoms(symbols='LaCoGe3LaCoGe3', pbc=False)

@@ -1,0 +1,2 @@
+Ni20Si12Y4
+Atoms(symbols='Y4Si12Ni20', pbc=False)

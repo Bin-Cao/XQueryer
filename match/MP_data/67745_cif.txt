@@ -1,0 +1,2 @@
+Dy4O32Rb4S8
+Atoms(symbols='Rb4Dy4S8O32', pbc=False)

@@ -1,0 +1,2 @@
+Ca6Co2O12Rh2
+Atoms(symbols='Ca6Co2Rh2O12', pbc=False)

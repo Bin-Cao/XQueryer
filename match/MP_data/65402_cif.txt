@@ -1,0 +1,2 @@
+K2Nd2Ni8O24
+Atoms(symbols='KNdNi4O12KNdNi4O12', pbc=False)

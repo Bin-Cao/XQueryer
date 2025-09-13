@@ -1,0 +1,2 @@
+K9O24P6Sc3
+Atoms(symbols='K9Sc3P6O24', pbc=False)

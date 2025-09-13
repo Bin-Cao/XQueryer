@@ -1,0 +1,2 @@
+Bi4O12Pr2Zn2
+Atoms(symbols='PrZnBi2O6PrZnBi2O6', pbc=False)

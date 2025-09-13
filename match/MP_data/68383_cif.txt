@@ -1,0 +1,2 @@
+Cu3Ge4Na2O12
+Atoms(symbols='Na2Cu3Ge4O12', pbc=False)

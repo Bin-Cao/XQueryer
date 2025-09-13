@@ -1,0 +1,2 @@
+RuV
+Atoms(symbols='VRu', pbc=False)

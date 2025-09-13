@@ -1,0 +1,2 @@
+Gd2K2O12Sn2W2
+Atoms(symbols='K2Gd2Sn2W2O12', pbc=False)

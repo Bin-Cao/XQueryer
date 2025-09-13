@@ -1,0 +1,2 @@
+Se18
+Atoms(symbols='Se18', pbc=False)

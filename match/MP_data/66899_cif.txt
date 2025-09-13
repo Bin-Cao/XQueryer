@@ -1,0 +1,2 @@
+Ba4K4P4S16
+Atoms(symbols='K4Ba4P4S16', pbc=False)

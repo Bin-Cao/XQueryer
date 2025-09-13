@@ -1,0 +1,2 @@
+Mg3Ni20P6
+Atoms(symbols='Mg3Ni20P6', pbc=False)

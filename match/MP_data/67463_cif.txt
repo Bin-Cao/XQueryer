@@ -1,0 +1,2 @@
+Ni8Si4Zn12
+Atoms(symbols='Zn12Si4Ni8', pbc=False)

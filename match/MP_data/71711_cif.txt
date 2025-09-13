@@ -1,0 +1,2 @@
+CeMgO6Ti2
+Atoms(symbols='CeMgTi2O6', pbc=False)

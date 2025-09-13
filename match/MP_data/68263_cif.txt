@@ -1,0 +1,2 @@
+Si2Te2Zr2
+Atoms(symbols='Zr2Si2Te2', pbc=False)

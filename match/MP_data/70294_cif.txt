@@ -1,0 +1,2 @@
+Ni24P12Sm6
+Atoms(symbols='Sm6Ni24P12', pbc=False)

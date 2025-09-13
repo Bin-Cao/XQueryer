@@ -1,0 +1,2 @@
+Dy2Fe8Na2O24
+Atoms(symbols='NaDyFe4O12NaDyFe4O12', pbc=False)

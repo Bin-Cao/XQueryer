@@ -1,0 +1,2 @@
+Cr12F84Mn12Na24
+Atoms(symbols='Cr12F84Mn12Na24', pbc=False)

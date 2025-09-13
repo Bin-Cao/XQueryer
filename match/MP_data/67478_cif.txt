@@ -1,0 +1,2 @@
+K8Na12O16Tl4
+Atoms(symbols='K8Na12Tl4O16', pbc=False)

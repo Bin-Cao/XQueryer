@@ -1,0 +1,2 @@
+H4Na6O18S4Zn
+Atoms(symbols='Na6ZnH4S4O18', pbc=False)

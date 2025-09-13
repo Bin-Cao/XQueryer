@@ -1,0 +1,2 @@
+Co2MgMnO6
+Atoms(symbols='MgMnCo2O6', pbc=False)

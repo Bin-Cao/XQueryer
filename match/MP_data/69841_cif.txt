@@ -1,0 +1,2 @@
+Ba2NiO6Re
+Atoms(symbols='Ba2ReNiO6', pbc=False)

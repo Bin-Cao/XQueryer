@@ -1,0 +1,2 @@
+Ni3O6Te
+Atoms(symbols='Ni3TeO6', pbc=False)

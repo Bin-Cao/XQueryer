@@ -1,0 +1,2 @@
+Eu2Na2O12Zr4
+Atoms(symbols='NaEuZr2O6NaEuZr2O6', pbc=False)

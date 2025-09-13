@@ -1,0 +1,2 @@
+Ca2O13W9
+Atoms(symbols='Ca2W9O13', pbc=False)

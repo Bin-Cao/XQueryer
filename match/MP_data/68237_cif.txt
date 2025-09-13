@@ -1,0 +1,2 @@
+Fe2O6Sr3
+Atoms(symbols='Sr3Fe2O6', pbc=False)

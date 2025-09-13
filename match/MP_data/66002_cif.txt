@@ -1,0 +1,2 @@
+In2K2O24W8
+Atoms(symbols='KInW4O12KInW4O12', pbc=False)

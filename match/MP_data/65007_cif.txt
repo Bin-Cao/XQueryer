@@ -1,0 +1,2 @@
+Li2Na2O24W8
+Atoms(symbols='NaLiW4O12NaLiW4O12', pbc=False)

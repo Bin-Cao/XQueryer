@@ -1,0 +1,2 @@
+Er10Mg48
+Atoms(symbols='Er5Mg24Er5Mg24', pbc=False)

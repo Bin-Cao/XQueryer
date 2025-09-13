@@ -1,0 +1,2 @@
+In2Nd4
+Atoms(symbols='Nd4In2', pbc=False)

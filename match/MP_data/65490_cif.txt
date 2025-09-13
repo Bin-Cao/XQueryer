@@ -1,0 +1,2 @@
+Nb16O40
+Atoms(symbols='Nb16O40', pbc=False)

@@ -1,0 +1,2 @@
+Co8Eu2Na2O24
+Atoms(symbols='NaEuCo4O12NaEuCo4O12', pbc=False)

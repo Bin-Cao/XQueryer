@@ -1,0 +1,2 @@
+S32Ti8Tl16
+Atoms(symbols='Ti8Tl16S32', pbc=False)

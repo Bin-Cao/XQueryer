@@ -1,0 +1,2 @@
+Co6Ga18Ho4
+Atoms(symbols='Ho4Ga18Co6', pbc=False)

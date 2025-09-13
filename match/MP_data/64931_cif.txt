@@ -1,0 +1,2 @@
+F28In4Sr8
+Atoms(symbols='Sr8In4F28', pbc=False)

@@ -1,0 +1,2 @@
+Ca2Cu4O12Pr2
+Atoms(symbols='Ca2Pr2Cu4O12', pbc=False)

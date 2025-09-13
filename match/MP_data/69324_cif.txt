@@ -1,0 +1,2 @@
+Co3O6Pd3
+Atoms(symbols='CoPdO2CoPdO2CoPdO2', pbc=False)

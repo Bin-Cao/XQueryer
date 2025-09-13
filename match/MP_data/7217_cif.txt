@@ -1,0 +1,2 @@
+Mg4O32P8Ti8
+Atoms(symbols='Mg4Ti8P8O32', pbc=False)

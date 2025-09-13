@@ -1,0 +1,2 @@
+BaCoDy2O5
+Atoms(symbols='BaDy2CoO5', pbc=False)

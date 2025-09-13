@@ -1,0 +1,2 @@
+InMgNi2O6Sb
+Atoms(symbols='MgInNi2SbO6', pbc=False)

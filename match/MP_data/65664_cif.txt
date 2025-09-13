@@ -1,0 +1,2 @@
+Ba3F18Ge3
+Atoms(symbols='BaGeF6BaGeF6BaGeF6', pbc=False)

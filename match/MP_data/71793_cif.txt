@@ -1,0 +1,2 @@
+F3MgOSb
+Atoms(symbols='MgSbOF3', pbc=False)

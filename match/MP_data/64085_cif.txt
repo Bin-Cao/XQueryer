@@ -1,0 +1,2 @@
+NiO6V2
+Atoms(symbols='V2NiO6', pbc=False)

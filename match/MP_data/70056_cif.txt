@@ -1,0 +1,2 @@
+B3Ge3La3O15
+Atoms(symbols='La3Ge3B3O15', pbc=False)

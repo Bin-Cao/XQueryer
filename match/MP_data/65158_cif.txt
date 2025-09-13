@@ -1,0 +1,2 @@
+Ce2K2O24Zr8
+Atoms(symbols='KCeZr4O12KCeZr4O12', pbc=False)

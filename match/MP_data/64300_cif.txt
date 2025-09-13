@@ -1,0 +1,2 @@
+Be4Er4Ge2O14
+Atoms(symbols='Er4Be4Ge2O14', pbc=False)

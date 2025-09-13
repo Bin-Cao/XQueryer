@@ -1,0 +1,2 @@
+CdInS2
+Atoms(symbols='CdInS2', pbc=False)

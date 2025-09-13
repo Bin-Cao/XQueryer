@@ -1,0 +1,2 @@
+I54Zr15
+Atoms(symbols='I54Zr15', pbc=False)

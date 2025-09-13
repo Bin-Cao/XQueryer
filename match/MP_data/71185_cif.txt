@@ -1,0 +1,2 @@
+IKMgNiO6
+Atoms(symbols='KMgNiIO6', pbc=False)

@@ -1,0 +1,2 @@
+Cl10U2
+Atoms(symbols='U2Cl10', pbc=False)

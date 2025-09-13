@@ -1,0 +1,2 @@
+InLa
+Atoms(symbols='LaIn', pbc=False)

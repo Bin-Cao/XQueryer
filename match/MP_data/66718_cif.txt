@@ -1,0 +1,2 @@
+Al42Pd16
+Atoms(symbols='Al42Pd16', pbc=False)

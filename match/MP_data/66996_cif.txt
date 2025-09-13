@@ -1,0 +1,2 @@
+K12P44
+Atoms(symbols='K12P44', pbc=False)

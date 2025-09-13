@@ -1,0 +1,2 @@
+Co24O44Sr4
+Atoms(symbols='Co24O44Sr4', pbc=False)

@@ -1,0 +1,2 @@
+B2Co2Na6O14S2
+Atoms(symbols='Na6Co2B2S2O14', pbc=False)

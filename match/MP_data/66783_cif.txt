@@ -1,0 +1,2 @@
+As21Cu3Hg12S36Zn3
+Atoms(symbols='As21Cu3Hg12S36Zn3', pbc=False)

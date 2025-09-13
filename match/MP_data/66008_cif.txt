@@ -1,0 +1,2 @@
+K2O24Sm2Ti8
+Atoms(symbols='KSmTi4O12KSmTi4O12', pbc=False)

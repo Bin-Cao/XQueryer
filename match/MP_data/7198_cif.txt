@@ -1,0 +1,2 @@
+Ni10O14
+Atoms(symbols='Ni10O14', pbc=False)

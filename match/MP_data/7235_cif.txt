@@ -1,0 +1,2 @@
+Mg4O26Sn18
+Atoms(symbols='Mg2Sn9O13Mg2Sn9O13', pbc=False)

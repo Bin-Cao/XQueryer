@@ -1,0 +1,2 @@
+Ca6Co4O14
+Atoms(symbols='Ca6Co4O14', pbc=False)

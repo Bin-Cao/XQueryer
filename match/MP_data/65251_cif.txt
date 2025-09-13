@@ -1,0 +1,2 @@
+Pt2Ta2Te10
+Atoms(symbols='Ta2Te10Pt2', pbc=False)

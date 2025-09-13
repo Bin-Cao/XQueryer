@@ -1,0 +1,2 @@
+As2Ga4Rh10
+Atoms(symbols='Ga4As2Rh10', pbc=False)

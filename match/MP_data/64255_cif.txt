@@ -1,0 +1,2 @@
+Ca4O8Ti4
+Atoms(symbols='Ca4Ti4O8', pbc=False)

@@ -1,0 +1,2 @@
+O16Pr4Ta4
+Atoms(symbols='Pr4Ta4O16', pbc=False)

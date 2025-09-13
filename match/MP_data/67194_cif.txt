@@ -1,0 +1,2 @@
+Eu4O4Te2
+Atoms(symbols='Eu2TeO2Eu2TeO2', pbc=False)

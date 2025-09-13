@@ -1,0 +1,2 @@
+Si12Tc14U8
+Atoms(symbols='U4Si6Tc7U4Si6Tc7', pbc=False)

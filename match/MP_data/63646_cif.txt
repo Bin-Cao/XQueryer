@@ -1,0 +1,2 @@
+Be2F8NaRb3
+Atoms(symbols='Rb3NaBe2F8', pbc=False)

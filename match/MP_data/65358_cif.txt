@@ -1,0 +1,2 @@
+Ca2Dy2O24V8
+Atoms(symbols='CaDyV4O12CaDyV4O12', pbc=False)

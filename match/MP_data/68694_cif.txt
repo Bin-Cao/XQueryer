@@ -1,0 +1,2 @@
+Cs8Ga8Te16
+Atoms(symbols='Cs8Ga8Te16', pbc=False)

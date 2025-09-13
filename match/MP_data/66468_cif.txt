@@ -1,0 +1,2 @@
+Hf2Se6
+Atoms(symbols='Hf2Se6', pbc=False)

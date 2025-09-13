@@ -1,0 +1,2 @@
+Li32O64W16
+Atoms(symbols='Li32O64W16', pbc=False)

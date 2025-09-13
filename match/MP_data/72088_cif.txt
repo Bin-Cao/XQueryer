@@ -1,0 +1,2 @@
+F22Fe2Na2Zr4
+Atoms(symbols='NaZr2FeF11NaZr2FeF11', pbc=False)

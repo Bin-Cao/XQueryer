@@ -1,0 +1,2 @@
+ReTi
+Atoms(symbols='TiRe', pbc=False)

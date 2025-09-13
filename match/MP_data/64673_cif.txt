@@ -1,0 +1,2 @@
+F5LiNi3O
+Atoms(symbols='LiNi3OF5', pbc=False)

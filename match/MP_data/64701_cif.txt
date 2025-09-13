@@ -1,0 +1,2 @@
+FLiMn3O5
+Atoms(symbols='LiMn3O5F', pbc=False)

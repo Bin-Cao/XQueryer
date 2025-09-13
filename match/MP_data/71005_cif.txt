@@ -1,0 +1,2 @@
+In2Ni21P6
+Atoms(symbols='In2Ni21P6', pbc=False)

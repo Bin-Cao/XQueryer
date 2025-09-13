@@ -1,0 +1,2 @@
+O44Tb24
+Atoms(symbols='O44Tb24', pbc=False)

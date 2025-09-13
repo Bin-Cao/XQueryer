@@ -1,0 +1,2 @@
+MgO6TeW
+Atoms(symbols='MgTeWO6', pbc=False)

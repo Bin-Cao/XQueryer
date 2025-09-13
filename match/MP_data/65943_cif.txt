@@ -1,0 +1,2 @@
+Eu2Na2Ni2O12Pr2
+Atoms(symbols='Na2Pr2Eu2Ni2O12', pbc=False)

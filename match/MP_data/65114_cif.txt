@@ -1,0 +1,2 @@
+Er18La20S54
+Atoms(symbols='Er18La20S54', pbc=False)

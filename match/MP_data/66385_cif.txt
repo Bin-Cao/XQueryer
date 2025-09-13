@@ -1,0 +1,2 @@
+Ho10Ni38P24
+Atoms(symbols='Ho10Ni38P24', pbc=False)

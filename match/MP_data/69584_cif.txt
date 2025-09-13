@@ -1,0 +1,2 @@
+FeSi2
+Atoms(symbols='FeSi2', pbc=False)

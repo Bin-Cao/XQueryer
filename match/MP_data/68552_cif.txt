@@ -1,0 +1,2 @@
+CuEr
+Atoms(symbols='ErCu', pbc=False)

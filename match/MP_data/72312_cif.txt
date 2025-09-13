@@ -1,0 +1,2 @@
+KMgMnO2
+Atoms(symbols='KMgMnO2', pbc=False)

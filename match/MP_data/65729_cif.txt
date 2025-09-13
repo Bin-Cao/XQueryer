@@ -1,0 +1,2 @@
+Ge8In2K2O24
+Atoms(symbols='KInGe4O12KInGe4O12', pbc=False)

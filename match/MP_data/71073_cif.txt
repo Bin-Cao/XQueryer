@@ -1,0 +1,2 @@
+Co2MgO5Sr2
+Atoms(symbols='Sr2MgCo2O5', pbc=False)

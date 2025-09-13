@@ -1,0 +1,2 @@
+Dy2Eu2O24Ti8
+Atoms(symbols='EuDyTi4O12EuDyTi4O12', pbc=False)

@@ -1,0 +1,2 @@
+DyMn12
+Atoms(symbols='DyMn12', pbc=False)

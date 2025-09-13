@@ -1,0 +1,2 @@
+Fe2MgMn2O8
+Atoms(symbols='MgMn2Fe2O8', pbc=False)

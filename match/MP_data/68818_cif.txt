@@ -1,0 +1,2 @@
+Hf4O32Te12
+Atoms(symbols='Hf4Te12O32', pbc=False)

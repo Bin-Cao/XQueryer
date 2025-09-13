@@ -1,0 +1,2 @@
+Nb14P8
+Atoms(symbols='Nb14P8', pbc=False)

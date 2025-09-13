@@ -1,0 +1,2 @@
+Bi2MgNd2O8
+Atoms(symbols='Nd2MgBi2O8', pbc=False)

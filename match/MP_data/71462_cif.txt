@@ -1,0 +1,2 @@
+Fe2InO4
+Atoms(symbols='InFe2O4', pbc=False)

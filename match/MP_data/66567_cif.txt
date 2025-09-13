@@ -1,0 +1,2 @@
+Co4Ge2
+Atoms(symbols='Co4Ge2', pbc=False)

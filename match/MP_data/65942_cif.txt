@@ -1,0 +1,2 @@
+HoNi5
+Atoms(symbols='HoNi5', pbc=False)

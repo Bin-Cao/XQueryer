@@ -1,0 +1,2 @@
+Al4O30Ti14
+Atoms(symbols='Ti7Al2O15Ti7Al2O15', pbc=False)

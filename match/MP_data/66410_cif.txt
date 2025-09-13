@@ -1,0 +1,2 @@
+As12Co30
+Atoms(symbols='Co30As12', pbc=False)

@@ -1,0 +1,2 @@
+Fe8K2O24Pr2
+Atoms(symbols='KPrFe4O12KPrFe4O12', pbc=False)

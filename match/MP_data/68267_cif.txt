@@ -1,0 +1,2 @@
+C12O44Tl16U4
+Atoms(symbols='C12O44Tl16U4', pbc=False)

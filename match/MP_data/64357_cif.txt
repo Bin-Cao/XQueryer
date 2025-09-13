@@ -1,0 +1,2 @@
+O16W6Zn4
+Atoms(symbols='Zn2W3O8Zn2W3O8', pbc=False)

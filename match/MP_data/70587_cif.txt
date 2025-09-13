@@ -1,0 +1,2 @@
+Ge12Ni20U4
+Atoms(symbols='U4Ni20Ge12', pbc=False)

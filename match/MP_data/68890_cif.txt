@@ -1,0 +1,2 @@
+GdTl
+Atoms(symbols='GdTl', pbc=False)

@@ -1,0 +1,2 @@
+CrO6Sr2Ta
+Atoms(symbols='Sr2TaCrO6', pbc=False)

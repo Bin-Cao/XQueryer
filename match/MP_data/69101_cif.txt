@@ -1,0 +1,2 @@
+Fe11Si5
+Atoms(symbols='Fe11Si5', pbc=False)

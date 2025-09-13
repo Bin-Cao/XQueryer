@@ -1,0 +1,2 @@
+Pt30Si18Sm6
+Atoms(symbols='Sm6Si18Pt30', pbc=False)

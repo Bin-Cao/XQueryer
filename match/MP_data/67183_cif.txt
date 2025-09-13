@@ -1,0 +1,2 @@
+O26Si4Sr3Ta6
+Atoms(symbols='Sr3Ta6Si4O26', pbc=False)

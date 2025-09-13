@@ -1,0 +1,2 @@
+Fe2Mg2Na2O16Se4
+Atoms(symbols='NaMgFeSe2O8NaMgFeSe2O8', pbc=False)

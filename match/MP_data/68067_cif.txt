@@ -1,0 +1,2 @@
+Be2F10K6
+Atoms(symbols='K6Be2F10', pbc=False)

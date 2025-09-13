@@ -1,0 +1,2 @@
+Mo20O32Sn4
+Atoms(symbols='Sn4Mo20O32', pbc=False)

@@ -1,0 +1,2 @@
+Ho14Pb3S24
+Atoms(symbols='Ho14Pb3S24', pbc=False)

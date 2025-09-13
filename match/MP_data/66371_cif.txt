@@ -1,0 +1,2 @@
+Cl52Sr25
+Atoms(symbols='Cl52Sr25', pbc=False)

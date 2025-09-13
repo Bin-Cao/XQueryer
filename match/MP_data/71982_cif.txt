@@ -1,0 +1,2 @@
+Co6Mg3O18Tl6
+Atoms(symbols='MgTl2Co2O6MgTl2Co2O6MgTl2Co2O6', pbc=False)

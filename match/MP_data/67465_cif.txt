@@ -1,0 +1,2 @@
+O20Ti4Y8
+Atoms(symbols='Y8Ti4O20', pbc=False)

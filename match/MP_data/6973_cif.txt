@@ -1,0 +1,2 @@
+NiSc6Te2
+Atoms(symbols='Sc6NiTe2', pbc=False)

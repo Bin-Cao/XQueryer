@@ -1,0 +1,2 @@
+Sb2Ti2
+Atoms(symbols='Ti2Sb2', pbc=False)

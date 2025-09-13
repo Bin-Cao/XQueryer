@@ -1,0 +1,2 @@
+NdNi5
+Atoms(symbols='NdNi5', pbc=False)

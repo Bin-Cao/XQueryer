@@ -1,0 +1,2 @@
+HBaGaSi
+Atoms(symbols='BaGaSiH', pbc=False)

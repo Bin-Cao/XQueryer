@@ -1,0 +1,2 @@
+Hg16Se24Si4
+Atoms(symbols='Si2Hg8Se12Si2Hg8Se12', pbc=False)

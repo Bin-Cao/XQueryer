@@ -1,0 +1,2 @@
+In8O20V4
+Atoms(symbols='V4In8O20', pbc=False)

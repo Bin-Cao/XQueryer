@@ -1,0 +1,2 @@
+MgO4RhV
+Atoms(symbols='MgVRhO4', pbc=False)

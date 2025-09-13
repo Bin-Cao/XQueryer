@@ -1,0 +1,2 @@
+Ag4Fe4La4Mg4O24
+Atoms(symbols='La4Mg4Fe4Ag4O24', pbc=False)

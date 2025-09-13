@@ -1,0 +1,2 @@
+As12Rb20Si4
+Atoms(symbols='Rb20Si4As12', pbc=False)

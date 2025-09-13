@@ -1,0 +1,2 @@
+Mo31Nd4O56
+Atoms(symbols='Mo31Nd4O56', pbc=False)

@@ -1,0 +1,2 @@
+DyGa2
+Atoms(symbols='DyGa2', pbc=False)

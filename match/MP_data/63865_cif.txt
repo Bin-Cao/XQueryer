@@ -1,0 +1,2 @@
+Mg16O64Sn32
+Atoms(symbols='Mg16O64Sn32', pbc=False)

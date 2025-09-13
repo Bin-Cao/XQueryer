@@ -1,0 +1,2 @@
+Cu4Ho8K4Se16
+Atoms(symbols='K2Ho4Cu2Se8K2Ho4Cu2Se8', pbc=False)

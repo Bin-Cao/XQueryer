@@ -1,0 +1,2 @@
+Si4Tb4
+Atoms(symbols='Tb4Si4', pbc=False)

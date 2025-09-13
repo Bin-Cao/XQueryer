@@ -1,0 +1,2 @@
+Ga8K16P16
+Atoms(symbols='K16Ga8P16', pbc=False)

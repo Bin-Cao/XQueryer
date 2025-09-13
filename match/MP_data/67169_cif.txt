@@ -1,0 +1,2 @@
+Ba4O16Pr8
+Atoms(symbols='Ba4Pr8O16', pbc=False)

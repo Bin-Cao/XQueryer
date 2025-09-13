@@ -1,0 +1,2 @@
+Cu2Na2O12Pr2W2
+Atoms(symbols='Na2Pr2Cu2W2O12', pbc=False)

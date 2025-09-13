@@ -1,0 +1,2 @@
+B6W24Zr54
+Atoms(symbols='B6W24Zr54', pbc=False)

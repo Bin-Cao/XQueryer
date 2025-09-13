@@ -1,0 +1,2 @@
+As2O8Tl6
+Atoms(symbols='Tl6As2O8', pbc=False)

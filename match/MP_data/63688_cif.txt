@@ -1,0 +1,2 @@
+Ir5La
+Atoms(symbols='LaIr5', pbc=False)

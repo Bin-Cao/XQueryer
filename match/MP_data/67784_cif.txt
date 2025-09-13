@@ -1,0 +1,2 @@
+Nd8O48W12
+Atoms(symbols='Nd8O48W12', pbc=False)

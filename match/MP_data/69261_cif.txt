@@ -1,0 +1,2 @@
+Ga10V4
+Atoms(symbols='V4Ga10', pbc=False)

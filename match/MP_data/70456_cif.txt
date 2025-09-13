@@ -1,0 +1,2 @@
+EuMgMnO3
+Atoms(symbols='EuMgMnO3', pbc=False)

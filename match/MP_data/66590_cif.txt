@@ -1,0 +1,2 @@
+Ga18K6
+Atoms(symbols='K3Ga9K3Ga9', pbc=False)

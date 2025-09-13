@@ -1,0 +1,2 @@
+Ag32S24Sn4
+Atoms(symbols='Ag32Sn4S24', pbc=False)

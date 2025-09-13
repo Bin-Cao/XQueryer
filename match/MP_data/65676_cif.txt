@@ -1,0 +1,2 @@
+Ca2Dy2Fe8O24
+Atoms(symbols='CaDyFe4O12CaDyFe4O12', pbc=False)

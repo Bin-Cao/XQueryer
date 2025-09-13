@@ -1,0 +1,2 @@
+Se6Si2Tl4
+Atoms(symbols='Tl4Si2Se6', pbc=False)

@@ -1,0 +1,2 @@
+Cs2F6NaTl
+Atoms(symbols='Cs2NaTlF6', pbc=False)

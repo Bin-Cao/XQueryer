@@ -1,0 +1,2 @@
+Co8Na40O32
+Atoms(symbols='Co8Na40O32', pbc=False)

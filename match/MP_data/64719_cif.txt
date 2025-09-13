@@ -1,0 +1,2 @@
+K4Mg4O36P12
+Atoms(symbols='K2Mg2P6O18K2Mg2P6O18', pbc=False)

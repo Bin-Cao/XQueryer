@@ -1,0 +1,2 @@
+Ge8Mn4O24Zn4
+Atoms(symbols='Mn4Zn4Ge8O24', pbc=False)

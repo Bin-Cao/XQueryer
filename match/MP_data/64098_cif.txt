@@ -1,0 +1,2 @@
+CaFe2La2Mn2O12
+Atoms(symbols='CaLa2Mn2Fe2O12', pbc=False)

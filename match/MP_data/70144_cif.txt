@@ -1,0 +1,2 @@
+K8S22Ta4
+Atoms(symbols='K8Ta4S22', pbc=False)

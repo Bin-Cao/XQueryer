@@ -1,0 +1,2 @@
+LuPd
+Atoms(symbols='LuPd', pbc=False)

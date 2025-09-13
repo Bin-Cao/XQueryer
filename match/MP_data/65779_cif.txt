@@ -1,0 +1,2 @@
+C2H9KNiO10
+Atoms(symbols='KNiH9C2O10', pbc=False)

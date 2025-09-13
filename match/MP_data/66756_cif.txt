@@ -1,0 +1,2 @@
+Pt12Rb6Se18
+Atoms(symbols='Rb2Pt4Se6Rb2Pt4Se6Rb2Pt4Se6', pbc=False)

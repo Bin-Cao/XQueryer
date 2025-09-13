@@ -1,0 +1,2 @@
+O8Ti2V2
+Atoms(symbols='TiVO4TiVO4', pbc=False)

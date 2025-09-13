@@ -1,0 +1,2 @@
+Cu3Li4O16Ti2V3
+Atoms(symbols='Li4Ti2V3Cu3O16', pbc=False)

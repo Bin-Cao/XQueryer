@@ -1,0 +1,2 @@
+Dy8O28Si8
+Atoms(symbols='Dy8Si8O28', pbc=False)

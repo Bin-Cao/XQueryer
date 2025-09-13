@@ -1,0 +1,2 @@
+F28Pt4Sm4
+Atoms(symbols='Sm4Pt4F28', pbc=False)

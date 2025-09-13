@@ -1,0 +1,2 @@
+AsNiSm
+Atoms(symbols='SmNiAs', pbc=False)

@@ -1,0 +1,2 @@
+N24Sr16Ta8
+Atoms(symbols='Sr8Ta4N12Sr8Ta4N12', pbc=False)

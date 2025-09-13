@@ -1,0 +1,2 @@
+La4Te4
+Atoms(symbols='LaTeLaTeLaTeLaTe', pbc=False)

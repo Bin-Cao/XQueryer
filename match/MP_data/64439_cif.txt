@@ -1,0 +1,2 @@
+C32Ir12O32
+Atoms(symbols='C32Ir12O32', pbc=False)

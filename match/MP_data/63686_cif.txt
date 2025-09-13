@@ -1,0 +1,2 @@
+CaMn2Nd2O12Ti2
+Atoms(symbols='CaNd2Ti2Mn2O12', pbc=False)

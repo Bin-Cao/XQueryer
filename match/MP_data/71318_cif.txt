@@ -1,0 +1,2 @@
+Co2Mg2Na2O4
+Atoms(symbols='NaMgCoO2NaMgCoO2', pbc=False)

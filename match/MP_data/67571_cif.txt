@@ -1,0 +1,2 @@
+F18Pr6
+Atoms(symbols='Pr6F18', pbc=False)

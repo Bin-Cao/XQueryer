@@ -1,0 +1,2 @@
+Ca4Ge8O24Sn4
+Atoms(symbols='Ca2Sn2Ge4O12Ca2Sn2Ge4O12', pbc=False)

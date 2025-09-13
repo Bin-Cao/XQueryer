@@ -1,0 +1,2 @@
+AgBaCuMgO5Y
+Atoms(symbols='BaYMgCuAgO5', pbc=False)

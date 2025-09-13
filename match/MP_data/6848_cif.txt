@@ -1,0 +1,2 @@
+Cu16O24Zn4
+Atoms(symbols='Zn2Cu8O12Zn2Cu8O12', pbc=False)

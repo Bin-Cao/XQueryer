@@ -1,0 +1,2 @@
+FeRh
+Atoms(symbols='FeRh', pbc=False)

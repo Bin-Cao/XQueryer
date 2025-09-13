@@ -1,0 +1,2 @@
+Dy8In4
+Atoms(symbols='Dy4In2Dy4In2', pbc=False)

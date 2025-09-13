@@ -1,0 +1,2 @@
+K4O30Si12Ti2
+Atoms(symbols='K4Ti2Si12O30', pbc=False)

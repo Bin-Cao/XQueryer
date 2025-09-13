@@ -1,0 +1,2 @@
+Au12Mg36
+Atoms(symbols='Mg18Au6Mg18Au6', pbc=False)

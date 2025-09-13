@@ -1,0 +1,2 @@
+Ge4P12Rb20
+Atoms(symbols='Rb20Ge4P12', pbc=False)

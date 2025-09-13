@@ -1,0 +1,2 @@
+Cr8Dy2O24Sr2
+Atoms(symbols='SrDyCr4O12SrDyCr4O12', pbc=False)

@@ -1,0 +1,2 @@
+In18O36W3
+Atoms(symbols='In6WO12In6WO12In6WO12', pbc=False)

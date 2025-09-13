@@ -1,0 +1,2 @@
+Eu2O2S
+Atoms(symbols='Eu2SO2', pbc=False)

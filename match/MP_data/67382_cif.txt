@@ -1,0 +1,2 @@
+S16Sc8Sr4
+Atoms(symbols='Sr4Sc8S16', pbc=False)

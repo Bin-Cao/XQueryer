@@ -1,0 +1,2 @@
+ErTl
+Atoms(symbols='ErTl', pbc=False)

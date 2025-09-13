@@ -1,0 +1,2 @@
+Fe16O46Sr16
+Atoms(symbols='Fe16O46Sr16', pbc=False)

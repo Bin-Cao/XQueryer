@@ -1,0 +1,2 @@
+Ge24Ru16
+Atoms(symbols='Ge24Ru16', pbc=False)

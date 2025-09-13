@@ -1,0 +1,2 @@
+Hf3P3Ru3
+Atoms(symbols='Hf3P3Ru3', pbc=False)

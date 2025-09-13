@@ -1,0 +1,2 @@
+Cr6In2Mg2O16
+Atoms(symbols='MgCr3InO8MgCr3InO8', pbc=False)

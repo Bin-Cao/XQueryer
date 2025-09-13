@@ -1,0 +1,2 @@
+K2O24Pr2V8
+Atoms(symbols='KPrV4O12KPrV4O12', pbc=False)

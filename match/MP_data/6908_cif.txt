@@ -1,0 +1,2 @@
+FeSc6Te2
+Atoms(symbols='Sc6FeTe2', pbc=False)

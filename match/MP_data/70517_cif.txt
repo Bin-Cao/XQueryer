@@ -1,0 +1,2 @@
+Co7O12
+Atoms(symbols='Co7O12', pbc=False)

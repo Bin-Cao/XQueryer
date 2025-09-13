@@ -1,0 +1,2 @@
+Mg2Nb2O16Rb6
+Atoms(symbols='Rb3MgNbO8Rb3MgNbO8', pbc=False)

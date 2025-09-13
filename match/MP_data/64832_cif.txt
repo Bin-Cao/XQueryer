@@ -1,0 +1,2 @@
+CaFe18O26
+Atoms(symbols='CaFe18O26', pbc=False)

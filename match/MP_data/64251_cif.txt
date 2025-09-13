@@ -1,0 +1,2 @@
+CoLiO6V2
+Atoms(symbols='LiV2CoO6', pbc=False)

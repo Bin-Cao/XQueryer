@@ -1,0 +1,2 @@
+MgMoO3Rb
+Atoms(symbols='RbMgMoO3', pbc=False)

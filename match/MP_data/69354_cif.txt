@@ -1,0 +1,2 @@
+Cs2Mo12Te14
+Atoms(symbols='Cs2Te14Mo12', pbc=False)

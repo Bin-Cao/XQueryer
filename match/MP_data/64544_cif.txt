@@ -1,0 +1,2 @@
+Gd2O2Se
+Atoms(symbols='Gd2SeO2', pbc=False)

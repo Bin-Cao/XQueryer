@@ -1,0 +1,2 @@
+Bi4K2Na2O12
+Atoms(symbols='KNaBi2O6KNaBi2O6', pbc=False)

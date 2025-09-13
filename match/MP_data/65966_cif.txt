@@ -1,0 +1,2 @@
+O28Si8Sm8
+Atoms(symbols='Sm8Si8O28', pbc=False)

@@ -1,0 +1,2 @@
+As6F2O24Sr10
+Atoms(symbols='Sr10As6O24F2', pbc=False)

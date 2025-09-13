@@ -1,0 +1,2 @@
+B4Cr4O12
+Atoms(symbols='Cr2B2O6Cr2B2O6', pbc=False)

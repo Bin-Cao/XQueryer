@@ -1,0 +1,2 @@
+Co2MgO6Y2
+Atoms(symbols='Y2MgCo2O6', pbc=False)

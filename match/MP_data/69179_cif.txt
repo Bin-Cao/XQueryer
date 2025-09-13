@@ -1,0 +1,2 @@
+Ho4Mn4Si4
+Atoms(symbols='Ho4Mn4Si4', pbc=False)

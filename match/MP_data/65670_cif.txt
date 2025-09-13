@@ -1,0 +1,2 @@
+K4Nd4O24Sr4W4
+Atoms(symbols='K4Sr4Nd4W4O24', pbc=False)

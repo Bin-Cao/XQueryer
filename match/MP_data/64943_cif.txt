@@ -1,0 +1,2 @@
+Hg4Te4
+Atoms(symbols='Hg2Te2Hg2Te2', pbc=False)

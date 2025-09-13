@@ -1,0 +1,2 @@
+AsLa
+Atoms(symbols='LaAs', pbc=False)

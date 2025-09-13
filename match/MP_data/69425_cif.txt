@@ -1,0 +1,2 @@
+C2In2Ti4
+Atoms(symbols='Ti4In2C2', pbc=False)

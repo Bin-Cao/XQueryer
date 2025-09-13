@@ -1,0 +1,2 @@
+Be24Mo2
+Atoms(symbols='Be12MoBe12Mo', pbc=False)

@@ -1,0 +1,2 @@
+F6NiRh
+Atoms(symbols='NiRhF6', pbc=False)

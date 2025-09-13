@@ -1,0 +1,2 @@
+Li18S36Sb18
+Atoms(symbols='Li18S36Sb18', pbc=False)

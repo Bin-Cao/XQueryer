@@ -1,0 +1,2 @@
+BaMgMn2O5Pr
+Atoms(symbols='BaPrMgMn2O5', pbc=False)

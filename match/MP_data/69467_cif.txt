@@ -1,0 +1,2 @@
+AlKMo2O8
+Atoms(symbols='KAlMo2O8', pbc=False)

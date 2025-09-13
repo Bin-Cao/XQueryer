@@ -1,0 +1,2 @@
+La2S2
+Atoms(symbols='La2S2', pbc=False)

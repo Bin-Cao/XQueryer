@@ -1,0 +1,2 @@
+Co8O56Ta16
+Atoms(symbols='Co8O56Ta16', pbc=False)

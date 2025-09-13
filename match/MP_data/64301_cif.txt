@@ -1,0 +1,2 @@
+O12Re2Ta2
+Atoms(symbols='Ta2Re2O12', pbc=False)

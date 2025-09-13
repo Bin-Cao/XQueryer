@@ -1,0 +1,2 @@
+Ca4F20Mo4
+Atoms(symbols='Ca2Mo2F10Ca2Mo2F10', pbc=False)

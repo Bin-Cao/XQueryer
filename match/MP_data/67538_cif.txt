@@ -1,0 +1,2 @@
+Cu16Na8S12
+Atoms(symbols='Na4Cu8S6Na4Cu8S6', pbc=False)

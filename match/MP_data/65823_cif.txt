@@ -1,0 +1,2 @@
+Hf8K2La2O24
+Atoms(symbols='KLaHf4O12KLaHf4O12', pbc=False)

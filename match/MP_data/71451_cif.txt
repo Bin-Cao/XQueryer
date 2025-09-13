@@ -1,0 +1,2 @@
+Er6Fe23
+Atoms(symbols='Er6Fe23', pbc=False)

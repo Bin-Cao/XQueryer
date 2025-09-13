@@ -1,0 +1,2 @@
+MnO6Pt3
+Atoms(symbols='MnPt3O6', pbc=False)

@@ -1,0 +1,2 @@
+As4Mn6O4Sr4
+Atoms(symbols='Sr2Mn3As2O2Sr2Mn3As2O2', pbc=False)

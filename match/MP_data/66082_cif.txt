@@ -1,0 +1,2 @@
+Al12I21La24
+Atoms(symbols='La24Al12I21', pbc=False)

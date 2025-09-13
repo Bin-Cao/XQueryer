@@ -1,0 +1,2 @@
+As8Bi4O28
+Atoms(symbols='Bi4As8O28', pbc=False)

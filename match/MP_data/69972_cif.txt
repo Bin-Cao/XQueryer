@@ -1,0 +1,2 @@
+Ba6Li24
+Atoms(symbols='Ba6Li24', pbc=False)

@@ -1,0 +1,2 @@
+Os8Si28Y10
+Atoms(symbols='Y10Si28Os8', pbc=False)

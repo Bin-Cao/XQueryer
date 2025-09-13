@@ -1,0 +1,2 @@
+CuMgO5Sr2Tl
+Atoms(symbols='Sr2MgTlCuO5', pbc=False)

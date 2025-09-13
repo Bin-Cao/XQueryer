@@ -1,0 +1,2 @@
+Cr18Ga24
+Atoms(symbols='Cr9Ga12Cr9Ga12', pbc=False)

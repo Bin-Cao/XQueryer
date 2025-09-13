@@ -1,0 +1,2 @@
+As12Mg16Na4O48
+Atoms(symbols='As12Mg16Na4O48', pbc=False)

@@ -1,0 +1,2 @@
+Ir2Si2U
+Atoms(symbols='USi2Ir2', pbc=False)

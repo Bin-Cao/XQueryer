@@ -1,0 +1,2 @@
+Mn24O48Y8
+Atoms(symbols='Mn24O48Y8', pbc=False)

@@ -1,0 +1,2 @@
+Cr20Rb3Te32
+Atoms(symbols='Rb3Cr20Te32', pbc=False)

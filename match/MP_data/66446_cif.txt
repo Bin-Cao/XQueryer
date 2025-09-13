@@ -1,0 +1,2 @@
+Nd20Se38
+Atoms(symbols='Nd20Se38', pbc=False)

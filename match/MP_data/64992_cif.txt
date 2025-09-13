@@ -1,0 +1,2 @@
+Bi3Ca3La6O18
+Atoms(symbols='CaLa2BiO6CaLa2BiO6CaLa2BiO6', pbc=False)

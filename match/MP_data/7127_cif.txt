@@ -1,0 +1,2 @@
+Cu6O42W12
+Atoms(symbols='Cu6W12O42', pbc=False)

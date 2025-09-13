@@ -1,0 +1,2 @@
+Ir2Ni2O12Sr6
+Atoms(symbols='Sr6Ni2Ir2O12', pbc=False)

@@ -1,0 +1,2 @@
+O16W8
+Atoms(symbols='W8O16', pbc=False)

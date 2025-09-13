@@ -1,0 +1,2 @@
+Cd2K12O8
+Atoms(symbols='K12Cd2O8', pbc=False)

@@ -1,0 +1,2 @@
+Co4O12Sc4
+Atoms(symbols='Sc4Co4O12', pbc=False)

@@ -1,0 +1,2 @@
+Bi4Ca4O20V4
+Atoms(symbols='Ca4V4Bi4O20', pbc=False)

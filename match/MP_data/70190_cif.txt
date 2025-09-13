@@ -1,0 +1,2 @@
+F68Fe14Pb14
+Atoms(symbols='F68Fe14Pb14', pbc=False)

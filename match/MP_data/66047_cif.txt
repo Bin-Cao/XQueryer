@@ -1,0 +1,2 @@
+K2Nd2O24Zr8
+Atoms(symbols='KNdZr4O12KNdZr4O12', pbc=False)

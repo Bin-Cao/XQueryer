@@ -1,0 +1,2 @@
+Ca10O24P6Se
+Atoms(symbols='Ca10P6SeO24', pbc=False)

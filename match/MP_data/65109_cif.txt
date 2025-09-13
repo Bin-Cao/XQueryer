@@ -1,0 +1,2 @@
+F18Te3
+Atoms(symbols='TeF6TeF6TeF6', pbc=False)

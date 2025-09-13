@@ -1,0 +1,2 @@
+Pr20Se38
+Atoms(symbols='Pr20Se38', pbc=False)

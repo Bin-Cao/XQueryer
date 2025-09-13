@@ -1,0 +1,2 @@
+Na6P2
+Atoms(symbols='Na6P2', pbc=False)

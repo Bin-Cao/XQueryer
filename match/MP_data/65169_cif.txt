@@ -1,0 +1,2 @@
+F18Mg3Ni3
+Atoms(symbols='MgNiF6MgNiF6MgNiF6', pbc=False)

@@ -1,0 +1,2 @@
+Pt4Se28Ta8
+Atoms(symbols='Ta4Pt2Se14Ta4Pt2Se14', pbc=False)

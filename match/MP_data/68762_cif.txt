@@ -1,0 +1,2 @@
+Ca2Ga8
+Atoms(symbols='CaGa4CaGa4', pbc=False)

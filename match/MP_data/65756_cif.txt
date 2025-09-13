@@ -1,0 +1,2 @@
+O24Ti12Zn3
+Atoms(symbols='Ti4ZnO8Ti4ZnO8Ti4ZnO8', pbc=False)

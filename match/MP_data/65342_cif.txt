@@ -1,0 +1,2 @@
+Bi2K2O24Zr8
+Atoms(symbols='KZr4BiO12KZr4BiO12', pbc=False)

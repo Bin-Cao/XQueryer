@@ -1,0 +1,2 @@
+Ge8Mo4O24
+Atoms(symbols='Ge8Mo4O24', pbc=False)

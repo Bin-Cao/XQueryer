@@ -1,0 +1,2 @@
+FeMgMo2O8Rb
+Atoms(symbols='RbMgFeMo2O8', pbc=False)

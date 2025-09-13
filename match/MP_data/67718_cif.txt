@@ -1,0 +1,2 @@
+Al72Co24Cu6
+Atoms(symbols='Al72Co24Cu6', pbc=False)

@@ -1,0 +1,2 @@
+Li4Ni3O12Ti3
+Atoms(symbols='Li4Ti3Ni3O12', pbc=False)

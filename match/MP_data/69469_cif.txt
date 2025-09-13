@@ -1,0 +1,2 @@
+Ho8In4
+Atoms(symbols='Ho4In2Ho4In2', pbc=False)

@@ -1,0 +1,2 @@
+B3Ce3O15Si3
+Atoms(symbols='Ce3Si3B3O15', pbc=False)

@@ -1,0 +1,2 @@
+Co2Mo2NaO10
+Atoms(symbols='NaCo2Mo2O10', pbc=False)

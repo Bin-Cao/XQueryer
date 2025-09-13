@@ -1,0 +1,2 @@
+CaPb
+Atoms(symbols='CaPb', pbc=False)

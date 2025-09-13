@@ -1,0 +1,2 @@
+Ge4In4Li4
+Atoms(symbols='LiInGeLiInGeLiInGeLiInGe', pbc=False)

@@ -1,0 +1,2 @@
+As15Fe36
+Atoms(symbols='Fe12As5Fe12As5Fe12As5', pbc=False)

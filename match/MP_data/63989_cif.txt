@@ -1,0 +1,2 @@
+CaCu2N2
+Atoms(symbols='CaCu2N2', pbc=False)

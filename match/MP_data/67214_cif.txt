@@ -1,0 +1,2 @@
+Cu2Ho6S14Si2
+Atoms(symbols='Ho6Cu2Si2S14', pbc=False)

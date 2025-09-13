@@ -1,0 +1,2 @@
+Bi2Co8Na2O24
+Atoms(symbols='NaCo4BiO12NaCo4BiO12', pbc=False)

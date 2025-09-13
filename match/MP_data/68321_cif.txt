@@ -1,0 +1,2 @@
+Cs4O24Se2W6
+Atoms(symbols='Cs4W6Se2O24', pbc=False)

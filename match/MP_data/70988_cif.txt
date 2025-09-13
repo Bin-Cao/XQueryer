@@ -1,0 +1,2 @@
+Ni16Sn4U4
+Atoms(symbols='UNi4SnUNi4SnUNi4SnUNi4Sn', pbc=False)

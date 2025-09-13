@@ -1,0 +1,2 @@
+As14Mg12Ni32
+Atoms(symbols='Mg6Ni16As7Mg6Ni16As7', pbc=False)

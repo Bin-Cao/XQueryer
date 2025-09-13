@@ -1,0 +1,2 @@
+CrMgO10TiV2
+Atoms(symbols='MgTiV2CrO10', pbc=False)

@@ -1,0 +1,2 @@
+Ca2CuO6W
+Atoms(symbols='Ca2CuWO6', pbc=False)

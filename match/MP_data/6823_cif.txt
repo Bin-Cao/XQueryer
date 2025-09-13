@@ -1,0 +1,2 @@
+Cr6Fe4O24
+Atoms(symbols='Cr6Fe4O24', pbc=False)

@@ -1,0 +1,2 @@
+Co5Li4O12Sn
+Atoms(symbols='Li4Co5SnO12', pbc=False)

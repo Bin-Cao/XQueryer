@@ -1,0 +1,2 @@
+Rh30Si18Tb6
+Atoms(symbols='Tb6Si18Rh30', pbc=False)

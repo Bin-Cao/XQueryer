@@ -1,0 +1,2 @@
+Ca4F20Ni4
+Atoms(symbols='Ca4Ni4F20', pbc=False)

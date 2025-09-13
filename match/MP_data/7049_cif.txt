@@ -1,0 +1,2 @@
+O12Ta4Zn2
+Atoms(symbols='Ta4Zn2O12', pbc=False)

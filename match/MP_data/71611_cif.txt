@@ -1,0 +1,2 @@
+Cu2Mg2O8Sm4
+Atoms(symbols='Sm2MgCuO4Sm2MgCuO4', pbc=False)

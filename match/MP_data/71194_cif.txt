@@ -1,0 +1,2 @@
+MgNiO6V2
+Atoms(symbols='MgV2NiO6', pbc=False)

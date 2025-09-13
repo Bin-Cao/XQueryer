@@ -1,0 +1,2 @@
+Cu2Dy2Ge2
+Atoms(symbols='Dy2Cu2Ge2', pbc=False)

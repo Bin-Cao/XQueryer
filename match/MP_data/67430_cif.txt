@@ -1,0 +1,2 @@
+Li24Na6O32Rb2Si8
+Atoms(symbols='Li24Na6O32Rb2Si8', pbc=False)

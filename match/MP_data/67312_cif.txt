@@ -1,0 +1,2 @@
+Fe9O21P3
+Atoms(symbols='Fe3PO7Fe3PO7Fe3PO7', pbc=False)

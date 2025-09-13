@@ -1,0 +1,2 @@
+Co4Ge4Mn8
+Atoms(symbols='Mn2CoGeMn2CoGeMn2CoGeMn2CoGe', pbc=False)

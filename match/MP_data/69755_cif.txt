@@ -1,0 +1,2 @@
+CeSb
+Atoms(symbols='CeSb', pbc=False)

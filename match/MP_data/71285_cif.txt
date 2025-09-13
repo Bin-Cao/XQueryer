@@ -1,0 +1,2 @@
+Cu2Fe2Mg2O4
+Atoms(symbols='MgFeCuO2MgFeCuO2', pbc=False)

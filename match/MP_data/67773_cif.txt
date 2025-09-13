@@ -1,0 +1,2 @@
+AlIr
+Atoms(symbols='AlIr', pbc=False)

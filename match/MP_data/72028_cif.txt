@@ -1,0 +1,2 @@
+CuMgO8V3
+Atoms(symbols='MgV3CuO8', pbc=False)

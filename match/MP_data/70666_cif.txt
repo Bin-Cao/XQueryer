@@ -1,0 +1,2 @@
+Ge16Pt24
+Atoms(symbols='Ge16Pt24', pbc=False)

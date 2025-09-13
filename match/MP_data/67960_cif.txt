@@ -1,0 +1,2 @@
+Sn4Te4
+Atoms(symbols='SnTeSnTeSnTeSnTe', pbc=False)

@@ -1,0 +1,2 @@
+Fe2La6Mn2S14
+Atoms(symbols='La6Mn2Fe2S14', pbc=False)

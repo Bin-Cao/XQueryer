@@ -1,0 +1,2 @@
+C8Al8Th2
+Atoms(symbols='ThAl4C4ThAl4C4', pbc=False)

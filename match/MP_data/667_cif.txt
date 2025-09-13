@@ -1,0 +1,2 @@
+AsDy
+Atoms(symbols='DyAs', pbc=False)

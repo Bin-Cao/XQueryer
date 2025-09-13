@@ -1,0 +1,2 @@
+Ge12Mo20
+Atoms(symbols='Ge6Mo10Ge6Mo10', pbc=False)

@@ -1,0 +1,2 @@
+BaEr2NiO5
+Atoms(symbols='BaEr2NiO5', pbc=False)

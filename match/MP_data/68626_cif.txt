@@ -1,0 +1,2 @@
+NiO2Rb2
+Atoms(symbols='Rb2NiO2', pbc=False)

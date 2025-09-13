@@ -1,0 +1,2 @@
+Ho2O2Se
+Atoms(symbols='Ho2SeO2', pbc=False)

@@ -1,0 +1,2 @@
+O12Ru2Sr4Y2
+Atoms(symbols='Sr4Y2Ru2O12', pbc=False)

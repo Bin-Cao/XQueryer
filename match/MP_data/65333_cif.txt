@@ -1,0 +1,2 @@
+Eu2K2O12Sn2W2
+Atoms(symbols='K2Eu2Sn2W2O12', pbc=False)

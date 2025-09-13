@@ -1,0 +1,2 @@
+Mn18O36Te6
+Atoms(symbols='Mn6Te2O12Mn6Te2O12Mn6Te2O12', pbc=False)

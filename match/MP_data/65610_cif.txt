@@ -1,0 +1,2 @@
+B8Dy4O18
+Atoms(symbols='Dy4B8O18', pbc=False)

@@ -1,0 +1,2 @@
+Eu2Na2O24Ti8
+Atoms(symbols='NaEuTi4O12NaEuTi4O12', pbc=False)

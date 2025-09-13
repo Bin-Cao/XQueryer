@@ -1,0 +1,2 @@
+Ba6In4O12
+Atoms(symbols='Ba3In2O6Ba3In2O6', pbc=False)

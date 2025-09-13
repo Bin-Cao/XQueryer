@@ -1,0 +1,2 @@
+Co4Li8O32P8Sn4
+Atoms(symbols='Li8Co4Sn4P8O32', pbc=False)

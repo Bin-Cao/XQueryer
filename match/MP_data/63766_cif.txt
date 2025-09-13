@@ -1,0 +1,2 @@
+O48Ti24
+Atoms(symbols='O48Ti24', pbc=False)

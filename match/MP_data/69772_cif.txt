@@ -1,0 +1,2 @@
+Co2Se4
+Atoms(symbols='Co2Se4', pbc=False)

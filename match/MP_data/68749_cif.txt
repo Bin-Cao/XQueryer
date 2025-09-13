@@ -1,0 +1,2 @@
+MoO4Sr2
+Atoms(symbols='Sr2MoO4', pbc=False)

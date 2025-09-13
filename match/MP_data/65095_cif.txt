@@ -1,0 +1,2 @@
+CrLaNiO6
+Atoms(symbols='LaCrNiO6', pbc=False)

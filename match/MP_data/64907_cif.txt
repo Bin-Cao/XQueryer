@@ -1,0 +1,2 @@
+Cu3F18Sn3
+Atoms(symbols='CuSnF6CuSnF6CuSnF6', pbc=False)

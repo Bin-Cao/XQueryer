@@ -1,0 +1,2 @@
+AgLa
+Atoms(symbols='LaAg', pbc=False)

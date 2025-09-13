@@ -1,0 +1,2 @@
+Cs4Cu4Te12U4
+Atoms(symbols='Cs2U2Cu2Te6Cs2U2Cu2Te6', pbc=False)

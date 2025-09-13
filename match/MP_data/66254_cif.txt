@@ -1,0 +1,2 @@
+O28Re4Sm12
+Atoms(symbols='Sm6Re2O14Sm6Re2O14', pbc=False)

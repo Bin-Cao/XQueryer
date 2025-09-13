@@ -1,0 +1,2 @@
+Mo8O32Pr4Tl4
+Atoms(symbols='Pr4Tl4Mo8O32', pbc=False)

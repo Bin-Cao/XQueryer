@@ -1,0 +1,2 @@
+Fe4Ga2O14Sr4
+Atoms(symbols='Sr4Ga2Fe4O14', pbc=False)

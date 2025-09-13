@@ -1,0 +1,2 @@
+Cu18O26
+Atoms(symbols='Cu9O13Cu9O13', pbc=False)

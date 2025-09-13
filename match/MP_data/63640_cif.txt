@@ -1,0 +1,2 @@
+CaN2Ti2
+Atoms(symbols='CaTi2N2', pbc=False)

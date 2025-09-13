@@ -1,0 +1,2 @@
+Au12Hg10
+Atoms(symbols='Hg10Au12', pbc=False)

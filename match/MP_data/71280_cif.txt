@@ -1,0 +1,2 @@
+Cr2O6U
+Atoms(symbols='UCr2O6', pbc=False)

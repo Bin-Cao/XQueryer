@@ -1,0 +1,2 @@
+Ce2O8Sr4
+Atoms(symbols='Sr4Ce2O8', pbc=False)

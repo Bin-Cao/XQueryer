@@ -1,0 +1,2 @@
+Cr4Er12S24
+Atoms(symbols='Er12Cr4S24', pbc=False)

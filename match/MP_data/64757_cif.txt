@@ -1,0 +1,2 @@
+C40O38Rh16
+Atoms(symbols='C40O38Rh16', pbc=False)

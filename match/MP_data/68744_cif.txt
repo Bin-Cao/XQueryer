@@ -1,0 +1,2 @@
+Er4N4
+Atoms(symbols='ErNErNErNErN', pbc=False)

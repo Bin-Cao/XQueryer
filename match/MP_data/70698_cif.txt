@@ -1,0 +1,2 @@
+Cd2Mg2O12Sr4W2
+Atoms(symbols='Sr2MgCdWO6Sr2MgCdWO6', pbc=False)

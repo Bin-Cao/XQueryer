@@ -1,0 +1,2 @@
+Co4In2U4
+Atoms(symbols='U4In2Co4', pbc=False)

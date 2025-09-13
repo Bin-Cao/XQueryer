@@ -1,0 +1,2 @@
+CaN2Ni2
+Atoms(symbols='CaNi2N2', pbc=False)

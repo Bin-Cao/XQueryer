@@ -1,0 +1,2 @@
+Cs2O24Te4V6
+Atoms(symbols='Cs2V6Te4O24', pbc=False)

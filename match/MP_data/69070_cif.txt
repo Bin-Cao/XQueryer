@@ -1,0 +1,2 @@
+CoHf
+Atoms(symbols='HfCo', pbc=False)

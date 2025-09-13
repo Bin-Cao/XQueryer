@@ -1,0 +1,2 @@
+MgS2Ti
+Atoms(symbols='MgTiS2', pbc=False)

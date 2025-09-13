@@ -1,0 +1,2 @@
+O28Sn8Sr12
+Atoms(symbols='Sr6Sn4O14Sr6Sn4O14', pbc=False)

@@ -1,0 +1,2 @@
+B24O42Tl12
+Atoms(symbols='B24O42Tl12', pbc=False)

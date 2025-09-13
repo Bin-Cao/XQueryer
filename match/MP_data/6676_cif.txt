@@ -1,0 +1,2 @@
+As6Cu12Sr3
+Atoms(symbols='SrCu4As2SrCu4As2SrCu4As2', pbc=False)

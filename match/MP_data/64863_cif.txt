@@ -1,0 +1,2 @@
+Nb12O32Sr2
+Atoms(symbols='SrNb6O16SrNb6O16', pbc=False)

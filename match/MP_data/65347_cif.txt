@@ -1,0 +1,2 @@
+Cu4Er2O8
+Atoms(symbols='Er2Cu4O8', pbc=False)

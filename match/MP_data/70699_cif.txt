@@ -1,0 +1,2 @@
+Cu24Nd6P12
+Atoms(symbols='Nd6Cu24P12', pbc=False)

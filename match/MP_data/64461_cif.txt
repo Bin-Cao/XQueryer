@@ -1,0 +1,2 @@
+Ca9Fe6O36Rh6
+Atoms(symbols='Ca3Fe2Rh2O12Ca3Fe2Rh2O12Ca3Fe2Rh2O12', pbc=False)

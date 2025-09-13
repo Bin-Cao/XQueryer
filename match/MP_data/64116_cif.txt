@@ -1,0 +1,2 @@
+H2CrLiO10P2V
+Atoms(symbols='LiVCrP2H2O10', pbc=False)

@@ -1,0 +1,2 @@
+F11MgOV3
+Atoms(symbols='MgV3OF11', pbc=False)

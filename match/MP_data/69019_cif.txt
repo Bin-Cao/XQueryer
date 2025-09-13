@@ -1,0 +1,2 @@
+Te2Ti
+Atoms(symbols='TiTe2', pbc=False)

@@ -1,0 +1,2 @@
+K30N38W14
+Atoms(symbols='K30N38W14', pbc=False)

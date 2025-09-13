@@ -1,0 +1,2 @@
+Al6O24W12
+Atoms(symbols='Al2W4O8Al2W4O8Al2W4O8', pbc=False)

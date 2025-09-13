@@ -1,0 +1,2 @@
+Hf8K2Nd2O24
+Atoms(symbols='KNdHf4O12KNdHf4O12', pbc=False)

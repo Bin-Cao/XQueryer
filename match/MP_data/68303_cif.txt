@@ -1,0 +1,2 @@
+BaNiO5Pr2
+Atoms(symbols='BaPr2NiO5', pbc=False)

@@ -1,0 +1,2 @@
+P32S24
+Atoms(symbols='P32S24', pbc=False)

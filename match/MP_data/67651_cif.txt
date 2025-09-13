@@ -1,0 +1,2 @@
+Ca24Ga4N20
+Atoms(symbols='Ca12Ga2N10Ca12Ga2N10', pbc=False)

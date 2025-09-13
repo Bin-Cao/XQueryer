@@ -1,0 +1,2 @@
+MgNi2O6Tb2
+Atoms(symbols='Tb2MgNi2O6', pbc=False)

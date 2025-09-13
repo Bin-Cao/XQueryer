@@ -1,0 +1,2 @@
+Cu2Eu2F2Se2
+Atoms(symbols='Eu2Cu2Se2F2', pbc=False)

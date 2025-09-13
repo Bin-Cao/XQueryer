@@ -1,0 +1,2 @@
+Cr2Se2
+Atoms(symbols='Cr2Se2', pbc=False)

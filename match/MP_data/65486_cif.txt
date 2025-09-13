@@ -1,0 +1,2 @@
+O6Zr18
+Atoms(symbols='Zr6O2Zr6O2Zr6O2', pbc=False)

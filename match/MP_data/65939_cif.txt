@@ -1,0 +1,2 @@
+Bi2Hf8K2O24
+Atoms(symbols='KHf4BiO12KHf4BiO12', pbc=False)

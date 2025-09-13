@@ -1,0 +1,2 @@
+Al24Re4
+Atoms(symbols='Al12Re2Al12Re2', pbc=False)

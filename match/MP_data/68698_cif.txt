@@ -1,0 +1,2 @@
+CoNa2O14P4Zr
+Atoms(symbols='Na2ZrCoP4O14', pbc=False)

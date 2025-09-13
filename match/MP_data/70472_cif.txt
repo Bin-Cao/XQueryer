@@ -1,0 +1,2 @@
+Fe20Sn4U4
+Atoms(symbols='U4Fe20Sn4', pbc=False)

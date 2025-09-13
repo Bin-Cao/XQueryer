@@ -1,0 +1,2 @@
+Ag12Ge20P24
+Atoms(symbols='Ag6Ge10P12Ag6Ge10P12', pbc=False)

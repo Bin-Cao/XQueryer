@@ -1,0 +1,2 @@
+Eu2O12Sb2Sm2Sr2
+Atoms(symbols='Sr2Sm2Eu2Sb2O12', pbc=False)

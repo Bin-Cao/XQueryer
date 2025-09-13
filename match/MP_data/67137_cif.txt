@@ -1,0 +1,2 @@
+Ga10N2Sr12
+Atoms(symbols='Sr12Ga10N2', pbc=False)

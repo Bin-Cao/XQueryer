@@ -1,0 +1,2 @@
+F22Na2Zn2Zr4
+Atoms(symbols='NaZr2ZnF11NaZr2ZnF11', pbc=False)

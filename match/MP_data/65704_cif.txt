@@ -1,0 +1,2 @@
+Ga2K2O24Se8
+Atoms(symbols='KGaSe4O12KGaSe4O12', pbc=False)

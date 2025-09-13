@@ -1,0 +1,2 @@
+Co2Na4O20Si8
+Atoms(symbols='Na4Co2Si8O20', pbc=False)

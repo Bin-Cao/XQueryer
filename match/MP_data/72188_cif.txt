@@ -1,0 +1,2 @@
+EuMgO3V
+Atoms(symbols='EuMgVO3', pbc=False)

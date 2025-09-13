@@ -1,0 +1,2 @@
+BiMgNa5O5
+Atoms(symbols='Na5MgBiO5', pbc=False)

@@ -1,0 +1,2 @@
+Be16Na10O22Rb2
+Atoms(symbols='Rb2Na10Be16O22', pbc=False)

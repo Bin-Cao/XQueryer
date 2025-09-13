@@ -1,0 +1,2 @@
+B2Co3Dy
+Atoms(symbols='DyCo3B2', pbc=False)

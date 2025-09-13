@@ -1,0 +1,2 @@
+Ba2Mg2Mn8O16
+Atoms(symbols='BaMgMn4O8BaMgMn4O8', pbc=False)

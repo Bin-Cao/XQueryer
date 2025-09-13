@@ -1,0 +1,2 @@
+InPr
+Atoms(symbols='PrIn', pbc=False)

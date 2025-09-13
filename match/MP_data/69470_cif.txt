@@ -1,0 +1,2 @@
+F24Mn6Na2Rb4
+Atoms(symbols='Rb4Na2Mn6F24', pbc=False)

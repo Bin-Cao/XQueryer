@@ -1,0 +1,2 @@
+Dy2Ni8O24Sm2
+Atoms(symbols='SmDyNi4O12SmDyNi4O12', pbc=False)

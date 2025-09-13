@@ -1,0 +1,2 @@
+Cu12O4Ti12
+Atoms(symbols='Ti12Cu12O4', pbc=False)

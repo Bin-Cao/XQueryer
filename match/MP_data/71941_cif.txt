@@ -1,0 +1,2 @@
+FMgO2V
+Atoms(symbols='MgVO2F', pbc=False)

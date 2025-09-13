@@ -1,0 +1,2 @@
+CaF6W
+Atoms(symbols='CaWF6', pbc=False)

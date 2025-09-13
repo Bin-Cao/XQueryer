@@ -1,0 +1,2 @@
+Bi2Er2O18W4
+Atoms(symbols='Er2Bi2W4O18', pbc=False)

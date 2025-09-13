@@ -1,0 +1,2 @@
+BiFe2O9Si2
+Atoms(symbols='Fe2Si2BiO9', pbc=False)

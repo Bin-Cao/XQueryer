@@ -1,0 +1,2 @@
+La20Si16
+Atoms(symbols='La20Si16', pbc=False)

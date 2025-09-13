@@ -1,0 +1,2 @@
+Al30Mg23
+Atoms(symbols='Mg23Al30', pbc=False)

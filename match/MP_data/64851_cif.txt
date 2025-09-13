@@ -1,0 +1,2 @@
+Al4As4F4Na4O16
+Atoms(symbols='Na2Al2As2O8F2Na2Al2As2O8F2', pbc=False)

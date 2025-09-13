@@ -1,0 +1,2 @@
+Sc24Te12
+Atoms(symbols='Sc24Te12', pbc=False)

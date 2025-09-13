@@ -1,0 +1,2 @@
+Ba24Cr12S54U6
+Atoms(symbols='Ba24Cr12S54U6', pbc=False)

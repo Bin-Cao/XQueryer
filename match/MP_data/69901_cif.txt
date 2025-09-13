@@ -1,0 +1,2 @@
+Fe4Ge8La4O28
+Atoms(symbols='La4Fe4Ge8O28', pbc=False)

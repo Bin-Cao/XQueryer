@@ -1,0 +1,2 @@
+Ag2Ca2F10
+Atoms(symbols='Ca2Ag2F10', pbc=False)

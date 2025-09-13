@@ -1,0 +1,2 @@
+AgZn
+Atoms(symbols='ZnAg', pbc=False)

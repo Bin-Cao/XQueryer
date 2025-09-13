@@ -1,0 +1,2 @@
+F8Ir2
+Atoms(symbols='Ir2F8', pbc=False)

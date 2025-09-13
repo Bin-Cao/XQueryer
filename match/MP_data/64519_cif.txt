@@ -1,0 +1,2 @@
+F10Ni2Y2
+Atoms(symbols='YNiF5YNiF5', pbc=False)

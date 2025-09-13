@@ -1,0 +1,2 @@
+Ba20P16
+Atoms(symbols='Ba20P16', pbc=False)

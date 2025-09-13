@@ -1,0 +1,2 @@
+AgNiO2
+Atoms(symbols='NiAgO2', pbc=False)

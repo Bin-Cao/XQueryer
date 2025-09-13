@@ -1,0 +1,2 @@
+Mo12Nd6O45
+Atoms(symbols='Mo12Nd6O45', pbc=False)

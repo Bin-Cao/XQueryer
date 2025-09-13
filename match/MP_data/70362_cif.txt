@@ -1,0 +1,2 @@
+CuLaMgO3
+Atoms(symbols='LaMgCuO3', pbc=False)

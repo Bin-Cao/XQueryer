@@ -1,0 +1,2 @@
+F17NdPb7
+Atoms(symbols='NdPb7F17', pbc=False)

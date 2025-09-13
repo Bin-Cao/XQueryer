@@ -1,0 +1,2 @@
+Cu2Ho2O16W4
+Atoms(symbols='Ho2Cu2W4O16', pbc=False)

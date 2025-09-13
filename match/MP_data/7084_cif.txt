@@ -1,0 +1,2 @@
+O7Sr2TlV2Y
+Atoms(symbols='Sr2YTlV2O7', pbc=False)

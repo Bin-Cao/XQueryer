@@ -1,0 +1,2 @@
+O28Pr12Ta4
+Atoms(symbols='Pr6Ta2O14Pr6Ta2O14', pbc=False)

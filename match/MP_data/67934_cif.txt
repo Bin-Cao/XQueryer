@@ -1,0 +1,2 @@
+O128Si64
+Atoms(symbols='O128Si64', pbc=False)

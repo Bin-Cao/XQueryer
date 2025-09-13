@@ -1,0 +1,2 @@
+Mg6Ni9Si3
+Atoms(symbols='Mg2SiNi3Mg2SiNi3Mg2SiNi3', pbc=False)

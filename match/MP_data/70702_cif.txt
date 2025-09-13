@@ -1,0 +1,2 @@
+EuMn2P2
+Atoms(symbols='EuMn2P2', pbc=False)

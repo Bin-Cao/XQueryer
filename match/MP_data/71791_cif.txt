@@ -1,0 +1,2 @@
+Co8In24
+Atoms(symbols='In12Co4In12Co4', pbc=False)

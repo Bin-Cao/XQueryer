@@ -1,0 +1,2 @@
+Fe16Si32
+Atoms(symbols='Fe8Si16Fe8Si16', pbc=False)

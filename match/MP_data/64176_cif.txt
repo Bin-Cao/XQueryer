@@ -1,0 +1,2 @@
+La8Ni4O17
+Atoms(symbols='La8Ni4O17', pbc=False)

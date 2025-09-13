@@ -1,0 +1,2 @@
+Nd3O12P3
+Atoms(symbols='Nd3P3O12', pbc=False)

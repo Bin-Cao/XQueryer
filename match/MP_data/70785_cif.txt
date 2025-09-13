@@ -1,0 +1,2 @@
+In10Nd8S26
+Atoms(symbols='Nd8In10S26', pbc=False)

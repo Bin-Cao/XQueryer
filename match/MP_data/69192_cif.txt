@@ -1,0 +1,2 @@
+As2F2Fe2Sr2
+Atoms(symbols='Sr2Fe2As2F2', pbc=False)

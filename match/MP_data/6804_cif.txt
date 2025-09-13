@@ -1,0 +1,2 @@
+AlBaCuO5W
+Atoms(symbols='BaAlCuWO5', pbc=False)

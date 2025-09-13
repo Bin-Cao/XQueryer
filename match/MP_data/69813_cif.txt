@@ -1,0 +1,2 @@
+Ge4Pt6
+Atoms(symbols='Ge4Pt6', pbc=False)

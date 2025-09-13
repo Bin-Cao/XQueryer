@@ -1,0 +1,2 @@
+AgCl3Rb
+Atoms(symbols='RbAgCl3', pbc=False)

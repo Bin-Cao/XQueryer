@@ -1,0 +1,2 @@
+Co2O18Se6Sr4
+Atoms(symbols='Sr4Co2Se6O18', pbc=False)

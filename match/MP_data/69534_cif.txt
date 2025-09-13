@@ -1,0 +1,2 @@
+CoFe
+Atoms(symbols='FeCo', pbc=False)

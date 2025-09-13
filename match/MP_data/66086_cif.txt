@@ -1,0 +1,2 @@
+La2Li2Mn8O24
+Atoms(symbols='LiLaMn4O12LiLaMn4O12', pbc=False)

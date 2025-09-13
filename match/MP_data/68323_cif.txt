@@ -1,0 +1,2 @@
+Co2O8W2
+Atoms(symbols='Co2W2O8', pbc=False)

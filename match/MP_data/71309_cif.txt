@@ -1,0 +1,2 @@
+Ba2Cu2Fe2Mg2O10Y2
+Atoms(symbols='BaYMgFeCuO5BaYMgFeCuO5', pbc=False)

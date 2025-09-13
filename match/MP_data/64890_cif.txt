@@ -1,0 +1,2 @@
+H2FeLiO10P2V
+Atoms(symbols='LiVFeP2H2O10', pbc=False)

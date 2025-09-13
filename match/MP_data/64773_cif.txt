@@ -1,0 +1,2 @@
+Li3Si3Y3
+Atoms(symbols='Li3Y3Si3', pbc=False)

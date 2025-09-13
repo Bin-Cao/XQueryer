@@ -1,0 +1,2 @@
+As4Co14O24
+Atoms(symbols='Co14As4O24', pbc=False)

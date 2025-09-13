@@ -1,0 +1,2 @@
+As4Mg4O20Sn4
+Atoms(symbols='Mg4Sn4As4O20', pbc=False)

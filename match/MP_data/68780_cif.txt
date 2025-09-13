@@ -1,0 +1,2 @@
+Fe2Ge6La2
+Atoms(symbols='LaFeGe3LaFeGe3', pbc=False)

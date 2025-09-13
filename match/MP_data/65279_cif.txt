@@ -1,0 +1,2 @@
+Cu4Nd8O16
+Atoms(symbols='Nd4Cu2O8Nd4Cu2O8', pbc=False)

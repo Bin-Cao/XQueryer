@@ -1,0 +1,2 @@
+Fe6Th14
+Atoms(symbols='Th14Fe6', pbc=False)

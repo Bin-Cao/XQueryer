@@ -1,0 +1,2 @@
+As12O4Sr12Ta4
+Atoms(symbols='Sr12Ta4As12O4', pbc=False)

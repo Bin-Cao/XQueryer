@@ -1,0 +1,2 @@
+IrMgNiO6Sr2
+Atoms(symbols='Sr2MgNiIrO6', pbc=False)

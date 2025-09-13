@@ -1,0 +1,2 @@
+Co10Ga20Hf10
+Atoms(symbols='Hf10Ga20Co10', pbc=False)

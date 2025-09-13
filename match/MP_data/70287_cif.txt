@@ -1,0 +1,2 @@
+O16Te8
+Atoms(symbols='Te8O16', pbc=False)

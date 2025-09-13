@@ -1,0 +1,2 @@
+O54P18Rh6
+Atoms(symbols='O54P18Rh6', pbc=False)

@@ -1,0 +1,2 @@
+FeNi3
+Atoms(symbols='FeNi3', pbc=False)

@@ -1,0 +1,2 @@
+Cu4Ge20O56Pb12
+Atoms(symbols='Cu4Ge20O56Pb12', pbc=False)

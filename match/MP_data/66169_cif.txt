@@ -1,0 +1,2 @@
+C2Ge6Mo10
+Atoms(symbols='Ge6Mo10C2', pbc=False)

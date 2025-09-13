@@ -1,0 +1,2 @@
+Br18FeK4Zr6
+Atoms(symbols='K4Zr6FeBr18', pbc=False)

@@ -1,0 +1,2 @@
+H14Fe4O13
+Atoms(symbols='Fe4H14O13', pbc=False)

@@ -1,0 +1,2 @@
+Fe16Ho6O
+Atoms(symbols='Ho6Fe16O', pbc=False)

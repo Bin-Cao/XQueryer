@@ -1,0 +1,2 @@
+Ca28Ge24
+Atoms(symbols='Ca28Ge24', pbc=False)

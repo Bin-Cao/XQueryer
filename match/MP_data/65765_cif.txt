@@ -1,0 +1,2 @@
+In2K2Nb8O24
+Atoms(symbols='KNb4InO12KNb4InO12', pbc=False)

@@ -1,0 +1,2 @@
+Si4W2
+Atoms(symbols='Si2WSi2W', pbc=False)

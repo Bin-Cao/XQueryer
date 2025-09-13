@@ -1,0 +1,2 @@
+Mg2Na4Ni4O8
+Atoms(symbols='Na2MgNi2O4Na2MgNi2O4', pbc=False)

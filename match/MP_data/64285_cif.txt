@@ -1,0 +1,2 @@
+O14P4Sn2
+Atoms(symbols='Sn2P4O14', pbc=False)

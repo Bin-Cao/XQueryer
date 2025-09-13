@@ -1,0 +1,2 @@
+F4O40Si12Y12
+Atoms(symbols='F4O40Si12Y12', pbc=False)

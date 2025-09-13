@@ -1,0 +1,2 @@
+Cl4MgOW
+Atoms(symbols='MgWCl4O', pbc=False)

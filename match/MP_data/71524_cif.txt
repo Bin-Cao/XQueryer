@@ -1,0 +1,2 @@
+Fe3Mg3Na3O6
+Atoms(symbols='NaMgFeO2NaMgFeO2NaMgFeO2', pbc=False)

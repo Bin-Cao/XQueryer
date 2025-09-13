@@ -1,0 +1,2 @@
+In2Pd6
+Atoms(symbols='InPd3InPd3', pbc=False)

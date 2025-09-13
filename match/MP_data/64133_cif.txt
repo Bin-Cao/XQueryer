@@ -1,0 +1,2 @@
+Co3F5LiO
+Atoms(symbols='LiCo3OF5', pbc=False)

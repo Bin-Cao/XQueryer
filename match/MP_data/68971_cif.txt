@@ -1,0 +1,2 @@
+CaIn
+Atoms(symbols='CaIn', pbc=False)

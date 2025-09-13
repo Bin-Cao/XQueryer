@@ -1,0 +1,2 @@
+Al11NdO18
+Atoms(symbols='NdAl11O18', pbc=False)

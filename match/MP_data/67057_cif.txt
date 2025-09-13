@@ -1,0 +1,2 @@
+Fe12S16Tl8
+Atoms(symbols='Tl4Fe6S8Tl4Fe6S8', pbc=False)

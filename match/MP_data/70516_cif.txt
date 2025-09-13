@@ -1,0 +1,2 @@
+B20Fe2Th4
+Atoms(symbols='Th4Fe2B20', pbc=False)

@@ -1,0 +1,2 @@
+Hf54Re24S6
+Atoms(symbols='Hf54Re24S6', pbc=False)

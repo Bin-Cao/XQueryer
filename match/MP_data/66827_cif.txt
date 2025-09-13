@@ -1,0 +1,2 @@
+Fe4P12Pr
+Atoms(symbols='PrFe4P12', pbc=False)

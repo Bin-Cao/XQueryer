@@ -1,0 +1,2 @@
+Bi2K2Mg2O6
+Atoms(symbols='KMgBiO3KMgBiO3', pbc=False)

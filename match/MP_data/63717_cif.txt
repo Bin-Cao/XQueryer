@@ -1,0 +1,2 @@
+Fe4Mo4O24PrSr7
+Atoms(symbols='Sr7PrFe4Mo4O24', pbc=False)

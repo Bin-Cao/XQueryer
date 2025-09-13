@@ -1,0 +1,2 @@
+HgLi
+Atoms(symbols='LiHg', pbc=False)

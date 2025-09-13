@@ -1,0 +1,2 @@
+Co2MgNa6O6
+Atoms(symbols='Na6MgCo2O6', pbc=False)

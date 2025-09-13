@@ -1,0 +1,2 @@
+Lu8O16Pd4
+Atoms(symbols='Lu4Pd2O8Lu4Pd2O8', pbc=False)

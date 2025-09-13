@@ -1,0 +1,2 @@
+B4Ni12
+Atoms(symbols='Ni12B4', pbc=False)

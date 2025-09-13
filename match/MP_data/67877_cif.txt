@@ -1,0 +1,2 @@
+Sb40Sr44
+Atoms(symbols='Sb40Sr44', pbc=False)

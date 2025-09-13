@@ -1,0 +1,2 @@
+K12O52Si8Ta12
+Atoms(symbols='K12O52Si8Ta12', pbc=False)

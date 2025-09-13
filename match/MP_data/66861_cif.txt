@@ -1,0 +1,2 @@
+As24Ga16Na16
+Atoms(symbols='Na16Ga16As24', pbc=False)

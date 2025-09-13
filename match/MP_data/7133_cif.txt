@@ -1,0 +1,2 @@
+O28V20
+Atoms(symbols='V10O14V10O14', pbc=False)

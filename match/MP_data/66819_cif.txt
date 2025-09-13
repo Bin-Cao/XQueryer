@@ -1,0 +1,2 @@
+HoSi2
+Atoms(symbols='HoSi2', pbc=False)

@@ -1,0 +1,2 @@
+Cu4F28In4Na8
+Atoms(symbols='Na8In4Cu4F28', pbc=False)

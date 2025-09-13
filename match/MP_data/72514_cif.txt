@@ -1,0 +1,2 @@
+As12Mg3Ni12S12
+Atoms(symbols='MgNi4As4S4MgNi4As4S4MgNi4As4S4', pbc=False)

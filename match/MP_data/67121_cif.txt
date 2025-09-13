@@ -1,0 +1,2 @@
+Li26Mn4O18
+Atoms(symbols='Li26Mn4O18', pbc=False)

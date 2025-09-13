@@ -1,0 +1,2 @@
+O36Tb21
+Atoms(symbols='Tb7O12Tb7O12Tb7O12', pbc=False)

@@ -1,0 +1,2 @@
+Co2Mg2O4
+Atoms(symbols='MgCoO2MgCoO2', pbc=False)

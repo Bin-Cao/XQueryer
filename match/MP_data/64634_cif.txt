@@ -1,0 +1,2 @@
+N2Ni2Zn
+Atoms(symbols='ZnNi2N2', pbc=False)

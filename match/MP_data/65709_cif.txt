@@ -1,0 +1,2 @@
+Ce4K4Nb4O24Sr4
+Atoms(symbols='K4Sr4Ce4Nb4O24', pbc=False)

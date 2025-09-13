@@ -1,0 +1,2 @@
+Dy2Nd2Ni8O24
+Atoms(symbols='NdDyNi4O12NdDyNi4O12', pbc=False)

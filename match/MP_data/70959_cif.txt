@@ -1,0 +1,2 @@
+BaMgMn2O6Pr
+Atoms(symbols='BaPrMgMn2O6', pbc=False)

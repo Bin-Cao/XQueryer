@@ -1,0 +1,2 @@
+Fe4O24Ta6Zn3
+Atoms(symbols='Ta6Zn3Fe4O24', pbc=False)

@@ -1,0 +1,2 @@
+O30Sr2V20
+Atoms(symbols='Sr2V20O30', pbc=False)

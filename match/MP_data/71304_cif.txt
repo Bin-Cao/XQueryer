@@ -1,0 +1,2 @@
+CEu2N2O2
+Atoms(symbols='Eu2CN2O2', pbc=False)

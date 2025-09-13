@@ -1,0 +1,2 @@
+Ca2Co8Nd2O24
+Atoms(symbols='CaNdCo4O12CaNdCo4O12', pbc=False)

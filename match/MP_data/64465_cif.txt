@@ -1,0 +1,2 @@
+HoMn12
+Atoms(symbols='HoMn12', pbc=False)

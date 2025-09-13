@@ -1,0 +1,2 @@
+Bi6O16Zn4
+Atoms(symbols='Zn2Bi3O8Zn2Bi3O8', pbc=False)

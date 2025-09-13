@@ -1,0 +1,2 @@
+Co8Ga4Mn4
+Atoms(symbols='MnGaCo2MnGaCo2MnGaCo2MnGaCo2', pbc=False)

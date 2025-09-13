@@ -1,0 +1,2 @@
+CGaMn3
+Atoms(symbols='Mn3GaC', pbc=False)

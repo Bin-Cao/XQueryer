@@ -1,0 +1,2 @@
+Ir10Sn14
+Atoms(symbols='Sn7Ir5Sn7Ir5', pbc=False)

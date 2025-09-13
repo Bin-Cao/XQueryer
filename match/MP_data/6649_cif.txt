@@ -1,0 +1,2 @@
+Ca2O12W4
+Atoms(symbols='Ca2W4O12', pbc=False)

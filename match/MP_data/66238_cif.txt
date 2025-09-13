@@ -1,0 +1,2 @@
+Cr10Rb2S16
+Atoms(symbols='RbCr5S8RbCr5S8', pbc=False)

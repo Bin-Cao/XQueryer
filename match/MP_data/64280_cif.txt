@@ -1,0 +1,2 @@
+CaCr2La2O12Ti2
+Atoms(symbols='CaLa2Ti2Cr2O12', pbc=False)

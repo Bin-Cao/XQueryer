@@ -1,0 +1,2 @@
+PPtY
+Atoms(symbols='YPPt', pbc=False)

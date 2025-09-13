@@ -1,0 +1,2 @@
+CaCu5
+Atoms(symbols='CaCu5', pbc=False)

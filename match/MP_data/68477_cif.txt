@@ -1,0 +1,2 @@
+Ba2Gd4Ni2O10
+Atoms(symbols='BaGd2NiO5BaGd2NiO5', pbc=False)

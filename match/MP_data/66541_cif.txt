@@ -1,0 +1,2 @@
+Gd4O4Te2
+Atoms(symbols='Gd2TeO2Gd2TeO2', pbc=False)

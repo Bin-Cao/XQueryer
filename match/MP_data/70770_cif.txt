@@ -1,0 +1,2 @@
+Fe24P12Th6
+Atoms(symbols='Th6Fe24P12', pbc=False)

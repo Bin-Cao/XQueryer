@@ -1,0 +1,2 @@
+Ga2U
+Atoms(symbols='UGa2', pbc=False)

@@ -1,0 +1,2 @@
+N12O48Ti34
+Atoms(symbols='N12O48Ti34', pbc=False)

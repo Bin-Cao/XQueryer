@@ -1,0 +1,2 @@
+Er5MgMo2O12
+Atoms(symbols='Er5MgMo2O12', pbc=False)

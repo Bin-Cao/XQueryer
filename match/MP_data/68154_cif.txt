@@ -1,0 +1,2 @@
+Er6F20K2
+Atoms(symbols='K2Er6F20', pbc=False)

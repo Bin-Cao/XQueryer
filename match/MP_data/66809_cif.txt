@@ -1,0 +1,2 @@
+Co6Li10O20Sb4
+Atoms(symbols='Li10Co6Sb4O20', pbc=False)

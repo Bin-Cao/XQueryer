@@ -1,0 +1,2 @@
+Li7Ni3O12Si2
+Atoms(symbols='Li7Si2Ni3O12', pbc=False)

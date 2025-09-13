@@ -1,0 +1,2 @@
+PrSb
+Atoms(symbols='PrSb', pbc=False)

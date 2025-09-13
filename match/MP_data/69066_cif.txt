@@ -1,0 +1,2 @@
+LiMo3O8Y
+Atoms(symbols='LiYMo3O8', pbc=False)

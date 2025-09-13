@@ -1,0 +1,2 @@
+Gd2K2O24Ti8
+Atoms(symbols='KGdTi4O12KGdTi4O12', pbc=False)

@@ -1,0 +1,2 @@
+Cr8Dy2Eu2O24
+Atoms(symbols='EuDyCr4O12EuDyCr4O12', pbc=False)

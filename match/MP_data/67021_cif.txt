@@ -1,0 +1,2 @@
+Au9Cd9
+Atoms(symbols='Cd9Au9', pbc=False)

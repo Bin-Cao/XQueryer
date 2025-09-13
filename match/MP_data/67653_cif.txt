@@ -1,0 +1,2 @@
+C6Fe14
+Atoms(symbols='Fe14C6', pbc=False)

@@ -1,0 +1,2 @@
+Na24Se28Sn8
+Atoms(symbols='Na12Sn4Se14Na12Sn4Se14', pbc=False)

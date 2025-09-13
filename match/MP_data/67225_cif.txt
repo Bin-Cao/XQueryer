@@ -1,0 +1,2 @@
+Cr5La4O15Sr
+Atoms(symbols='SrLa4Cr5O15', pbc=False)

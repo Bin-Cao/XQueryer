@@ -1,0 +1,2 @@
+InPd
+Atoms(symbols='InPd', pbc=False)

@@ -1,0 +1,2 @@
+Ge8Na8S20
+Atoms(symbols='Na8Ge8S20', pbc=False)

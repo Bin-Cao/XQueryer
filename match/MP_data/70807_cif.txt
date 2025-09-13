@@ -1,0 +1,2 @@
+Co4NiO8
+Atoms(symbols='Co4NiO8', pbc=False)

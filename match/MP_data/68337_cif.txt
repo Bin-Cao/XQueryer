@@ -1,0 +1,2 @@
+Nd6O16Se4Ti6
+Atoms(symbols='Nd6Ti6Se4O16', pbc=False)

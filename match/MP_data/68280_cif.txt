@@ -1,0 +1,2 @@
+K16O16Si4
+Atoms(symbols='K16Si4O16', pbc=False)

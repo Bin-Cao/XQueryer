@@ -1,0 +1,2 @@
+B12La3O36Sc9
+Atoms(symbols='LaSc3B4O12LaSc3B4O12LaSc3B4O12', pbc=False)

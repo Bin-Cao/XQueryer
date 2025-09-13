@@ -1,0 +1,2 @@
+Se8U6
+Atoms(symbols='U6Se8', pbc=False)

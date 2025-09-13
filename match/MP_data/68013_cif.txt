@@ -1,0 +1,2 @@
+Ca4Fe12O20
+Atoms(symbols='Ca2Fe6O10Ca2Fe6O10', pbc=False)

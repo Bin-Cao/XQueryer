@@ -1,0 +1,2 @@
+Cu4Ge8O26Sc4
+Atoms(symbols='Sc4Cu4Ge8O26', pbc=False)

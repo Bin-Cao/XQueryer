@@ -1,0 +1,2 @@
+F6MgMn
+Atoms(symbols='MgMnF6', pbc=False)

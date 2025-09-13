@@ -1,0 +1,2 @@
+ClCuLaMgO7Ta2
+Atoms(symbols='LaMgTa2CuClO7', pbc=False)

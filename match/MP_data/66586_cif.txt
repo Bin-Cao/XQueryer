@@ -1,0 +1,2 @@
+F32Ga8K8
+Atoms(symbols='K8Ga8F32', pbc=False)

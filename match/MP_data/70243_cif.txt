@@ -1,0 +1,2 @@
+Co4Se16Ta22
+Atoms(symbols='Ta22Co4Se16', pbc=False)

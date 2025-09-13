@@ -1,0 +1,2 @@
+Co8Mo8O32
+Atoms(symbols='Co4Mo4O16Co4Mo4O16', pbc=False)

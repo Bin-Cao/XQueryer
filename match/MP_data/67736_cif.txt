@@ -1,0 +1,2 @@
+K12S16Ta4
+Atoms(symbols='K12Ta4S16', pbc=False)

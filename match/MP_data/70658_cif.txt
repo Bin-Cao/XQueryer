@@ -1,0 +1,2 @@
+Co3N18Na9O36
+Atoms(symbols='Co3N18Na9O36', pbc=False)

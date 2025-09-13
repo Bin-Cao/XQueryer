@@ -1,0 +1,2 @@
+In8O28P8
+Atoms(symbols='In8P8O28', pbc=False)

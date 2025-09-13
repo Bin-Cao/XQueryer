@@ -1,0 +1,2 @@
+Cu3Mn4O12Zn
+Atoms(symbols='Mn4ZnCu3O12', pbc=False)

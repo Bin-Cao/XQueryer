@@ -1,0 +1,2 @@
+CuFe5MgO8
+Atoms(symbols='MgFe5CuO8', pbc=False)

@@ -1,0 +1,2 @@
+Br2Cu3MgO6Te2
+Atoms(symbols='MgCu3Te2Br2O6', pbc=False)

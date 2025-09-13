@@ -1,0 +1,2 @@
+F10V2Y2
+Atoms(symbols='YVF5YVF5', pbc=False)

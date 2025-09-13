@@ -1,0 +1,2 @@
+ClLi20P3S23Si3
+Atoms(symbols='Li20Si3P3S23Cl', pbc=False)

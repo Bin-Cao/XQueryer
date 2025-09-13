@@ -1,0 +1,2 @@
+Ge6N8
+Atoms(symbols='Ge6N8', pbc=False)

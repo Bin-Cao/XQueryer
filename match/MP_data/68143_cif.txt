@@ -1,0 +1,2 @@
+Co2Cr2O8
+Atoms(symbols='Cr2Co2O8', pbc=False)

@@ -1,0 +1,2 @@
+Au6K18Se12
+Atoms(symbols='K6Au2Se4K6Au2Se4K6Au2Se4', pbc=False)

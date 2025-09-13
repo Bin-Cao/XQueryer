@@ -1,0 +1,2 @@
+Ni20P13Zr6
+Atoms(symbols='Zr6Ni20P13', pbc=False)

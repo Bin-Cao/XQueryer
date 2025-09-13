@@ -1,0 +1,2 @@
+Cr30P19Zr2
+Atoms(symbols='Zr2Cr30P19', pbc=False)

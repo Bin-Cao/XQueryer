@@ -1,0 +1,2 @@
+As24Pt16Sr4
+Atoms(symbols='Sr2As12Pt8Sr2As12Pt8', pbc=False)

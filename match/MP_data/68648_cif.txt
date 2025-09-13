@@ -1,0 +1,2 @@
+CaFeO2
+Atoms(symbols='CaFeO2', pbc=False)

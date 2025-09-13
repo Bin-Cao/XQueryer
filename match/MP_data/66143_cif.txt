@@ -1,0 +1,2 @@
+Fe8La2Na2O24
+Atoms(symbols='NaLaFe4O12NaLaFe4O12', pbc=False)

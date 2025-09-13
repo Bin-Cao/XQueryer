@@ -1,0 +1,2 @@
+F28K4Pd4Zr4
+Atoms(symbols='K4Zr4Pd4F28', pbc=False)

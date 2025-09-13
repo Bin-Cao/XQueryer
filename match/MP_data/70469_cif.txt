@@ -1,0 +1,2 @@
+EuMgO3Ti
+Atoms(symbols='EuMgTiO3', pbc=False)

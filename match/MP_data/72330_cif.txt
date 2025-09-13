@@ -1,0 +1,2 @@
+Mn12Ni32Si14
+Atoms(symbols='Mn6Si7Ni16Mn6Si7Ni16', pbc=False)

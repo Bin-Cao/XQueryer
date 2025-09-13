@@ -1,0 +1,2 @@
+Al34Pd16Si8
+Atoms(symbols='Al34Si8Pd16', pbc=False)

@@ -1,0 +1,2 @@
+Ag16Ge2Se12
+Atoms(symbols='Ag16Ge2Se12', pbc=False)

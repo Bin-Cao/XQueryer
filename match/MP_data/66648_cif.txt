@@ -1,0 +1,2 @@
+Cr12S24Zn3
+Atoms(symbols='ZnCr4S8ZnCr4S8ZnCr4S8', pbc=False)

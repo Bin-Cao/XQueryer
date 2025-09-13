@@ -1,0 +1,2 @@
+F20Sb4Zn4
+Atoms(symbols='Zn2Sb2F10Zn2Sb2F10', pbc=False)

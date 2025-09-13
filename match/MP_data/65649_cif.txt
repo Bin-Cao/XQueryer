@@ -1,0 +1,2 @@
+Fe2K2O24Se8
+Atoms(symbols='KFeSe4O12KFeSe4O12', pbc=False)

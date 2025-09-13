@@ -1,0 +1,2 @@
+Dy4La4O24Sn4Sr4
+Atoms(symbols='Sr4La4Dy4Sn4O24', pbc=False)

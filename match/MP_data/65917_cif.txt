@@ -1,0 +1,2 @@
+Cr8Mg2O24Pr2
+Atoms(symbols='PrMgCr4O12PrMgCr4O12', pbc=False)

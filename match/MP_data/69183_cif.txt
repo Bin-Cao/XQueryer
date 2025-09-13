@@ -1,0 +1,2 @@
+BaDy2NiO5
+Atoms(symbols='BaDy2NiO5', pbc=False)

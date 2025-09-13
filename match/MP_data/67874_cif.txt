@@ -1,0 +1,2 @@
+B12Ce3O36Sc9
+Atoms(symbols='CeSc3B4O12CeSc3B4O12CeSc3B4O12', pbc=False)

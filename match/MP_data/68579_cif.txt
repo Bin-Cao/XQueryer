@@ -1,0 +1,2 @@
+AlTi
+Atoms(symbols='TiAl', pbc=False)

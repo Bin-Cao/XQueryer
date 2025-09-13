@@ -1,0 +1,2 @@
+N4Nb4
+Atoms(symbols='NbNNbNNbNNbN', pbc=False)

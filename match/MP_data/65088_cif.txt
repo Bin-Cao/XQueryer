@@ -1,0 +1,2 @@
+Fe14Ni11O32
+Atoms(symbols='Fe14Ni11O32', pbc=False)

@@ -1,0 +1,2 @@
+Be52Th4
+Atoms(symbols='Th2Be26Th2Be26', pbc=False)

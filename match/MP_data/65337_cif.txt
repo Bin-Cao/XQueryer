@@ -1,0 +1,2 @@
+C14Lu8
+Atoms(symbols='Lu8C14', pbc=False)

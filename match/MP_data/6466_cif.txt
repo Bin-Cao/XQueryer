@@ -1,0 +1,2 @@
+Co4Ge8O24
+Atoms(symbols='Co2Ge4O12Co2Ge4O12', pbc=False)

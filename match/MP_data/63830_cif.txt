@@ -1,0 +1,2 @@
+Ca2Fe2O12W2
+Atoms(symbols='CaFeWO6CaFeWO6', pbc=False)

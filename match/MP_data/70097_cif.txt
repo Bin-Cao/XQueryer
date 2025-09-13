@@ -1,0 +1,2 @@
+O3Pr2
+Atoms(symbols='Pr2O3', pbc=False)

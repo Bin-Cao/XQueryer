@@ -1,0 +1,2 @@
+P28Sr6
+Atoms(symbols='Sr6P28', pbc=False)

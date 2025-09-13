@@ -1,0 +1,2 @@
+Al9Co2Sr
+Atoms(symbols='SrAl9Co2', pbc=False)

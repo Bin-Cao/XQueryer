@@ -1,0 +1,2 @@
+Ga8O36Pr16
+Atoms(symbols='Pr16Ga8O36', pbc=False)

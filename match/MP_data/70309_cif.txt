@@ -1,0 +1,2 @@
+Ni2Th
+Atoms(symbols='ThNi2', pbc=False)

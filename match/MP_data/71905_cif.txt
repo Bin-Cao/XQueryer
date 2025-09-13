@@ -1,0 +1,2 @@
+Cu8In24K16Se48
+Atoms(symbols='Cu8In24K16Se48', pbc=False)

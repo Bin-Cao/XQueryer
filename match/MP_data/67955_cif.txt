@@ -1,0 +1,2 @@
+K4O18Si6Sn2
+Atoms(symbols='K4Si6Sn2O18', pbc=False)

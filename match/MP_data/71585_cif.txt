@@ -1,0 +1,2 @@
+Cu2I4Mg2O4Sr4
+Atoms(symbols='Sr2MgCuI2O2Sr2MgCuI2O2', pbc=False)

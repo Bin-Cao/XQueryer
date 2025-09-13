@@ -1,0 +1,2 @@
+CrMgO10V3
+Atoms(symbols='MgV3CrO10', pbc=False)

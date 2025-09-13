@@ -1,0 +1,2 @@
+F16Pd4
+Atoms(symbols='Pd2F8Pd2F8', pbc=False)

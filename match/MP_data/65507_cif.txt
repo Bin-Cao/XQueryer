@@ -1,0 +1,2 @@
+O24Sm2Sn2Ti8
+Atoms(symbols='SmTi4SnO12SmTi4SnO12', pbc=False)

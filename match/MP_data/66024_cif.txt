@@ -1,0 +1,2 @@
+Cu4O38Rb4Si16
+Atoms(symbols='Cu4O38Rb4Si16', pbc=False)

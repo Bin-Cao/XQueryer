@@ -1,0 +1,2 @@
+Fe10Lu20S40
+Atoms(symbols='Fe10Lu20S40', pbc=False)

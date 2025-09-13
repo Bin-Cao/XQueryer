@@ -1,0 +1,2 @@
+Ge8Hg16O32
+Atoms(symbols='Hg4Ge2O8Hg4Ge2O8Hg4Ge2O8Hg4Ge2O8', pbc=False)

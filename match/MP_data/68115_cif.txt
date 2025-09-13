@@ -1,0 +1,2 @@
+Ba2Cr2O14P4
+Atoms(symbols='Ba2Cr2P4O14', pbc=False)

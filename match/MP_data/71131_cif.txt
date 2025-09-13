@@ -1,0 +1,2 @@
+MgNd2O5S2Ti2
+Atoms(symbols='Nd2MgTi2S2O5', pbc=False)

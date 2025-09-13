@@ -1,0 +1,2 @@
+Ge9Pd25
+Atoms(symbols='Ge9Pd25', pbc=False)

@@ -1,0 +1,2 @@
+Cr18O26
+Atoms(symbols='Cr9O13Cr9O13', pbc=False)

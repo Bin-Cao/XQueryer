@@ -1,0 +1,2 @@
+Sc3
+Atoms(symbols='Sc3', pbc=False)

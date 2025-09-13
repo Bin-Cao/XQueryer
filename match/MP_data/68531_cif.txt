@@ -1,0 +1,2 @@
+Ho12Mn12O36
+Atoms(symbols='Ho6Mn6O18Ho6Mn6O18', pbc=False)

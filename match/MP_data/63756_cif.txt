@@ -1,0 +1,2 @@
+Cu3O24W6Y2
+Atoms(symbols='Y2Cu3W6O24', pbc=False)

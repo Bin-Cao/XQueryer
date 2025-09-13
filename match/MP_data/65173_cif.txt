@@ -1,0 +1,2 @@
+Eu2K2O24W8
+Atoms(symbols='KEuW4O12KEuW4O12', pbc=False)

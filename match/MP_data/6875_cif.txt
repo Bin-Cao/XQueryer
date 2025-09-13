@@ -1,0 +1,2 @@
+Ho2Mg2O12Ti4
+Atoms(symbols='Ho2Mg2Ti4O12', pbc=False)

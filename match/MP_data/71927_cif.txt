@@ -1,0 +1,2 @@
+F3MgNbO
+Atoms(symbols='MgNbOF3', pbc=False)

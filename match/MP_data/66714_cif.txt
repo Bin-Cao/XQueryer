@@ -1,0 +1,2 @@
+Mo20O32Sm4
+Atoms(symbols='Sm4Mo20O32', pbc=False)

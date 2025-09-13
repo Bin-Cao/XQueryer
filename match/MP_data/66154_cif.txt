@@ -1,0 +1,2 @@
+Gd2Na2O8Ti2
+Atoms(symbols='Na2Gd2Ti2O8', pbc=False)

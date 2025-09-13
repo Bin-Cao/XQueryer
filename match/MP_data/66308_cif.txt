@@ -1,0 +1,2 @@
+As4Cu4K8
+Atoms(symbols='K4Cu2As2K4Cu2As2', pbc=False)

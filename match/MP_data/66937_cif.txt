@@ -1,0 +1,2 @@
+Cs4Ge6O18Ti2
+Atoms(symbols='Cs4Ti2Ge6O18', pbc=False)

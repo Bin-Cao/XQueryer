@@ -1,0 +1,2 @@
+Co5La
+Atoms(symbols='LaCo5', pbc=False)

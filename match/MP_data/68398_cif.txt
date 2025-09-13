@@ -1,0 +1,2 @@
+BaCoEr2O5
+Atoms(symbols='BaEr2CoO5', pbc=False)

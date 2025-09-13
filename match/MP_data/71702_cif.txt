@@ -1,0 +1,2 @@
+BiFeMgO3
+Atoms(symbols='MgFeBiO3', pbc=False)

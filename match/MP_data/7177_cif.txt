@@ -1,0 +1,2 @@
+O28Sb2Si2V13Y4
+Atoms(symbols='Y4V13Si2Sb2O28', pbc=False)

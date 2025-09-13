@@ -1,0 +1,2 @@
+O36Te3Tl18
+Atoms(symbols='Tl6TeO12Tl6TeO12Tl6TeO12', pbc=False)

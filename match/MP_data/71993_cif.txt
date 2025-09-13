@@ -1,0 +1,2 @@
+Mg2Nb2O8Ti2
+Atoms(symbols='MgTiNbO4MgTiNbO4', pbc=False)
