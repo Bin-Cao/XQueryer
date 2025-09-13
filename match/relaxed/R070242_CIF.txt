@@ -1,0 +1,58 @@
+      Troilite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R070242
+      Skala R, Cisarova I, Drabek M
+      American Mineralogist 91 (2006) 917-921
+      Inversion twinning in troilite
+      Sample: Etter
+
+      CELL PARAMETERS:   5.954424   5.954424   11.79902   90.00000   90.00000   120.0000
+      SPACE GROUP: P-62c
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Fe     0.37910   0.05490   0.12303     1.000     1.200
+            S      0.00000   0.00000   0.00000     1.000     1.074
+            S      0.33333   0.66667   0.01980     1.000     0.987
+            S      0.66530  -0.00350   0.25000     1.000     1.026
+
+            X-RAY WAVELENGTH:     0.710730
+            BOUNDS ON TWO THETA:    5.0  55.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  6 +/-  6 +/- 15
+            MAX. ABS. INTENSITY / VOLUME**2:      361.8817543
+            The INTENSITY cut off value is   2.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                 7.95          2.54        5.1567    1   0   0
+                 8.67          7.08        4.7251    1   0   1
+                13.75         39.75        2.9772    1   1   0
+                13.87          6.88        2.9498    0   0   4
+                15.40         35.62        2.6579    1   1   2
+                16.25          5.64        2.5189    2   0   1
+                19.00          5.81        2.1563    2   0   3
+                19.09          3.68        2.1458    1   0   5
+                19.55        100.00        2.0954    1   1   4
+                21.03          2.64        1.9490    2   1   0
+                21.32         12.05        1.9230    2   1   1
+                23.50          9.60        1.7464    2   1   3
+                23.88         30.34        1.7189    3   0   0
+                25.03          5.99        1.6409    1   1   6
+                25.26          2.60        1.6261    2   1   4
+                27.36          3.41        1.5028    2   1   5
+                27.89          7.48        1.4749    0   0   8
+                28.51          4.46        1.4434    2   2   2
+                28.99          2.50        1.4198    3   1   1
+                31.02         11.24        1.3290    2   2   4
+                31.19          5.68        1.3216    1   1   8
+                32.19          2.29        1.2815    4   0   1
+                32.36          2.54        1.2749    2   1   7
+                33.77          2.39        1.2231    3   1   5
+                35.13          3.12        1.1771    3   2   1
+                36.55          3.27        1.1329    3   2   3
+                36.60          2.10        1.1314    4   0   5
+                37.01          9.29        1.1193    3   0   8
+                37.49          3.25        1.1054    4   1   2
+                39.49          4.57        1.0514    4   1   4
+                44.71          3.03        0.9337    1   1  12
+                44.71          3.03        0.9337    1   1  12
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

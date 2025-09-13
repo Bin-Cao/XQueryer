@@ -1,0 +1,26 @@
+      Nickeline
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R060906
+      Wyckoff R W G
+      Crystal Structures 1 (1963) 85-237
+      Second edition. Interscience Publishers, New York, New York
+      Note: ideal nickel arsenide structure
+
+      CELL PARAMETERS:   3.602000   3.602000   5.009000   90.00000   90.00000   120.0000
+      SPACE GROUP: P6_3mc
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                28.42         12.54        3.1408    1   0   0
+                33.62        100.00        2.6655    1   0   1
+                46.18         92.40        1.9653    1   0   2
+                50.30         66.29        1.8134    1   1   0
+                58.77          1.14        1.5704    2   0   0
+                61.86         15.26        1.4993    2   0   1
+                62.70         14.62        1.4812    1   0   3
+                70.64         21.74        1.3327    2   0   2
+                75.42          5.64        1.2598    0   0   4
+                83.64          3.95        1.1555    2   1   1
+                84.39          5.80        1.1471    2   0   3
+                84.39          5.80        1.1471    2   0   3
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

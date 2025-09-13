@@ -1,0 +1,61 @@
+      Colquiriite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from single crystal data of R070417
+      Bolotina N B, Maksimov B A, Simonov V I, Derzhavin S I, Uvarova T V, Apollonov V V
+      Crystallography Reports 38 (1993) 446-450
+      Atomic structure and spectral properties of LiCaAlF6:Cr3+ single crystals
+      Locality: synthetic
+
+      CELL PARAMETERS:   5.0016  5.0016  9.6360   90.000   90.000  120.000
+      SPACE GROUP: P-31c     
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Ca     0.00000   0.00000   0.00000     1.000     0.612
+            Li     0.33333   0.66667   0.25000     1.000     1.330
+            Al     0.66667   0.33333   0.25000     1.000     0.517
+            F      0.37690   0.03110   0.14340     1.000     0.926
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    0.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  3 +/-  3 +/-  8
+            MAX. ABS. INTENSITY / VOLUME**2:      17.36842969    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                18.41          4.32        4.8180    0   0   2
+                20.50          5.67        4.3315    1   0   0
+                22.51         40.06        3.9507    1   0   1
+                27.69        100.00        3.2211    1   0   2
+                34.77          2.67        2.5800    1   0   3
+                35.91          2.40        2.5008    1   1   0
+                37.33          1.68        2.4090    0   0   4
+                40.65         55.50        2.2196    2  -1   2
+                40.65         20.66        2.2196    1   1   2
+                41.70          9.32        2.1658    2   0   0
+                42.96          9.41        2.1053    1   0   4
+                45.94         16.60        1.9754    2   0   2
+                50.85          2.95        1.7957    2   0   3
+                52.76         11.88        1.7350    2  -1   4
+                52.76         45.75        1.7350    1   1   4
+                56.18          2.56        1.6372    2   1   0
+                57.06          2.22        1.6140    2   1   1
+                57.37          2.50        1.6060    0   0   6
+                59.65          2.57        1.5501    3  -1   2
+                59.65         15.79        1.5501    2   1   2
+                61.59          5.68        1.5058    1   0   6
+                63.81          4.39        1.4586    2   1   3
+                64.54         22.04        1.4438    3   0   0
+                64.75          2.17        1.4397    2   0   5
+                69.41          1.32        1.3541    3  -1   4
+                69.57          4.54        1.3513    2  -1   6
+                69.57          1.03        1.3513    1   1   6
+                73.40          5.59        1.2900    2   0   6
+                76.32          1.28        1.2477    3  -1   5
+                79.59          2.45        1.2045    0   0   8
+                82.81          1.78        1.1657   -1  -3   2
+                84.51          1.44        1.1465    2   1   6
+                84.51          4.38        1.1465    3  -1   6
+                88.00          1.91        1.1098   -2  -2   4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

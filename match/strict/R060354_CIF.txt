@@ -1,0 +1,62 @@
+      Sodalite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from the powder pattern of R060354
+      Hassan I, Antao S M, Parise J B
+      American Mineralogist 89 (2004) 359-364
+      Sodalite: High-temperature structures obtained from synchrotron radiation
+      and Rietveld refinements
+      Sample: T = 28 C
+
+      CELL PARAMETERS:   8.8814  8.8814  8.8814   90.000   90.000   90.000
+      SPACE GROUP: P-43n     
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Na     0.17790   0.17790   0.17790     1.000     1.398
+            Al     0.25000   0.00000   0.50000     1.000     0.403
+            Si     0.25000   0.50000   0.00000     1.000     0.403
+            O      0.13974   0.15013   0.43895     1.000     0.189
+            Cl     0.00000   0.00000   0.00000     1.000     1.895
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  8 +/-  8 +/-  8
+            MAX. ABS. INTENSITY / VOLUME**2:      22.22978259    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                14.10         32.72        6.2801    1   1   0
+                19.99          5.71        4.4407    2   0   0
+                22.38          1.09        3.9719    2   1   0
+                24.55        100.00        3.6258    2   1   1
+                31.86          8.99        2.8086    3   1   0
+                35.00         18.59        2.5639    2   2   2
+                37.90         20.39        2.3737    3   2   1
+                40.63          1.36        2.2204    4   0   0
+                43.22         13.96        2.0934    3   3   0
+                43.22         18.69        2.0934    4   1   1
+                45.68          4.77        1.9860    4   2   0
+                48.05          3.64        1.8935    3   3   2
+                50.33          3.40        1.8129    4   2   2
+                52.54          3.49        1.7418    4   3   1
+                56.77          2.97        1.6215    5   2   1
+                58.82         11.06        1.5700    4   4   0
+                60.81          3.22        1.5232    5   3   0
+                60.81          2.64        1.5232    4   3   3
+                62.77          2.99        1.4802    6   0   0
+                62.77          7.21        1.4802    4   4   2
+                64.70          9.57        1.4408    5   3   2
+                68.46          3.91        1.3704    5   4   1
+                70.31          3.79        1.3389    6   2   2
+                72.13          4.33        1.3095    6   3   1
+                73.94          3.05        1.2819    4   4   4
+                79.26          4.79        1.2086    7   2   1
+                79.26          3.18        1.2086    6   3   3
+                79.26          1.87        1.2086    5   5   2
+                82.76          2.43        1.1662    7   3   0
+                86.23          1.05        1.1279    7   3   2
+                86.23          3.32        1.1279    6   5   1
+                89.69          1.09        1.0932    8   1   1
+                89.69          1.14        1.0932    7   4   1
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

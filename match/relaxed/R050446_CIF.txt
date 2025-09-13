@@ -1,0 +1,45 @@
+      Pyrope
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R050446
+      Novak G A, Meyer H O A
+      American Mineralogist 55 (1970) 2124-2127
+      Refinement of the crystal structure of a chrome pyrope garnet: An inclusion in
+      natural diamond
+
+      CELL PARAMETERS:   11.54112   11.54112   11.54112   90.00000   90.00000   90.00000
+      SPACE GROUP: Ia-3d
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                18.86          2.89        4.7116    2   1   1
+                21.81          8.73        4.0804    2   2   0
+                28.97          2.97        3.0845    3   2   1
+                31.01         65.81        2.8853    4   0   0
+                34.78        100.00        2.5807    4   2   0
+                36.53         26.79        2.4606    3   3   2
+                38.21         40.22        2.3558    4   2   2
+                39.84         22.30        2.2634    4   3   1
+                42.93         12.54        2.1071    5   2   1
+                48.63         11.46        1.8722    6   1   1
+                48.63          7.64        1.8722    5   3   2
+                49.98          9.85        1.8248    6   2   0
+                53.87          1.04        1.7016    6   3   1
+                55.13         11.30        1.6658    4   4   4
+                57.58         39.89        1.6005    6   4   0
+                59.97         74.91        1.5422    6   4   2
+                63.45          1.53        1.4657    7   3   2
+                64.59         13.23        1.4426    8   0   0
+                65.71          2.23        1.4206    7   4   1
+                67.94          2.14        1.3794    6   5   3
+                69.03          1.18        1.3601    8   2   2
+                72.28          1.01        1.3068    7   5   2
+                73.35         15.42        1.2903    8   4   0
+                75.47         17.48        1.2592    8   4   2
+                76.52          2.34        1.2445    7   6   1
+                77.57         11.47        1.2303    6   6   4
+                78.61          1.58        1.2165    8   5   1
+                78.61          1.91        1.2165    7   5   4
+                82.75          2.33        1.1658    9   4   1
+                82.75          2.94        1.1658    8   5   3
+                82.75          2.94        1.1658    8   5   3
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

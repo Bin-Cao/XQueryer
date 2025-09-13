@@ -1,0 +1,44 @@
+      Plattnerite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from single crystal data of R070605 
+      D'Antonio P, Santoro A
+      Acta Crystallographica B36 (1980) 2394-2397
+      Powder neutron diffraction study of chemically prepared B-lead dioxide
+      Locality: synthetic
+
+      CELL PARAMETERS:   4.9450  4.9450  3.3780   90.000   90.000   90.000
+      SPACE GROUP: P4_2/mnm  
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Pb     0.00000   0.00000   0.00000     1.000     0.435
+            O      0.30670   0.30670   0.00000     1.000     0.754
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  4 +/-  4 +/-  3
+            MAX. ABS. INTENSITY / VOLUME**2:      506.8632491    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                25.47        100.00        3.4966    1   1   0
+                32.09         94.70        2.7893    1   0   1
+                36.34         29.62        2.4725    2   0   0
+                37.00          1.40        2.4295    1   1   1
+                49.25         68.95        1.8502    2   1   1
+                52.33         15.48        1.7483    2   2   0
+                54.31          7.61        1.6890    0   0   2
+                59.08         17.05        1.5637    3   1   0
+                60.91         17.23        1.5209    1   1   2
+                62.72         18.63        1.4814    3   0   1
+                67.11         10.37        1.3947    2   0   2
+                74.70         15.62        1.2708    3   2   1
+                77.16          4.25        1.2363    4   0   0
+                78.79          8.73        1.2147    2   2   2
+                82.82          3.97        1.1655    3   3   0
+                84.42         12.34        1.1475    3   1   2
+                86.02         12.44        1.1302    4   1   1
+                88.41          5.80        1.1057    4   2   0
+                89.20          5.45        1.0979    1   0   3
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,55 @@
+      Fluornatromicrolite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from single crystal data of R130021
+      Witzke T, Steins M, Doering T, Schuckmann W, Wegner R, Pollmann H
+      The Canadian Mineralogist 49 (2011) 1105-1110
+      Fluornatromicrolite, (Na,Ca,Bi)2Ta2O6F, a new mineral species
+      from Quixaba, Paraiba, Brazil
+      Locality: Quixaba, Paraiba, Brazil
+      _database_code_amcsd 0018616
+
+      CELL PARAMETERS:  10.4700 10.4700 10.4700   90.000   90.000   90.000
+      ALTERNATE SETTING FOR SPACE GROUP: Fd3m      
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Na     0.00000   0.00000   0.00000     0.555     3.000
+            Ca     0.00000   0.00000   0.00000     0.325     3.000
+            Bi     0.00000   0.00000   0.00000     0.075     3.000
+            Ta     0.50000   0.50000   0.50000     1.000     1.176
+            O     -0.18280   0.12500   0.12500     1.000     1.445
+            F      0.12500   0.12500   0.12500     1.000     2.132
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  9 +/-  9 +/-  9
+            MAX. ABS. INTENSITY / VOLUME**2:      251.9381918    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                14.65         61.36        6.0449    1   1   1
+                28.27         42.73        3.1568    3   1   1
+                29.56        100.00        3.0224    2   2   2
+                34.26         31.70        2.6175    4   0   0
+                37.44          7.37        2.4020    3   3   1
+                44.99          6.73        2.0150    5   1   1
+                44.99          6.87        2.0150    3   3   3
+                49.23         40.95        1.8509    4   4   0
+                51.65         12.14        1.7698    5   3   1
+                57.74          6.10        1.5967    5   3   3
+                58.47         36.27        1.5784    6   2   2
+                61.35          9.13        1.5112    4   4   4
+                63.45          4.73        1.4661    5   5   1
+                63.45          2.99        1.4661    7   1   1
+                68.88          7.07        1.3631    7   3   1
+                68.88          2.28        1.3631    5   5   3
+                72.18          5.02        1.3088    8   0   0
+                74.13          1.00        1.2791    7   3   3
+                79.24          3.19        1.2090    7   5   1
+                79.87         12.08        1.2010    6   6   2
+                82.38         10.20        1.1706    8   4   0
+                84.26          1.41        1.1492    9   1   1
+                84.26          2.29        1.1492    7   5   3
+                89.24          2.99        1.0976    9   3   1
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

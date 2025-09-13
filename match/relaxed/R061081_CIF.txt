@@ -1,0 +1,46 @@
+      Freibergite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R061081
+      Peterson R C, Miller I
+      Mineralogical Magazine 50 (1986) 717-721
+      Crystal structure and cation distribution in freibergite and tetrahedrite
+      Locality: Keno Hill, Yukon, Canada
+
+      CELL PARAMETERS:   10.60264   10.60264   10.60264   90.00000   90.00000   90.00000
+      SPACE GROUP: I-43m
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                11.81          7.99        7.4972    1   1   0
+                16.72          1.29        5.3013    2   0   0
+                20.52          1.78        4.3285    2   1   1
+                23.73          5.16        3.7486    2   2   0
+                29.17        100.00        3.0607    2   2   2
+                31.56          7.13        2.8337    3   2   1
+                33.80         22.00        2.6507    4   0   0
+                35.92          6.27        2.4991    4   1   1
+                35.92          1.25        2.4991    3   3   0
+                37.93          1.41        2.3708    4   2   0
+                39.86          3.74        2.2605    3   3   2
+                43.50          3.52        2.0793    5   1   0
+                43.50          5.59        2.0793    4   3   1
+                46.91          4.01        1.9358    5   2   1
+                48.55         38.35        1.8743    4   4   0
+                50.14          1.49        1.8183    4   3   3
+                53.23          4.28        1.7200    6   1   1
+                56.19          1.29        1.6360    5   4   1
+                57.63         20.83        1.5984    6   2   2
+                59.06          1.84        1.5633    6   3   1
+                60.46          2.03        1.5304    4   4   4
+                61.84          1.07        1.4994    5   4   3
+                64.55          1.25        1.4428    6   3   3
+                69.80          1.16        1.3465    7   3   2
+                69.80          1.05        1.3465    6   5   1
+                71.08          3.29        1.3253    8   0   0
+                72.36          1.08        1.3051    8   1   1
+                74.88          2.15        1.2673    6   5   3
+                77.37          2.22        1.2325    8   3   1
+                78.61          4.73        1.2162    6   6   2
+                87.15          1.14        1.1176    8   5   1
+                87.15          1.14        1.1176    8   5   1
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

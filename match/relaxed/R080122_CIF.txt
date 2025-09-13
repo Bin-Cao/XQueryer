@@ -1,0 +1,52 @@
+      Millerite
+      Diffraction data computed using the structure from the paper listed below, 
+      along with the cell parameters refined from single crystal data of R080122 
+      Rajamani V, Prewitt C T
+      The Canadian Mineralogist 12 (1974) 253-257
+      The crystal structure of millerite
+
+      CELL PARAMETERS:   9.6160  9.6160  3.1460   90.000   90.000  120.000
+      SPACE GROUP: R3m       
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Ni    -0.08781   0.08781   0.08800     1.000     0.530
+            S      0.11240  -0.11240   0.61640     1.000     0.560
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  7 +/-  7 +/-  2
+            MAX. ABS. INTENSITY / VOLUME**2:      48.85053098    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                18.45         55.55        4.8080    1   1   0
+                30.37         47.78        2.9430    1   0   1
+                32.25         89.17        2.7759    3   0   0
+                35.77         55.76        2.5101    0   2   1
+                37.41         11.49        2.4040    2   2   0
+                40.54         47.52        2.2251    2   1   1
+                48.92        100.00        1.8618    1   3   1
+                50.20         43.27        1.8173    4   1   0
+                52.72         45.16        1.7362    4   0   1
+                56.34         16.22        1.6330    3   2   1
+                57.50         29.04        1.6027    3   3   0
+                59.84         25.90        1.5457    0   1   2
+                63.17          2.21        1.4720    0   5   1
+                66.44          3.74        1.4071    1   2   2
+                67.48          6.62        1.3880    6   0   0
+                69.60          1.01        1.3508    5   1   1
+                70.64          4.05        1.3335    5   2   0
+                72.73         13.88        1.3001    3   1   2
+                75.77          8.73        1.2553    4   3   1
+                75.80          8.22        1.2550    0   4   2
+                78.82          3.42        1.2144    2   3   2
+                79.79          2.84        1.2020    4   4   0
+                81.78          7.01        1.1776    1   6   1
+                84.77          6.80        1.1436    5   0   2
+                87.70          3.22        1.1128    3   5   1
+                87.70          9.35        1.1128    7   0   1
+                87.72          5.39        1.1126    4   2   2
+                88.68          2.96        1.1030    7   1   0
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

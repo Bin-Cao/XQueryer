@@ -1,0 +1,50 @@
+      Moissanite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from single crystal data of R061083
+      Capitani G C, Di Pierro S, Tempesta G
+      American Mineralogist 92 (2007) 403-407
+      The 6H-SiC structure model: Further refinement from SCXRD data from a
+      terrestrial moissanite
+      Locality: 150 km NW from Izmir, Turkey
+
+      CELL PARAMETERS:   3.0790  3.0790 15.1160   90.000   90.000  120.000
+      SPACE GROUP: P6_3mc    
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Si     0.00000   0.00000   0.00000     1.000     0.395
+            Si     0.33333   0.66667   0.16640     1.000     0.395
+            Si     0.66667   0.33333   0.33290     1.000     0.395
+            C      0.33333   0.66667   0.04120     1.000     0.395
+            C      0.66667   0.33333   0.20800     1.000     0.395
+            C      0.00000   0.00000   0.37460     1.000     0.395
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  2 +/-  2 +/- 13
+            MAX. ABS. INTENSITY / VOLUME**2:      13.44627518    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                34.14         56.04        2.6259    1   0   1
+                35.64         67.43        2.5193    0   0   6
+                35.71        100.00        2.5146    1   0   2
+                38.19         59.56        2.3568    1   0   3
+                41.44         23.80        2.1787    1   0   4
+                45.35          9.18        1.9998    1   0   5
+                54.70         11.87        1.6781    1   0   7
+                60.01         29.38        1.5417    1   0   8
+                60.10         58.29        1.5395    1   1   0
+                65.70         25.95        1.4211    1   0   9
+                70.97          5.06        1.3281    2   0   1
+                71.78         10.63        1.3150    1   0  10
+                71.87         43.11        1.3136    1   1   6
+                71.91         10.72        1.3130    2   0   2
+                73.47          8.59        1.2889    2   0   3
+                75.47          3.06        1.2597    0   0  12
+                75.64          4.55        1.2573    2   0   4
+                78.27          1.84        1.2215    1   0  11
+                78.39          1.81        1.2199    2   0   5
+                85.62          2.95        1.1344    2   0   7
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,42 @@
+      Cassiterite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from the powder pattern of R040017
+      Baur W H, Khan A A
+      Acta Crystallographica B27 (1971) 2133-2139
+      Rutile-type compounds. VI.
+      SiO2, GeO2 and a comparison with other rutile-type structures
+
+      CELL PARAMETERS:   4.7374  4.7374  3.1864   90.000   90.000   90.000
+      SPACE GROUP: P4_2/mnm  
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Sn     0.00000   0.00000   0.00000     1.000     0.098
+            O      0.30650   0.30650   0.00000     1.000     0.211
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  4 +/-  4 +/-  2
+            MAX. ABS. INTENSITY / VOLUME**2:      219.3664357    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                26.61        100.00        3.3499    1   1   0
+                33.90         80.20        2.6440    1   0   1
+                37.99         22.65        2.3687    2   0   0
+                39.01          3.77        2.3088    1   1   1
+                42.68          1.31        2.1186    2   1   0
+                51.82         64.95        1.7643    2   1   1
+                54.81         15.52        1.6749    2   2   0
+                57.88          7.66        1.5932    0   0   2
+                61.94         14.32        1.4981    3   1   0
+                64.80         15.01        1.4388    1   1   2
+                66.03         18.91        1.4149    3   0   1
+                71.34          7.60        1.3220    2   0   2
+                78.79         12.18        1.2147    3   2   1
+                81.22          3.92        1.1844    4   0   0
+                83.80          8.42        1.1544    2   2   2
+                87.32          4.08        1.1166    3   3   0
+                89.88         10.56        1.0914    3   1   2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

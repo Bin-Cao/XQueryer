@@ -1,0 +1,57 @@
+      Almandine
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from single crystal data of R120145
+      Quartieri S, Chaboy J, Merli M, Oberti R, Ungaretti L
+      Physics and Chemistry of Minerals 22 (1995) 159-169
+      Local structural environment of calcium in garnets:
+      A combined structure-refinement and XANES investigation
+      Note: sample MP12
+      Locality: metasedimentary rocks of the Ivrea-Verbano Zone, Italy
+      _database_code_amcsd 0007903
+
+      CELL PARAMETERS:  11.6040 11.6040 11.6040   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Ca     0.12500   0.00000   0.25000     0.170     0.630
+            Fe     0.12500   0.00000   0.25000     0.520     0.630
+            Mn     0.12500   0.00000   0.25000     0.013     0.630
+            Mg     0.12500   0.00000   0.25000     0.307     0.630
+            Al     0.00000   0.00000   0.00000     0.995     0.340
+            Ti     0.00000   0.00000   0.00000     0.005     0.340
+            Si     0.37500   0.00000   0.25000     1.000     0.370
+            O      0.03440   0.04860   0.65280     1.000     0.580
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/- 10 +/- 10 +/- 10
+            MAX. ABS. INTENSITY / VOLUME**2:      28.48149027    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                18.73          1.51        4.7373    2   1   1
+                30.82         36.51        2.9010    4   0   0
+                34.57        100.00        2.5947    4   2   0
+                36.31          6.67        2.4740    3   3   2
+                37.99         20.56        2.3687    4   2   2
+                39.60         12.60        2.2757    4   3   1
+                42.68         14.93        2.1186    5   2   1
+                44.15          3.35        2.0513    4   4   0
+                48.35          9.79        1.8824    5   3   2
+                48.35         10.90        1.8824    6   1   1
+                54.81         15.25        1.6749    4   4   4
+                57.25         31.23        1.6092    6   4   0
+                58.44          1.44        1.5791    5   5   2
+                59.62         40.90        1.5506    6   4   2
+                64.21          9.96        1.4505    8   0   0
+                65.33          1.36        1.4284    7   4   1
+                72.91          8.78        1.2974    8   4   0
+                75.02         16.27        1.2661    8   4   2
+                77.10          6.47        1.2370    6   6   4
+                78.14          1.01        1.2232    7   5   4
+                82.25          1.46        1.1722    9   4   1
+                82.25          1.77        1.1722    8   5   3
+                85.30          1.61        1.1379   10   2   0
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

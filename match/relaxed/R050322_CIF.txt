@@ -1,0 +1,24 @@
+      Bornite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R050322
+      Tunell G, Adams C E
+      American Mineralogist 34 (1949) 824-829
+      On the symmetry and crystal structure of bornite
+
+      CELL PARAMETERS:   5.470000   5.470000   5.470000   90.00000   90.00000   90.00000
+      SPACE GROUP: F23
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                28.29         38.80        3.1523    1   1   1
+                32.78         40.00        2.7300    2   0   0
+                47.04        100.00        1.9304    2   2   0
+                55.80         13.29        1.6463    3   1   1
+                58.51          8.97        1.5762    2   2   2
+                68.71         13.24        1.3650    4   0   0
+                75.90          4.53        1.2526    3   3   1
+                78.24          4.66        1.2209    4   2   0
+                78.24          4.66        1.2209    4   0   2
+                87.44         24.24        1.1145    4   2   2
+                87.44         24.24        1.1145    4   2   2
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

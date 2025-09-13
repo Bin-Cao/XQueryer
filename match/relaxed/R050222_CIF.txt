@@ -1,0 +1,26 @@
+      Chalcopyrite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R050222
+      Hall S R, Stewart J M
+      Acta Crystallographica B29 (1973) 579-585
+      The crystal structure refinement of chalcopyrite, CuFeS2
+
+      CELL PARAMETERS:   5.289000   5.289000   10.42300   90.00000   90.00000   90.00000
+      SPACE GROUP: I-42d
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                29.39        100.00        3.0376    1   1   2
+                33.91          6.06        2.6420    2   0   0
+                34.36          2.90        2.6083    0   0   4
+                48.71         18.35        1.8682    2   2   0
+                49.05         35.74        1.8561    2   0   4
+                57.91         21.80        1.5913    3   1   2
+                58.51         10.45        1.5765    1   1   6
+                60.96          1.73        1.5188    2   2   4
+                71.35          4.53        1.3210    4   0   0
+                72.41          2.14        1.3041    0   0   8
+                78.98          3.45        1.2114    3   3   2
+                79.49          6.73        1.2048    3   1   6
+                79.49          6.73        1.2048    3   1   6
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

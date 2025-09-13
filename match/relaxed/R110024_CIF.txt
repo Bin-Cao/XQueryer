@@ -1,0 +1,50 @@
+      Tennantite
+      Diffraction data computed using the structure from the paper listed below, 
+      along with the cell parameters refined from single crystal data of R110024
+      Edenharter A, Koto K, Nowacki W
+      Neues Jahrbuch fur Mineralogie, Monatshefte 1971 (1971) 337-341
+      Uber pearceit, polybasit und binnit
+      _database_code_amcsd 0014744
+
+      CELL PARAMETERS:  10.2380 10.2380 10.2380   90.000   90.000   90.000
+      SPACE GROUP: I-43m     
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Cu     0.25000   0.50000   0.00000     1.000     0.908
+            Cu     0.21590   0.00000   0.00000     1.000     3.396
+            As     0.26100   0.26100   0.26100     0.850     0.839
+            Sb     0.26100   0.26100   0.26100     0.150     0.839
+            S      0.11990   0.11990   0.35580     1.000     0.992
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  9 +/-  9 +/-  9
+            MAX. ABS. INTENSITY / VOLUME**2:      119.9278856    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                21.26          2.13        4.1796    2   1   1
+                24.59          1.20        3.6197    2   2   0
+                30.24        100.00        2.9555    2   2   2
+                32.73          3.20        2.7362    3   2   1
+                35.06         17.81        2.5595    4   0   0
+                37.26          2.64        2.4131    4   1   1
+                37.26          3.73        2.4131    3   3   0
+                41.36          2.23        2.1827    3   3   2
+                45.16          5.22        2.0078    4   3   1
+                45.16          1.01        2.0078    5   1   0
+                48.72          5.14        1.8692    5   2   1
+                50.42         41.70        1.8098    4   4   0
+                52.09          1.07        1.7558    4   3   3
+                55.31          3.33        1.6608    6   1   1
+                59.93         25.50        1.5434    6   2   2
+                62.89          2.56        1.4777    4   4   4
+                74.08          4.30        1.2797    8   0   0
+                78.10          1.91        1.2237    6   5   3
+                80.74          1.43        1.1901    8   3   1
+                80.74          1.52        1.1901    7   4   3
+                82.06          6.75        1.1744    6   6   2
+                84.68          2.06        1.1446    8   4   0
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

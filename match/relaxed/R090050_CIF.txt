@@ -1,0 +1,36 @@
+      Isocubanite
+      Diffraction data computed using the structure from the paper listed below,
+      along with the cell parameters rfined from single crystal data of R090050
+      Szymanski J T
+      Zeitschrift fur Kristallographie 140 (1974) 240-248
+      The crystal structure of high-temperature CuFe2S3
+      Locality: Strathcona mine, Sudbury, Ontario
+
+      CELL PARAMETERS:   5.2948  5.2948  5.2948   90.000   90.000   90.000
+      SPACE GROUP: F-43m     
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Cu     0.25000   0.25000   0.25000     0.302     1.320
+            Fe     0.25000   0.25000   0.25000     0.604     1.320
+            Cu     0.75000   0.75000   0.75000     0.031     1.320
+            Fe     0.75000   0.75000   0.75000     0.063     1.320
+            S      0.00000   0.00000   0.00000     1.000     1.420
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  4 +/-  4 +/-  4
+            MAX. ABS. INTENSITY / VOLUME**2:      74.54926517    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                29.21        100.00        3.0570    1   1   1
+                33.86         11.58        2.6474    2   0   0
+                48.64         72.67        1.8720    2   2   0
+                57.75         31.27        1.5964    3   1   1
+                60.58          2.31        1.5285    2   2   2
+                71.24          8.73        1.3237    4   0   0
+                78.79          9.71        1.2147    3   3   1
+                81.26          2.02        1.1840    4   2   0
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

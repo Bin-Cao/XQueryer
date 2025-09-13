@@ -1,0 +1,41 @@
+      Grossular
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R070551
+      Meagher E P
+      American Mineralogist 60 (1975) 218-228
+      The crystal structures of pyrope and grossularite at elevated temperatures
+      T = 365 deg C
+      garnet
+
+      CELL PARAMETERS:   11.88853   11.88853   11.88853   90.00000   90.00000   90.00000
+      SPACE GROUP: Ia-3d
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                30.10         35.73        2.9721    4   0   0
+                33.74        100.00        2.6583    4   2   0
+                35.44          6.75        2.5346    3   3   2
+                37.07         18.30        2.4267    4   2   2
+                38.64         14.23        2.3315    4   3   1
+                41.63         12.81        2.1705    5   2   1
+                43.06          3.07        2.1016    4   4   0
+                47.14          9.85        1.9286    5   3   2
+                47.14         11.19        1.9286    6   1   1
+                48.44          1.42        1.8797    6   2   0
+                53.40         14.17        1.7160    4   4   4
+                55.76         24.08        1.6486    6   4   0
+                56.92          1.10        1.6178    5   5   2
+                58.06         38.88        1.5887    6   4   2
+                62.50          8.89        1.4861    8   0   0
+                63.58          1.54        1.4634    7   4   1
+                70.89          8.80        1.3292    8   4   0
+                72.91         14.76        1.2971    8   4   2
+                74.92          5.98        1.2673    6   6   4
+                79.85          1.68        1.2009    9   4   1
+                79.85          1.78        1.2009    8   5   3
+                82.77          1.54        1.1658   10   2   0
+                88.56          4.71        1.1038   10   4   0
+                88.56          8.00        1.1038    8   6   4
+                88.56          8.00        1.1038    8   6   4
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.
+

@@ -1,0 +1,47 @@
+      Siegenite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from the powder pattern of R050092
+      Huang C H, Knop O
+      Canadian Journal of Chemistry 49 (1971) 598-602
+      Chalkogenides of the transition elements. VIII A X-ray and
+      neutron diffraction study of the spinel CoNi2S4
+      Sample: examined with X-ray diffraction
+
+      CELL PARAMETERS:   9.4204  9.4204  9.4204   90.000   90.000   90.000
+      ALTERNATE SETTING FOR SPACE GROUP: Fd3m      
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Co     0.50000   0.00000   0.00000     0.500     0.640
+            Ni     0.50000   0.00000   0.00000     0.500     0.640
+            Ni     0.12500   0.12500   0.12500     1.000     0.370
+            S      0.25910   0.25910   0.25910     1.000     0.280
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  8 +/-  8 +/-  8
+            MAX. ABS. INTENSITY / VOLUME**2:      72.29855076    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                16.30         13.99        5.4389    1   1   1
+                26.77         31.23        3.3306    2   2   0
+                31.50        100.00        2.8404    3   1   1
+                38.21         45.65        2.3551    4   0   0
+                47.27         10.97        1.9229    4   2   2
+                50.33          4.32        1.8130    3   3   3
+                50.33         39.28        1.8130    5   1   1
+                55.15         78.27        1.6653    4   4   0
+                57.91          1.90        1.5923    5   3   1
+                62.34          3.90        1.4895    6   2   0
+                64.91         10.26        1.4366    5   3   3
+                69.08          7.92        1.3597    4   4   4
+                71.52          1.96        1.3191    5   5   1
+                75.53          5.50        1.2589    6   4   2
+                77.89          5.56        1.2264    7   3   1
+                77.89          8.68        1.2264    5   5   3
+                81.79         10.33        1.1775    8   0   0
+                87.96          1.59        1.1102    8   2   2
+                87.96          1.17        1.1102    6   6   0
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

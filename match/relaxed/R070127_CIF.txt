@@ -1,0 +1,45 @@
+      Magnesioferrite
+Diffraction data computed using the structute from the paper listed below,
+along with the cell parameters refined from single crystal data of R070127
+      O'Neill H St C, Annersten H, Virgo D
+      American Mineralogist 77 (1992) 725-740
+      The temperature dependence of the cation distribution in magnesioferrite
+      (MgFe2O4) from powder XRD structural refinements and Mossbauer spectroscopy
+      batch 1, anneal T = 400 C using Rietveld method
+
+      CELL PARAMETERS:   8.4340  8.4340  8.4340   90.000   90.000   90.000
+      ALTERNATE SETTING FOR SPACE GROUP: Fd3m      
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Mg     0.12500   0.12500   0.12500     0.101     0.245
+            Fe     0.12500   0.12500   0.12500     0.899     0.245
+            Mg     0.50000   0.50000   0.50000     0.449     0.345
+            Fe     0.50000   0.50000   0.50000     0.550     0.345
+            O      0.25570   0.25570   0.25570     1.000     0.475
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    0.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  7 +/-  7 +/-  7
+            MAX. ABS. INTENSITY / VOLUME**2:      62.55747812    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                18.22          2.08        4.8694    1   1   1
+                29.97         36.83        2.9819    2   2   0
+                35.29        100.00        2.5429    3   1   1
+                36.92          2.32        2.4347    2   2   2
+                42.89         18.20        2.1085    4   0   0
+                53.20         12.72        1.7216    4   2   2
+                56.71          6.15        1.6231    3   3   3
+                56.71         27.15        1.6231    5   1   1
+                62.27         46.42        1.4909    4   4   0
+                70.63          4.74        1.3335    6   2   0
+                73.65          9.24        1.2862    5   3   3
+                74.65          1.98        1.2715    6   2   2
+                78.59          2.30        1.2173    4   4   4
+                86.32          5.41        1.1270    6   4   2
+                89.19          6.12        1.0980    5   5   3
+                89.19          8.91        1.0980    7   3   1
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

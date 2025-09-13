@@ -1,0 +1,31 @@
+      Pyrite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern R050190
+      Bayliss P
+      American Mineralogist 62 (1977) 1168-1172
+      Crystal structure refinement of a weakly anisotropic pyrite
+      cubic model
+
+      CELL PARAMETERS:   5.417104   5.417104   5.417104   90.00000   90.00000   90.00000
+      SPACE GROUP: Pa3
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                28.57         39.18        3.1276    1   1   1
+                33.10         95.52        2.7086    2   0   0
+                37.13         54.86        2.4226    2   1   0
+                40.82         45.47        2.2115    2   1   1
+                47.48         51.01        1.9152    2   2   0
+                56.33        100.00        1.6333    3   1   1
+                59.07         15.84        1.5638    2   2   2
+                61.74         16.11        1.5024    3   0   2
+                64.34         15.90        1.4478    3   2   1
+                64.34          5.65        1.4478    3   1   2
+                76.66         10.49        1.2428    3   3   1
+                79.03          6.56        1.2113    4   2   0
+                79.03          6.56        1.2113    4   0   2
+                81.38          8.55        1.1821    4   2   1
+                83.72          4.21        1.1549    3   3   2
+                88.36         12.51        1.1058    4   2   2
+                88.36         12.51        1.1058    4   2   2
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

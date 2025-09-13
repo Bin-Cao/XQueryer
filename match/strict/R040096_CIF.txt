@@ -1,0 +1,47 @@
+      Corundum
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from the powder pattern of R040096
+      Kirfel A, Eichhorn K
+      Acta Crystallographica A46 (1990) 271-284
+      Accurate structure analysis with synchrotron radiation.
+      The electron density in Al2O3 and Cu2O
+      Locality: synthetic
+
+      CELL PARAMETERS:   4.7602  4.7602 12.9946   90.000   90.000  120.000
+      SPACE GROUP: R-3c      
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Al     0.00000   0.00000   0.35218     1.000     0.209
+            O      0.30625   0.00000   0.25000     1.000     0.253
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  3 +/-  3 +/- 11
+            MAX. ABS. INTENSITY / VOLUME**2:      12.26622783    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                25.59         61.70        3.4809    0   1   2
+                35.17         96.57        2.5516    1   0   4
+                37.80         44.52        2.3801    1   1   0
+                43.38         99.79        2.0859    1   1   3
+                46.21          1.45        1.9647    2   0   2
+                52.58         50.08        1.7404    0   2   4
+                57.54        100.00        1.6018    1   1   6
+                59.78          2.60        1.5470    2   1   1
+                61.17          3.30        1.5152    1   2   2
+                61.34          7.62        1.5112    0   1   8
+                66.56         39.73        1.4049    2   1   4
+                68.25         61.43        1.3741    3   0   0
+                70.46          1.31        1.3364    1   2   5
+                74.35          1.53        1.2758    2   0   8
+                76.93         17.78        1.2393    1   0  10
+                77.29          9.61        1.2345    1   1   9
+                80.75          2.30        1.1900    2   2   0
+                84.41          1.92        1.1475    2   2   3
+                86.41          1.40        1.1261    3   1   2
+                86.57          3.02        1.1244    1   2   8
+                89.07          8.40        1.0992    0   2  10
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

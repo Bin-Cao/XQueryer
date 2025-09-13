@@ -1,0 +1,57 @@
+      Natroalunite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R060406
+      Okada K, Hirabayashi J, Ossaka J
+      Neues Jahrbuch fur Mineralogie, Monatshefte 1982 (1982) 534-540
+      Crystal structure of natroalunite and crystal chemistry of the alunite group
+      Locality: Sonomi-dake, Makurazaki-city, Kagoshima Prefecture, Japan
+
+      CELL PARAMETERS:   6.990000   6.990000   16.90500   90.00000   90.00000   120.0000
+      SPACE GROUP: R-3m
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                15.56         10.41        5.7107    1   0   1
+                15.39          2.69        5.7745    0   0   3
+                17.93         64.85        4.9592    0   1   2
+                25.54         27.10        3.4923    1   1   0
+                30.02         37.45        2.9793    0   2   1
+                29.93        100.00        2.9883    1   1   3
+                29.75          7.40        3.0064    0   1   5
+                31.00          9.57        2.8872    0   0   6
+                36.25          3.72        2.4796    0   2   4
+                39.58          2.34        2.2784    2   0   5
+                39.36         36.83        2.2905    1   0   7
+                40.84          6.61        2.2105    1   2   2
+                47.80         35.71        1.9036    0   3   3
+                47.49          2.00        1.9153    0   2   7
+                47.24          5.38        1.9248    0   0   9
+                52.41         26.75        1.7461    2   2   0
+                51.95          1.16        1.7607    2   0   8
+                55.82          3.72        1.6470    3   1   2
+                59.05          2.07        1.5644    1   3   4
+                58.73          3.98        1.5722    1   2   8
+                61.56          1.95        1.5065    4   0   1
+                61.40          2.91        1.5099    3   1   5
+                62.33          2.56        1.4897    0   4   2
+                62.12          8.83        1.4941    2   2   6
+                61.71         20.42        1.5032    0   2  10
+                65.36          2.76        1.4277    4   0   4
+                67.59          1.29        1.3859    0   4   5
+                67.44          3.32        1.3886    1   3   7
+                67.24          2.63        1.3923    0   3   9
+                68.47          3.81        1.3702    2   3   2
+                66.99          1.37        1.3968    2   0  11
+                71.46          2.30        1.3200    4   1   0
+                73.60          2.87        1.2868    1   4   3
+                73.60          5.49        1.2868    4   1   3
+                73.17          2.16        1.2933    2   2   9
+                72.64          1.93        1.3014    1   0  13
+                79.10          7.92        1.2104    3   2   7
+                79.52          3.29        1.2051    1   3  10
+                82.92          1.40        1.1641    3   3   0
+                82.08          1.33        1.1738    0   3  12
+                84.05          4.63        1.1513    2   1  13
+                85.14          2.98        1.1392    4   0  10
+                85.14          2.98        1.1392    4   0  10
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

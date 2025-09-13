@@ -1,0 +1,44 @@
+      Trevorite
+Diffraction data computed using the structute from the paper listed below,
+along with the cell parameters refined from single crystal data of R061111
+      Blesa M C, Amador, U, Moran E, Menendez N, Tornero J D, Rodriguez-Carvajal J
+      Solid State Ionics 63 (1993) 429-436
+      Synthesis and characterization of nickel and magnesium ferrites obtained from
+      alpha-NaFeO2
+      Locality: synthetic
+
+      CELL PARAMETERS:   8.3680  8.3680  8.3680   90.000   90.000   90.000
+      SPACE GROUP: Fd-3m     
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Ni     0.62500   0.62500   0.62500     0.595     0.280
+            Fe     0.62500   0.62500   0.62500     0.405     0.280
+            Fe     0.00000   0.00000   0.00000     0.890     0.260
+            Ni     0.12500   0.12500   0.12500     0.120     0.700
+            O      0.37980   0.37980   0.37980     1.000     1.900
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    0.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  7 +/-  7 +/-  7
+            MAX. ABS. INTENSITY / VOLUME**2:      79.00071911    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                18.36          9.56        4.8313    1   1   1
+                30.21         26.53        2.9585    2   2   0
+                35.58        100.00        2.5230    3   1   1
+                37.22         22.46        2.4156    2   2   2
+                43.25         35.33        2.0920    4   0   0
+                53.66          9.13        1.7081    4   2   2
+                57.20         25.58        1.6104    5   1   1
+                57.20          6.62        1.6104    3   3   3
+                62.82         55.25        1.4793    4   4   0
+                66.05          1.36        1.4145    5   3   1
+                71.28          3.41        1.3231    6   2   0
+                74.33          9.33        1.2761    5   3   3
+                75.34         10.96        1.2615    6   2   2
+                79.33          4.72        1.2078    4   4   4
+                87.17          3.83        1.1182    6   4   2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

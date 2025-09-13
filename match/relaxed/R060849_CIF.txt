@@ -1,0 +1,24 @@
+      Thorianite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R060849
+      Wyckoff R W G
+      Crystal Structures 1 (1963) 239-444
+      Second edition. Interscience Publishers, New York, New York
+      Fluorite structure
+
+      CELL PARAMETERS:   5.599700   5.599700   5.599700   90.00000   90.00000   90.00000
+      SPACE GROUP: Fm3m
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                27.56        100.00        3.2380    1   1   1
+                31.92         35.86        2.8042    2   0   0
+                45.75         45.59        1.9829    2   2   0
+                54.23         40.25        1.6910    3   1   1
+                56.85          8.74        1.6190    2   2   2
+                66.68          6.14        1.4021    4   0   0
+                73.58         14.09        1.2867    3   3   1
+                75.82         10.13        1.2541    4   2   0
+                84.61         11.04        1.1448    4   2   2
+                84.61         11.04        1.1448    4   2   2
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

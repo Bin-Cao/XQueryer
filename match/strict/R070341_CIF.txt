@@ -1,0 +1,54 @@
+      Gersdorffite-P213
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from single crystal data of R070341
+      Bayliss P, Stephenson N C
+      Mineralogical Magazine 36 (1967) 38-42
+      The crystal structure of gersdorffite
+      Locality: Wolfsberg, Harz, Germany
+      _database_code_amcsd 0014444
+
+      CELL PARAMETERS:   5.6880  5.6880  5.6880   90.000   90.000   90.000
+      SPACE GROUP: P2_13     
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Ni    -0.00650  -0.00650  -0.00650     1.000     1.400
+            S      0.38250   0.38250   0.38250     1.000     1.000
+            S      0.61640   0.61640   0.61640     0.180     1.600
+            As     0.61640   0.61640   0.61640     0.820     1.600
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  5 +/-  5 +/-  5
+            MAX. ABS. INTENSITY / VOLUME**2:      63.02579844    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                22.10         13.07        4.0220    1   1   0
+                27.15         15.48        3.2840    1   1   1
+                31.46         71.71        2.8440    2   0   0
+                35.28         82.12        2.5438    2   1   0
+                35.28         17.88        2.5438    2   0   1
+                38.78         68.28        2.3221    2   1   1
+                45.08         35.62        2.0110    2   2   0
+                47.98          1.58        1.8960    2   2   1
+                50.76          1.47        1.7987    3   0   1
+                50.76          1.15        1.7987    3   1   0
+                53.43         87.78        1.7150    3   1   1
+                56.00         13.83        1.6420    2   2   2
+                58.51         21.50        1.5776    3   0   2
+                60.94         21.33        1.5202    3   2   1
+                60.94          9.03        1.5202    3   1   2
+                65.66          1.44        1.4220    4   0   0
+                70.20          1.70        1.3407    4   1   1
+                72.42          4.59        1.3049    3   3   1
+                74.62          3.57        1.2719    4   0   2
+                74.62          3.57        1.2719    4   2   0
+                76.79         11.17        1.2412    4   2   1
+                78.95          5.27        1.2127    3   3   2
+                83.21          6.72        1.1611    4   2   2
+                87.43          1.29        1.1155    4   3   1
+                89.54          3.43        1.0947    3   3   3
+                89.54         17.75        1.0947    5   1   1
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

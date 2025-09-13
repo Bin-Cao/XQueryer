@@ -1,0 +1,57 @@
+      Andradite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from the powder pattern of R060423
+      Woodland A B, Ross C R
+      Physics and Chemistry of Minerals 21 (1994) 117-132
+      A crystallographic and Mossbauer spectroscopy study of Fe3Al2Si3O12-Fe3Fe2Si3O12,
+      (Almandine-"Skiagite") and Ca3Fe2Si3O12-Fe3Fe2Si3O12 (Andradite-"Skiagite") garnet solid solutions
+      Sample: and64
+
+      CELL PARAMETERS:  11.9528 11.9528 11.9528   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Fe     0.12500   0.00000   0.25000     0.640     0.795
+            Ca     0.12500   0.00000   0.25000     0.360     0.795
+            Fe     0.00000   0.00000   0.00000     1.000     0.466
+            Si     0.37500   0.00000   0.25000     1.000     0.458
+            O      0.03780   0.04980   0.65610     1.000     0.676
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/- 10 +/- 10 +/- 10
+            MAX. ABS. INTENSITY / VOLUME**2:      30.99956736    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                18.18          2.65        4.8797    2   1   1
+                21.02         11.95        4.2260    2   2   0
+                27.93          2.45        3.1945    3   2   1
+                29.90         65.39        2.9882    4   0   0
+                33.53        100.00        2.6727    4   2   0
+                35.22          4.42        2.5483    3   3   2
+                36.84         69.06        2.4399    4   2   2
+                38.40         11.46        2.3441    4   3   1
+                41.37         15.29        2.1823    5   2   1
+                46.85         11.69        1.9390    5   3   2
+                46.85         10.91        1.9390    6   1   1
+                48.15          9.33        1.8899    6   2   0
+                53.08          6.98        1.7252    4   4   4
+                55.43         28.69        1.6576    6   4   0
+                56.58          1.06        1.6266    6   3   3
+                56.58          1.02        1.6266    5   5   2
+                57.72         73.64        1.5973    6   4   2
+                62.13         12.87        1.4941    8   0   0
+                63.20          1.28        1.4713    7   4   1
+                66.36          1.51        1.4087    8   2   2
+                70.46         15.49        1.3364    8   4   0
+                72.47         16.44        1.3042    8   4   2
+                74.46         11.55        1.2742    6   6   4
+                79.36          1.24        1.2074    9   4   1
+                79.36          1.28        1.2074    8   5   3
+                88.00          5.26        1.1098   10   4   0
+                88.00          8.33        1.1098    8   6   4
+                89.91         16.06        1.0911   10   4   2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

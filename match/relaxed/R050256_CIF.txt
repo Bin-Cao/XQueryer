@@ -1,0 +1,43 @@
+      Andradite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R050256
+      Hazen R M, Finger L W
+      American Mineralogist 74 (1989) 352-359
+      High-pressure crystal chemistry of andradite and pyrope: Revised procedures for
+      high-pressure diffraction experiments
+      P = 3.0 GPa
+
+      CELL PARAMETERS:   11.95460   11.95460   11.95460   90.00000   90.00000   90.00000
+      SPACE GROUP: Ia-3d
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                21.06         24.85        4.2218    2   2   0
+                29.94         77.00        2.9853    4   0   0
+                33.57        100.00        2.6701    4   2   0
+                35.26          9.88        2.5459    3   3   2
+                36.88         78.96        2.4375    4   2   2
+                38.44         15.51        2.3418    4   3   1
+                41.41         13.76        2.1801    5   2   1
+                46.90         11.42        1.9371    6   1   1
+                46.90         11.14        1.9371    5   3   2
+                48.19         15.39        1.8881    6   2   0
+                53.13          5.64        1.7235    4   4   4
+                55.48         29.06        1.6559    6   4   0
+                57.76         87.81        1.5957    6   4   2
+                62.17         13.21        1.4926    8   0   0
+                63.24          1.69        1.4698    7   4   1
+                66.41          2.78        1.4073    8   2   2
+                70.51         18.44        1.3351    8   4   0
+                72.52         16.44        1.3029    8   4   2
+                74.51         13.36        1.2729    6   6   4
+                75.50          1.11        1.2587    7   5   4
+                75.50          1.04        1.2587    8   5   1
+                78.43          1.49        1.2187    8   4   4
+                79.41          1.72        1.2062    9   4   1
+                79.41          1.68        1.2062    8   5   3
+                88.05          5.39        1.1087   10   4   0
+                88.05          8.46        1.1087    8   6   4
+                89.96         19.16        1.0901   10   4   2
+                89.96         19.16        1.0901   10   4   2
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

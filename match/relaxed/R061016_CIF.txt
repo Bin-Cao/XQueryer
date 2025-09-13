@@ -1,0 +1,57 @@
+      Pirquitasite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from single crystal data of R061016 
+      Schumer B N, Downs R T, Domanik K J, Andrade M B, Origlieri M J
+      Acta Crystallographica E69 (2013) i8-i9
+      Pirquitasite, Ag2ZnSnS4
+      Locality: Pirquitas, Jujuy Province, Argentina
+      _database_code_amcsd 0019767
+
+      CELL PARAMETERS:   5.7760  5.7760 10.8700   90.000   90.000   90.000
+      SPACE GROUP: I-4       
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Ag     0.00000   0.00000   0.00000     1.000     2.874
+            Ag     0.00000   0.50000   0.25000     0.870     2.377
+            Cu     0.00000   0.50000   0.25000     0.130     2.377
+            Zn     0.50000   0.00000   0.25000     0.610     1.737
+            Fe     0.50000   0.00000   0.25000     0.360     1.737
+            Cd     0.50000   0.00000   0.25000     0.030     1.737
+            Sn     0.50000   0.50000   0.00000     1.000     0.929
+            S      0.73250   0.25260   0.12847     1.000     1.690
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  5 +/-  5 +/-  9
+            MAX. ABS. INTENSITY / VOLUME**2:      178.5665618    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                16.31          1.21        5.4350    0   0   2
+                17.39          2.17        5.1006    1   0   1
+                21.76          1.57        4.0842    1   1   0
+                27.31        100.00        3.2651    1   1   2
+                30.96         14.20        2.8880    2   0   0
+                32.96          5.92        2.7175    0   0   4
+                35.19          1.06        2.5503    2   0   2
+                44.36         17.47        2.0421    2   2   0
+                45.85         31.25        1.9791    2   0   4
+                52.88         11.86        1.7314    1   3   2
+                52.88         11.85        1.7314    3   1   2
+                55.49          9.92        1.6561    1   1   6
+                56.36          4.11        1.6325    2   2   4
+                64.54          4.26        1.4440    4   0   0
+                69.13          1.65        1.3587    0   0   8
+                71.43          3.67        1.3206    3   3   2
+                73.65          3.27        1.2863    3   1   6
+                73.65          3.26        1.2863    1   3   6
+                74.40          1.38        1.2752    4   0   4
+                77.66          1.13        1.2295    2   0   8
+                82.73          3.30        1.1665    2   4   4
+                82.73          3.30        1.1665    4   2   4
+                85.92          2.95        1.1312    2   2   8
+                88.08          1.71        1.1089    1   5   2
+                88.08          1.71        1.1089    5   1   2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

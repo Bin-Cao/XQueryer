@@ -1,0 +1,22 @@
+      Digenite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R060840
+      Morimoto N, Kullerud G
+      American Mineralogist 48 (1963) 110-123
+      Polymorphism in digenite
+      high-temperature form at T = 80 C
+
+      CELL PARAMETERS:   5.570000   5.570000   5.570000   90.00000   90.00000   90.00000
+      SPACE GROUP: Fm3m
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                27.82         21.71        3.2044    1   1   1
+                32.23         53.70        2.7751    2   0   0
+                46.22        100.00        1.9623    2   2   0
+                54.81         14.37        1.6734    3   1   1
+                57.47          2.92        1.6022    2   2   2
+                67.44          5.08        1.3875    4   0   0
+                85.67          5.86        1.1329    4   2   2
+                85.67          5.86        1.1329    4   2   2
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,41 @@
+      Spessartine
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R060279
+      Gramaccioli C M, Pilati T, Demartin F,
+      Acta Crystallographica B58 (2002) 965-969
+      Atomic displacement parameters for spessartine Mn3Al2Si3O12
+      and their lattice-dynamical interpretation
+      Locality: Elba Isle, Campo, Italy
+
+      CELL PARAMETERS:   11.64500   11.64500   11.64500   90.00000   90.00000   90.00000
+      SPACE GROUP: Ia3d
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                18.70          5.10        4.7682    2   1   1
+                21.61          2.40        4.1294    2   2   0
+                28.68          3.47        3.1216    3   2   1
+                30.70         32.20        2.9199    4   0   0
+                34.42        100.00        2.6117    4   2   0
+                36.15          2.81        2.4901    3   3   2
+                37.81         19.32        2.3841    4   2   2
+                39.41          9.86        2.2906    4   3   1
+                42.46         15.36        2.1324    5   2   1
+                43.92          3.57        2.0647    4   4   0
+                48.08         10.40        1.8947    6   1   1
+                48.08         10.27        1.8947    5   3   2
+                54.48         15.01        1.6858    4   4   4
+                56.90         27.22        1.6197    6   4   0
+                58.08          1.59        1.5894    5   5   2
+                59.25         33.96        1.5608    6   4   2
+                63.79          9.05        1.4600    8   0   0
+                64.90          1.09        1.4377    7   4   1
+                72.40          7.32        1.3058    8   4   0
+                74.49         14.79        1.2744    8   4   2
+                76.55          5.35        1.2451    6   6   4
+                81.62          1.15        1.1798    9   4   1
+                81.62          1.37        1.1798    8   5   3
+                84.64          1.47        1.1453   10   2   0
+                84.64          1.47        1.1453   10   2   0
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.
+

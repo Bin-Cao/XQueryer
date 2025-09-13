@@ -1,0 +1,36 @@
+      Senarmontite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R060075
+      Bozorth R M
+      Journal of the American Chemical Society 45 (1923) 1621-1627
+      The crystal structures of the cubic forms of arsenious and antimonous oxides
+      Locality: Mt. Hamimat, Algeria
+
+      CELL PARAMETERS:   11.11600   11.11600   11.11600   90.00000   90.00000   90.00000
+      SPACE GROUP: Fd-3m
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                13.87         13.61        6.4319    1   1   1
+                27.83        100.00        3.2159    2   2   2
+                32.22         36.52        2.7851    4   0   0
+                35.19          8.13        2.5558    3   3   1
+                39.71          1.38        2.2740    4   2   2
+                42.22          1.75        2.1440    5   1   1
+                46.16         37.39        1.9693    4   4   0
+                48.40          1.42        1.8831    5   3   1
+                54.71         36.90        1.6795    6   2   2
+                57.36         10.48        1.6080    4   4   4
+                59.29          5.56        1.5600    5   5   1
+                64.27          2.65        1.4503    7   3   1
+                67.28          4.86        1.3925    8   0   0
+                69.05          4.22        1.3610    7   3   3
+                74.25         12.22        1.2779    6   6   2
+                76.52         10.97        1.2455    8   4   0
+                78.20          1.52        1.2228    9   1   1
+                82.65          1.33        1.1678    9   3   1
+                85.40          6.81        1.1370    8   4   4
+                87.05          1.38        1.1196    7   7   1
+                87.05          1.38        1.1196    7   7   1
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.
+

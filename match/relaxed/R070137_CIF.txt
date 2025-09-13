@@ -1,0 +1,33 @@
+      Franklinite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R070137
+      Pavese A, Levy D, Hoser A
+      American Mineralogist 85 (2000) 1497-1502
+      Cation distribution in synthetic zinc ferrite (Zn0.97Fe2.02O4) from
+      in situ high temperature neutron powder diffraction
+      Sample at T = 300 K
+
+      CELL PARAMETERS:   8.466085   8.466085   8.466085   90.00000   90.00000   90.00000
+      ALTERNATE SETTING FOR SPACE GROUP: Fd3m
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                18.17          4.60        4.8879    1   1   1
+                29.86         36.06        2.9932    2   2   0
+                35.17        100.00        2.5526    3   1   1
+                36.78          7.28        2.4439    2   2   2
+                42.72         13.29        2.1165    4   0   0
+                52.98         12.59        1.7281    4   2   2
+                56.47         28.77        1.6293    5   1   1
+                56.47          5.68        1.6293    3   3   3
+                61.99         39.84        1.4966    4   4   0
+                70.30          4.68        1.3386    6   2   0
+                73.30          9.20        1.2911    5   3   3
+                74.28          3.46        1.2763    6   2   2
+                78.19          1.41        1.2220    4   4   4
+                85.86          5.79        1.1313    6   4   2
+                88.71          6.21        1.1022    5   5   3
+                88.71          8.25        1.1022    7   3   1
+                88.71          8.25        1.1022    7   3   1
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.
+

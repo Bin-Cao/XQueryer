@@ -1,0 +1,61 @@
+      Pyrope
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from the powder pattern of R050113
+      Hazen R M, Finger L W
+      American Mineralogist 74 (1989) 352-359
+      High-pressure crystal chemistry of andradite and pyrope: Revised procedures for
+      high-pressure diffraction experiments
+      sample in air
+
+      CELL PARAMETERS:  11.5717 11.5717 11.5717   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Si     0.37500   0.00000   0.25000     0.972     0.711
+            Al     0.37500   0.00000   0.25000     0.028     0.711
+            Al     0.00000   0.00000   0.00000     0.933     0.664
+            Mg     0.00000   0.00000   0.00000     0.050     0.664
+            Fe     0.00000   0.00000   0.00000     0.005     0.664
+            Ti     0.00000   0.00000   0.00000     0.012     0.664
+            Mg     0.12500   0.00000   0.25000     0.634     0.980
+            Ca     0.12500   0.00000   0.25000     0.130     0.980
+            Fe     0.12500   0.00000   0.25000     0.216     0.980
+            Mn     0.12500   0.00000   0.25000     0.007     0.980
+            O      0.03410   0.04900   0.65300     1.000     0.952
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/- 10 +/- 10 +/- 10
+            MAX. ABS. INTENSITY / VOLUME**2:      19.42949883    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                30.91         45.07        2.8929    4   0   0
+                34.67        100.00        2.5875    4   2   0
+                36.42         16.25        2.4671    3   3   2
+                38.10         21.55        2.3621    4   2   2
+                39.72         17.87        2.2694    4   3   1
+                42.80         13.10        2.1127    5   2   1
+                44.28          2.82        2.0456    4   4   0
+                48.50         11.06        1.8772    6   1   1
+                48.50          8.34        1.8772    5   3   2
+                49.84          3.03        1.8296    6   2   0
+                54.98         14.34        1.6702    4   4   4
+                57.42         33.35        1.6047    6   4   0
+                58.62          1.01        1.5747    5   5   2
+                59.81         48.70        1.5463    6   4   2
+                64.41         10.12        1.4465    8   0   0
+                65.54          1.81        1.4244    7   4   1
+                67.75          1.23        1.3831    6   5   3
+                73.15          9.94        1.2938    8   4   0
+                75.26         15.42        1.2626    8   4   2
+                76.31          1.31        1.2478    7   6   1
+                77.36          7.23        1.2335    6   6   4
+                78.40          1.21        1.2198    8   5   1
+                78.40          1.35        1.2198    7   5   4
+                82.53          2.27        1.1689    8   5   3
+                82.53          1.84        1.1689    9   4   1
+                85.59          1.48        1.1347   10   2   0
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

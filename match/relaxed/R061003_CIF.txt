@@ -1,0 +1,36 @@
+      Pyrochlore
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R061003
+      Bonazzi P, Bindi L, Zoppi M, Capitani G C, Olmi F
+      American Mineralogist 91 (2006) 794-801
+      Single-crystal diffraction and transmission electron microscopy studies
+      of "silicified" pyrochlore from Narssarssk, Julianehaab district, Greenland
+      Locality: Narssarssk, Julianehaab district, Greenland
+      Sample: 396a
+
+      CELL PARAMETERS:   10.42000   10.42000   10.42000   90.00000   90.00000   90.00000
+      ALTERNATE SETTING FOR SPACE GROUP: Fd-3m
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                14.77         45.30        6.0183    1   1   1
+                28.44         32.80        3.1430    3   1   1
+                29.73        100.00        3.0092    2   2   2
+                34.45         22.62        2.6060    4   0   0
+                45.22          2.26        2.0061    5   1   1
+                45.22          6.53        2.0061    3   3   3
+                49.48         42.11        1.8427    4   4   0
+                51.91          5.71        1.7620    5   3   1
+                58.03          3.94        1.5897    5   3   3
+                58.77         31.71        1.5715    6   2   2
+                61.65          7.35        1.5046    4   4   4
+                63.77          3.11        1.4597    5   5   1
+                63.77          1.20        1.4597    7   1   1
+                69.23          4.37        1.3571    7   3   1
+                72.54          4.57        1.3030    8   0   0
+                79.64          1.27        1.2037    7   5   1
+                80.28          9.89        1.1957    6   6   2
+                82.81          8.01        1.1654    8   4   0
+                89.71          1.49        1.0927    9   3   1
+                89.71          1.49        1.0927    9   3   1
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

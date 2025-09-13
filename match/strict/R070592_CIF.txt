@@ -1,0 +1,62 @@
+      Lollingite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from single crystal data of R070592
+      Lutz H D, Jung M, Waschenbach G
+      Zeitschrift fur Anorganische und Allgemeine Chemie 554 (1987) 87-91
+      Kristallstrukturen des lollingits FeAs2 und des pyrits RuTe2
+      Locality: synthetic
+
+      CELL PARAMETERS:   5.2800  5.9730  2.8830   90.000   90.000   90.000
+      SPACE GROUP: Pnnm      
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Fe     0.00000   0.00000   0.00000     1.000     0.453
+            As     0.17600   0.36250   0.00000     1.000     0.500
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  4 +/-  5 +/-  2
+            MAX. ABS. INTENSITY / VOLUME**2:      81.76051801    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                22.47          3.67        3.9560    1   1   0
+                29.92          4.97        2.9865    0   2   0
+                33.96          3.08        2.6400    2   0   0
+                34.50        100.00        2.5995    1   2   0
+                34.55          9.04        2.5964    0   1   1
+                35.48         82.02        2.5304    1   0   1
+                37.24         38.37        2.4147    2   1   0
+                38.64         85.72        2.3299    1   1   1
+                45.88         12.33        1.9780    2   2   0
+                47.07          9.64        1.9306    1   2   1
+                48.89         26.22        1.8630    1   3   0
+                49.22         52.12        1.8511    2   1   1
+                54.34         33.39        1.6882    3   1   0
+                56.14         44.00        1.6383    0   3   1
+                56.41         36.39        1.6310    2   2   1
+                58.02          4.65        1.5896    2   3   0
+                59.04         10.93        1.5647    1   3   1
+                61.75          8.33        1.5022    3   0   1
+                62.16          3.65        1.4933    0   4   0
+                64.66         17.28        1.4415    0   0   2
+                64.89          1.40        1.4369    1   4   0
+                70.12          7.51        1.3420    3   2   1
+                71.55          3.13        1.3187    3   3   0
+                72.76         10.90        1.2997    2   4   0
+                73.47          6.57        1.2889    4   1   0
+                75.40         17.81        1.2606    1   2   2
+                77.05          7.95        1.2377    2   1   2
+                79.36          1.54        1.2073    4   2   0
+                81.18          1.13        1.1849    2   4   1
+                81.87          5.15        1.1767    4   1   1
+                82.85          2.36        1.1652    1   5   0
+                82.87          3.41        1.1650    2   2   2
+                85.10          8.66        1.1401    1   3   2
+                87.62         13.52        1.1136    4   2   1
+                88.62          3.91        1.1036    0   5   1
+                88.97          1.83        1.1002    4   3   0
+                89.37         14.01        1.0963    3   1   2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

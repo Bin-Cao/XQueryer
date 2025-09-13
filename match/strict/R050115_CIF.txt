@@ -1,0 +1,31 @@
+      Fluorite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from the powder pattern of R050115
+      Speziale S, Duffy T S
+      Physics and Chemistry of Minerals 29 (2002) 465-472
+      Single-crystal elastic constants of fluorite (CaF2) to 9.3 GPa
+      Sample: P = 0 GPa
+
+      CELL PARAMETERS:   5.4644  5.4644  5.4644   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Ca     0.00000   0.00000   0.00000     1.000     1.300
+            F      0.25000   0.25000   0.25000     1.000     1.000
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  5 +/-  5 +/-  5
+            MAX. ABS. INTENSITY / VOLUME**2:      36.11040178    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                28.29         91.57        3.1549    1   1   1
+                47.04        100.00        1.9319    2   2   0
+                55.80         28.89        1.6476    3   1   1
+                68.71         10.85        1.3661    4   0   0
+                75.90          8.76        1.2536    3   3   1
+                87.44         17.34        1.1154    4   2   2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

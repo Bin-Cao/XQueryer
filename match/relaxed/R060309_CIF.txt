@@ -1,0 +1,43 @@
+      Laurite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R060309
+      Lutz H D, Muller B, Schmidt T, Stingl T
+      Acta Crystallographica C46 (1990) 2003-2005
+      Structure refinement of pyrite-type ruthenium disulfide, RuS2,
+      and ruthenium diselenide, RuSe2
+
+      CELL PARAMETERS:   5.6060  5.6060  5.6060   90.000   90.000   90.000
+      SPACE GROUP: Pa3       
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Ru     0.00000   0.00000   0.00000     1.000     0.178
+            S      0.38831   0.38831   0.38831     1.000     0.241
+            S      0.38850   0.38850   0.38850     1.000     1.000
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  5 +/-  5 +/-  5
+            MAX. ABS. INTENSITY / VOLUME**2:      116.9818651    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                27.56         80.35        3.2366    1   1   1
+                31.93        100.00        2.8030    2   0   0
+                35.82         19.17        2.5071    2   1   0
+                39.37         16.53        2.2886    2   1   1
+                45.78         59.26        1.9820    2   2   0
+                54.27         93.27        1.6903    3   1   1
+                56.90         19.33        1.6183    2   2   2
+                59.45          6.51        1.5548    3   0   2
+                61.93          6.65        1.4983    3   2   1
+                61.93          1.67        1.4983    3   1   2
+                66.74          1.62        1.4015    4   0   0
+                73.66         19.94        1.2861    3   3   1
+                75.90          9.67        1.2535    4   0   2
+                75.90          9.67        1.2535    4   2   0
+                78.13          2.88        1.2233    4   2   1
+                80.33          1.39        1.1952    3   3   2
+                84.71         17.29        1.1443    4   2   2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

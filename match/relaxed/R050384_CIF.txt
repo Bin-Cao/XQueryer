@@ -1,0 +1,21 @@
+      Cuprite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R050384
+      Hafner S S, Nagel S
+      Physics and Chemistry of Minerals 9 (1983) 19-22
+      The electric field gradient at the position of copper in
+      Cu2O and electronic charge density analysis by means of K-factors
+
+      CELL PARAMETERS:   4.270021   4.270021   4.270021   90.00000   90.00000   90.00000
+      SPACE GROUP: Pn3
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                29.61          4.15        3.0194    1   1   0
+                36.46        100.00        2.4653    1   1   1
+                42.35         37.65        2.1350    2   0   0
+                61.41         32.48        1.5097    2   2   0
+                73.55         28.30        1.2875    3   1   1
+                77.40          6.61        1.2326    2   2   2
+                77.40          6.61        1.2326    2   2   2
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

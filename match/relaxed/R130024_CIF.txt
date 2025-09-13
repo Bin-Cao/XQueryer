@@ -1,0 +1,46 @@
+      Carrollite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from single crystal data of R0130024
+      Riedel E, Horvath E
+      Materials Research Bulletin 8 (1973) 973-982
+      Kationen-anionen-abstande in kupfer- und chrom-thiospinellen
+      _database_code_amcsd 0014234
+
+      CELL PARAMETERS:   9.4670  9.4670  9.4670   90.000   90.000   90.000
+      ALTERNATE SETTING FOR SPACE GROUP: Fd3m      
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Cu     0.12500   0.12500   0.12500     1.000     0.700
+            Co     0.50000   0.50000   0.50000     1.000     0.700
+            S      0.25700   0.25700   0.25700     1.000     1.000
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  8 +/-  8 +/-  8
+            MAX. ABS. INTENSITY / VOLUME**2:      73.49297724    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                16.22          8.42        5.4658    1   1   1
+                26.63         32.55        3.3471    2   2   0
+                31.34        100.00        2.8544    3   1   1
+                38.02         40.06        2.3668    4   0   0
+                47.02         11.79        1.9324    4   2   2
+                50.07          5.14        1.8219    3   3   3
+                50.07         34.39        1.8219    5   1   1
+                54.86         72.74        1.6735    4   4   0
+                57.60          1.07        1.6002    5   3   1
+                62.00          4.28        1.4969    6   2   0
+                64.55          9.85        1.4437    5   3   3
+                68.69          6.63        1.3664    4   4   4
+                71.12          1.04        1.3256    5   5   1
+                75.09          5.08        1.2651    6   4   2
+                77.44          7.31        1.2325    5   5   3
+                77.44          6.58        1.2325    7   3   1
+                81.30          9.11        1.1834    8   0   0
+                87.41          1.49        1.1157    8   2   2
+                89.70          6.49        1.0932    7   5   1
+                89.70          2.15        1.0932    5   5   5
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

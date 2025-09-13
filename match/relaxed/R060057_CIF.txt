@@ -1,0 +1,57 @@
+      Danalite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from single crystal data of R060057
+      Hassan I, Grundy H D
+      American Mineralogist 70 (1985) 186-192
+      The crystal structures of helvite group minerals, (MnFeZn)8(Be6Si6O24)S2
+
+      CELL PARAMETERS:   8.2332  8.2332  8.2332   90.000   90.000   90.000
+      SPACE GROUP: P-43n     
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Fe     0.16870   0.16870   0.16870     1.000     0.537
+            O      0.13940   0.14000   0.41140     1.000     0.495
+            Be     0.25000   0.00000   0.50000     1.000     0.545
+            Si     0.25000   0.50000   0.00000     1.000     0.247
+            S      0.00000   0.00000   0.00000     1.000     0.758
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  7 +/-  7 +/-  7
+            MAX. ABS. INTENSITY / VOLUME**2:      49.54310100    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                21.59          2.65        4.1166    2   0   0
+                24.17          7.83        3.6820    2   1   0
+                26.52        100.00        3.3612    2   1   1
+                30.72          2.80        2.9109    2   2   0
+                34.45         14.55        2.6036    3   1   0
+                37.85          4.00        2.3767    2   2   2
+                39.46          1.97        2.2835    3   2   0
+                41.02         19.58        2.2004    3   2   1
+                43.99          2.70        2.0583    4   0   0
+                46.81         23.80        1.9406    4   1   1
+                46.81         19.91        1.9406    3   3   0
+                49.51          6.05        1.8410    4   2   0
+                50.82          1.83        1.7966    4   2   1
+                52.10          1.21        1.7553    3   3   2
+                54.61          8.68        1.6806    4   2   2
+                57.04          2.67        1.6147    5   1   0
+                60.56          1.07        1.5289    4   3   2
+                61.71          6.58        1.5032    5   2   1
+                63.97          8.50        1.4554    4   4   0
+                66.18          4.64        1.4120    5   3   0
+                66.18          2.92        1.4120    4   3   3
+                68.36          5.40        1.3722    4   4   2
+                68.36          3.52        1.3722    6   0   0
+                70.51          6.23        1.3356    5   3   2
+                72.63          1.51        1.3018    6   2   0
+                74.72          8.67        1.2704    5   4   1
+                76.79          1.06        1.2412    6   2   2
+                82.92          1.20        1.1644    5   4   3
+                86.96          3.03        1.1204    7   2   1
+                86.96          4.91        1.1204    6   3   3
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

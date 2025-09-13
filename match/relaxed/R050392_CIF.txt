@@ -1,0 +1,30 @@
+      Spinel
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R050392
+      Peterson R C, Lager G A, Hitterman R L
+      American Mineralogist 76 (1991) 1455-1458
+      A time-of-flight neutron powder diffraction study of MgAl2O4 at temperatures
+      up to 1273 K
+      sample W, T = 293 K
+
+      CELL PARAMETERS:   8.091119   8.091119   8.091119   90.00000   90.00000   90.00000
+      ALTERNATE SETTING FOR SPACE GROUP: Fd3m
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                18.95         28.48        4.6714    1   1   1
+                31.21         33.56        2.8606    2   2   0
+                36.78        100.00        2.4396    3   1   1
+                38.48          1.51        2.3357    2   2   2
+                44.73         55.12        2.0228    4   0   0
+                55.57          9.96        1.6516    4   2   2
+                59.26          3.28        1.5571    3   3   3
+                59.26         41.81        1.5571    5   1   1
+                65.13         71.72        1.4303    4   4   0
+                68.52          2.31        1.3676    5   3   1
+                74.01          3.33        1.2793    6   2   0
+                77.22          9.91        1.2339    5   3   3
+                82.50          6.13        1.1679    4   4   4
+                85.63          2.14        1.1330    5   5   1
+                85.63          2.14        1.1330    5   5   1
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

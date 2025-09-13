@@ -1,0 +1,28 @@
+      Breithauptite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R060928
+      Wyckoff R W G
+      Crystal Structures 1 (1963) 85-237
+      Second edition. Interscience Publishers, New York, New York
+      Note: ideal nickel arsenide structure
+
+      CELL PARAMETERS:   3.940000   3.940000   5.140000   90.00000   90.00000   120.0000
+      SPACE GROUP: P6_3mc
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                31.55        100.00        2.8352    1   0   1
+                34.94          3.40        2.5674    0   0   2
+                44.19         53.79        2.0490    1   0   2
+                46.22         51.16        1.9634    1   1   0
+                57.03         15.99        1.6141    2   0   1
+                59.22          3.95        1.5596    1   1   2
+                60.53         12.94        1.5289    1   0   3
+                65.85         13.91        1.4176    2   0   2
+                73.77          3.41        1.2837    0   0   4
+                76.33         11.78        1.2468    2   1   1
+                79.39          5.17        1.2063    2   0   3
+                84.19         12.24        1.1493    2   1   2
+                85.64          6.45        1.1335    3   0   0
+                85.64          6.45        1.1335    3   0   0
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

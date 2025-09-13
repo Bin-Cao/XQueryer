@@ -1,0 +1,67 @@
+      Claringbullite
+      Diffraction data computed using the structure from the paper listed below, 
+      along with the cell parameters refined from single crystal data of R110007
+      Burns P C, Cooper M A, Hawthorne F C
+      The Canadian Mineralogist 33 (1995) 633-639
+      Claringbullite: A Cu oxysalt with Cu in trigonal-prismatic coordination
+      _database_code_amcsd 0005432
+
+      CELL PARAMETERS:   6.6730  6.6730  9.2790   90.000   90.000  120.000
+      SPACE GROUP: P6_3/mmc  
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Cu     0.50000   0.00000   0.00000     1.000     1.148
+            Cu     0.37110   0.74220   0.75000     0.330     0.661
+            H      0.12500   0.87500   0.86800     1.000     1.579
+            Cl     0.66667   0.33333   0.75000     1.000     1.885
+            Cl     0.00000   0.00000   0.75000     1.000     3.440
+            O      0.20170   0.79830   0.90820     1.000     0.833
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  5 +/-  5 +/-  8
+            MAX. ABS. INTENSITY / VOLUME**2:      38.16811288    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                15.33         60.58        5.7790    1   0   0
+                18.08         29.83        4.9054    1   0   1
+                19.13         18.93        4.6395    0   0   2
+                24.61         17.72        3.6179    1   0   2
+                26.72          3.22        3.3365    1   1   0
+                30.95         32.94        2.8895    2   0   0
+                32.45          1.60        2.7588    2   0   1
+                33.07        100.00        2.7088    1   1   2
+                36.64         72.18        2.4527    2   0   2
+                38.82         18.06        2.3198    0   0   4
+                41.34          1.08        2.1843    2   1   0
+                41.97          8.95        2.1528    1   0   4
+                42.83          8.69        2.1115    2   0   3
+                45.92          2.28        1.9762    2   1   2
+                47.75          3.11        1.9046    1   1   4
+                50.45         31.21        1.8089    2   0   4
+                51.36         20.13        1.7791    3   0   2
+                55.05         27.12        1.6682    2   2   0
+                56.26          1.99        1.6351    3   0   3
+                57.50          2.75        1.6028    3   1   0
+                58.00          9.94        1.5902    2   1   4
+                58.82          6.75        1.5698    2   2   2
+                61.18          4.15        1.5149    3   1   2
+                64.50          4.64        1.4447    4   0   0
+                66.66          6.60        1.4031    1   1   6
+                67.96         10.34        1.3794    4   0   2
+                68.86         13.26        1.3635    2   0   6
+                69.39         13.70        1.3544    2   2   4
+                71.11          1.96        1.3258    3   2   0
+                71.55          1.01        1.3187    3   1   4
+                74.42          1.87        1.2748    3   2   2
+                75.29          2.48        1.2622    2   1   6
+                77.90          4.68        1.2264    4   0   4
+                78.49          1.32        1.2186    3   2   3
+                78.62          4.36        1.2169    4   1   2
+                79.47          2.02        1.2060    3   0   6
+                83.31          1.82        1.1599    0   0   8
+                89.80          1.24        1.0921    4   2   0
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

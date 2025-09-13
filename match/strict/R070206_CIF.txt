@@ -1,0 +1,58 @@
+      Biphosphammite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from single crystal data of R070206
+      Khan A A, Baur W H
+      Acta Crystallographica B29 (1973) 2721-2726
+      Refinement of the crystal structures of ammonium dihydrogen phosphate and
+      ammonium dihydrogen arsenate
+      Locality: synthetic
+      Note: known as ADP
+      _database_code_amcsd 0009493
+
+      CELL PARAMETERS:   7.4930  7.4930  7.5460   90.000   90.000   90.000
+      SPACE GROUP: I-42d     
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            P      0.00000   0.00000   0.00000     1.000     1.461
+            N      0.00000   0.00000   0.50000     1.000     2.315
+            O      0.08430   0.14660   0.11510     1.000     2.079
+            H     -0.00200   0.08900   0.56300     1.000     2.800
+            H      0.25000   0.15000   0.12500     0.500     5.000
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  6 +/-  6 +/-  6
+            MAX. ABS. INTENSITY / VOLUME**2:      16.54342987    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                16.67        100.00        5.3170    1   0   1
+                23.75         42.92        3.7465    2   0   0
+                29.05         56.28        3.0734    1   1   2
+                29.16         15.45        3.0626    2   1   1
+                33.71          6.11        2.6585    2   0   2
+                33.84          7.22        2.6492    2   2   0
+                37.97          2.22        2.3695    3   1   0
+                45.07          7.25        2.0117    2   1   3
+                45.19         18.35        2.0066    3   1   2
+                45.26          1.48        2.0036    3   2   1
+                51.74          2.05        1.7668    4   1   1
+                54.46          2.50        1.6849    2   0   4
+                54.79          2.10        1.6755    4   2   0
+                57.53          1.04        1.6021    3   2   3
+                57.63          3.17        1.5995    3   3   2
+                60.22          3.08        1.5367    2   2   4
+                63.11          2.63        1.4731    4   1   3
+                68.53          2.41        1.3693    5   1   2
+                68.58          1.47        1.3683    5   2   1
+                70.90          3.69        1.3292    4   0   4
+                71.18          1.25        1.3246    4   4   0
+                75.96          2.37        1.2527    4   2   4
+                78.66          2.02        1.2164    5   3   2
+                81.19          1.24        1.1847    6   2   0
+                83.21          1.16        1.1610    4   1   5
+                83.62          1.15        1.1564    5   4   1
+                87.89          1.68        1.1109    3   1   6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

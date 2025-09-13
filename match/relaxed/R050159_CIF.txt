@@ -1,0 +1,57 @@
+      Schwartzembergite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from single crystal data of R050159
+      Welch M D, Hawthorne F C, Cooper M A, Kyser T K
+      The Canadian Mineralogist 39 (2001) 785-795
+      Trivalent iodine in the crystal structure of schwartzembergite, Pb5IO6H2Cl3
+
+      CELL PARAMETERS:   3.9820  3.9820 12.5670   90.000   90.000   90.000
+      SPACE GROUP: I4/mmm    
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Pb     0.00000   0.00000   0.14210     0.833     0.184
+            I      0.00000   0.00000   0.18500     0.167     0.139
+            Cl     0.00000   0.00000   0.50000     1.000     0.232
+            O      0.50000   0.00000   0.25000     1.000     0.247
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  3 +/-  3 +/- 11
+            MAX. ABS. INTENSITY / VOLUME**2:      358.7005300    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                14.09         10.97        6.2835    0   0   2
+                23.44         50.70        3.7960    1   0   1
+                28.41         12.34        3.1418    0   0   4
+                30.99        100.00        2.8861    1   0   3
+                31.78         47.76        2.8157    1   1   0
+                42.53          1.91        2.1254    1   0   5
+                43.14         27.07        2.0968    1   1   4
+                43.19          4.04        2.0945    0   0   6
+                45.56         23.95        1.9910    2   0   0
+                47.93          1.98        1.8980    2   0   2
+                51.85         13.01        1.7632    2   1   1
+                54.57          9.18        1.6817    2   0   4
+                54.61         12.38        1.6805    1   1   6
+                56.12         36.83        1.6389    2   1   3
+                56.20         11.58        1.6366    1   0   7
+                58.78          1.63        1.5709    0   0   8
+                64.09          1.08        1.4530    2   1   5
+                64.58          5.05        1.4431    2   0   6
+                66.40          7.53        1.4078    2   2   0
+                68.38          2.60        1.3718    1   1   8
+                71.47          2.54        1.3200    3   0   1
+                73.75          3.94        1.2848    2   2   4
+                75.07          7.77        1.2653    3   0   3
+                75.14          9.96        1.2643    2   1   7
+                75.50          8.32        1.2592    3   1   0
+                77.38          2.84        1.2332    2   0   8
+                82.53          8.09        1.1688    3   1   4
+                82.57          2.63        1.1684    2   2   6
+                84.41          2.12        1.1476    1   1  10
+                88.97          3.00        1.1002    3   2   1
+                89.18          3.50        1.0982    1   0  11
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

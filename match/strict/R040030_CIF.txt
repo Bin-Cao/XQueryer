@@ -1,0 +1,61 @@
+      Dolomite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from the powder pattern of R040030
+      Althoff P L
+      American Mineralogist 62 (1977) 772-783
+      Structural refinements of dolomite and a magnesian calcite and implications for
+      dolomite formation in the marine environment
+
+      CELL PARAMETERS:   4.8079  4.8079 16.0091   90.000   90.000  120.000
+      SPACE GROUP: R-3       
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Ca     0.00000   0.00000   0.00000     1.000     0.384
+            Mg     0.00000   0.00000   0.50000     1.000     0.326
+            C      0.00000   0.00000  -0.24230     1.000     0.265
+            O      0.28290   0.03500  -0.24400     1.000     0.582
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  3 +/-  3 +/- 14
+            MAX. ABS. INTENSITY / VOLUME**2:      22.58298364    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                22.06          2.02        4.0297    1   0   1
+                24.09          4.37        3.6939    0   1   2
+                30.99        100.00        2.8854    1   0   4
+                33.59          4.91        2.6682    0   0   6
+                35.36          5.79        2.5382    0   1   5
+                37.41         10.90        2.4039    1   1   0
+                41.19         21.42        2.1918    2  -1   3
+                41.19          7.25        2.1918    1   1   3
+                43.85          4.55        2.0645    0   2   1
+                44.99         14.43        2.0148    2   0   2
+                49.34          4.90        1.8469    0   2   4
+                50.61         17.84        1.8036    0   1   8
+                51.14         14.81        1.7860    1   1   6
+                51.14          7.67        1.7860    2  -1   6
+                51.37          1.39        1.7788    0   0   9
+                58.97          1.53        1.5662    3  -1   1
+                58.97          2.50        1.5662    2   1   1
+                59.90          2.56        1.5442   -1   3   2
+                59.90          6.88        1.5442    1   2   2
+                63.52          2.79        1.4646    3  -1   4
+                63.52          4.12        1.4646    2   1   4
+                64.60          2.93        1.4427    2   0   8
+                65.25          1.10        1.4299    2  -1   9
+                65.25          2.70        1.4299    1   1   9
+                66.16          2.59        1.4124    1   2   5
+                67.48          8.59        1.3879    3   0   0
+                70.60          3.91        1.3341    0   0  12
+                72.97          1.91        1.2965    3  -1   7
+                74.81          3.00        1.2691    0   2  10
+                77.10          3.01        1.2370   -1   3   8
+                82.73          1.92        1.1665    2  -1  12
+                86.77          1.26        1.1223    2   1  10
+                86.77          1.03        1.1223    3  -1  10
+                88.02          1.70        1.1096   -3  -1   4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

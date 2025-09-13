@@ -1,0 +1,55 @@
+      Nitrobarite
+Diffraction data computed using the structute from the paper listed below,
+along with the cell parameters refined from single crystal data for R060622
+      Nowotny H, Heger G
+      Acta Crystallographica C39 (1983) 952-956
+      Structure refinement of strontium nitrate, Sr(NO3)2, and barium nitrate, Ba(NO3)2
+      Locality: synthetic
+
+      CELL PARAMETERS:   8.1184  8.1184  8.1184   90.000   90.000   90.000
+      SPACE GROUP: Pa3       
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Ba     0.00000   0.00000   0.00000     1.000     1.171
+            N      0.35139   0.35139   0.35139     1.000     1.571
+            O      0.28553   0.29105   0.47627     1.000     2.369
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  7 +/-  7 +/-  7
+            MAX. ABS. INTENSITY / VOLUME**2:      64.71166890    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                18.93        100.00        4.6872    1   1   1
+                21.90         32.43        4.0592    2   0   0
+                24.52         14.35        3.6307    2   1   0
+                26.90          9.41        3.3143    2   1   1
+                31.16         32.03        2.8703    2   2   0
+                36.71         81.99        2.4478    3   1   1
+                38.41         43.41        2.3436    2   2   2
+                44.65         14.37        2.0296    4   0   0
+                47.52          1.17        1.9135    4   1   1
+                48.90         20.22        1.8625    3   3   1
+                50.26         10.18        1.8153    4   0   2
+                50.26          9.23        1.8153    4   2   0
+                55.45         14.78        1.6572    4   2   2
+                59.13          3.84        1.5624    3   3   3
+                59.13         11.50        1.5624    5   1   1
+                64.98          8.50        1.4351    4   4   0
+                68.36          9.73        1.3723    5   3   1
+                68.36          9.59        1.3723    5   1   3
+                69.47          2.67        1.3531    6   0   0
+                69.47          6.18        1.3531    4   4   2
+                73.82          2.34        1.2836    6   0   2
+                73.82          2.65        1.2836    6   2   0
+                77.03          6.95        1.2380    5   3   3
+                78.08          6.54        1.2239    6   2   2
+                82.28          1.62        1.1718    4   4   4
+                85.40          2.89        1.1368    5   5   1
+                85.40          4.19        1.1368    7   1   1
+                86.43          1.72        1.1258    6   0   4
+                86.43          1.79        1.1258    6   4   0
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

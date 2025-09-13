@@ -1,0 +1,67 @@
+      Ferroselite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from single crystal data of R070461
+      Pickardt J, Reuter B, Riedel E, Sochtig J
+      Journal of Solid State Chemistry 15 (1975) 366-368
+      On the formation of FeSe2 single crystals by chemical transport reactions
+      Locality: synthetic
+
+      CELL PARAMETERS:   4.7950  5.7700  3.5840   90.000   90.000   90.000
+      SPACE GROUP: Pnnm      
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Fe     0.00000   0.00000   0.00000     1.000     0.644
+            Se     0.21340   0.36900   0.00000     1.000     0.716
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    0.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  4 +/-  5 +/-  3
+            MAX. ABS. INTENSITY / VOLUME**2:      90.49279801    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                24.13         12.95        3.6878    1   1   0
+                29.34         14.93        3.0445    0   1   1
+                31.00          6.12        2.8850    0   2   0
+                31.16         49.02        2.8707    1   0   1
+                34.91        100.00        2.5702    1   1   1
+                36.34         82.29        2.4720    1   2   0
+                37.51         10.90        2.3975    2   0   0
+                40.76          6.58        2.2140    2   1   0
+                44.52         11.76        2.0349    1   2   1
+                48.32         69.93        1.8836    2   1   1
+                49.43          6.42        1.8439    2   2   0
+                50.96         28.84        1.7920    0   0   2
+                51.17          9.01        1.7851    1   3   0
+                54.12         33.40        1.6947    0   3   1
+                56.09          8.88        1.6396    2   2   1
+                57.15          1.79        1.6118    1   1   2
+                57.69         15.19        1.5979    1   3   1
+                60.06         11.29        1.5403    3   1   0
+                60.85          1.37        1.5222    0   2   2
+                61.84          1.25        1.5002    2   3   0
+                63.76          1.18        1.4598    3   0   1
+                64.19         27.33        1.4509    1   2   2
+                64.61          2.86        1.4425    0   4   0
+                64.97          4.10        1.4354    2   0   2
+                66.02          8.45        1.4152    3   1   1
+                66.93          7.47        1.3981    3   2   0
+                67.21          2.64        1.3929    2   1   2
+                67.71          2.98        1.3839    2   3   1
+                72.58          3.03        1.3025    3   2   1
+                73.72          3.16        1.2851    2   2   2
+                75.12          4.77        1.2647    1   3   2
+                77.18         12.11        1.2360    2   4   0
+                80.05          3.23        1.1988    4   0   0
+                82.12          2.27        1.1737    4   1   0
+                82.60          7.85        1.1681    3   1   2
+                83.06          2.99        1.1628    3   3   1
+                83.37          2.06        1.1592    1   0   3
+                85.42          6.12        1.1365    1   1   3
+                86.64          2.45        1.1237    0   4   2
+                86.80          1.25        1.1220    1   5   0
+                88.75          6.46        1.1023    3   2   2
+                89.15          4.36        1.0985    0   5   1
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

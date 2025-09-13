@@ -1,0 +1,41 @@
+      Gahnite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from the powder pattern of R040027
+      Andreozzi G B, Lucchesi S, Skogby H, Della Giusta A
+      European Journal of Mineralogy 13 (2001) 391-402
+      Compositional dependence of cation distribution in some synthetic
+      (Mg,Zn)(Al,Fe)2O4 spinels
+      Sample: Gah1a/a
+
+      CELL PARAMETERS:   8.0988  8.0988  8.0988   90.000   90.000   90.000
+      ALTERNATE SETTING FOR SPACE GROUP: Fd3m      
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Mg     0.12500   0.12500   0.12500     0.225     0.616
+            Zn     0.12500   0.12500   0.12500     0.647     0.616
+            Al     0.12500   0.12500   0.12500     0.128     0.616
+            Mg     0.50000   0.50000   0.50000     0.065     0.513
+            Al     0.50000   0.50000   0.50000     0.935     0.513
+            O      0.26339   0.26339   0.26339     1.000     0.624
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  7 +/-  7 +/-  7
+            MAX. ABS. INTENSITY / VOLUME**2:      40.91282012    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                31.24         65.18        2.8634    2   2   0
+                36.81        100.00        2.4419    3   1   1
+                44.76         11.05        2.0247    4   0   0
+                49.03          5.91        1.8580    3   3   1
+                55.59         19.85        1.6532    4   2   2
+                59.29          4.03        1.5586    3   3   3
+                59.29         36.67        1.5586    5   1   1
+                65.16         48.65        1.4317    4   4   0
+                74.03          6.67        1.2805    6   2   0
+                77.25          9.67        1.2351    5   3   3
+                82.52          1.01        1.1690    4   4   4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

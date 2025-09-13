@@ -1,0 +1,44 @@
+      Spinel
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R110101
+      Peterson R C, Lager G A, Hitterman R L
+      American Mineralogist 76 (1991) 1455-1458
+      A time-of-flight neutron powder diffraction study of MgAl2O4 at temperatures
+      up to 1273 K
+      sample W, T = 293 K
+      _database_code_amcsd 0001398
+
+      CELL PARAMETERS:   7.9380  7.9380  7.9380   90.000   90.000   90.000
+      ALTERNATE SETTING FOR SPACE GROUP: Fd3m      
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Mg     0.12500   0.12500   0.12500     0.680     0.240
+            Al     0.12500   0.12500   0.12500     0.320     0.240
+            Al     0.50000   0.50000   0.50000     0.840     0.700
+            Mg     0.50000   0.50000   0.50000     0.160     0.700
+            O      0.26148   0.26148   0.26148     1.000     0.530
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  7 +/-  7 +/-  7
+            MAX. ABS. INTENSITY / VOLUME**2:      19.98839271    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                19.37         28.67        4.5830    1   1   1
+                31.89         33.64        2.8065    2   2   0
+                37.58        100.00        2.3934    3   1   1
+                39.32          1.40        2.2915    2   2   2
+                45.72         54.22        1.9845    4   0   0
+                56.82          9.86        1.6203    4   2   2
+                60.61          3.27        1.5277    3   3   3
+                60.61         41.09        1.5277    5   1   1
+                66.65         70.15        1.4033    4   4   0
+                70.14          2.25        1.3418    5   3   1
+                75.79          3.29        1.2551    6   2   0
+                79.11          9.78        1.2105    5   3   3
+                84.57          6.01        1.1458    4   4   4
+                87.82          2.10        1.1115    5   5   1
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

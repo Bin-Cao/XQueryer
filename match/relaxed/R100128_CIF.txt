@@ -1,0 +1,55 @@
+      Zircon
+      Diffraction data computed using the structure from the paper listed below, 
+      along with the cell parameters refined from single crystal data of R100128
+      Finch R J, Hanchar J M, Hoskin P W O, Burns P C
+      American Mineralogist 86 (2001) 681-689
+      Rare-earth elements in synthetic zircon: Part 2. A single-crystal
+      X-ray study of xenotime substitution
+      Sample: pure zircon #38
+      _database_code_amcsd 0002643
+
+      CELL PARAMETERS:   6.6040  6.6040  5.9720   90.000   90.000   90.000
+      ALTERNATE SETTING FOR SPACE GROUP: I4_1/amd  
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Si     0.00000   0.75000   0.62500     1.000     0.500
+            Zr     0.00000   0.75000   0.12500     1.000     1.000
+            O      0.00000   0.06570   0.19610     1.000     0.500
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  6 +/-  6 +/-  5
+            MAX. ABS. INTENSITY / VOLUME**2:      72.35851129    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                20.05         42.07        4.4295    1   0   1
+                27.00        100.00        3.3020    2   0   0
+                33.86          6.91        2.6474    2   1   1
+                35.69         56.42        2.5157    1   1   2
+                38.56         12.03        2.3349    2   2   0
+                40.74          6.34        2.2147    2   0   2
+                43.83         19.53        2.0655    3   0   1
+                47.72         12.76        1.9060    1   0   3
+                52.24         13.10        1.7511    3   2   1
+                53.55         50.18        1.7114    3   1   2
+                55.67         13.97        1.6510    4   0   0
+                55.68          2.92        1.6507    2   1   3
+                59.78          2.16        1.5470    4   1   1
+                62.18          2.63        1.4930    0   0   4
+                62.94          8.51        1.4767    4   2   0
+                62.95          2.42        1.4765    3   0   3
+                67.91         15.17        1.3803    3   3   2
+                69.04          8.79        1.3604    2   0   4
+                73.42          4.30        1.2896    4   3   1
+                75.60          7.58        1.2578    2   2   4
+                76.31          1.94        1.2479    4   1   3
+                80.90          7.69        1.1882    5   1   2
+                82.65          2.42        1.1674    4   4   0
+                88.24          4.02        1.1074    4   0   4
+                88.25          1.96        1.1073    2   1   5
+                88.92          3.89        1.1007    6   0   0
+                88.93          1.58        1.1006    5   0   3
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,53 @@
+      Almandine
+      Diffraction data computed using the structure from the paper listed below, 
+      along with the cell parameters refined from single crystal data of R060099
+      Novak G A, Gibbs G V
+      American Mineralogist 56 (1971) 791-825
+      The crystal chemistry of the silicate garnets
+      sample Al
+
+      CELL PARAMETERS:  11.5398 11.5398 11.5398   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Si     0.37500   0.00000   0.25000     1.000     0.163
+            Al     0.00000   0.00000   0.00000     1.000     0.277
+            Fe     0.12500   0.00000   0.25000     0.860     0.494
+            Mg     0.12500   0.00000   0.25000     0.090     0.494
+            Ca     0.12500   0.00000   0.25000     0.040     0.494
+            O      0.03427   0.04860   0.65332     1.000     0.353
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/- 10 +/- 10 +/- 10
+            MAX. ABS. INTENSITY / VOLUME**2:      36.46876137    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                18.84          5.02        4.7111    2   1   1
+                21.78          2.56        4.0799    2   2   0
+                28.95          3.13        3.0841    3   2   1
+                31.00         32.88        2.8849    4   0   0
+                34.77        100.00        2.5804    4   2   0
+                36.52          3.41        2.4603    3   3   2
+                38.21         20.21        2.3556    4   2   2
+                39.83         10.19        2.2631    4   3   1
+                42.93         15.98        2.1069    5   2   1
+                44.41          3.63        2.0400    4   4   0
+                48.64         10.68        1.8720    6   1   1
+                48.64         10.58        1.8720    5   3   2
+                55.14         15.75        1.6656    4   4   4
+                57.60         30.50        1.6003    6   4   0
+                58.80          1.68        1.5704    5   5   2
+                59.99         36.89        1.5421    6   4   2
+                64.61          9.74        1.4425    8   0   0
+                65.74          1.17        1.4205    7   4   1
+                73.39          7.93        1.2902    8   4   0
+                75.51         16.77        1.2591    8   4   2
+                77.61          5.97        1.2301    6   6   4
+                82.80          1.52        1.1657    8   5   3
+                82.80          1.24        1.1657    9   4   1
+                85.89          1.70        1.1316   10   2   0
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

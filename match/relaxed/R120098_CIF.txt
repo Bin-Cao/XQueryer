@@ -1,0 +1,57 @@
+      Kesterite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R120098
+      Hall S R, Szymanski J T, Stewart J M
+      The Canadian Mineralogist 16 (1978) 131-137
+      Kesterite, Cu2(Zn,Fe)SnS4, and stannite, Cu2(Fe,Zn)SnS4,
+      structurally similar but distinct minerals
+      _database_code_amcsd 0005151
+
+      CELL PARAMETERS:   5.4400  5.4400 10.8720   90.000   90.000   90.000
+      SPACE GROUP: I-4       
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Cu     0.00000   0.00000   0.00000     1.000     1.474
+            Sn     0.50000   0.50000   0.00000     1.000     0.650
+            Cu     0.00000   0.50000   0.25000     1.000     1.290
+            Zn     0.50000   0.00000   0.25000     0.710     1.171
+            Fe     0.50000   0.00000   0.25000     0.280     1.171
+            Cd     0.50000   0.00000   0.25000     0.010     1.171
+            S      0.75600   0.75660   0.87220     1.000     0.845
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  4 +/-  4 +/-  9
+            MAX. ABS. INTENSITY / VOLUME**2:      144.3494480    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                16.31          1.60        5.4360    0   0   2
+                18.24          5.18        4.8650    1   0   1
+                23.12          1.76        3.8467    1   1   0
+                28.42        100.00        3.1400    1   1   2
+                29.62          2.19        3.0160    1   0   3
+                32.93          9.86        2.7200    2   0   0
+                32.95          4.92        2.7180    0   0   4
+                36.95          1.23        2.4325    2   0   2
+                37.90          1.14        2.3741    2   1   1
+                37.90          1.17        2.3741    1   2   1
+                47.26         18.02        1.9233    2   2   0
+                47.28         36.00        1.9226    2   0   4
+                56.07         11.90        1.6401    3   1   2
+                56.07         11.90        1.6401    1   3   2
+                56.11         11.88        1.6392    1   1   6
+                58.82          3.25        1.5700    2   2   4
+                69.06          4.72        1.3600    4   0   0
+                69.12          2.36        1.3590    0   0   8
+                76.30          3.94        1.2480    3   3   2
+                76.33          3.94        1.2476    3   1   6
+                76.33          3.94        1.2476    1   3   6
+                78.67          1.08        1.2162    4   0   4
+                78.71          1.08        1.2157    2   0   8
+                87.95          4.32        1.1103    2   4   4
+                87.95          4.32        1.1103    4   2   4
+                87.99          4.32        1.1099    2   2   8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

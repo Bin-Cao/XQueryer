@@ -1,0 +1,53 @@
+      Chromite
+      Diffraction data computed using the structure from the paper listed below, 
+      along with the cell parameters refined from the powder pattern of R110060
+      Lenaz D, Logvinova A M, Princivalle F, Sobolev N V
+      American Mineralogists 94 (2009) 1067-1070
+      Structural parameters of chromite included in diamond and kimberlites
+      from Siberia: A new tool for discriminating ultramafic source
+      Locality: Udachnaya mine, Daldyn kimberlitic field, close to Arctic Circle, Russia
+      Note: sample UDK1
+      _database_code_amcsd 0004961
+
+      CELL PARAMETERS:   8.2990  8.2990  8.2990   90.000   90.000   90.000
+      ALTERNATE SETTING FOR SPACE GROUP: Fd3m      
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Mg     0.12500   0.12500   0.12500     0.567     0.458
+            Mn     0.12500   0.12500   0.12500     0.009     0.458
+            Fe     0.12500   0.12500   0.12500     0.401     0.458
+            Fe     0.12500   0.12500   0.12500     0.022     0.458
+            Al     0.50000   0.50000   0.50000     0.095     0.292
+            Ti     0.50000   0.50000   0.50000     0.002     0.292
+            Cr     0.50000   0.50000   0.50000     0.875     0.292
+            Fe     0.50000   0.50000   0.50000     0.011     0.292
+            Fe     0.50000   0.50000   0.50000     0.017     0.292
+            O      0.26210   0.26210   0.26210     1.000     0.411
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  7 +/-  7 +/-  7
+            MAX. ABS. INTENSITY / VOLUME**2:      54.68110000    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                18.52         33.53        4.7914    1   1   1
+                30.47         22.68        2.9341    2   2   0
+                35.89        100.00        2.5022    3   1   1
+                37.54          7.38        2.3957    2   2   2
+                43.63         36.05        2.0747    4   0   0
+                47.77          1.00        1.9039    3   3   1
+                54.14          6.77        1.6940    4   2   2
+                57.72          4.44        1.5971    3   3   3
+                57.72         32.43        1.5971    5   1   1
+                63.40         49.00        1.4671    4   4   0
+                66.67          3.66        1.4028    5   3   1
+                71.96          2.22        1.3122    6   2   0
+                75.05          8.99        1.2656    5   3   3
+                76.08          4.46        1.2511    6   2   2
+                80.12          4.60        1.1979    4   4   4
+                83.12          1.95        1.1621    5   5   1
+                88.08          3.32        1.1090    6   4   2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

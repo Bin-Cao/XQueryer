@@ -1,0 +1,64 @@
+      Manganite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from single crystal data of R070269
+      Kohler T, Armbruster T, Libowitzky E
+      Journal of Solid State Chemistry 133 (1997) 486-500
+      Hydrogen bonding and Jahn-Teller distortion in groutite, alpha-MnOOH,
+      and manganite, gamma-MnOOH, and their relations to the manganese
+      dioxides ramsdellite and pyrolusite
+      Locality: Nchwaning Mine, Kalahari manganese field, Republic of South Africa
+      Note: Uiso corrected
+
+      CELL PARAMETERS:   5.3060  5.2580  5.3030   90.000  114.130   90.000
+      SPACE GROUP: P2_1/c    
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Mn    -0.23684   0.01033   0.75464     1.000     0.497
+            O      0.87520   0.12560   0.12060     1.000     0.482
+            O      0.37490   0.12380   0.62790     1.000     0.655
+            H      0.28400   0.02700   0.72500     1.000     2.290
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    0.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  4 +/-  4 +/-  4
+            MAX. ABS. INTENSITY / VOLUME**2:      50.73502910    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                26.23        100.00        3.3977   -1   1   1
+                34.10         26.50        2.6290    0   2   0
+                35.50         13.75        2.5286    1   1   1
+                37.13         20.21        2.4212    2   0   0
+                37.15         20.48        2.4198    0   0   2
+                39.82         10.45        2.2638   -1   2   1
+                40.53          2.95        2.2260   -2   0   2
+                41.04          5.02        2.1992    2   1   0
+                41.06          4.65        2.1982    0   1   2
+                51.30         13.91        1.7810    2   2   0
+                51.32         14.26        1.7804    0   2   2
+                53.97         11.74        1.6988   -2   2   2
+                54.94         19.75        1.6713   -3   1   1
+                54.97         20.36        1.6704   -1   1   3
+                56.42          9.52        1.6308   -1   3   1
+                61.96         12.54        1.4978    1   3   1
+                64.64          6.77        1.4420    2   0   2
+                65.34          5.74        1.4282   -3   1   3
+                71.00          4.07        1.3276    3   1   1
+                71.02          4.31        1.3272    1   1   3
+                71.48          2.07        1.3199   -4   0   2
+                71.52          2.25        1.3192   -2   0   4
+                75.14          3.52        1.2643    2   2   2
+                76.67          1.39        1.2428   -3   3   1
+                76.70          1.49        1.2425   -1   3   3
+                81.62          2.60        1.1796   -4   2   2
+                81.66          2.79        1.1791   -2   2   4
+                83.72          2.41        1.1552    2   4   0
+                83.74          2.49        1.1551    0   4   2
+                85.80          2.31        1.1326   -3   3   3
+                85.86          4.82        1.1319   -2   4   2
+                87.68          2.31        1.1130   -4   0   4
+                89.03          1.96        1.0996    4   2   0
+                89.08          2.16        1.0991    0   2   4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

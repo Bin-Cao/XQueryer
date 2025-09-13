@@ -1,0 +1,57 @@
+      Hausmannite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from the powder pattern of R040091
+      Baron V, Gutzmer J, Rundlof H, Tellgren R
+      American Mineralogist 83 (1998) 786-793
+      The influence of iron substitution on the magnetic properties of hausmannite,
+      Mn(Fe,Mn)2O4
+      Sample at T = 295 K, natural
+
+      CELL PARAMETERS:   5.7619  5.7619  9.4530   90.000   90.000   90.000
+      ALTERNATE SETTING FOR SPACE GROUP: I4_1/amd  
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Mn     0.00000   0.75000   0.12500     1.000     0.700
+            Mn     0.00000   0.00000   0.50000     1.000     0.700
+            O      0.00000   0.47230   0.25920     1.000     1.000
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  5 +/-  5 +/-  8
+            MAX. ABS. INTENSITY / VOLUME**2:      42.88997409    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                18.03         23.11        4.9200    1   0   1
+                28.93         37.01        3.0860    1   1   2
+                31.04         15.55        2.8809    2   0   0
+                32.38         74.74        2.7646    1   0   3
+                36.13        100.00        2.4861    2   1   1
+                36.53         13.93        2.4600    2   0   2
+                38.08         17.86        2.3633    0   0   4
+                44.47         20.02        2.0371    2   2   0
+                49.91          6.21        1.8272    2   0   4
+                50.83         23.39        1.7964    1   0   5
+                53.93          9.70        1.7001    3   1   2
+                56.08          8.29        1.6400    3   0   3
+                58.58         29.32        1.5757    3   2   1
+                59.95         52.12        1.5430    2   2   4
+                63.29          2.52        1.4695    1   1   6
+                64.71         19.12        1.4405    4   0   0
+                67.79          2.95        1.3823    2   0   6
+                69.80          5.18        1.3473    3   0   5
+                72.40          1.56        1.3053    3   3   2
+                73.50          1.40        1.2884    4   2   0
+                74.24          9.43        1.2775    4   1   3
+                76.66          4.48        1.2430    4   2   2
+                77.62          4.17        1.2300    4   0   4
+                78.34          1.01        1.2205    3   2   5
+                80.26          5.33        1.1961    2   1   7
+                80.61          2.63        1.1918    3   1   6
+                81.45          4.12        1.1816    0   0   8
+                85.92          2.26        1.1312    4   2   4
+                86.63          6.73        1.1238    4   1   5
+                89.09          1.95        1.0990    5   1   2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

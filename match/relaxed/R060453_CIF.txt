@@ -1,0 +1,53 @@
+      Grossular
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from the powder pattern of R060453
+      Geiger C A, Armbruster T
+      American Mineralogist 82 (1997) 740-747
+      Mn3Al2Si3O12 spessartine and Ca3Al2Si3O12 grossular garnet: Structural dynamics
+      and thermodynamic properties
+      Sample: at T = 293 K
+
+      CELL PARAMETERS:  11.8516 11.8516 11.8516   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Ca     0.00000   0.25000   0.12500     1.000     0.447
+            Al     0.00000   0.00000   0.00000     1.000     0.363
+            Si     0.37500   0.00000   0.25000     1.000     0.316
+            O      0.03823   0.04528   0.65137     1.000     0.411
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/- 10 +/- 10 +/- 10
+            MAX. ABS. INTENSITY / VOLUME**2:      25.45114701    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                30.16         35.45        2.9629    4   0   0
+                33.82        100.00        2.6501    4   2   0
+                35.53          6.98        2.5268    3   3   2
+                37.16         18.47        2.4192    4   2   2
+                38.74         14.34        2.3243    4   3   1
+                41.74         13.02        2.1638    5   2   1
+                43.18          3.17        2.0951    4   4   0
+                47.28         10.03        1.9226    5   3   2
+                47.28         11.41        1.9226    6   1   1
+                48.59          1.39        1.8739    6   2   0
+                53.57         14.87        1.7106    4   4   4
+                55.95         25.74        1.6435    6   4   0
+                57.11          1.13        1.6128    5   5   2
+                58.26         40.78        1.5837    6   4   2
+                62.72          9.42        1.4814    8   0   0
+                63.80          1.63        1.4588    7   4   1
+                71.16          9.46        1.3250    8   4   0
+                73.19         16.33        1.2931    8   4   2
+                75.21          6.50        1.2634    6   6   4
+                76.21          1.01        1.2493    8   5   1
+                80.17          1.87        1.1972    9   4   1
+                80.17          1.98        1.1972    8   5   3
+                83.11          1.82        1.1621   10   2   0
+                88.95          9.30        1.1004    8   6   4
+                88.95          5.53        1.1004   10   4   0
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

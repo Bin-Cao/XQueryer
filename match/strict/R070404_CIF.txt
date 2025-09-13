@@ -1,0 +1,54 @@
+      Crednerite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from single crystal data of R070404
+      Topfer J, Trari M, Gravereau P, Chaminade J P, Doumerc J P
+      Zeitschrift fur Kristallographie 210 (1995) 184-187
+      Crystal growth and reinvestigation of the crystal structure of crednerite, CuMnO2
+      Locality: synthetic
+
+      CELL PARAMETERS:   5.5620  2.8820  5.8900   90.000  104.400   90.000
+      SPACE GROUP: C2/m      
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Cu     0.00000   0.50000   0.50000     1.000     0.861
+            Mn     0.00000   0.00000   0.00000     0.960     0.403
+            Cu     0.00000   0.00000   0.00000     0.040     0.403
+            O      0.40700   0.00000   0.17890     1.000     0.505
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    0.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  4 +/-  2 +/-  5
+            MAX. ABS. INTENSITY / VOLUME**2:      59.69199171    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                31.36         51.46        2.8525    0   0   2
+                33.06          4.73        2.7098   -2   0   1
+                33.26         77.57        2.6936    2   0   0
+                35.32         10.54        2.5412    1   1   0
+                37.00        100.00        2.4297   -1   1   1
+                39.91         20.98        2.2588   -2   0   2
+                40.52         43.07        2.2263    1   1   1
+                44.90          1.07        2.0187   -1   1   2
+                47.83          2.23        1.9017    0   0   3
+                52.18         19.12        1.7529    2   0   2
+                56.98         30.46        1.6162   -1   1   3
+                59.37         29.13        1.5567   -3   1   1
+                64.56         21.10        1.4435    1   1   3
+                64.69         10.71        1.4410    0   2   0
+                65.44          6.29        1.4262    0   0   4
+                66.06          9.26        1.4143   -2   0   4
+                66.79          8.75        1.4006    3   1   1
+                69.36          5.31        1.3549   -4   0   2
+                69.84          3.98        1.3468    4   0   0
+                70.57          8.83        1.3347   -3   1   3
+                73.65          6.85        1.2862    0   2   2
+                74.71         10.10        1.2706    2   2   0
+                78.78          4.65        1.2148   -2   2   2
+                84.38          1.87        1.1479    2   0   4
+                86.09          3.77        1.1294   -4   0   4
+                87.44          3.78        1.1155    4   0   2
+                87.67          6.25        1.1131    2   2   2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

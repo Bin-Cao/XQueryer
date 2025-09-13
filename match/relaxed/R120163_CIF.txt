@@ -1,0 +1,41 @@
+      Oxystannomicrolite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from single crystal data of R120163
+      Gasperin M
+      Bulletin de la Societe Francaise de Mineralogie et de Cristallographie 83 (1960) 1-21
+      Contribution a l'etude de quelques oxydes doubles que forme le tantale
+      avec l'etain, l'uranium et le calcium.
+      _cod_database_code 1001840
+      _database_code_amcsd 0012114
+
+      CELL PARAMETERS:  10.4580 10.4580 10.4580   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Ta     0.12500   0.12500   0.12500     1.000     1.500
+            Sn     0.62500   0.62500   0.62500     1.000     1.000
+            O      0.50000   0.50000   0.50000     1.000     1.000
+            O      0.20000   0.00000   0.00000     1.000     1.000
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  9 +/-  9 +/-  9
+            MAX. ABS. INTENSITY / VOLUME**2:      459.8815137    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                14.67          7.25        6.0379    1   1   1
+                28.30          5.49        3.1532    3   1   1
+                29.59        100.00        3.0190    2   2   2
+                34.30         35.32        2.6145    4   0   0
+                45.04          1.26        2.0126    3   3   3
+                49.29         40.31        1.8487    4   4   0
+                51.71          1.15        1.7677    5   3   1
+                58.55         36.80        1.5766    6   2   2
+                61.42          9.09        1.5095    4   4   4
+                72.28          5.01        1.3073    8   0   0
+                79.98         12.46        1.1996    6   6   2
+                82.50         10.44        1.1692    8   4   0
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

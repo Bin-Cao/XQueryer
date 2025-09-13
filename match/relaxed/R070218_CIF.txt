@@ -1,0 +1,43 @@
+      Magnesiocoulsonite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from single crystal data of R070218
+      Rudorff W, Reuter B
+      Zeitschrift fur Anorganische und Allgemeine Chemie 253 (1947) 194-208
+      Die struktur der magnesium- und zink-vanadinspinelle
+      Locality: synthetic
+
+      CELL PARAMETERS:   8.3550  8.3550  8.3550   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Mg     0.00000   0.00000   0.00000     1.000     0.800
+            V      0.62500   0.62500   0.62500     1.000     0.800
+            O      0.38900   0.38900   0.38900     1.000     1.000
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    0.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  7 +/-  7 +/-  7
+            MAX. ABS. INTENSITY / VOLUME**2:      38.96064487    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                18.39         80.27        4.8238    1   1   1
+                30.26         14.47        2.9539    2   2   0
+                35.64        100.00        2.5191    3   1   1
+                37.28          9.87        2.4119    2   2   2
+                43.32         55.84        2.0887    4   0   0
+                47.43          3.36        1.9168    3   3   1
+                53.75          3.74        1.7055    4   2   2
+                57.30          3.64        1.6079    3   3   3
+                57.30         34.87        1.6079    5   1   1
+                62.93         51.67        1.4770    4   4   0
+                66.17          7.88        1.4123    5   3   1
+                71.40          1.06        1.3210    6   2   0
+                74.47          8.49        1.2741    5   3   3
+                75.48          5.77        1.2596    6   2   2
+                79.47          6.35        1.2059    4   4   4
+                82.44          3.51        1.1699    5   5   1
+                87.34          2.04        1.1165    6   4   2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

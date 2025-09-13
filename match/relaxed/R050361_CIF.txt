@@ -1,0 +1,29 @@
+      Pyrolusite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R050361
+      Wyckoff R W G
+      Crystal Structures 1 (1963) 239-444
+      Second edition. Interscience Publishers, New York, New York
+      Note: beta phase of MnO2, rutile structure
+
+      CELL PARAMETERS:   4.412351   4.412351   2.871094   90.00000   90.00000   90.00000
+      SPACE GROUP: P4_2/mnm
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                28.62        100.00        3.1200    1   1   0
+                37.37         54.73        2.4065    1   0   1
+                40.90          9.48        2.2062    2   0   0
+                42.79         13.30        2.1127    1   1   1
+                45.98          4.08        1.9733    2   1   0
+                56.57         52.46        1.6262    2   1   1
+                59.21         14.91        1.5600    2   2   0
+                64.93          6.82        1.4355    0   0   2
+                67.04          8.50        1.3953    3   1   0
+                72.12         16.05        1.3090    3   0   1
+                72.44          9.27        1.3041    1   1   2
+                79.64          2.63        1.2032    2   0   2
+                86.38          4.94        1.1258    3   2   1
+                88.61          2.70        1.1031    4   0   0
+                88.61          2.70        1.1031    4   0   0
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

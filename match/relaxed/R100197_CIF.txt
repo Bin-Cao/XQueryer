@@ -1,0 +1,65 @@
+      Bismoclite
+      Diffraction data computed using the structure from the paper listed below, 
+      along with the cell parameters refined from single crystal data of R100197
+      Wyckoff R W G
+      Crystal Structures 1 (1963) 294-296
+      Second edition. Interscience Publishers, New York, New York
+      Note: tetragonal PbFCl structure
+      _database_code_amcsd 0011841
+
+      CELL PARAMETERS:   3.8930  3.8930  7.3700   90.000   90.000   90.000
+      SPACE GROUP: P4/nmm    
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Bi     0.00000   0.50000   0.17000     1.000     1.500
+            O      0.00000   0.00000   0.00000     1.000     1.000
+            Cl     0.00000   0.50000   0.64500     1.000     1.000
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  3 +/-  3 +/-  6
+            MAX. ABS. INTENSITY / VOLUME**2:      264.9893556    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                12.01         57.62        7.3700    0   0   1
+                24.15         13.61        3.6850    0   0   2
+                25.88        100.00        3.4423    1   0   1
+                32.53         61.25        2.7528    1   1   0
+                33.48         97.43        2.6762    1   0   2
+                34.79          7.21        2.5788    1   1   1
+                36.58         10.53        2.4567    0   0   3
+                40.92         22.66        2.2054    1   1   2
+                46.66         26.84        1.9465    2   0   0
+                48.36          6.43        1.8820    2   0   1
+                49.47          1.78        1.8425    0   0   4
+                49.74         24.08        1.8329    1   1   3
+                53.22          5.82        1.7211    2   0   2
+                54.13         24.07        1.6944    2   1   1
+                55.15         19.40        1.6654    1   0   4
+                58.65         32.45        1.5742    2   1   2
+                60.46          5.81        1.5312    1   1   4
+                60.70          8.93        1.5256    2   0   3
+                63.07          1.44        1.4740    0   0   5
+                68.01          4.11        1.3785    1   0   5
+                68.13          7.15        1.3764    2   2   0
+                69.47          1.78        1.3530    2   2   1
+                70.36          2.18        1.3381    2   0   4
+                72.78          2.33        1.2994    1   1   5
+                73.44          1.97        1.2894    2   2   2
+                74.20          4.02        1.2780    3   0   1
+                75.07         13.21        1.2654    2   1   4
+                77.54          7.46        1.2311    3   1   0
+                77.75          2.05        1.2283    0   0   6
+                78.08          6.00        1.2240    3   0   2
+                78.82          1.24        1.2143    3   1   1
+                79.89          3.51        1.2008    2   2   3
+                82.00          2.30        1.1751    2   0   5
+                82.64          4.01        1.1676    3   1   2
+                86.52          3.69        1.1250    2   1   5
+                86.83          4.76        1.1217    1   1   6
+                88.71          1.08        1.1027    2   2   4
+                88.93          6.63        1.1006    3   1   3
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,56 @@
+      Wickmanite
+      Diffraction data computed using the structure from the paper listed below, 
+      along with the cell parameters refined from single crystal data of R100017 
+      Basciano L C, Peterson R C, Roeder P L
+      The Canadian Mineralogist 36 (1998) 1203-1210
+      Description of schoenfliesite, MgSn(OH)6, and roxbyite, Cu1.72S, from a 1375 BC shipwreck,
+      and rietveld neutron-diffraction refinement of synthetic schoenfliesite, wickmanite,
+      MnSn(OH)6, and burtite, CaSn(OH)6
+      Locality: a 1375 BC shipwreck
+
+      CELL PARAMETERS:   7.9040  7.9040  7.9040   90.000   90.000   90.000
+      ALTERNATE SETTING FOR SPACE GROUP: Pn3       
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Mn     0.00000   0.00000   0.00000     1.000     0.700
+            Sn     0.50000   0.50000   0.50000     1.000     1.000
+            H     -0.07810   0.20200   0.23400     0.500     1.000
+            H     -0.20100   0.06900   0.27000     0.500     1.000
+            O     -0.06430   0.07550   0.25860     1.000     1.000
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  7 +/-  7 +/-  7
+            MAX. ABS. INTENSITY / VOLUME**2:      89.07771408    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                19.45         24.84        4.5634    1   1   1
+                22.50        100.00        3.9520    2   0   0
+                32.03         50.35        2.7945    2   2   0
+                35.93          6.63        2.4995    3   0   1
+                35.93          1.85        2.4995    3   1   0
+                37.75         10.22        2.3831    3   1   1
+                39.49         17.07        2.2817    2   2   2
+                42.81          3.46        2.1124    3   1   2
+                45.93         15.51        1.9760    4   0   0
+                50.32          4.48        1.8133    3   3   1
+                51.72         18.99        1.7674    4   0   2
+                51.72         22.51        1.7674    4   2   0
+                57.09         28.40        1.6134    4   2   2
+                60.90          2.91        1.5211    5   1   1
+                66.97          6.09        1.3972    4   4   0
+                70.48          1.66        1.3360    5   1   3
+                70.48          1.78        1.3360    5   3   1
+                71.64          1.01        1.3173    6   0   0
+                71.64          9.96        1.3173    4   4   2
+                76.18          4.20        1.2497    6   2   0
+                76.18          3.83        1.2497    6   0   2
+                79.52          1.11        1.2053    5   3   3
+                80.63          8.59        1.1916    6   2   2
+                85.02          2.06        1.1408    4   4   4
+                89.39          2.24        1.0961    6   4   0
+                89.39          2.40        1.0961    6   0   4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

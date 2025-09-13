@@ -1,0 +1,37 @@
+      Berzelianite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from the powder pattern of R060260
+      Borchert W
+      Zeitschrift fur Kristallographie 106 (1945) 5-24
+      Gitterumwandlungen im System Cu2-x Se
+      Locality:
+
+      CELL PARAMETERS:   5.7400  5.7400  5.7400   90.000   90.000   90.000
+      SPACE GROUP: F-43m     
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Cu     0.25000   0.25000   0.25000     0.900     0.700
+            Cu     0.50000   0.50000   0.50000     0.180     0.700
+            Cu     0.66667   0.66667   0.66667     0.180     0.700
+            Se     0.00000   0.00000   0.00000     1.000     0.600
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    0.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  5 +/-  5 +/-  5
+            MAX. ABS. INTENSITY / VOLUME**2:      155.0210956    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                26.90         47.28        3.3140    1   1   1
+                44.65        100.00        2.0294    2   2   0
+                52.90         42.68        1.7307    3   1   1
+                55.45          1.97        1.6570    2   2   2
+                64.99          8.75        1.4350    4   0   0
+                71.67          8.52        1.3168    3   3   1
+                73.83          2.93        1.2835    4   2   0
+                82.29         22.01        1.1717    4   2   2
+                88.51          4.62        1.1047    3   3   3
+                88.51          9.70        1.1047    5   1   1
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

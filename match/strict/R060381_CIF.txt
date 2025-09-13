@@ -1,0 +1,46 @@
+      Penroseite
+Diffraction data computed using the structute from the paper listed below,
+along with the cell parameters refined from single crystal data of R060381
+      Furuseth S, Kjekshus A, Andresen A F
+      Acta Chemica Scandinavica 23 (1969) 2325-2334
+      On the magnetic properties of CoSe2, NiS2, and NiSe2
+      Locality: synthetic
+
+      CELL PARAMETERS:   6.0430  6.0430  6.0430   90.000   90.000   90.000
+      SPACE GROUP: Pa3       
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Ni     0.00000   0.00000   0.00000     1.000     0.700
+            Se     0.38300   0.38300   0.38300     1.000     0.600
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  5 +/-  5 +/-  5
+            MAX. ABS. INTENSITY / VOLUME**2:      111.9020158    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                29.56         40.12        3.0215    2   0   0
+                33.15        100.00        2.7025    2   1   0
+                36.42         84.10        2.4670    2   1   1
+                42.30         19.16        2.1365    2   2   0
+                50.06         69.32        1.8220    3   1   1
+                52.45          6.04        1.7445    2   2   2
+                54.77         31.46        1.6760    3   0   2
+                57.02         30.37        1.6151    3   2   1
+                57.02         13.46        1.6151    3   1   2
+                61.37          5.85        1.5108    4   0   0
+                69.57          1.83        1.3513    4   0   2
+                69.57          1.83        1.3513    4   2   0
+                71.55         17.60        1.3187    4   2   1
+                73.51          8.53        1.2884    3   3   2
+                77.36          4.33        1.2335    4   2   2
+                83.04         18.87        1.1630    5   1   1
+                83.04          2.96        1.1630    3   3   3
+                86.79          3.03        1.1222    5   0   2
+                86.79         14.58        1.1222    4   2   3
+                88.65          7.42        1.1033    5   1   2
+                88.65          3.18        1.1033    5   2   1
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

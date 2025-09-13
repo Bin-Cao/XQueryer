@@ -1,0 +1,39 @@
+      Selenium
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R060137
+      Wyckoff R W G
+      Crystal Structures 1 (1963) 7-83
+      Second edition. Interscience Publishers, New York, New York
+
+      CELL PARAMETERS:   4.355200   4.355200   4.949500   90.00000   90.00000   120.0000
+      SPACE GROUP: P3_221
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                23.55         52.53        3.7833    1   0   0
+                29.72         88.42        3.0083    0   1   1
+                29.72         11.58        3.0083    1   0   1
+                41.35         14.74        2.1843    1   1   0
+                43.64          3.81        2.0744    0   1   2
+                43.64         29.08        2.0744    1   0   2
+                45.38         26.33        1.9991    1   1   1
+                48.11          2.39        1.8916    2   0   0
+                51.72         18.80        1.7675    0   2   1
+                51.72          4.08        1.7675    2   0   1
+                55.57          6.57        1.6537    0   0   3
+                56.10         13.42        1.6393    1   1   2
+                61.16          3.19        1.5153    0   1   3
+                61.16          3.19        1.5153    1   0   3
+                61.66         10.63        1.5042    2   0   2
+                61.66          2.31        1.5042    0   2   2
+                65.24         16.77        1.4299    2   1   0
+                68.25          1.77        1.3740    1   2   1
+                68.25          3.85        1.3740    2   1   1
+                71.55          5.14        1.3185    1   1   3
+                76.94          2.65        1.2388    1   2   2
+                76.94          1.22        1.2388    2   1   2
+                78.18          6.55        1.2222    3   0   1
+                81.67          4.02        1.1786    0   1   4
+                86.55          4.98        1.1242    0   3   2
+                86.55          4.98        1.1242    0   3   2
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,56 @@
+      Arsenolite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from single crystal data of R080095
+      Ballirano P, Maras A
+      Zeitschrift fur Kristallographie 217 (2002) 177-178
+      Refinement of the crystal structure of arsenolite, As2O3
+      Locality: starting material (realgar) from Monte Sughereto, Latium, Italy
+
+      CELL PARAMETERS:  11.0320 11.0320 11.0320   90.000   90.000   90.000
+      ALTERNATE SETTING FOR SPACE GROUP: Fd3m      
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            As     0.77221   0.77221   0.77221     1.000     1.334
+            O      0.95240   0.12500   0.12500     1.000     1.763
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/- 10 +/- 10 +/- 10
+            MAX. ABS. INTENSITY / VOLUME**2:      82.36452909    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                13.90         75.03        6.3693    1   1   1
+                22.80          1.23        3.9004    2   2   0
+                26.80          2.27        3.3263    3   1   1
+                28.02        100.00        3.1847    2   2   2
+                32.46         28.30        2.7580    4   0   0
+                35.47         33.00        2.5309    3   3   1
+                40.04          6.26        2.2519    4   2   2
+                42.58          4.14        2.1231    3   3   3
+                42.58         11.09        2.1231    5   1   1
+                46.57         23.09        1.9502    4   4   0
+                48.84          4.36        1.8647    5   3   1
+                49.58          4.92        1.8387    4   4   2
+                55.23         17.88        1.6631    6   2   2
+                57.91          6.50        1.5923    4   4   4
+                59.87         15.31        1.5448    5   5   1
+                59.87          2.52        1.5448    7   1   1
+                63.06          1.83        1.4742    6   4   2
+                64.93          8.99        1.4362    7   3   1
+                64.93          1.38        1.4362    5   5   3
+                67.98          1.59        1.3790    8   0   0
+                69.78         10.31        1.3478    7   3   3
+                72.73          5.14        1.3001    6   6   0
+                74.48          1.47        1.2739    7   5   1
+                74.48          1.92        1.2739    5   5   5
+                75.06          2.90        1.2655    6   6   2
+                77.37          2.02        1.2334    8   4   0
+                79.08          3.49        1.2109    9   1   1
+                79.65          5.33        1.2037    8   4   2
+                81.92          1.50        1.1760    6   6   4
+                83.61          4.03        1.1565    9   3   1
+                88.10          1.10        1.1088    7   7   1
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

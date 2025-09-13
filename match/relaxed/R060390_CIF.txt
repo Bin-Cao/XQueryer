@@ -1,0 +1,41 @@
+      Luzonite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from single crystal data of R060390
+      Marumo F, Nowacki W
+      Zeitschrift fur Kristallographie 124 (1967) 1-8
+      A refinement of the crystal structure of luzonite, Cu3AsS4
+      Locality: Cerro de Pasco, Peru
+
+      CELL PARAMETERS:   5.3390  5.3390 10.6000   90.000   90.000   90.000
+      SPACE GROUP: I-42m     
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Cu     0.00000   0.50000   0.25000     1.000     1.580
+            Cu     0.00000   0.00000   0.50000     1.000     1.580
+            As     0.00000   0.00000   0.00000     0.685     0.550
+            Sb     0.00000   0.00000   0.00000     0.315     0.550
+            S      0.24420   0.24420   0.12480     1.000     1.000
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  4 +/-  4 +/-  9
+            MAX. ABS. INTENSITY / VOLUME**2:      132.3807198    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                18.61          2.06        4.7683    1   0   1
+                29.04        100.00        3.0749    1   1   2
+                33.57          8.44        2.6695    2   0   0
+                33.83          4.12        2.6500    0   0   4
+                48.21         17.95        1.8876    2   2   0
+                48.40         35.48        1.8807    2   0   4
+                57.27         22.68        1.6087    3   1   2
+                57.60         11.12        1.6001    1   1   6
+                60.19          2.61        1.5375    2   2   4
+                70.56          4.55        1.3348    4   0   0
+                71.16          2.22        1.3250    0   0   8
+                78.05          3.66        1.2244    3   3   2
+                78.34          7.24        1.2206    3   1   6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

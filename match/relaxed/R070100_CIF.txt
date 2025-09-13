@@ -1,0 +1,53 @@
+      Microlite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from single crystal data of R070100
+      Groult D, Michel C, Raveau B
+      Journal of Inorganic and Nuclear Chemistry 37 (1975) 2203-2205
+      Sur de nouveaux pyrochlores lacunaires d'ions bivalents synthetises par
+      echanges d'ions
+      _cod_database_code 1001267
+      _database_code_amcsd 0013048
+
+      CELL PARAMETERS:  10.4630 10.4630 10.4630   90.000   90.000   90.000
+      ALTERNATE SETTING FOR SPACE GROUP: Fd3m      
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Ta     0.00000   0.00000   0.00000     1.000     1.500
+            Ca     0.50000   0.50000   0.50000     0.250     1.300
+            O      0.37500   0.37500   0.37500     1.000     1.000
+            O      0.31600   0.12500   0.12500     1.000     1.000
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  9 +/-  9 +/-  9
+            MAX. ABS. INTENSITY / VOLUME**2:      235.3700991    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                14.66        100.00        6.0408    1   1   1
+                28.29         63.09        3.1547    3   1   1
+                29.58         78.57        3.0204    2   2   2
+                34.28         23.23        2.6158    4   0   0
+                37.47         12.98        2.4004    3   3   1
+                45.02          9.97        2.0136    5   1   1
+                45.02          9.17        2.0136    3   3   3
+                49.27         33.17        1.8496    4   4   0
+                51.69         17.42        1.7686    5   3   1
+                57.78          8.05        1.5956    5   3   3
+                58.52         28.80        1.5774    6   2   2
+                61.39          7.25        1.5102    4   4   4
+                63.50          6.21        1.4651    5   5   1
+                63.50          4.08        1.4651    7   1   1
+                68.94          8.79        1.3622    7   3   1
+                68.94          2.91        1.3622    5   5   3
+                72.24          4.10        1.3079    8   0   0
+                74.18          1.29        1.2783    7   3   3
+                79.30          3.78        1.2082    7   5   1
+                79.93          9.60        1.2002    6   6   2
+                82.45          8.05        1.1698    8   4   0
+                84.33          2.72        1.1485    7   5   3
+                84.33          1.66        1.1485    9   1   1
+                89.31          3.49        1.0968    9   3   1
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

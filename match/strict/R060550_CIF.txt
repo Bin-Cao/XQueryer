@@ -1,0 +1,54 @@
+      Bastnasite-Ce
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from the powder pattern of R060550
+      Ni Y, Hughes J M, Mariano A N
+      American Mineralogist 78 (1993) 415-418
+      The atomic arrangement of bastnasite-(Ce), Ce(CO3)F, and structural elements of
+      synchysite-(Ce), rontgenite-(Ce), and parisite-(Ce)
+
+      CELL PARAMETERS:   7.1128  7.1128  9.7591   90.000   90.000  120.000
+      SPACE GROUP: P-62c     
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Ce     0.33941   0.00000   0.00000     1.000     0.360
+            C      0.32200   0.29000   0.25000     1.000     0.600
+            O      0.31600   0.10900   0.25000     1.000     0.900
+            O      0.32450   0.38280   0.13540     1.000     1.000
+            F      0.00000   0.00000   0.00000     1.000     0.800
+            F      0.66667   0.33333   0.05100     1.000     0.700
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  5 +/-  5 +/-  8
+            MAX. ABS. INTENSITY / VOLUME**2:      119.4746040    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                18.18         53.24        4.8795    0   0   2
+                25.04         69.52        3.5564    1   1   0
+                31.12        100.00        2.8740    1   1   2
+                34.43          1.22        2.6045    2   0   2
+                36.84         12.65        2.4398    0   0   4
+                39.80          1.75        2.2647    2   1   1
+                40.33          2.23        2.2365    2   0   3
+                44.10         36.46        2.0533    3   0   0
+                45.06         46.48        2.0119    1   1   4
+                48.08         34.82        1.8926    3   0   2
+                51.38          9.05        1.7782    2   2   0
+                54.96         21.11        1.6707    2   2   2
+                56.58          2.76        1.6265    0   0   6
+                58.78         16.23        1.5710    3   0   4
+                62.82         12.23        1.4792    1   1   6
+                64.89         11.62        1.4370    2   2   4
+                69.99          7.08        1.3442    4   1   0
+                73.01         17.57        1.2959    4   1   2
+                74.41          8.35        1.2750    3   0   6
+                78.39          1.81        1.2199    0   0   8
+                79.93          7.00        1.2002    2   2   6
+                81.13          1.33        1.1855    3   3   0
+                81.81         11.66        1.1773    4   1   4
+                83.84          5.75        1.1539    1   1   8
+                84.01          2.28        1.1520    3   3   2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

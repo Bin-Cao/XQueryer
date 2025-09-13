@@ -1,0 +1,52 @@
+      Fluornatromicrolite
+      Diffraction data computed using the structure from the paper listed below, 
+      along with the cell parameters refined from single crystal data of R090008
+      
+      Siegrist T, Cava R J, Krajewski J J
+      Materials Research Bulletin 32 (1997) 881-887
+      Reduced alkaline earth tantalates
+      Note: isostructural with fluornatromicrolite
+
+      CELL PARAMETERS:  10.4270 10.4270 10.4270   90.000   90.000   90.000
+      ALTERNATE SETTING FOR SPACE GROUP: Fd3m      
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Ta     0.00000   0.00000   0.00000     1.000     0.958
+            Ca     0.50000   0.00000   0.00000     1.000     2.440
+            O      0.12500   0.12500   0.31730     1.000     1.500
+            F      0.62500   0.12500   0.12500     1.000     2.200
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  9 +/-  9 +/-  9
+            MAX. ABS. INTENSITY / VOLUME**2:      258.9397671    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                14.71         59.54        6.0200    1   1   1
+                28.39         42.40        3.1439    3   1   1
+                29.68        100.00        3.0100    2   2   2
+                34.40         31.90        2.6068    4   0   0
+                37.60          7.53        2.3921    3   3   1
+                45.19          6.91        2.0067    5   1   1
+                45.19          6.89        2.0067    3   3   3
+                49.45         41.20        1.8433    4   4   0
+                51.88         12.50        1.7625    5   3   1
+                58.00          6.26        1.5901    5   3   3
+                58.74         36.97        1.5719    6   2   2
+                61.63          9.36        1.5050    4   4   4
+                63.74          3.13        1.4601    7   1   1
+                63.74          4.88        1.4601    5   5   1
+                69.21          7.33        1.3575    7   3   1
+                69.21          2.41        1.3575    5   5   3
+                72.52          5.19        1.3034    8   0   0
+                74.48          1.10        1.2739    7   3   3
+                79.63          3.40        1.2040    7   5   1
+                80.26         12.76        1.1961    6   6   2
+                82.80         10.87        1.1658    8   4   0
+                84.69          2.49        1.1445    7   5   3
+                84.69          1.51        1.1445    9   1   1
+                89.71          3.18        1.0930    9   3   1
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

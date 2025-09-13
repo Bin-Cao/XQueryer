@@ -1,0 +1,55 @@
+      Covellite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from the powder pattern of R060306
+      Evans H T, Konnert J A
+      American Mineralogist 61 (1976) 996-1000
+      Crystal structure refinement of covellite
+
+      CELL PARAMETERS:   3.7937  3.7937 16.3570   90.000   90.000  120.000
+      SPACE GROUP: P6_3/mmc  
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Cu     0.66667   0.33333   0.25000     1.000    15.601
+            Cu     0.33333   0.66667   0.10733     1.000     5.225
+            S      0.33333   0.66667   0.25000     1.000     4.301
+            S      0.00000   0.00000   0.06337     1.000     2.798
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  3 +/-  3 +/- 15
+            MAX. ABS. INTENSITY / VOLUME**2:      36.06776469    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                10.82          8.22        8.1785    0   0   2
+                21.73          3.49        4.0893    0   0   4
+                27.14          9.64        3.2854    1   0   0
+                27.69         36.03        3.2211    1   0   1
+                29.30         55.04        3.0486    1   0   2
+                31.80        100.00        2.8140    1   0   3
+                32.85         49.66        2.7262    0   0   6
+                35.04          2.08        2.5612    1   0   4
+                38.85          4.13        2.3182    1   0   5
+                43.12          1.42        2.0980    1   0   6
+                44.30          2.36        2.0446    0   0   8
+                47.76         20.35        1.9042    1   0   7
+                47.96         54.81        1.8968    1   1   0
+                52.73         20.73        1.7359    1   0   8
+                53.23          3.49        1.7207    1   1   4
+                56.28          4.35        1.6345    2   0   1
+                57.20          2.96        1.6106    2   0   2
+                58.70          5.10        1.5729    2   0   3
+                59.36         20.36        1.5570    1   1   6
+                63.54          2.79        1.4643    1   0  10
+                69.37          1.74        1.3547    1   0  11
+                70.01          3.73        1.3439    2   0   7
+                74.03          3.85        1.2806    2   0   8
+                77.01          2.13        1.2382    2   1   1
+                77.80          1.35        1.2277    2   1   2
+                79.09          1.38        1.2108    2   1   3
+                88.90          1.59        1.1008    1   0  14
+                89.34          2.12        1.0966    2   1   7
+                89.49          2.16        1.0951    3   0   0
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

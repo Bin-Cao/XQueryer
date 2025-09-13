@@ -1,0 +1,27 @@
+      Sal ammoniac
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R060521
+      Sirdeshmukh D B, Deshpande V T
+      Acta Crystallographica A26 (1970) 295-295
+      X-ray measurement of the thermal expansion of ammonium chloride
+      Locality: synthetic
+      Sample: T = 31.5 C
+
+      CELL PARAMETERS:   3.878189   3.878189   3.878189   90.00000   90.00000   90.00000
+      SPACE GROUP: Pm-3m
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                22.98         25.93        3.8782    1   0   0
+                32.69        100.00        2.7423    1   1   0
+                40.31          6.52        2.2391    1   1   1
+                46.88         14.09        1.9391    2   0   0
+                52.80          8.00        1.7344    2   1   0
+                58.29         24.65        1.5833    2   1   1
+                68.43          6.76        1.3711    2   2   0
+                73.22          2.75        1.2927    2   2   1
+                77.89          8.65        1.2264    3   1   0
+                82.48          1.96        1.1693    3   1   1
+                87.02          2.09        1.1195    2   2   2
+                87.02          2.09        1.1195    2   2   2
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

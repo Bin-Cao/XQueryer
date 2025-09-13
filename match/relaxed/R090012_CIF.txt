@@ -1,0 +1,41 @@
+      Brunogeierite
+      Diffraction data computed using the structure from the paper listed below, 
+      along with the cell parameters refined from single crystal data of R090012
+      Welch M D, Cooper M A, Hawthorne F C
+      Mineralogical Magazine 65 (2001) 441-444
+      The crystal structure of brunogeierite, Fe2GeO4 spinel
+      Locality: Tsumeb, Namibia
+
+      CELL PARAMETERS:   8.4140  8.4140  8.4140   90.000   90.000   90.000
+      ALTERNATE SETTING FOR SPACE GROUP: Fd3m      
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Ge     0.12500   0.12500   0.12500     1.000     0.363
+            Fe     0.50000   0.50000   0.50000     1.000     0.482
+            O      0.24660   0.24660   0.24660     1.000     0.490
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  7 +/-  7 +/-  7
+            MAX. ABS. INTENSITY / VOLUME**2:      117.6435965    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                30.04         34.94        2.9748    2   2   0
+                35.38        100.00        2.5369    3   1   1
+                37.01          6.30        2.4289    2   2   2
+                43.00         11.71        2.1035    4   0   0
+                53.34         13.09        1.7175    4   2   2
+                56.86         20.93        1.6193    5   1   1
+                56.86          8.25        1.6193    3   3   3
+                62.44         39.16        1.4874    4   4   0
+                70.83          5.22        1.3304    6   2   0
+                73.86          9.42        1.2831    5   3   3
+                74.86          2.91        1.2685    6   2   2
+                78.81          1.32        1.2145    4   4   4
+                86.57          5.92        1.1244    6   4   2
+                89.46         11.61        1.0954    7   3   1
+                89.46          5.05        1.0954    5   5   3
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

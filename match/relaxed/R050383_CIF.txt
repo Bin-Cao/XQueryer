@@ -1,0 +1,45 @@
+      Arsenolite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R050383
+      Bozorth R M
+      Journal of the American Chemical Society 45 (1923) 1621-1627
+      The crystal structures of the cubic forms of arsenious and antimonous oxides
+      Note: synthetic sample
+
+      CELL PARAMETERS:   11.07497   11.07497   11.07497   90.00000   90.00000   90.00000
+      SPACE GROUP: Fd-3m
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                13.86         41.08        6.3941    1   1   1
+                26.70          1.17        3.3392    3   1   1
+                27.90        100.00        3.1971    2   2   2
+                32.33         21.95        2.7687    4   0   0
+                35.32         24.73        2.5408    3   3   1
+                39.86          4.22        2.2607    4   2   2
+                42.39          9.55        2.1314    5   1   1
+                42.39          4.76        2.1314    3   3   3
+                46.36         39.38        1.9578    4   4   0
+                48.62          5.31        1.8720    5   3   1
+                49.35          3.52        1.8458    4   4   2
+                52.21          1.58        1.7511    6   2   0
+                54.97         23.05        1.6696    6   2   2
+                57.64          4.06        1.5985    4   4   4
+                59.59         16.51        1.5508    5   5   1
+                59.59          4.23        1.5508    7   1   1
+                64.61          1.05        1.4418    5   5   3
+                64.61          6.62        1.4418    7   3   1
+                67.64          2.68        1.3844    8   0   0
+                69.43         12.16        1.3530    7   3   3
+                72.36          2.84        1.3052    6   6   0
+                74.10          1.75        1.2788    5   5   5
+                74.67          4.80        1.2704    6   6   2
+                76.96          2.52        1.2382    8   4   0
+                78.66          4.99        1.2156    9   1   1
+                79.23          4.70        1.2084    8   4   2
+                81.47          2.04        1.1806    6   6   4
+                83.15          2.83        1.1610    9   3   1
+                85.94          2.50        1.1303    8   4   4
+                87.60          2.94        1.1131    7   7   1
+                87.60          2.94        1.1131    7   7   1
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

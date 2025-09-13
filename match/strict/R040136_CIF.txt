@@ -1,0 +1,33 @@
+      Sphalerite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from the powder pattern of R040136
+      Skinner B J
+      American Mineralogist 46 (1961) 1399-1411
+      Unit-cell edges of natural and synthetic sphalerites
+
+      CELL PARAMETERS:   5.4115  5.4115  5.4115   90.000   90.000   90.000
+      SPACE GROUP: F-43m     
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Zn     0.00000   0.00000   0.00000     1.000     0.700
+            S      0.25000   0.25000   0.25000     1.000     1.000
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  4 +/-  4 +/-  4
+            MAX. ABS. INTENSITY / VOLUME**2:      119.6943640    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                28.57        100.00        3.1243    1   1   1
+                33.11         11.98        2.7057    2   0   0
+                47.52         56.75        1.9133    2   2   0
+                56.39         36.91        1.6316    3   1   1
+                59.14          2.94        1.5622    2   2   2
+                69.48          7.63        1.3529    4   0   0
+                76.77         12.62        1.2415    3   3   1
+                79.15          3.11        1.2100    4   2   0
+                88.52         14.30        1.1046    4   2   2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

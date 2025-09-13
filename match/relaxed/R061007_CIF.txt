@@ -1,0 +1,59 @@
+      Nickelskutterudite
+      Diffraction data computed using the structure from the paper listed below, 
+      along with the cell parameters refined from single crystal data of R061007
+      Mandel N, Donohue J
+      Acta Crystallographica B27 (1971) 2288-2289
+      The refinement of the crystal structure of skutterudite, CoAs3
+      Locality: Bou-Azzer, Morocco
+      _database_code_amcsd 0009417
+
+      CELL PARAMETERS:   8.2350  8.2350  8.2350   90.000   90.000   90.000
+      SPACE GROUP: Im3       
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Co     0.25000   0.25000   0.25000     0.360     1.221
+            Fe     0.25000   0.25000   0.25000     0.130     1.221
+            Ni     0.25000   0.25000   0.25000     0.480     1.221
+            As     0.00000   0.34310   0.15030     1.000     0.850
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  7 +/-  7 +/-  7
+            MAX. ABS. INTENSITY / VOLUME**2:      171.7135847    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                15.22         12.74        5.8230    1   1   0
+                21.58          8.18        4.1175    2   0   0
+                26.51         11.28        3.3619    2   1   1
+                30.71          1.13        2.9115    2   2   0
+                34.44         83.59        2.6041    3   0   1
+                34.44         16.41        2.6041    3   1   0
+                37.85          1.65        2.3772    2   2   2
+                41.01         28.61        2.2009    3   1   2
+                46.80          1.25        1.9410    4   1   1
+                46.80          6.21        1.9410    3   3   0
+                49.50         13.35        1.8414    4   0   2
+                49.50         19.07        1.8414    4   2   0
+                52.09          8.15        1.7557    3   3   2
+                54.60         18.01        1.6810    4   2   2
+                57.02          3.59        1.6150    4   1   3
+                57.02          1.78        1.6150    5   1   0
+                57.02         22.50        1.6150    4   3   1
+                66.17          3.22        1.4123    5   0   3
+                66.17          3.44        1.4123    5   3   0
+                66.17          5.44        1.4123    4   3   3
+                68.35          4.45        1.3725    6   0   0
+                72.61          1.77        1.3021    6   0   2
+                72.61          1.23        1.3021    6   2   0
+                76.77          4.09        1.2415    6   2   2
+                78.83          9.46        1.2142    6   1   3
+                78.83          1.57        1.2142    6   3   1
+                80.87          4.64        1.1886    4   4   4
+                82.90          1.65        1.1646    5   4   3
+                84.92          1.34        1.1420    6   0   4
+                84.92          1.85        1.1420    6   4   0
+                86.93          2.12        1.1206    6   3   3
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

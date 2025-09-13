@@ -1,0 +1,29 @@
+      Zincite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R050419
+      Kihara K, Donnay G
+      The Canadian Mineralogist 23 (1985) 647-654
+      Anharmonic thermal vibrations in ZnO
+      Model: 2-c, at T = 293 K
+
+      CELL PARAMETERS:   3.254908   3.254908   5.211905   90.00000   90.00000   120.0000
+      SPACE GROUP: P6_3mc
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                31.76         52.55        2.8188    1   0   0
+                34.42         39.77        2.6060    0   0   2
+                36.24        100.00        2.4794    1   0   1
+                47.51         21.60        1.9135    1   0   2
+                56.54         31.17        1.6275    1   1   0
+                62.81         28.09        1.4790    1   0   3
+                66.30          4.24        1.4094    2   0   0
+                67.88         23.70        1.3804    1   1   2
+                69.00         12.05        1.3605    2   0   1
+                72.52          1.99        1.3030    0   0   4
+                76.87          3.74        1.2397    2   0   2
+                81.31          2.02        1.1827    1   0   4
+                89.50          7.92        1.0945    2   0   3
+                89.50          7.92        1.0945    2   0   3
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.
+

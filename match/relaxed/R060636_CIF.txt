@@ -1,0 +1,23 @@
+      Sphalerite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R060636
+      Skinner B J
+      American Mineralogist 46 (1961) 1399-1411
+      Unit-cell edges of natural and synthetic sphalerites
+
+      CELL PARAMETERS:   5.409300   5.409300   5.409300   90.00000   90.00000   90.00000
+      SPACE GROUP: F-43m
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                28.59        100.00        3.1237    1   1   1
+                33.13         11.98        2.7052    2   0   0
+                47.53         56.74        1.9128    2   2   0
+                56.39         36.89        1.6313    3   1   1
+                59.14          2.94        1.5618    2   2   2
+                69.47          7.63        1.3526    4   0   0
+                76.76         12.61        1.2412    3   3   1
+                79.13          3.10        1.2098    4   2   0
+                88.49         14.29        1.1044    4   2   2
+                88.49         14.29        1.1044    4   2   2
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

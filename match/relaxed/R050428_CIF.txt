@@ -1,0 +1,31 @@
+      Renierite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R050428
+      Bernstein L R, Reichel D G, Merlino S
+      American Mineralogist 74 (1989) 1177-1181
+      Renierite crystal structure refined from Rietveld analysis of powder
+      neutron-diffrection data
+
+      CELL PARAMETERS:   10.61451   10.61451   10.54811   90.00000   90.00000   90.00000
+      SPACE GROUP: P-42c
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                11.82          1.35        7.5056    1   1   0
+                20.54          1.41        4.3288    2   1   1
+                29.22        100.00        3.0577    2   2   2
+                31.57          1.03        2.8356    3   2   1
+                33.79          7.69        2.6536    4   0   0
+                34.01          3.66        2.6370    0   0   4
+                48.51         20.34        1.8764    4   4   0
+                48.68         40.84        1.8705    4   0   4
+                57.63         20.51        1.5993    6   2   2
+                57.91         10.33        1.5920    2   2   6
+                60.55          2.27        1.5289    4   4   4
+                71.02          4.70        1.3268    8   0   0
+                71.53          2.45        1.3185    0   0   8
+                78.56          3.02        1.2172    6   6   2
+                78.81          6.13        1.2139    6   2   6
+                78.81          6.13        1.2139    6   2   6
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.
+

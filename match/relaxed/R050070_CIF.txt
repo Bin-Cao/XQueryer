@@ -1,0 +1,41 @@
+      Pyrite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from the powder pattern of R050070
+      Bayliss P
+      American Mineralogist 62 (1977) 1168-1172
+      Crystal structure refinement of a weakly anisotropic pyrite
+      cubic model
+
+      CELL PARAMETERS:   5.4175  5.4175  5.4175   90.000   90.000   90.000
+      SPACE GROUP: Pa3       
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Fe     0.00000   0.00000   0.00000     1.000     0.280
+            S      0.38510   0.38510   0.38510     1.000     0.330
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  4 +/-  4 +/-  4
+            MAX. ABS. INTENSITY / VOLUME**2:      47.20553331    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                28.54         39.17        3.1278    1   1   1
+                33.07         95.51        2.7088    2   0   0
+                37.11         54.86        2.4228    2   1   0
+                40.80         45.47        2.2117    2   1   1
+                47.47         51.01        1.9154    2   2   0
+                56.32        100.00        1.6334    3   1   1
+                59.07         15.84        1.5639    2   2   2
+                61.74         16.11        1.5025    3   0   2
+                64.34         15.90        1.4479    3   2   1
+                64.34          5.65        1.4479    3   1   2
+                76.67         10.49        1.2429    3   3   1
+                79.05          6.56        1.2114    4   2   0
+                79.05          6.56        1.2114    4   0   2
+                81.40          8.54        1.1822    4   2   1
+                83.74          4.21        1.1550    3   3   2
+                88.39         12.51        1.1058    4   2   2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

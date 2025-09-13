@@ -1,0 +1,41 @@
+      Zircon
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R050286
+      Robinson K, Gibbs G V, Ribbe P H
+      American Mineralogist 56 (1971) 782-790
+      The structure of zircon: A comparison with garnet
+
+      CELL PARAMETERS:   6.607000   6.607000   5.982000   90.00000   90.00000   90.00000
+      ALTERNATE SETTING FOR SPACE GROUP: I4_1/amd
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                20.05         42.36        4.4452    1   0   1
+                27.03        100.00        3.3066    2   0   0
+                33.85          7.70        2.6531    2   1   1
+                35.60         58.11        2.5262    1   1   2
+                38.56         12.99        2.3381    2   2   0
+                40.64          6.02        2.2226    2   0   2
+                43.80         20.40        2.0693    3   0   1
+                47.51         13.61        1.9155    1   0   3
+                52.19         14.40        1.7541    3   2   1
+                53.44         54.41        1.7159    3   1   2
+                55.48          3.67        1.6575    2   1   3
+                55.63         14.96        1.6533    4   0   0
+                59.70          2.83        1.5496    4   1   1
+                61.84          3.09        1.5010    0   0   4
+                62.73          2.95        1.4817    3   0   3
+                62.87          9.94        1.4788    4   2   0
+                67.76         17.08        1.3834    3   3   2
+                68.70         10.35        1.3667    2   0   4
+                73.31          5.22        1.2917    4   3   1
+                75.24          8.95        1.2631    2   2   4
+                76.06          2.60        1.2516    4   1   3
+                80.72          9.92        1.1906    5   1   2
+                82.52          3.01        1.1691    4   4   0
+                87.72          2.65        1.1126    2   1   5
+                87.85          5.25        1.1113    4   0   4
+                88.64          2.01        1.1034    5   0   3
+                88.76          4.66        1.1022    6   0   0
+                88.76          4.66        1.1022    6   0   0
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

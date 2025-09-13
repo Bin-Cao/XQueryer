@@ -1,0 +1,67 @@
+      Hydronium jarosite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R060402
+      Majzlan J, Stevens R, Boerio-Goates J, Woodfield B F, Navrotsky A,
+      Burns P C, Crawford M K, Amos T G
+      Physics and Chemistry of Minerals 31 (2004) 518-531
+      Thermodynamic properties, low-temperature heat-capacity anomalies,
+      and single-crystal X-ray refinement of hydronium jarosite, (H3O)Fe3(SO4)2(OH)6
+      Note: Single-crystal X-ray diffraction refinement
+
+      CELL PARAMETERS:   7.355900   7.355900   17.01860   90.00000   90.00000   120.0000
+      SPACE GROUP: R-3m
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                14.96         13.64        5.9200    1   0   1
+                15.99         37.35        5.5419    0   0   3
+                17.60        100.00        5.0388    0   1   2
+                24.32          5.21        3.6577    1   1   0
+                25.62          7.94        3.4752    1   0   4
+                28.67         88.71        3.1116    0   2   1
+                29.24         87.44        3.0527    1   1   3
+                30.34          3.62        2.9442    0   1   5
+                30.18          7.27        2.9600    2   0   2
+                32.29         15.40        2.7709    0   0   6
+                35.61         18.41        2.5194    0   2   4
+                39.26          3.01        2.2935    2   0   5
+                40.54         27.46        2.2239    1   0   7
+                40.83          1.34        2.2087    1   1   6
+                45.96         27.73        1.9733    0   3   3
+                47.84         11.89        1.9003    0   2   7
+                49.30          6.81        1.8473    0   0   9
+                49.83         30.53        1.8288    2   2   0
+                52.64          4.29        1.7376    2   0   8
+                52.67          7.84        1.7367    2   2   3
+                53.25          5.90        1.7191    3   1   2
+                54.37          1.40        1.6863    2   1   7
+                56.85          5.32        1.6184    1   3   4
+                58.79          6.62        1.5695    1   2   8
+                58.50          5.24        1.5767    4   0   1
+                59.46          2.91        1.5535    3   1   5
+                59.36          5.19        1.5558    0   4   2
+                60.63         14.23        1.5264    2   2   6
+                63.11         18.37        1.4721    0   2  10
+                62.74          5.22        1.4800    4   0   4
+                64.29          1.12        1.4479    3   2   1
+                65.20          3.85        1.4299    0   4   5
+                65.11          4.11        1.4317    2   3   2
+                66.10          2.20        1.4126    1   3   7
+                67.29          2.13        1.3904    0   3   9
+                68.77          4.14        1.3641    2   0  11
+                68.32          1.48        1.3719    3   2   4
+                70.10          2.78        1.3414    1   4   3
+                70.10          3.97        1.3414    4   1   3
+                71.55          3.05        1.3177    4   0   7
+                72.70          4.39        1.2997    2   2   9
+                75.83          1.15        1.2536    1   0  13
+                76.84          4.87        1.2397    3   2   7
+                80.35          1.31        1.1942    2   4   1
+                84.41          2.78        1.1468    4   0  10
+                84.07          1.06        1.1505    2   4   4
+                86.14          2.98        1.1281    2   1  13
+                86.29          1.76        1.1265    4   2   5
+                88.46          1.44        1.1043    2   2  12
+                89.58          2.35        1.0934    0   4  11
+                89.58          2.35        1.0934    0   4  11
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

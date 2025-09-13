@@ -1,0 +1,49 @@
+      Jacobsite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from the powder pattern of R060869
+      Lucchesi S, Russo U, Della Giusta A
+      European Journal of Mineralogy 9 (1997) 31-42
+      Crystal chemistry and cation distribution in some
+      Mn-rich natural and synthetic spinels
+      Sample: JBS1
+
+      CELL PARAMETERS:   8.4290  8.4290  8.4290   90.000   90.000   90.000
+      ALTERNATE SETTING FOR SPACE GROUP: Fd3m      
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Mg     0.12500   0.12500   0.12500     0.055     0.450
+            Mn     0.12500   0.12500   0.12500     0.239     0.450
+            Fe     0.12500   0.12500   0.12500     0.689     0.450
+            Zn     0.12500   0.12500   0.12500     0.017     0.450
+            Mg     0.50000   0.50000   0.50000     0.341     0.458
+            Al     0.50000   0.50000   0.50000     0.024     0.458
+            Fe     0.50000   0.50000   0.50000     0.611     0.458
+            Mn     0.50000   0.50000   0.50000     0.023     0.458
+            O      0.25764   0.25764   0.25764     1.000     0.703
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    0.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  7 +/-  7 +/-  7
+            MAX. ABS. INTENSITY / VOLUME**2:      66.56918873    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                18.23          3.73        4.8665    1   1   1
+                29.98         35.90        2.9801    2   2   0
+                35.32        100.00        2.5414    3   1   1
+                36.94          3.47        2.4332    2   2   2
+                42.92         18.30        2.1072    4   0   0
+                53.24         11.87        1.7206    4   2   2
+                56.75         27.94        1.6222    5   1   1
+                56.75          5.69        1.6222    3   3   3
+                62.31         44.37        1.4901    4   4   0
+                70.68          4.26        1.3327    6   2   0
+                73.70          8.94        1.2854    5   3   3
+                74.70          2.53        1.2707    6   2   2
+                78.64          2.25        1.2166    4   4   4
+                86.38          4.95        1.1264    6   4   2
+                89.26          6.02        1.0974    5   5   3
+                89.26          8.10        1.0974    7   3   1
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

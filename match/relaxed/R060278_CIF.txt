@@ -1,0 +1,38 @@
+      Grossular
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R060278
+      Resende J A L C, Fernandes N G
+      Acta Crystallographica E61 (2005) i265-i267
+      X-ray powder refinement of a natural garnet from Diamantina, Minas Gerais, Brazil
+      Locality: Diamantina, Minas Gerais, Brazil
+
+      CELL PARAMETERS:   11.92200   11.92200   11.92200   90.00000   90.00000   90.00000
+      SPACE GROUP: Ia3d
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                21.11          1.61        4.2232    2   2   0
+                29.99         46.54        2.9863    4   0   0
+                33.62        100.00        2.6710    4   2   0
+                35.30          8.00        2.5467    3   3   2
+                36.92         34.96        2.4383    4   2   2
+                38.49         14.74        2.3426    4   3   1
+                41.46         13.51        2.1809    5   2   1
+                46.94         10.70        1.9378    5   3   2
+                46.94         11.42        1.9378    6   1   1
+                48.23          4.24        1.8887    6   2   0
+                53.17         10.53        1.7241    4   4   4
+                55.51         26.07        1.6565    6   4   0
+                57.80         53.72        1.5962    6   4   2
+                62.21          9.92        1.4931    8   0   0
+                63.28          1.53        1.4703    7   4   1
+                70.54         11.67        1.3355    8   4   0
+                72.55         15.36        1.3033    8   4   2
+                74.54          8.05        1.2734    6   6   4
+                79.43          1.65        1.2066    9   4   1
+                79.43          1.61        1.2066    8   5   3
+                88.07          8.16        1.1091    8   6   4
+                88.07          4.92        1.1091   10   4   0
+                88.07          4.92        1.1091   10   4   0
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.
+

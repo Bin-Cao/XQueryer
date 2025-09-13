@@ -1,0 +1,53 @@
+      Tsumoite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from single crystal data of R080089
+      Shimazaki H, Ozawa T
+      American Mineralogist 63 (1978) 1162-1165
+      Tsumoite, BiTe, a new mineral from Tsumo mine, Japan
+      _database_code_amcsd 0000691
+
+      CELL PARAMETERS:   4.2360  4.2360 23.1000   90.000   90.000  120.000
+      SPACE GROUP: P-3m1     
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Te     0.33333   0.66667   0.05300     1.000     1.000
+            Te     0.66667   0.33333   0.21110     1.000     1.700
+            Te     0.00000   0.00000   0.36310     1.000     1.300
+            Bi     0.00000   0.00000   0.12520     1.000     0.700
+            Bi     0.33333   0.66667   0.29220     1.000     0.700
+            Bi     0.66667   0.33333   0.45930     1.000     2.300
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  3 +/-  3 +/- 21
+            MAX. ABS. INTENSITY / VOLUME**2:      623.7781709    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                19.21          5.90        4.6200    0   0   5
+                24.57          4.97        3.6231    0   1   1
+                26.92          1.65        3.3118    0   1   3
+                28.83         99.96        3.0965    1   0   4
+                39.73         37.89        2.2690    0   1   8
+                42.69         33.23        2.1180    1   1   0
+                43.01          3.91        2.1030    1   0   9
+                47.21          3.61        1.9253    1   1   5
+                47.22          6.65        1.9250    0   0  12
+                52.33         16.94        1.7482    0   2   4
+                57.64          2.35        1.5992    0   1  13
+                59.73         10.16        1.5483    2   0   8
+                62.21          1.27        1.4923    0   2   9
+                65.53         13.28        1.4245    1   1  12
+                69.75         12.69        1.3482    2   1   4
+                70.04          4.57        1.3435    1   0  16
+                74.32          1.05        1.2763    2   0  13
+                76.16          8.87        1.2499    1   2   8
+                78.17          4.44        1.2228    3   0   0
+                78.39          1.25        1.2199    2   1   9
+                84.76          1.89        1.1437    1   1  17
+                85.61          2.43        1.1345    0   2  16
+                88.82          1.85        1.1017    0   1  20
+                89.70          1.27        1.0931    1   2  13
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

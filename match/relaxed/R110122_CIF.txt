@@ -1,0 +1,54 @@
+      Murdochite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from single crystal data of R110122
+      Dubler E, Vedani A, Oswald H R
+      Acta Crystallographica C39 (1983) 1143-1146
+      New structure determination of murdochite, Cu6PbO8
+      Locality: Hansonburg mining district, New Mexico, USA
+      _database_code_amcsd 0009981
+
+      CELL PARAMETERS:   9.2280  9.2280  9.2280   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Pb     0.00000   0.00000   0.00000     1.000     0.513
+            Cu     0.25000   0.25000   0.00000     1.000     0.616
+            O      0.14290   0.14290   0.14290     0.940     0.426
+            Cl     0.50000   0.50000   0.50000     0.640     3.790
+            Br     0.50000   0.50000   0.50000     0.360     1.579
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  8 +/-  8 +/-  8
+            MAX. ABS. INTENSITY / VOLUME**2:      223.8299135    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                16.64         41.88        5.3278    1   1   1
+                19.24          4.86        4.6140    2   0   0
+                27.34          8.62        3.2626    2   2   0
+                32.17          9.11        2.7823    3   1   1
+                33.64        100.00        2.6639    2   2   2
+                39.04         34.21        2.3070    4   0   0
+                42.71         16.52        2.1170    3   3   1
+                43.88          6.05        2.0634    4   2   0
+                48.32          2.89        1.8837    4   2   2
+                51.46          4.68        1.7759    5   1   1
+                56.40         38.63        1.6313    4   4   0
+                59.24          8.08        1.5598    5   3   1
+                60.17          1.18        1.5380    4   4   2
+                63.79          1.09        1.4591    6   2   0
+                66.43          2.03        1.4073    5   3   3
+                67.30         33.25        1.3912    6   2   2
+                70.73          7.40        1.3319    4   4   4
+                73.25          1.96        1.2922    5   5   1
+                73.25          2.75        1.2922    7   1   1
+                77.39          1.92        1.2331    6   4   2
+                79.84          1.46        1.2014    5   5   3
+                79.84          1.60        1.2014    7   3   1
+                83.88          4.78        1.1535    8   0   0
+                86.28          2.44        1.1274    7   3   3
+                87.09          1.10        1.1191    6   4   4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

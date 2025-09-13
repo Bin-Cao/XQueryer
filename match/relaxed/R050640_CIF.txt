@@ -1,0 +1,65 @@
+      Phosgenite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R050640
+      Giuseppetti G, Tadini C
+      Tschermaks Mineralogische und Petrographische Mitteilungen 21 (1974) 101-109
+      Reexamination of the crystal structure of phosgenite, Pb2Cl2(CO3)
+      Locality: Monteponi Mine, Iglesias, Iglesiente district, Cagliari Province, Sardinia, Italy
+
+      CELL PARAMETERS:   8.159969   8.159969   8.875746   90.00000   90.00000   90.00000
+      SPACE GROUP: P4/mbm
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                15.43         13.44        5.7700    1   1   0
+                20.08         50.84        4.4379    0   0   2
+                21.85         23.19        4.0800    2   0   0
+                24.46         56.42        3.6492    2   1   0
+                25.38          1.94        3.5177    1   1   2
+                29.81          9.19        3.0036    2   0   2
+                31.06          5.80        2.8850    2   2   0
+                31.80        100.00        2.8187    2   1   2
+                34.82         28.71        2.5804    3   1   0
+                37.22          3.73        2.4188    2   2   2
+                39.25          4.73        2.2982    2   1   3
+                40.49         20.50        2.2307    3   1   2
+                40.71         11.74        2.2189    0   0   4
+                44.45          4.58        2.0400    4   0   0
+                45.90         13.11        1.9791    4   1   0
+                46.64          5.35        1.9493    2   0   4
+                47.30         13.44        1.9233    3   3   0
+                48.03         23.48        1.8960    2   1   4
+                49.20          3.07        1.8535    4   0   2
+                50.03          2.25        1.8246    4   2   0
+                50.53         21.87        1.8075    4   1   2
+                51.85         11.59        1.7647    3   3   2
+                52.03          2.12        1.7589    2   2   4
+                54.40          3.08        1.6876    4   2   2
+                54.58         10.16        1.6824    3   1   4
+                61.19          3.95        1.5153    5   2   0
+                61.80          1.70        1.5018    4   0   4
+                62.84          1.77        1.4793    0   0   6
+                62.95          8.86        1.4770    4   1   4
+                64.10          7.95        1.4534    3   3   4
+                65.07         11.56        1.4340    5   2   2
+                66.35          1.57        1.4093    4   2   4
+                66.88          2.22        1.3994    5   3   0
+                68.46          7.98        1.3709    2   1   6
+                69.08          4.34        1.3600    6   0   0
+                70.59          3.31        1.3346    5   3   2
+                72.74          5.47        1.3003    6   0   2
+                73.40          1.06        1.2902    6   2   0
+                73.85          2.49        1.2834    3   1   6
+                74.46          2.44        1.2744    5   4   0
+                76.07          4.73        1.2513    5   2   4
+                76.97          1.44        1.2389    6   2   2
+                78.02          5.72        1.2249    5   4   2
+                81.18          4.04        1.1849    4   1   6
+                81.28          2.66        1.1837    5   3   4
+                82.21          2.27        1.1726    3   3   6
+                83.34          4.40        1.1595    6   0   4
+                86.91          1.78        1.1209    7   2   0
+                87.44          1.19        1.1154    6   2   4
+                88.46          2.80        1.1051    5   4   4
+                88.46          2.80        1.1051    5   4   4
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

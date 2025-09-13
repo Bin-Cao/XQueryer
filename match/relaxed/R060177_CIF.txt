@@ -1,0 +1,42 @@
+      Spessartine
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R060177
+      Novak G A, Gibbs G V
+      American Mineralogist 56 (1971) 791-825
+      The crystal chemistry of the silicate garnets
+      sample Sp
+
+      CELL PARAMETERS:   11.61200   11.61200   11.61200   90.00000   90.00000   90.00000
+      SPACE GROUP: Ia-3d
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                18.70          5.90        4.7563    2   1   1
+                21.62          2.53        4.1191    2   2   0
+                28.71          4.42        3.1137    3   2   1
+                30.73         32.28        2.9126    4   0   0
+                34.46        100.00        2.6051    4   2   0
+                36.19          2.42        2.4839    3   3   2
+                37.86         19.38        2.3781    4   2   2
+                39.46         10.13        2.2848    4   3   1
+                42.52         17.81        2.1271    5   2   1
+                43.99          3.56        2.0595    4   4   0
+                48.16         11.92        1.8900    6   1   1
+                48.16         12.30        1.8900    5   3   2
+                54.59         14.84        1.6816    4   4   4
+                57.01         27.44        1.6156    6   4   0
+                58.20          2.11        1.5854    5   5   2
+                59.37         34.47        1.5569    6   4   2
+                62.81          1.47        1.4796    6   5   1
+                63.93          8.84        1.4563    8   0   0
+                65.04          1.15        1.4341    7   4   1
+                72.57          7.36        1.3026    8   4   0
+                74.66         14.44        1.2712    8   4   2
+                76.73          5.35        1.2419    6   6   4
+                79.80          1.04        1.2017    9   3   2
+                81.83          1.26        1.1769    9   4   1
+                81.83          1.50        1.1769    8   5   3
+                84.85          1.49        1.1424   10   2   0
+                87.86          1.17        1.1108    7   6   5
+                87.86          1.17        1.1108    7   6   5
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

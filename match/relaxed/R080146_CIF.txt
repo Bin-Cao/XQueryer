@@ -1,0 +1,50 @@
+      Microlite
+      Diffraction data computed using the structure from the paper listed below, 
+      along with the cell parameters refined from single crystal data of R080146  
+      Gasperin M
+      Comptes Rendus Hebdomadaires des Seances de l'Academie des Sciences 240 (1955) 2340-2342
+      Synthese et identification de deux oxydes doubles de tantale et d'etain
+      Sample: synthetic
+
+      CELL PARAMETERS:  10.4090 10.4090 10.4090   90.000   90.000   90.000
+      SPACE GROUP: Fd-3m     
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Ca     0.62500   0.62500   0.62500     1.000     1.300
+            Ta     0.12500   0.12500   0.12500     1.000     1.500
+            O      0.50000   0.50000   0.50000     1.000     1.000
+            O      0.20000   0.00000   0.00000     1.000     1.000
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  9 +/-  9 +/-  9
+            MAX. ABS. INTENSITY / VOLUME**2:      257.2022146    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                14.74         58.00        6.0096    1   1   1
+                28.44         40.26        3.1384    3   1   1
+                29.73        100.00        3.0048    2   2   2
+                34.47         30.67        2.6023    4   0   0
+                37.67          7.18        2.3880    3   3   1
+                45.27          5.91        2.0032    5   1   1
+                45.27          6.12        2.0032    3   3   3
+                49.54         42.05        1.8401    4   4   0
+                51.97         11.20        1.7594    5   3   1
+                58.11          5.14        1.5874    5   3   3
+                58.85         35.41        1.5692    6   2   2
+                61.74          8.28        1.5024    4   4   4
+                63.86          4.27        1.4576    5   5   1
+                63.86          2.31        1.4576    7   1   1
+                69.35          6.31        1.3551    7   3   1
+                69.35          1.75        1.3551    5   5   3
+                72.67          4.96        1.3011    8   0   0
+                79.79          2.61        1.2019    7   5   1
+                80.43         11.65        1.1940    6   6   2
+                82.97          9.44        1.1638    8   4   0
+                84.87          1.64        1.1425    7   5   3
+                84.87          1.19        1.1425    9   1   1
+                89.90          2.13        1.0912    9   3   1
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

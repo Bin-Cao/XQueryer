@@ -1,0 +1,47 @@
+      Cinnabar
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from single crystal data of R070532
+      Ramsdell L S
+      American Mineralogist 10 (1925) 281-304
+      The crystal structures of some metallic sulfides
+
+      CELL PARAMETERS:   4.1850  4.1850  9.5830   90.000   90.000  120.000
+      SPACE GROUP: P3_221    
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Hg     0.33333   0.33333   0.00000     1.000     1.000
+            S      0.33333   0.33333   0.50000     1.000     1.000
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    0.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  3 +/-  3 +/-  8
+            MAX. ABS. INTENSITY / VOLUME**2:      411.6139289    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                26.29         76.02        3.3900    1   0   1
+                27.93         21.83        3.1943    0   0   3
+                30.94        100.00        2.8905    0   1   2
+                43.24         37.84        2.0925    1   1   0
+                45.38         32.56        1.9986    1   0   4
+                51.31         11.93        1.7806    0   2   1
+                52.26         22.51        1.7504    1   1   3
+                54.11         18.48        1.6950    2   0   2
+                54.13         10.06        1.6943    0   1   5
+                57.72          4.97        1.5972    0   0   6
+                64.47         10.28        1.4453    0   2   4
+                69.29          8.92        1.3561    2   1   1
+                71.65         14.48        1.3171    1   2   2
+                71.67          4.00        1.3168    2   0   5
+                74.02          3.60        1.2807    1   0   7
+                74.78         12.63        1.2696    1   1   6
+                79.30          5.27        1.2081    3   0   0
+                80.82          9.98        1.1892    2   1   4
+                85.35          4.29        1.1374    0   1   8
+                86.04          2.32        1.1300    0   3   3
+                86.04          2.32        1.1300    3   0   3
+                87.54          4.44        1.1145    1   2   5
+                89.78          2.09        1.0923    0   2   7
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,37 @@
+      Nitratine
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R050394
+      Paul G L, Pryor A W
+      Acta Crystallographica B28 (1972) 2700-2702
+      The study of sodium nitrate by neutron diffraction
+      Sample: T = 20 C
+      Locality: synthetic
+
+      CELL PARAMETERS:   5.071553   5.071553   16.83408   90.00000   90.00000   120.0000
+      SPACE GROUP: R-3c
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                22.83          5.55        3.8939    0   1   2
+                29.38        100.00        3.0387    1   0   4
+                31.88         12.73        2.8057    0   0   6
+                35.38          9.38        2.5358    1   1   0
+                38.95         24.30        2.3108    1   1   3
+                42.52          7.08        2.1249    2   0   2
+                46.62          3.46        1.9469    0   2   4
+                47.91         17.34        1.8977    0   1   8
+                48.35          8.23        1.8813    1   1   6
+                55.59          5.70        1.6520    2   1   1
+                56.46          4.99        1.6287    1   2   2
+                59.85          2.48        1.5443    2   1   4
+                60.94          1.25        1.5193    2   0   8
+                61.57          3.03        1.5053    1   1   9
+                62.32          3.22        1.4889    1   2   5
+                63.50          4.37        1.4640    3   0   0
+                66.62          3.01        1.4028    0   0  12
+                68.65          1.96        1.3662    2   1   7
+                72.47          1.14        1.3033    1   2   8
+                82.35          2.86        1.1701    1   3   4
+                82.35          2.86        1.1701    1   3   4
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.
+

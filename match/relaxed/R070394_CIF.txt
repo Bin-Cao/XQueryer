@@ -1,0 +1,56 @@
+      Galkhaite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R070394
+      Chen T T, Szymanski J T
+      The Canadian Mineralogist 19 (1981) 571-581
+      The structure and chemistry of galkhaite, a mercury sulfosalt containing
+      Cs and Tl
+
+      CELL PARAMETERS:   10.39058   10.39058   10.39058   90.00000   90.00000   90.00000
+      SPACE GROUP: I-43m
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                12.06         47.75        7.3472    1   1   0
+                17.08          1.98        5.1953    2   0   0
+                20.95         77.99        4.2419    2   1   1
+                24.23          1.97        3.6736    2   2   0
+                27.14          3.24        3.2858    3   1   0
+                29.78        100.00        2.9995    2   2   2
+                32.23         76.22        2.7770    3   2   1
+                34.52         36.86        2.5976    4   0   0
+                36.69          4.24        2.4491    4   1   1
+                36.69          4.91        2.4491    3   3   0
+                38.75          1.59        2.3234    4   2   0
+                40.72         12.51        2.2153    3   3   2
+                42.61          1.30        2.1210    4   2   2
+                44.44         10.81        2.0378    4   3   1
+                44.44          4.22        2.0378    5   1   0
+                47.94         20.69        1.8971    5   2   1
+                49.61         52.75        1.8368    4   4   0
+                51.24          2.07        1.7820    5   3   0
+                54.41          9.04        1.6856    6   1   1
+                54.41          8.35        1.6856    5   3   2
+                57.45          1.43        1.6033    5   4   1
+                58.93         28.23        1.5664    6   2   2
+                60.39          3.55        1.5320    6   3   1
+                61.83          7.86        1.4998    4   4   4
+                63.25          1.10        1.4694    7   1   0
+                63.25          1.14        1.4694    5   4   3
+                66.04          3.36        1.4140    6   3   3
+                66.04          1.82        1.4140    5   5   2
+                66.04          4.11        1.4140    7   2   1
+                71.45          3.75        1.3196    7   3   2
+                71.45          1.81        1.3196    6   5   1
+                72.77          5.12        1.2988    8   0   0
+                74.09          1.07        1.2790    5   5   4
+                76.69          4.09        1.2419    6   5   3
+                80.54          8.62        1.1919    6   6   2
+                81.82          2.13        1.1765    7   5   2
+                83.09          8.08        1.1617    8   4   0
+                86.88          1.93        1.1204    7   6   1
+                86.88          1.12        1.1204    9   2   1
+                86.88          1.01        1.1204    6   5   5
+                86.88          1.01        1.1204    6   5   5
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.
+

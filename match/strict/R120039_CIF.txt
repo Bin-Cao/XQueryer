@@ -1,0 +1,65 @@
+      Schafarzikite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from single crystal data of R120039
+      Fischer R, Pertlik F
+      Tschermaks Mineralogische und Petrographische Mitteilungen 22 (1975) 236-241
+      Verfeinerung der kristallstruktur des schafarzikites, FeSb2O4
+      Locality: Pernek, Slowakei, CSSR
+      _database_code_amcsd 0015656
+
+      CELL PARAMETERS:   8.6150  8.6150  5.9150   90.000   90.000   90.000
+      SPACE GROUP: P4_2/mbc  
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Fe     0.00000   0.50000   0.25000     1.000     0.566
+            Sb     0.17636   0.16587   0.00000     1.000     0.790
+            O      0.67940   0.17940   0.25000     1.000     1.981
+            O      0.10180   0.64120   0.00000     1.000     0.809
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  7 +/-  7 +/-  5
+            MAX. ABS. INTENSITY / VOLUME**2:      164.9604498    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                14.54          4.05        6.0917    1   1   0
+                20.62         14.78        4.3075    2   0   0
+                27.63        100.00        3.2283    2   1   1
+                29.32         14.27        3.0459    2   2   0
+                30.22         10.77        2.9575    0   0   2
+                32.88         21.28        2.7243    3   1   0
+                33.69         10.13        2.6605    1   1   2
+                36.87         21.44        2.4381    2   0   2
+                38.37          3.81        2.3460    2   1   2
+                41.95          1.23        2.1537    4   0   0
+                44.62          4.20        2.0306    3   3   0
+                45.25          2.19        2.0037    3   1   2
+                46.07         30.94        1.9701    4   1   1
+                47.18          4.61        1.9264    4   2   0
+                52.11         15.55        1.7552    2   1   3
+                52.57          7.45        1.7410    4   0   2
+                54.84         20.70        1.6740    3   3   2
+                59.90          6.64        1.5443    5   2   1
+                62.84          4.09        1.4787    0   0   4
+                62.90          5.31        1.4775    5   3   0
+                63.40          5.66        1.4670    5   1   2
+                64.95          5.74        1.4358    6   0   0
+                65.04          9.75        1.4340    4   1   3
+                70.83          1.65        1.3303    2   2   4
+                71.36          2.41        1.3217    5   3   2
+                71.98          5.47        1.3119    5   4   1
+                72.77          3.77        1.2996    3   1   4
+                73.29          1.99        1.2917    6   0   2
+                76.72          2.97        1.2423    5   2   3
+                77.09          3.97        1.2372    6   2   2
+                80.32          1.50        1.1954    3   3   4
+                82.18          1.41        1.1730    4   2   4
+                83.27          3.42        1.1604    7   2   1
+                85.95          3.11        1.1309    2   1   5
+                86.37          1.06        1.1265    5   5   2
+                87.84          3.02        1.1113    5   4   3
+                88.21          1.89        1.1077    6   4   2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

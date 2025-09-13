@@ -1,0 +1,40 @@
+      Gahnite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from single crystal data of R070591
+      Saalfeld H
+      Zeitschrift fur Kristallographie 120 (1964) 476-478
+      Strukturdaten von gahnit, ZnAl2O4
+      Locality: Falun, Sweden
+
+      CELL PARAMETERS:   8.0990  8.0990  8.0990   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Zn     0.00000   0.00000   0.00000     0.790     0.700
+            Mg     0.00000   0.00000   0.00000     0.210     0.800
+            Al     0.62500   0.62500   0.62500     0.950     0.600
+            Mg     0.62500   0.62500   0.62500     0.013     0.800
+            Fe     0.62500   0.62500   0.62500     0.038     0.700
+            O      0.38400   0.38400   0.38400     1.000     1.000
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  7 +/-  7 +/-  7
+            MAX. ABS. INTENSITY / VOLUME**2:      49.75971051    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                18.98          2.39        4.6760    1   1   1
+                31.24         63.56        2.8634    2   2   0
+                36.81        100.00        2.4419    3   1   1
+                44.76          8.04        2.0247    4   0   0
+                49.03          4.60        1.8580    3   3   1
+                55.59         20.59        1.6532    4   2   2
+                59.29          5.14        1.5587    3   3   3
+                59.29         30.05        1.5587    5   1   1
+                65.16         44.30        1.4317    4   4   0
+                74.03          7.25        1.2806    6   2   0
+                77.24          9.05        1.2351    5   3   3
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

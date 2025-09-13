@@ -1,0 +1,26 @@
+      Tiemannite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R050550
+      Earley J W
+      American Mineralogist 35 (1950) 337-364
+      Description and syntheses of the selenide minerals
+
+      CELL PARAMETERS:   6.014286   6.014286   6.014286   90.00000   90.00000   90.00000
+      SPACE GROUP: F-43m
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                25.65        100.00        3.4723    1   1   1
+                29.70         15.59        3.0071    2   0   0
+                42.50         63.65        2.1264    2   2   0
+                50.29         44.78        1.8134    3   1   1
+                52.69          3.98        1.7362    2   2   2
+                61.65          9.75        1.5036    4   0   0
+                67.89         16.73        1.3798    3   3   1
+                69.91          4.63        1.3448    4   2   0
+                77.74         18.40        1.2277    4   2   2
+                83.46          8.80        1.1574    5   1   1
+                83.46          2.93        1.1574    3   3   3
+                83.46          2.93        1.1574    3   3   3
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.
+

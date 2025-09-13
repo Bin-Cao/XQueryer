@@ -1,0 +1,33 @@
+      Chromite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern for R050399
+      Lenaz D, Princivalle F
+      The Canadian Mineralogist 43 (2005) 1305-1314
+      The crystal chemistry of detrital chromian spinel from the
+      southeastern Alps and Outer Dinarides: The discrimination of
+      supplies from areas of similar tectonic setting?
+      Sample: CL 1
+
+      CELL PARAMETERS:   8.283700   8.283700   8.283700   90.00000   90.00000   90.00000
+      ALTERNATE SETTING FOR SPACE GROUP: Fd-3m
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                18.59         19.57        4.7800    1   1   1
+                30.55         31.72        2.9271    2   2   0
+                35.99        100.00        2.4963    3   1   1
+                37.64          2.77        2.3900    2   2   2
+                43.74         29.75        2.0698    4   0   0
+                54.27          9.52        1.6900    4   2   2
+                57.86          4.11        1.5933    3   3   3
+                57.86         34.52        1.5933    5   1   1
+                63.55         50.04        1.4636    4   4   0
+                66.83          1.68        1.3994    5   3   1
+                72.13          3.17        1.3091    6   2   0
+                75.23          9.18        1.2626    5   3   3
+                76.26          2.68        1.2481    6   2   2
+                80.31          3.40        1.1950    4   4   4
+                83.32          1.29        1.1593    5   5   1
+                88.29          4.88        1.1064    6   4   2
+                88.29          4.88        1.1064    6   4   2
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

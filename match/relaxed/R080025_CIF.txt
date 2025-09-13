@@ -1,0 +1,31 @@
+      Magnetite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern
+      Wechsler B A, Lindsley D H, Prewitt C T
+      American Mineralogist 69 (1984) 754-770
+      Crystal structure and cation distribution in titanomagnetites (Fe3-xTixO4)
+      MT100-1350
+
+      CELL PARAMETERS:   8.399481   8.399481   8.399481   90.00000   90.00000   90.00000
+      ALTERNATE SETTING FOR SPACE GROUP: Fd3m
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                18.30          7.93        4.8494    1   1   1
+                30.08         28.10        2.9697    2   2   0
+                35.43        100.00        2.5325    3   1   1
+                37.06          8.27        2.4247    2   2   2
+                43.06         20.13        2.0999    4   0   0
+                53.41          9.59        1.7145    4   2   2
+                56.93         24.94        1.6165    5   1   1
+                56.93          6.40        1.6165    3   3   3
+                62.52         41.80        1.4848    4   4   0
+                70.92          3.54        1.3281    6   2   0
+                73.95          8.82        1.2809    5   3   3
+                74.95          3.94        1.2663    6   2   2
+                78.91          2.64        1.2124    4   4   4
+                86.69          3.92        1.1224    6   4   2
+                89.58          8.92        1.0935    7   3   1
+                89.58          5.54        1.0935    5   5   3
+                89.58          5.54        1.0935    5   5   3
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

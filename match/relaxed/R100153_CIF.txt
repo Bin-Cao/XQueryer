@@ -1,0 +1,62 @@
+      Pyrope
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from single crystal data of R100153
+      Nakatsuka A, Shimokawa M, Nakayama N, Ohtaka O, Arima H, Okube M, Yoshiasa A
+      American Mineralogist 96 (2011) 1593-1605
+      Static disorders of atoms and experimental determination of Debye temperature in
+      pyrope: Low- and high-temperature single-crystal X-ray diffraction study
+      Locality: synthetic
+      Note: T = 723.0 K
+      _database_code_amcsd 0018550
+
+      CELL PARAMETERS:  11.5040 11.5040 11.5040   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Mg     0.12500   0.00000   0.25000     1.000     1.625
+            Al     0.00000   0.00000   0.00000     1.000     0.651
+            Si     0.37500   0.00000   0.25000     1.000     0.580
+            O     -0.03323   0.04949   0.15357     1.000     0.910
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/- 10 +/- 10 +/- 10
+            MAX. ABS. INTENSITY / VOLUME**2:      13.58691910    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                18.90          7.74        4.6965    2   1   1
+                21.85          1.74        4.0673    2   2   0
+                29.04          7.17        3.0746    3   2   1
+                31.10         56.86        2.8760    4   0   0
+                34.88        100.00        2.5724    4   2   0
+                36.64         34.64        2.4527    3   3   2
+                38.33         21.94        2.3482    4   2   2
+                39.96         25.71        2.2561    4   3   1
+                43.07         10.92        2.1003    5   2   1
+                44.55          2.45        2.0336    4   4   0
+                48.80         11.09        1.8662    6   1   1
+                48.80          6.49        1.8662    5   3   2
+                50.15          7.08        1.8189    6   2   0
+                54.07          2.05        1.6962    6   3   1
+                55.33         13.92        1.6605    4   4   4
+                57.79         38.09        1.5953    6   4   0
+                60.20         60.86        1.5373    6   4   2
+                63.70          2.69        1.4610    7   3   2
+                64.84         10.70        1.4380    8   0   0
+                65.97          2.66        1.4160    7   4   1
+                68.20          3.44        1.3750    6   5   3
+                72.58          1.67        1.3026    7   5   2
+                73.65         11.84        1.2862    8   4   0
+                75.79         15.27        1.2552    8   4   2
+                76.84          3.36        1.2405    7   6   1
+                77.90          8.73        1.2263    6   6   4
+                78.95          1.77        1.2126    8   5   1
+                78.95          2.06        1.2126    7   5   4
+                83.12          3.35        1.1621    8   5   3
+                83.12          2.59        1.1621    9   4   1
+                85.19          1.11        1.1391   10   1   1
+                86.22          1.48        1.1281   10   2   0
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

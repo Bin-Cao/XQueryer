@@ -1,0 +1,24 @@
+      Halite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern
+      Wang K, Reeber R R
+      Physics and Chemistry of Minerals 23 (1996) 354-360
+      Thermal expansion of alkali halides at high pressure: NaCl as an example
+      Sample: T = 300 K, Molar volume = 26.98 cc/mol
+
+      CELL PARAMETERS:   5.642907   5.642907   5.642907   90.00000   90.00000   90.00000
+      SPACE GROUP: Fm3m
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                27.36          8.77        3.2579    1   1   1
+                31.70        100.00        2.8215    2   0   0
+                45.44         60.99        1.9951    2   2   0
+                53.85          2.21        1.7014    3   1   1
+                56.45         18.23        1.6290    2   2   2
+                66.20          7.42        1.4107    4   0   0
+                73.04          1.06        1.2946    3   3   1
+                75.26         18.38        1.2618    4   2   0
+                83.95         12.69        1.1519    4   2   2
+                83.95         12.69        1.1519    4   2   2
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

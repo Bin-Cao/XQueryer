@@ -1,0 +1,35 @@
+      Miersite
+      Diffraction data computed using the structure from the paper listed below, 
+      along with the cell parameters refined from single crystal data of R110034
+      Hull S, Keen D A
+      Physical Review B 59 (1999) 750-761
+      Pressure-induced phase transitions in AgCl, AgBr, and AgI
+      Locality: synthetic
+      Sample: P = 0.0 GPa, Phase II'
+      _database_code_amcsd 0015224
+
+      CELL PARAMETERS:   6.4120  6.4120  6.4120   90.000   90.000   90.000
+      SPACE GROUP: F-43m     
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Ag     0.25000   0.25000   0.25000     1.000     6.500
+            I      0.00000   0.00000   0.00000     1.000     5.600
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  5 +/-  5 +/-  5
+            MAX. ABS. INTENSITY / VOLUME**2:      252.8458953    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                24.04        100.00        3.7020    1   1   1
+                39.76         54.11        2.2670    2   2   0
+                47.00         26.75        1.9333    3   1   1
+                57.49          4.97        1.6030    4   0   0
+                63.21          6.03        1.4710    3   3   1
+                72.17          5.56        1.3088    4   2   2
+                77.33          1.89        1.2340    5   1   1
+                85.71          1.00        1.1335    4   4   0
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

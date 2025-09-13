@@ -1,0 +1,52 @@
+      Cernyite
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from single crystal data of R070179
+      Szymanski J T
+      The Canadian Mineralogist 16 (1978) 147-151
+      The crystal structure of cernyite, Cu2CdSnS4, a cadmium analogue of stannite
+      Note: z-coordinate for S atom changed in order to reproduce bond lengths.
+
+      CELL PARAMETERS:   5.4710  5.4710 10.8290   90.000   90.000   90.000
+      SPACE GROUP: I-42m     
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Cd     0.00000   0.00000   0.00000     0.370     1.276
+            Zn     0.00000   0.00000   0.00000     0.330     1.276
+            Fe     0.00000   0.00000   0.00000     0.290     1.276
+            Mn     0.00000   0.00000   0.00000     0.010     1.276
+            Sn     0.50000   0.50000   0.00000     1.000     0.850
+            Cu     0.00000   0.50000   0.25000     1.000     1.640
+            S      0.75000   0.75000   0.86840     1.000     1.158
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    0.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  5 +/-  5 +/-  9
+            MAX. ABS. INTENSITY / VOLUME**2:      153.1511499    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                16.37          2.03        5.4145    0   0   2
+                18.17          2.78        4.8832    1   0   1
+                22.99          2.74        3.8686    1   1   0
+                28.35        100.00        3.1477    1   1   2
+                32.74         10.70        2.7355    2   0   0
+                33.09          5.29        2.7073    0   0   4
+                36.81          2.19        2.4416    2   0   2
+                40.68          1.36        2.2181    1   1   4
+                46.98         17.74        1.9343    2   2   0
+                47.24         34.56        1.9242    2   0   4
+                55.78         23.46        1.6480    3   1   2
+                56.24         11.31        1.6356    1   1   6
+                58.66          3.46        1.5738    2   2   4
+                68.62          4.54        1.3678    4   0   0
+                69.43          2.11        1.3536    0   0   8
+                75.84          3.80        1.2544    3   3   2
+                76.23          7.41        1.2489    3   1   6
+                78.13          1.13        1.2234    4   2   0
+                78.32          1.14        1.2208    4   0   4
+                78.90          1.17        1.2132    2   0   8
+                87.50          7.97        1.1148    4   2   4
+                88.07          3.82        1.1090    2   2   8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

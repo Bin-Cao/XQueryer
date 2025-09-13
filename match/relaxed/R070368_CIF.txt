@@ -1,0 +1,49 @@
+      Chernovite-(Y)
+Diffraction data computed using the structure from the paper listed below, 
+along with the cell parameters refined from single crystal data of R070368
+      Strada M, Schwendimann G
+      Gazzetta Chimica Italiana 64 (1934) 662-674
+      La struttura cristallina di alcuni fosfati ed arseniati di metalli trivalenti.
+      II. Arseniato e fosfato di ittrio
+      Locality: synthetic
+
+      CELL PARAMETERS:   7.0680  7.0680  6.3130   90.000   90.000   90.000
+      SPACE GROUP: I4_1/amd  
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Y      0.00000   0.00000   0.00000     1.000     1.500
+            As     0.00000   0.00000   0.50000     1.000     0.600
+            O      0.00000   0.17600   0.30100     1.000     1.000
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    0.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  6 +/-  6 +/-  5
+            MAX. ABS. INTENSITY / VOLUME**2:      109.2424914    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                18.85          1.22        4.7083    1   0   1
+                25.20        100.00        3.5340    2   0   0
+                31.66          1.59        2.8264    2   1   1
+                33.58         56.72        2.6688    1   1   2
+                35.94         18.57        2.4989    2   2   0
+                38.23          1.84        2.3542    2   0   2
+                40.88          3.69        2.2073    3   0   1
+                44.95          1.72        2.0168    1   0   3
+                50.00         52.80        1.8241    3   1   2
+                51.73         12.86        1.7670    4   0   0
+                58.39          9.90        1.5805    4   2   0
+                58.48          4.00        1.5783    0   0   4
+                63.10         16.00        1.4733    3   3   2
+                64.68          9.78        1.4411    2   0   4
+                70.58          6.29        1.3344    2   2   4
+                74.81          8.58        1.2692    5   1   2
+                76.20          2.28        1.2495    4   4   0
+                81.75          3.47        1.1780    6   0   0
+                81.83          4.56        1.1771    4   0   4
+                85.89          7.92        1.1316    5   3   2
+                87.23          3.93        1.1175    6   2   0
+                87.31          6.70        1.1168    4   2   4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,47 @@
+      Famatinite
+      Diffraction data computed using the structure from the paper listed below, 
+      along with the cell parameters refined from single crystal data of R110021
+      Pfitzner A, Bernert T
+      Zeitschrift fur Kristallographie 219 (2004) 20-26
+      The system Cu3AsS4 - Cu3SbS4 and investigations on normal tetrahedral structures
+      Locality: synthetic
+      Sample: Cu3As0.3Sb0.7S4
+      _database_code_amcsd 0011106
+
+      CELL PARAMETERS:   5.3450  5.3450 10.6300   90.000   90.000   90.000
+      SPACE GROUP: I-42m     
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Sb     0.00000   0.00000   0.00000     0.736     0.940
+            As     0.00000   0.00000   0.00000     0.264     0.940
+            Cu     0.50000   0.00000   0.25000     1.000     1.840
+            Cu     0.50000   0.50000   0.00000     1.000     1.816
+            S      0.25010   0.25010   0.12730     1.000     1.271
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  4 +/-  4 +/-  9
+            MAX. ABS. INTENSITY / VOLUME**2:      143.3824169    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                16.68          1.14        5.3150    0   0   2
+                18.58          4.40        4.7753    1   0   1
+                23.54          1.25        3.7795    1   1   0
+                28.99        100.00        3.0801    1   1   2
+                30.26          1.32        2.9533    1   0   3
+                33.53          9.34        2.6725    2   0   0
+                33.73          4.61        2.6575    0   0   4
+                38.61          1.40        2.3321    2   1   1
+                48.15         17.34        1.8897    2   2   0
+                48.30         34.28        1.8844    2   0   4
+                57.19         21.99        1.6107    3   1   2
+                57.45         10.80        1.6042    1   1   6
+                60.08          2.79        1.5401    2   2   4
+                70.47          4.25        1.3362    4   0   0
+                70.93          2.07        1.3288    0   0   8
+                77.93          3.43        1.2259    3   3   2
+                78.16          6.78        1.2230    3   1   6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

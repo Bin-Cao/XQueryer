@@ -1,0 +1,53 @@
+      Grossular
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from single crystal data of R100146
+      Rodehorst U, Geiger C A, Armbruster T
+      American Mineralogist 87 (2002) 542-549
+      The crystal structures of grossular and spessartine between 100 and 600 K
+      and the crystal chemistry of grossular-spessartine solid solutions
+      Sample: T = 448 K
+      _database_code_amcsd 0002774
+
+      CELL PARAMETERS:  11.8590 11.8590 11.8590   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            O      0.03830   0.04510   0.65142     1.000     0.584
+            Ca     0.00000   0.25000   0.12500     1.000     0.640
+            Al     0.00000   0.00000   0.00000     1.000     0.482
+            Si     0.37500   0.00000   0.25000     1.000     0.432
+
+            X-RAY WAVELENGTH:     1.541838
+            BOUNDS ON TWO THETA:    5.0  90.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/- 10 +/- 10 +/- 10
+            MAX. ABS. INTENSITY / VOLUME**2:      25.16861489    
+            The INTENSITY cut off value is   1.00
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                30.14         35.60        2.9648    4   0   0
+                33.80        100.00        2.6518    4   2   0
+                35.51          6.92        2.5283    3   3   2
+                37.14         18.40        2.4207    4   2   2
+                38.72         14.26        2.3257    4   3   1
+                41.72         12.80        2.1651    5   2   1
+                43.15          3.12        2.0964    4   4   0
+                47.25          9.86        1.9238    5   3   2
+                47.25         11.21        1.9238    6   1   1
+                48.55          1.40        1.8751    6   2   0
+                53.54         14.61        1.7117    4   4   4
+                55.91         25.07        1.6445    6   4   0
+                57.07          1.09        1.6138    5   5   2
+                58.22         39.98        1.5847    6   4   2
+                62.67          9.20        1.4824    8   0   0
+                63.76          1.60        1.4597    7   4   1
+                71.10          9.16        1.3259    8   4   0
+                73.14         15.76        1.2939    8   4   2
+                75.15          6.29        1.2642    6   6   4
+                80.11          1.78        1.1979    9   4   1
+                80.11          1.89        1.1979    8   5   3
+                83.05          1.70        1.1629   10   2   0
+                88.88          5.22        1.1011   10   4   0
+                88.88          8.82        1.1011    8   6   4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.
