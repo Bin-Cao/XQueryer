@@ -1,0 +1,2 @@
+I20In4Pb8
+Atoms(symbols='In2Pb4I10In2Pb4I10', pbc=False)

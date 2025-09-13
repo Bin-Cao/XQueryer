@@ -1,0 +1,2 @@
+Au18Cl18O18
+Atoms(symbols='Au6Cl6O6Au6Cl6O6Au6Cl6O6', pbc=False)

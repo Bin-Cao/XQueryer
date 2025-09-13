@@ -1,0 +1,2 @@
+Al12Hf12Na18O144S21Si15
+Atoms(symbols='Al12Hf12Na18O144S21Si15', pbc=False)

@@ -1,0 +1,2 @@
+B60Na4
+Atoms(symbols='B60Na4', pbc=False)

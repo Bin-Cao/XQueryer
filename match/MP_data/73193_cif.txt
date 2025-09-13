@@ -1,0 +1,2 @@
+Al12Cu6Mg3O24
+Atoms(symbols='MgAl4Cu2O8MgAl4Cu2O8MgAl4Cu2O8', pbc=False)

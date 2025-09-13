@@ -1,0 +1,2 @@
+Ge21Mg3Na18O144P36
+Atoms(symbols='Ge21Mg3Na18O144P36', pbc=False)

@@ -1,0 +1,2 @@
+Co18Mg4O26
+Atoms(symbols='Mg2Co9O13Mg2Co9O13', pbc=False)

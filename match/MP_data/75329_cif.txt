@@ -1,0 +1,2 @@
+Cl36Sc21
+Atoms(symbols='Sc7Cl12Sc7Cl12Sc7Cl12', pbc=False)

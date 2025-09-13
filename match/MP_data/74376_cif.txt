@@ -1,0 +1,2 @@
+O3PmTi
+Atoms(symbols='PmTiO3', pbc=False)

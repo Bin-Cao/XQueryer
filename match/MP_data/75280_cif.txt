@@ -1,0 +1,2 @@
+GdMg
+Atoms(symbols='GdMg', pbc=False)

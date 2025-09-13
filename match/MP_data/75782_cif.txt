@@ -1,0 +1,2 @@
+Bi4Cd4Na4
+Atoms(symbols='Na4Cd4Bi4', pbc=False)

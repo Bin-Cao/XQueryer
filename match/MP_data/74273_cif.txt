@@ -1,0 +1,2 @@
+K3NaO8S2
+Atoms(symbols='K3NaS2O8', pbc=False)

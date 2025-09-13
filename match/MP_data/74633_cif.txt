@@ -1,0 +1,2 @@
+Cl18Cs6Mn6
+Atoms(symbols='Cs3Mn3Cl9Cs3Mn3Cl9', pbc=False)

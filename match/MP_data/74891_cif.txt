@@ -1,0 +1,2 @@
+Ba8Cl12O2
+Atoms(symbols='Ba8Cl12O2', pbc=False)

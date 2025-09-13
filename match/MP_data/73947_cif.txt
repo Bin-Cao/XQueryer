@@ -1,0 +1,2 @@
+IK
+Atoms(symbols='KI', pbc=False)

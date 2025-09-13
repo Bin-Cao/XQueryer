@@ -1,0 +1,2 @@
+H2Ga2O4
+Atoms(symbols='Ga2H2O4', pbc=False)

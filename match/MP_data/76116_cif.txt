@@ -1,0 +1,2 @@
+H60As4Na8O44
+Atoms(symbols='H60As4Na8O44', pbc=False)

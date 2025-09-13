@@ -1,0 +1,2 @@
+Co4N2
+Atoms(symbols='Co4N2', pbc=False)

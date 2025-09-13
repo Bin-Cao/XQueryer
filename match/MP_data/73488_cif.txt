@@ -1,0 +1,2 @@
+As3B3O15Pb3
+Atoms(symbols='B3As3Pb3O15', pbc=False)

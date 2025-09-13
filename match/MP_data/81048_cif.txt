@@ -1,0 +1,2 @@
+Cl32Tc8
+Atoms(symbols='Tc8Cl32', pbc=False)

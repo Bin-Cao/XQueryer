@@ -1,0 +1,2 @@
+Au4F16Ni2
+Atoms(symbols='Ni2Au4F16', pbc=False)

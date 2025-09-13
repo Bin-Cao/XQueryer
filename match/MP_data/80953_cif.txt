@@ -1,0 +1,2 @@
+Au8O44Se16
+Atoms(symbols='Au8O44Se16', pbc=False)

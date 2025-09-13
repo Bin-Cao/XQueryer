@@ -1,0 +1,2 @@
+F11I2Sb2
+Atoms(symbols='Sb2I2F11', pbc=False)

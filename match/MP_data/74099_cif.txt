@@ -1,0 +1,2 @@
+Co3Ge3Ti3
+Atoms(symbols='Ti3Co3Ge3', pbc=False)

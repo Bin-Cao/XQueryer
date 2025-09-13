@@ -1,0 +1,2 @@
+Cr2Ge4MgO12
+Atoms(symbols='MgCr2Ge4O12', pbc=False)

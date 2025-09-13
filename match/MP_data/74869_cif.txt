@@ -1,0 +1,2 @@
+C4U4
+Atoms(symbols='UCUCUCUC', pbc=False)

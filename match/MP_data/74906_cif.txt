@@ -1,0 +1,2 @@
+Bi6Pr8
+Atoms(symbols='Pr8Bi6', pbc=False)

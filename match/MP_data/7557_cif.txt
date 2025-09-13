@@ -1,0 +1,2 @@
+Mn13O28Sb2Si2Y4
+Atoms(symbols='Y4Mn13Si2Sb2O28', pbc=False)

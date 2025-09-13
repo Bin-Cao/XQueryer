@@ -1,0 +1,2 @@
+Fe2NiSe4
+Atoms(symbols='Fe2NiSe4', pbc=False)

@@ -1,0 +1,2 @@
+C10Ca8Ni6
+Atoms(symbols='Ca4Ni3C5Ca4Ni3C5', pbc=False)

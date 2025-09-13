@@ -1,0 +1,2 @@
+Ga2N2V4
+Atoms(symbols='V4Ga2N2', pbc=False)

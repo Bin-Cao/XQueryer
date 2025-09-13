@@ -1,0 +1,2 @@
+MgNiO12Te4
+Atoms(symbols='MgNiTe4O12', pbc=False)

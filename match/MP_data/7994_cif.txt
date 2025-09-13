@@ -1,0 +1,2 @@
+As8O32Ti6
+Atoms(symbols='Ti6As8O32', pbc=False)

@@ -1,0 +1,2 @@
+Al8Th12
+Atoms(symbols='Th6Al4Th6Al4', pbc=False)

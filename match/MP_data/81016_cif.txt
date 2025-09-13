@@ -1,0 +1,2 @@
+H12F4Si4
+Atoms(symbols='Si4H12F4', pbc=False)

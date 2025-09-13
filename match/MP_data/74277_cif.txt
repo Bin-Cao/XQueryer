@@ -1,0 +1,2 @@
+Fe14O20Si2
+Atoms(symbols='Fe14Si2O20', pbc=False)

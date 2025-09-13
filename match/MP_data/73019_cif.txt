@@ -1,0 +1,2 @@
+MgMn2Mo2O12Te2
+Atoms(symbols='MgMn2Te2Mo2O12', pbc=False)

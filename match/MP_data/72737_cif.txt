@@ -1,0 +1,2 @@
+Er4MgO10Ti2
+Atoms(symbols='Er4MgTi2O10', pbc=False)

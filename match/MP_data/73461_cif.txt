@@ -1,0 +1,2 @@
+Ag6Bi6Mg3O18
+Atoms(symbols='MgAg2Bi2O6MgAg2Bi2O6MgAg2Bi2O6', pbc=False)

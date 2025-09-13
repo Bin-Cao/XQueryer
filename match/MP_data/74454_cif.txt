@@ -1,0 +1,2 @@
+H8NiO12Re2
+Atoms(symbols='Re2NiH8O12', pbc=False)

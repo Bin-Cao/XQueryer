@@ -1,0 +1,2 @@
+C2Cu2O6
+Atoms(symbols='CuCO3CuCO3', pbc=False)

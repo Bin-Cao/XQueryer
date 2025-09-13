@@ -1,0 +1,2 @@
+Cl10Sc7
+Atoms(symbols='Sc7Cl10', pbc=False)

@@ -1,0 +1,2 @@
+IrTe2
+Atoms(symbols='Te2Ir', pbc=False)

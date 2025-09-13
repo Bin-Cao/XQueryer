@@ -1,0 +1,2 @@
+GaRu
+Atoms(symbols='GaRu', pbc=False)

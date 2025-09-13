@@ -1,0 +1,2 @@
+He2
+Atoms(symbols='He2', pbc=False)

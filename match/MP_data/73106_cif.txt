@@ -1,0 +1,2 @@
+FMgMn6O11
+Atoms(symbols='MgMn6O11F', pbc=False)

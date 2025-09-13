@@ -1,0 +1,2 @@
+Ni31Si12
+Atoms(symbols='Si12Ni31', pbc=False)

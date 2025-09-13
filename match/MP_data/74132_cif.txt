@@ -1,0 +1,2 @@
+H28La4Ni20
+Atoms(symbols='La2Ni10H14La2Ni10H14', pbc=False)

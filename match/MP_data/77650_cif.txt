@@ -1,0 +1,2 @@
+Ca9Na6O72S18Zr3
+Atoms(symbols='Ca9Na6O72S18Zr3', pbc=False)

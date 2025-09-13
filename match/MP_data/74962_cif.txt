@@ -1,0 +1,2 @@
+H4As4Hg4O20Zn4
+Atoms(symbols='Zn4Hg4As4H4O20', pbc=False)

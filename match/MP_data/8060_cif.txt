@@ -1,0 +1,2 @@
+Ca8Co4Nb8O32
+Atoms(symbols='Ca4Nb4Co2O16Ca4Nb4Co2O16', pbc=False)

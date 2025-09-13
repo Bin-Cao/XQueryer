@@ -1,0 +1,2 @@
+Cr20O72Te12Zn16
+Atoms(symbols='Cr20O72Te12Zn16', pbc=False)

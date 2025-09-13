@@ -1,0 +1,2 @@
+Br8F64Sb12
+Atoms(symbols='Br8F64Sb12', pbc=False)

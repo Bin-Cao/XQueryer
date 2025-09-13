@@ -1,0 +1,2 @@
+In9Na6Nb15O144P36
+Atoms(symbols='In9Na6Nb15O144P36', pbc=False)

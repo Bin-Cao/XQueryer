@@ -1,0 +1,2 @@
+Cr14K30N38
+Atoms(symbols='Cr14K30N38', pbc=False)

@@ -1,0 +1,2 @@
+C24Ho16
+Atoms(symbols='Ho8C12Ho8C12', pbc=False)

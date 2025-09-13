@@ -1,0 +1,2 @@
+H10K2O18P4Zn2
+Atoms(symbols='K2Zn2P4H10O18', pbc=False)

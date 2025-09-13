@@ -1,0 +1,2 @@
+H4Li4
+Atoms(symbols='LiHLiHLiHLiH', pbc=False)

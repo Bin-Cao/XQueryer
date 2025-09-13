@@ -1,0 +1,2 @@
+Ni9O13
+Atoms(symbols='Ni9O13', pbc=False)

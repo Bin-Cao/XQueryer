@@ -1,0 +1,2 @@
+Al2Be2Cl2Na8O24Si8
+Atoms(symbols='Na4BeAlSi4ClO12Na4BeAlSi4ClO12', pbc=False)

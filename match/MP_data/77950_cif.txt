@@ -1,0 +1,2 @@
+Al12Mg12Na18O144S33Si3
+Atoms(symbols='Al12Mg12Na18O144S33Si3', pbc=False)

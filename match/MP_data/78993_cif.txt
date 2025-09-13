@@ -1,0 +1,2 @@
+Na6O24P4Si2TaY3
+Atoms(symbols='Na6Y3TaSi2P4O24', pbc=False)

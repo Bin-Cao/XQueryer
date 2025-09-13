@@ -1,0 +1,2 @@
+H4O32Rb12S8
+Atoms(symbols='Rb6H2S4O16Rb6H2S4O16', pbc=False)

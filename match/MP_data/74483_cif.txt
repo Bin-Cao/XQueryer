@@ -1,0 +1,2 @@
+H6O6Y2
+Atoms(symbols='Y2H6O6', pbc=False)

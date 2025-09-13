@@ -1,0 +1,2 @@
+Ni5Zr
+Atoms(symbols='ZrNi5', pbc=False)

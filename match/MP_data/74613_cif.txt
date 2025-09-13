@@ -1,0 +1,2 @@
+H2Cs2Ga2O20P6
+Atoms(symbols='CsGaP3HO10CsGaP3HO10', pbc=False)

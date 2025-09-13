@@ -1,0 +1,2 @@
+Bi3Mg3Mn9O24
+Atoms(symbols='MgMn3BiO8MgMn3BiO8MgMn3BiO8', pbc=False)

@@ -1,0 +1,2 @@
+Fe6N3
+Atoms(symbols='Fe6N3', pbc=False)

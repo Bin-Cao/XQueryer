@@ -1,0 +1,2 @@
+Cl54W18
+Atoms(symbols='Cl54W18', pbc=False)

@@ -1,0 +1,2 @@
+Fe5Th
+Atoms(symbols='ThFe5', pbc=False)

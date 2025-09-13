@@ -1,0 +1,2 @@
+O4Rb18
+Atoms(symbols='Rb18O4', pbc=False)

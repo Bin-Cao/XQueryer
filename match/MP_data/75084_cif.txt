@@ -1,0 +1,2 @@
+B18Li7O
+Atoms(symbols='Li7B18O', pbc=False)

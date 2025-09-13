@@ -1,0 +1,2 @@
+GdZn
+Atoms(symbols='GdZn', pbc=False)

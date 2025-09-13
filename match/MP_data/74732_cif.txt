@@ -1,0 +1,2 @@
+I2K2O8
+Atoms(symbols='K2I2O8', pbc=False)

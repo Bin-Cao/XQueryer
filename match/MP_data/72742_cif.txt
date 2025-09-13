@@ -1,0 +1,2 @@
+Co2MgO10P2Zn2
+Atoms(symbols='MgZn2Co2P2O10', pbc=False)

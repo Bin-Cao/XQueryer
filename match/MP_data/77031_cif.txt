@@ -1,0 +1,2 @@
+Mg12Na15O72P3S15
+Atoms(symbols='Mg12Na15O72P3S15', pbc=False)

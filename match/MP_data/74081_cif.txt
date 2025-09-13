@@ -1,0 +1,2 @@
+Co2Ga8Th2
+Atoms(symbols='Th2Ga8Co2', pbc=False)

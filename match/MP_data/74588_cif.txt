@@ -1,0 +1,2 @@
+H16Ga4Na4
+Atoms(symbols='Na2Ga2H8Na2Ga2H8', pbc=False)

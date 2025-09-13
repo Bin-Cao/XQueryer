@@ -1,0 +1,2 @@
+AuCuF5
+Atoms(symbols='CuAuF5', pbc=False)

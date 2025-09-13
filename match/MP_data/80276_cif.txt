@@ -1,0 +1,2 @@
+P12Ru3
+Atoms(symbols='P12Ru3', pbc=False)

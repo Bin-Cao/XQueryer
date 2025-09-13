@@ -1,0 +1,2 @@
+H2As6Sr10
+Atoms(symbols='Sr10As6H2', pbc=False)

@@ -1,0 +1,2 @@
+Mo2
+Atoms(symbols='Mo2', pbc=False)

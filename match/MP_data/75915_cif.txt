@@ -1,0 +1,2 @@
+Bi3LiO10P2
+Atoms(symbols='LiBi3P2O10', pbc=False)

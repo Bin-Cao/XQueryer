@@ -1,0 +1,2 @@
+Br16Sn4
+Atoms(symbols='Sn4Br16', pbc=False)

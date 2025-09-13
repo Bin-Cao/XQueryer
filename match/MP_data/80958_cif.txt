@@ -1,0 +1,2 @@
+Ac2Cl6
+Atoms(symbols='Ac2Cl6', pbc=False)

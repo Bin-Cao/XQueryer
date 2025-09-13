@@ -1,0 +1,2 @@
+H2Sb6Sm10
+Atoms(symbols='Sm10Sb6H2', pbc=False)

@@ -1,0 +1,2 @@
+Ge2MgNa4O10Ti2
+Atoms(symbols='Na4MgTi2Ge2O10', pbc=False)

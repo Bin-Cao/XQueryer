@@ -1,0 +1,2 @@
+Mg2O16P4Sr2Ti2
+Atoms(symbols='Sr2Mg2Ti2P4O16', pbc=False)

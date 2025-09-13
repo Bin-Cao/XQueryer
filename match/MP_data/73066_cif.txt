@@ -1,0 +1,2 @@
+K4Mg2Na4Nb4O20Pr4
+Atoms(symbols='K2Na2Pr2MgNb2O10K2Na2Pr2MgNb2O10', pbc=False)

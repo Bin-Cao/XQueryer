@@ -1,0 +1,2 @@
+Cs12Cu8I20
+Atoms(symbols='Cs12Cu8I20', pbc=False)

@@ -1,0 +1,2 @@
+F24K6Tl6
+Atoms(symbols='K6Tl6F24', pbc=False)

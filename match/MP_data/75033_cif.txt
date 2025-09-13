@@ -1,0 +1,2 @@
+I56Ta24
+Atoms(symbols='I56Ta24', pbc=False)

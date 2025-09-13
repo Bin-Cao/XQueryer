@@ -1,0 +1,2 @@
+Ni3O27P9
+Atoms(symbols='NiP3O9NiP3O9NiP3O9', pbc=False)

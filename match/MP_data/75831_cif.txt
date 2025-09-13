@@ -1,0 +1,2 @@
+Co34Er4
+Atoms(symbols='Er4Co34', pbc=False)

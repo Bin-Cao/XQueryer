@@ -1,0 +1,2 @@
+Co8Fe4Mg2O24
+Atoms(symbols='MgFe2Co4O12MgFe2Co4O12', pbc=False)

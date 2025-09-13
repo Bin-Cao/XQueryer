@@ -1,0 +1,2 @@
+CuMgO7Rb4Si2
+Atoms(symbols='Rb4MgCuSi2O7', pbc=False)

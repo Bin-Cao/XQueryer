@@ -1,0 +1,2 @@
+Fe4Hf4P4
+Atoms(symbols='Hf4Fe4P4', pbc=False)

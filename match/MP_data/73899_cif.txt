@@ -1,0 +1,2 @@
+Co16Sn8Y6
+Atoms(symbols='Y6Co16Sn8', pbc=False)

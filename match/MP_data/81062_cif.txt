@@ -1,0 +1,2 @@
+Fe5Ho
+Atoms(symbols='HoFe5', pbc=False)

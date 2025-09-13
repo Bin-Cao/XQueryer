@@ -1,0 +1,2 @@
+Br12Hg2Tl8
+Atoms(symbols='Tl8Hg2Br12', pbc=False)

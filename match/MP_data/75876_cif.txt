@@ -1,0 +1,2 @@
+C4H24Br12N4Sn4
+Atoms(symbols='Sn4H24C4Br12N4', pbc=False)

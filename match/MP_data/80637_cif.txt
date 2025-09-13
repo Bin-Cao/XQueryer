@@ -1,0 +1,2 @@
+Cl16Cs4Fe4
+Atoms(symbols='Cs4Fe4Cl16', pbc=False)

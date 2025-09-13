@@ -1,0 +1,2 @@
+F18Ti6
+Atoms(symbols='Ti2F6Ti2F6Ti2F6', pbc=False)

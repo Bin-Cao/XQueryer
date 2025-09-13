@@ -1,0 +1,2 @@
+As4Cd12Cl12
+Atoms(symbols='Cd12As4Cl12', pbc=False)

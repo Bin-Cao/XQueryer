@@ -1,0 +1,2 @@
+C8H8Ca2Cu2O16
+Atoms(symbols='Ca2Cu2H8C8O16', pbc=False)

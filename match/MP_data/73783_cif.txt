@@ -1,0 +1,2 @@
+C2Co2Lu2
+Atoms(symbols='Lu2Co2C2', pbc=False)

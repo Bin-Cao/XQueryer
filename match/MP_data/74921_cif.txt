@@ -1,0 +1,2 @@
+Al4Hf4
+Atoms(symbols='Hf2Al2Hf2Al2', pbc=False)

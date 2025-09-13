@@ -1,0 +1,2 @@
+MgNa3Ni5O10
+Atoms(symbols='Na3MgNi5O10', pbc=False)

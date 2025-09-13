@@ -1,0 +1,2 @@
+Ni2O7Sr2TlY
+Atoms(symbols='Sr2YTlNi2O7', pbc=False)

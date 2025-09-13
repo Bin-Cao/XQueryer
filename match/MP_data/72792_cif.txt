@@ -1,0 +1,2 @@
+Cu2MgO10Se2Tl
+Atoms(symbols='MgTlCu2Se2O10', pbc=False)

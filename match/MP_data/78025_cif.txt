@@ -1,0 +1,2 @@
+In24Na12O144P12S24
+Atoms(symbols='In24Na12O144P12S24', pbc=False)

@@ -1,0 +1,2 @@
+H24Co4K4N24O32
+Atoms(symbols='H24Co4K4N24O32', pbc=False)

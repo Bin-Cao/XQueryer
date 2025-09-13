@@ -1,0 +1,2 @@
+H2Cs2Mn2O20P6
+Atoms(symbols='CsMnP3HO10CsMnP3HO10', pbc=False)

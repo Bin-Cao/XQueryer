@@ -1,0 +1,2 @@
+Cl24In4Na12
+Atoms(symbols='Na6In2Cl12Na6In2Cl12', pbc=False)

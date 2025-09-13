@@ -1,0 +1,2 @@
+F40V8
+Atoms(symbols='V8F40', pbc=False)

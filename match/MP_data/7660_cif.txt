@@ -1,0 +1,2 @@
+O10Si2Ti2Zn2
+Atoms(symbols='Ti2Zn2Si2O10', pbc=False)

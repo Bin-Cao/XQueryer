@@ -1,0 +1,2 @@
+Fe4O32Ta8Zn8
+Atoms(symbols='Ta8Zn8Fe4O32', pbc=False)

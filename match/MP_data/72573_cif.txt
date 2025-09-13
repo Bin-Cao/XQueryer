@@ -1,0 +1,2 @@
+In32S48
+Atoms(symbols='In32S48', pbc=False)

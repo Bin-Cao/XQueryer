@@ -1,0 +1,2 @@
+H4Cu2MgO10Se2
+Atoms(symbols='MgCu2H4Se2O10', pbc=False)

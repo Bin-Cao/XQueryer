@@ -1,0 +1,2 @@
+Cu3MgNa7O8
+Atoms(symbols='Na7MgCu3O8', pbc=False)

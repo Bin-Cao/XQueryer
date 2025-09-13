@@ -1,0 +1,2 @@
+Cl18Cs6Cu6
+Atoms(symbols='Cs6Cu6Cl18', pbc=False)

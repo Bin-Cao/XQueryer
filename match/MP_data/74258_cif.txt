@@ -1,0 +1,2 @@
+Ge8Mn16O32
+Atoms(symbols='Mn8Ge4O16Mn8Ge4O16', pbc=False)

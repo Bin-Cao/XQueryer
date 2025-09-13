@@ -1,0 +1,2 @@
+Cl12O6Si6
+Atoms(symbols='Si6Cl12O6', pbc=False)

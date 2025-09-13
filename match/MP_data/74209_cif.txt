@@ -1,0 +1,2 @@
+Cl36W6
+Atoms(symbols='W3Cl18W3Cl18', pbc=False)

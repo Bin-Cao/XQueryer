@@ -1,0 +1,2 @@
+H8Cl4Mg2O4
+Atoms(symbols='MgH4Cl2O2MgH4Cl2O2', pbc=False)

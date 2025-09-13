@@ -1,0 +1,2 @@
+Ca3Li3Sn3
+Atoms(symbols='Li3Ca3Sn3', pbc=False)

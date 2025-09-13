@@ -1,0 +1,2 @@
+Pb12S60Sb32
+Atoms(symbols='Pb12S60Sb32', pbc=False)

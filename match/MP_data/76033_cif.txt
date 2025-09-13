@@ -1,0 +1,2 @@
+O18Te6
+Atoms(symbols='Te2O6Te2O6Te2O6', pbc=False)

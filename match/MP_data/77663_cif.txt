@@ -1,0 +1,2 @@
+Hf15Na30O144S18Si18Zn9
+Atoms(symbols='Hf15Na30O144S18Si18Zn9', pbc=False)

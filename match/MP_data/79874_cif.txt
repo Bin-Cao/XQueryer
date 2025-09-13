@@ -1,0 +1,2 @@
+F40Na16Sn12
+Atoms(symbols='F40Na16Sn12', pbc=False)

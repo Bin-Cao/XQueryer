@@ -1,0 +1,2 @@
+Ir4Ni4O24Zn8
+Atoms(symbols='Zn8Ni4Ir4O24', pbc=False)

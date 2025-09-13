@@ -1,0 +1,2 @@
+H12Al2K4Li2
+Atoms(symbols='K2LiAlH6K2LiAlH6', pbc=False)

@@ -1,0 +1,2 @@
+O46Rb12Si20
+Atoms(symbols='O46Rb12Si20', pbc=False)

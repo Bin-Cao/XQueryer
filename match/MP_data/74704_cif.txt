@@ -1,0 +1,2 @@
+O10P4
+Atoms(symbols='P4O10', pbc=False)

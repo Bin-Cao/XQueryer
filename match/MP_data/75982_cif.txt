@@ -1,0 +1,2 @@
+Ca10Na18O72S12Si6Ta2
+Atoms(symbols='Ca10Na18O72S12Si6Ta2', pbc=False)

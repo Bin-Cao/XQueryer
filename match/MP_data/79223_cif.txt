@@ -1,0 +1,2 @@
+Al6Ga6Na18O72P18
+Atoms(symbols='Al6Ga6Na18O72P18', pbc=False)

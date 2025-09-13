@@ -1,0 +1,2 @@
+H20Al4Be4
+Atoms(symbols='Be2Al2H10Be2Al2H10', pbc=False)

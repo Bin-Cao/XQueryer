@@ -1,0 +1,2 @@
+Mg72P48
+Atoms(symbols='Mg72P48', pbc=False)

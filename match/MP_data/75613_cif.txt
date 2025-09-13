@@ -1,0 +1,2 @@
+I18Sb6
+Atoms(symbols='Sb2I6Sb2I6Sb2I6', pbc=False)

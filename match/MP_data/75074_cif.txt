@@ -1,0 +1,2 @@
+TcV
+Atoms(symbols='VTc', pbc=False)

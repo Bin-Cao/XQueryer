@@ -1,0 +1,2 @@
+Cl4O32Si8Sm12
+Atoms(symbols='Sm12Si8Cl4O32', pbc=False)

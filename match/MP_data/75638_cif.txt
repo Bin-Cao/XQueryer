@@ -1,0 +1,2 @@
+Li2Mo2O14P4
+Atoms(symbols='LiMoP2O7LiMoP2O7', pbc=False)

@@ -1,0 +1,2 @@
+K8P6
+Atoms(symbols='K8P6', pbc=False)

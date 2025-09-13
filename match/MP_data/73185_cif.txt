@@ -1,0 +1,2 @@
+Co5MgNa3O10
+Atoms(symbols='Na3MgCo5O10', pbc=False)

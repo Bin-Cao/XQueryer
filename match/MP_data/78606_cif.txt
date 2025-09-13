@@ -1,0 +1,2 @@
+Mg9Na24O72S9Si9Ti3
+Atoms(symbols='Mg9Na24O72S9Si9Ti3', pbc=False)

@@ -1,0 +1,2 @@
+F8In8O8
+Atoms(symbols='In4O4F4In4O4F4', pbc=False)

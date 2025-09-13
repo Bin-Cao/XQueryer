@@ -1,0 +1,2 @@
+MgNa8Ni2O8
+Atoms(symbols='Na8MgNi2O8', pbc=False)

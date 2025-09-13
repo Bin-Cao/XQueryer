@@ -1,0 +1,2 @@
+Bi20Ca22
+Atoms(symbols='Ca22Bi20', pbc=False)

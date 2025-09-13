@@ -1,0 +1,2 @@
+As4Pd20
+Atoms(symbols='As2Pd10As2Pd10', pbc=False)

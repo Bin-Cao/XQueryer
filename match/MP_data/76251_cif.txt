@@ -1,0 +1,2 @@
+Ga9O72S15Si3Ta3
+Atoms(symbols='Ga9O72S15Si3Ta3', pbc=False)

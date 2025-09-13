@@ -1,0 +1,2 @@
+O21W7
+Atoms(symbols='W7O21', pbc=False)

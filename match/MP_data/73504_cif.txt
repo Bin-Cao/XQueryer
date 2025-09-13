@@ -1,0 +1,2 @@
+H8Pr4
+Atoms(symbols='PrH2PrH2PrH2PrH2', pbc=False)

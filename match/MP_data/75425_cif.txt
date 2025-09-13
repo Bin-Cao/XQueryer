@@ -1,0 +1,2 @@
+H48F24Ni4O24Sn4
+Atoms(symbols='H48F24Ni4O24Sn4', pbc=False)

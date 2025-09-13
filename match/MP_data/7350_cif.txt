@@ -1,0 +1,2 @@
+Ni4O40Si16
+Atoms(symbols='Si16Ni4O40', pbc=False)

@@ -1,0 +1,2 @@
+K3O14V5
+Atoms(symbols='K3V5O14', pbc=False)

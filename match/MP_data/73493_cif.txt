@@ -1,0 +1,2 @@
+O7Sr3V2
+Atoms(symbols='Sr3V2O7', pbc=False)

@@ -1,0 +1,2 @@
+BaCo2MgNdO5
+Atoms(symbols='BaNdMgCo2O5', pbc=False)

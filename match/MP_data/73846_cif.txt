@@ -1,0 +1,2 @@
+Cl4O8Pb4Sb4
+Atoms(symbols='Sb2Pb2Cl2O4Sb2Pb2Cl2O4', pbc=False)

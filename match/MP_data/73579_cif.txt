@@ -1,0 +1,2 @@
+H6Cl2Cu2MgO6Zn2
+Atoms(symbols='MgZn2Cu2H6Cl2O6', pbc=False)

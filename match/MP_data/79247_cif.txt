@@ -1,0 +1,2 @@
+Ge6Na21O72P15Si3Zn6
+Atoms(symbols='Ge6Na21O72P15Si3Zn6', pbc=False)

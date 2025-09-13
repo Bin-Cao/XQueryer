@@ -1,0 +1,2 @@
+I24O8W8
+Atoms(symbols='W4I12O4W4I12O4', pbc=False)

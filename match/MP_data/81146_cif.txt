@@ -1,0 +1,2 @@
+Cl4F32Ta4
+Atoms(symbols='Ta4Cl4F32', pbc=False)

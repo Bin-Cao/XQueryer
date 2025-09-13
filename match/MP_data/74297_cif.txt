@@ -1,0 +1,2 @@
+Co4Eu2Ga6
+Atoms(symbols='Eu2Ga6Co4', pbc=False)

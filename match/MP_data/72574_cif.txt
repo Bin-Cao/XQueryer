@@ -1,0 +1,2 @@
+CoLa4MgO8
+Atoms(symbols='La4MgCoO8', pbc=False)

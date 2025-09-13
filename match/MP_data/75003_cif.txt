@@ -1,0 +1,2 @@
+Si2V6
+Atoms(symbols='V6Si2', pbc=False)

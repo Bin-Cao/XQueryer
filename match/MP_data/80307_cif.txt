@@ -1,0 +1,2 @@
+Cl8Pa2
+Atoms(symbols='Pa2Cl8', pbc=False)

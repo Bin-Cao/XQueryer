@@ -1,0 +1,2 @@
+Ca4Na24Nb20O144P12Si24
+Atoms(symbols='Ca4Na24Nb20O144P12Si24', pbc=False)

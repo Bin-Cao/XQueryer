@@ -1,0 +1,2 @@
+Ca3Ga9Na3O72S18
+Atoms(symbols='Ca3Ga9Na3O72S18', pbc=False)

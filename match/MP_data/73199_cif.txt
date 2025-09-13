@@ -1,0 +1,2 @@
+H4CdCr2K2MgO10
+Atoms(symbols='K2MgCr2CdH4O10', pbc=False)

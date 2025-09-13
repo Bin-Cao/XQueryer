@@ -1,0 +1,2 @@
+MgNiO10Te2V2
+Atoms(symbols='MgV2NiTe2O10', pbc=False)

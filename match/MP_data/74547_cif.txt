@@ -1,0 +1,2 @@
+H8Al2Na2
+Atoms(symbols='Na2Al2H8', pbc=False)

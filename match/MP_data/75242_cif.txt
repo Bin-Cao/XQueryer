@@ -1,0 +1,2 @@
+LaZn
+Atoms(symbols='LaZn', pbc=False)

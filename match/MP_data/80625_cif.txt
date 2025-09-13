@@ -1,0 +1,2 @@
+F8Na3Pa
+Atoms(symbols='Na3PaF8', pbc=False)

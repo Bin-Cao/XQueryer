@@ -1,0 +1,2 @@
+I32Pt12
+Atoms(symbols='Pt12I32', pbc=False)

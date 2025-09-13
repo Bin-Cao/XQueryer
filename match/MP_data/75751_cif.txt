@@ -1,0 +1,2 @@
+Co2O14P4
+Atoms(symbols='CoP2O7CoP2O7', pbc=False)

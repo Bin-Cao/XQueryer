@@ -1,0 +1,2 @@
+S12Tl16
+Atoms(symbols='Tl16S12', pbc=False)

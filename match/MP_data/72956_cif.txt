@@ -1,0 +1,2 @@
+Ce2MgO12Ti4
+Atoms(symbols='Ce2MgTi4O12', pbc=False)

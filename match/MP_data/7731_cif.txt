@@ -1,0 +1,2 @@
+Mo20O72Te12
+Atoms(symbols='Mo20O72Te12', pbc=False)

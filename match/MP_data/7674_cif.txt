@@ -1,0 +1,2 @@
+Ca3O24Sb12
+Atoms(symbols='CaSb4O8CaSb4O8CaSb4O8', pbc=False)

@@ -1,0 +1,2 @@
+Co6F2MgO10
+Atoms(symbols='MgCo6O10F2', pbc=False)

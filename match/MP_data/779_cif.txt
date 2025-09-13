@@ -1,0 +1,2 @@
+ClIKNa
+Atoms(symbols='KNaICl', pbc=False)

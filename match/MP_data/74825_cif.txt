@@ -1,0 +1,2 @@
+Ru4Sb12Sr
+Atoms(symbols='SrSb12Ru4', pbc=False)

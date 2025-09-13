@@ -1,0 +1,2 @@
+Ge12Hf4Na12O48Ta4
+Atoms(symbols='Ge12Hf4Na12O48Ta4', pbc=False)

@@ -1,0 +1,2 @@
+C3Cs3Er18I36
+Atoms(symbols='CsEr6CI12CsEr6CI12CsEr6CI12', pbc=False)

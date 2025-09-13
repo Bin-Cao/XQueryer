@@ -1,0 +1,2 @@
+O4Ti4
+Atoms(symbols='TiOTiOTiOTiO', pbc=False)

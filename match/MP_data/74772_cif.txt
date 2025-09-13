@@ -1,0 +1,2 @@
+Be2O2
+Atoms(symbols='Be2O2', pbc=False)

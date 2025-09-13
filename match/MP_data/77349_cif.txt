@@ -1,0 +1,2 @@
+La6Na12O72S15Si3Zn6
+Atoms(symbols='La6Na12O72S15Si3Zn6', pbc=False)

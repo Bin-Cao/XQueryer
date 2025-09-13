@@ -1,0 +1,2 @@
+RhTi
+Atoms(symbols='TiRh', pbc=False)

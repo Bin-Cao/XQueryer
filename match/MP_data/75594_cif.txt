@@ -1,0 +1,2 @@
+H4Mn6O20Se6
+Atoms(symbols='Mn6H4Se6O20', pbc=False)

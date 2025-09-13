@@ -1,0 +1,2 @@
+H24O4Si8
+Atoms(symbols='Si8H24O4', pbc=False)

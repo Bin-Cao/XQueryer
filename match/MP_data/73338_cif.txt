@@ -1,0 +1,2 @@
+Ni2O12Re2Sr4
+Atoms(symbols='Sr2ReNiO6Sr2ReNiO6', pbc=False)

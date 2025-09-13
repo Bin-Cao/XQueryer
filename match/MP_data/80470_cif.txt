@@ -1,0 +1,2 @@
+Cd8N16O48
+Atoms(symbols='Cd8N16O48', pbc=False)

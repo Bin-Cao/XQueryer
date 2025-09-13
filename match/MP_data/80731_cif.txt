@@ -1,0 +1,2 @@
+Cu5Y
+Atoms(symbols='YCu5', pbc=False)

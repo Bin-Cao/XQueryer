@@ -1,0 +1,2 @@
+Hg12I6Na6O12
+Atoms(symbols='Na3Hg6I3O6Na3Hg6I3O6', pbc=False)

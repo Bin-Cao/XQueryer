@@ -1,0 +1,2 @@
+La14O48Sm2Ti6V10
+Atoms(symbols='La14O48Sm2Ti6V10', pbc=False)

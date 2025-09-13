@@ -1,0 +1,2 @@
+Ag2Bi2Cr8O28
+Atoms(symbols='Cr4AgBiO14Cr4AgBiO14', pbc=False)

@@ -1,0 +1,2 @@
+Ge3Mg9Na18O72P12S6
+Atoms(symbols='Ge3Mg9Na18O72P12S6', pbc=False)

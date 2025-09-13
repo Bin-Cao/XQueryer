@@ -1,0 +1,2 @@
+Mn18O26
+Atoms(symbols='Mn9O13Mn9O13', pbc=False)

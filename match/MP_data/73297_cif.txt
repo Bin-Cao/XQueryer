@@ -1,0 +1,2 @@
+CoEuMgO3
+Atoms(symbols='EuMgCoO3', pbc=False)

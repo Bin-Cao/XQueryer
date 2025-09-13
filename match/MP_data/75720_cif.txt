@@ -1,0 +1,2 @@
+H36Mg3O27S3
+Atoms(symbols='H36Mg3O27S3', pbc=False)

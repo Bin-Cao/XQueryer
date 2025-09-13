@@ -1,0 +1,2 @@
+Fe6Li6O24P6
+Atoms(symbols='Li6Fe6P6O24', pbc=False)

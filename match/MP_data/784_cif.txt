@@ -1,0 +1,2 @@
+Co4Cr4Te4
+Atoms(symbols='CrCoTeCrCoTeCrCoTeCrCoTe', pbc=False)

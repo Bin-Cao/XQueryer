@@ -1,0 +1,2 @@
+Nb2O4
+Atoms(symbols='Nb2O4', pbc=False)

@@ -1,0 +1,2 @@
+Cu20O40V8
+Atoms(symbols='Cu20O40V8', pbc=False)

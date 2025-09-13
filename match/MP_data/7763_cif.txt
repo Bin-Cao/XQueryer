@@ -1,0 +1,2 @@
+Al4O28Sb2Si2V13
+Atoms(symbols='Al4V13Si2Sb2O28', pbc=False)

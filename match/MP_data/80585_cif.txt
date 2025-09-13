@@ -1,0 +1,2 @@
+Bi18Ca18Zn8
+Atoms(symbols='Ca18Zn8Bi18', pbc=False)

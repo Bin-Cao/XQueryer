@@ -1,0 +1,2 @@
+B20Co2Th4
+Atoms(symbols='Th4Co2B20', pbc=False)

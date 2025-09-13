@@ -1,0 +1,2 @@
+MgMo2N2Na6O6
+Atoms(symbols='Na6MgMo2N2O6', pbc=False)

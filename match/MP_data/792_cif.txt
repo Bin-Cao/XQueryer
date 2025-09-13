@@ -1,0 +1,2 @@
+Mg3W
+Atoms(symbols='Mg3W', pbc=False)

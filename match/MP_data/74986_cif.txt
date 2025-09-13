@@ -1,0 +1,2 @@
+H8Sm4
+Atoms(symbols='SmH2SmH2SmH2SmH2', pbc=False)

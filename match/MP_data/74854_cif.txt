@@ -1,0 +1,2 @@
+H8Ta4
+Atoms(symbols='TaH2TaH2TaH2TaH2', pbc=False)

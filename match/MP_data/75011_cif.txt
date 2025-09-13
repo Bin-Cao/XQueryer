@@ -1,0 +1,2 @@
+Mo2Si4
+Atoms(symbols='Si2MoSi2Mo', pbc=False)

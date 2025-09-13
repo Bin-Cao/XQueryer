@@ -1,0 +1,2 @@
+Fe2MgO7Sr3
+Atoms(symbols='Sr3MgFe2O7', pbc=False)

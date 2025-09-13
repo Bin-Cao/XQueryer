@@ -1,0 +1,2 @@
+B54Hf7Nb7Ta4Ti3Zr6
+Atoms(symbols='B54Hf7Nb7Ta4Ti3Zr6', pbc=False)

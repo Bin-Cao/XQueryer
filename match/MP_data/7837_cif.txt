@@ -1,0 +1,2 @@
+Nb4O16Sb2Zn4
+Atoms(symbols='Nb4Zn4Sb2O16', pbc=False)

@@ -1,0 +1,2 @@
+H8Ag4O16V4
+Atoms(symbols='V4Ag4H8O16', pbc=False)

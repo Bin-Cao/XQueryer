@@ -1,0 +1,2 @@
+Ba2O7W3Y
+Atoms(symbols='Ba2YW3O7', pbc=False)

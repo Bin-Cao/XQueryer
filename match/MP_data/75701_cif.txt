@@ -1,0 +1,2 @@
+CH5Cl3N2Pb
+Atoms(symbols='H5PbCN2Cl3', pbc=False)

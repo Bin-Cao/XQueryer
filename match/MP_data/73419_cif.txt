@@ -1,0 +1,2 @@
+InY
+Atoms(symbols='YIn', pbc=False)

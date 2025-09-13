@@ -1,0 +1,2 @@
+Ho18Mg3O36W3
+Atoms(symbols='Ho6MgWO12Ho6MgWO12Ho6MgWO12', pbc=False)

@@ -1,0 +1,2 @@
+I18In6O54
+Atoms(symbols='I18In6O54', pbc=False)

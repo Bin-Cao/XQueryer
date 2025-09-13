@@ -1,0 +1,2 @@
+O8Pa4
+Atoms(symbols='PaO2PaO2PaO2PaO2', pbc=False)

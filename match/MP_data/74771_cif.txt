@@ -1,0 +1,2 @@
+H12Al2Li2Na4
+Atoms(symbols='Na4Li2Al2H12', pbc=False)

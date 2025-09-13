@@ -1,0 +1,2 @@
+Hf6Na18O72P6Si12Zr6
+Atoms(symbols='Hf6Na18O72P6Si12Zr6', pbc=False)

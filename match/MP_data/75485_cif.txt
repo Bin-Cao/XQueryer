@@ -1,0 +1,2 @@
+H2O16P4Rb2Zn4
+Atoms(symbols='Rb2Zn4P4H2O16', pbc=False)

@@ -1,0 +1,2 @@
+Bi12GeO20
+Atoms(symbols='GeBi12O20', pbc=False)

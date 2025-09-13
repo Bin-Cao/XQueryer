@@ -1,0 +1,2 @@
+As2Fe2MgO6Sr4V2
+Atoms(symbols='Sr4MgV2Fe2As2O6', pbc=False)

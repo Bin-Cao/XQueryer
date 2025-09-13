@@ -1,0 +1,2 @@
+I4K4
+Atoms(symbols='KIKIKIKI', pbc=False)

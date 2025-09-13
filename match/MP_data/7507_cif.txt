@@ -1,0 +1,2 @@
+Mg4Ni4O20P4
+Atoms(symbols='Mg2Ni2P2O10Mg2Ni2P2O10', pbc=False)

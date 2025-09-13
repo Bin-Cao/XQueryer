@@ -1,0 +1,2 @@
+PdSc
+Atoms(symbols='ScPd', pbc=False)

@@ -1,0 +1,2 @@
+EuNi5
+Atoms(symbols='EuNi5', pbc=False)

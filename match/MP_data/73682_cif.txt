@@ -1,0 +1,2 @@
+BiNa
+Atoms(symbols='NaBi', pbc=False)

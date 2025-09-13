@@ -1,0 +1,2 @@
+H60Th16
+Atoms(symbols='H60Th16', pbc=False)

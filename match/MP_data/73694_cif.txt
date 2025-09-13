@@ -1,0 +1,2 @@
+Cl2Ho2MgMo2O8
+Atoms(symbols='Ho2MgMo2Cl2O8', pbc=False)

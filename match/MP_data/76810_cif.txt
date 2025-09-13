@@ -1,0 +1,2 @@
+In6O72S15Si3Ti6
+Atoms(symbols='In6O72S15Si3Ti6', pbc=False)

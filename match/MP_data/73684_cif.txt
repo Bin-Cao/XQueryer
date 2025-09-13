@@ -1,0 +1,2 @@
+BiFe2MgO9Si2
+Atoms(symbols='MgFe2Si2BiO9', pbc=False)

@@ -1,0 +1,2 @@
+NbO4V
+Atoms(symbols='NbVO4', pbc=False)

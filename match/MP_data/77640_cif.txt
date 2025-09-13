@@ -1,0 +1,2 @@
+Mg20Na12O144S36Ta4
+Atoms(symbols='Mg20Na12O144S36Ta4', pbc=False)

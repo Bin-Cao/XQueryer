@@ -1,0 +1,2 @@
+Cl6La2
+Atoms(symbols='La2Cl6', pbc=False)

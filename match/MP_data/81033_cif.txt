@@ -1,0 +1,2 @@
+Ga12Na8Sb12
+Atoms(symbols='Na8Ga12Sb12', pbc=False)

@@ -1,0 +1,2 @@
+CoSi
+Atoms(symbols='CoSi', pbc=False)

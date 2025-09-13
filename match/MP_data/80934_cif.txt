@@ -1,0 +1,2 @@
+Ce2Re8Si4
+Atoms(symbols='CeRe4Si2CeRe4Si2', pbc=False)

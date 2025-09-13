@@ -1,0 +1,2 @@
+MgO12Tb4W2
+Atoms(symbols='Tb4MgW2O12', pbc=False)

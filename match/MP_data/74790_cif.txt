@@ -1,0 +1,2 @@
+B32Co8O56
+Atoms(symbols='B32Co8O56', pbc=False)

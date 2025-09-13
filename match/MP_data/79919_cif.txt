@@ -1,0 +1,2 @@
+O14Sr6Zr4
+Atoms(symbols='Sr3Zr2O7Sr3Zr2O7', pbc=False)

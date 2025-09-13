@@ -1,0 +1,2 @@
+BeCu
+Atoms(symbols='BeCu', pbc=False)

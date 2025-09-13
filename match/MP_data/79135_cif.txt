@@ -1,0 +1,2 @@
+Ga18Na42Nb6O144S9Si27
+Atoms(symbols='Ga18Na42Nb6O144S9Si27', pbc=False)

@@ -1,0 +1,2 @@
+As2F16Sb2
+Atoms(symbols='Sb2As2F16', pbc=False)

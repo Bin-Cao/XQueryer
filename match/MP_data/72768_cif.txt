@@ -1,0 +1,2 @@
+MgO12Sn3Ti3
+Atoms(symbols='MgTi3Sn3O12', pbc=False)

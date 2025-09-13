@@ -1,0 +1,2 @@
+LaTe
+Atoms(symbols='LaTe', pbc=False)

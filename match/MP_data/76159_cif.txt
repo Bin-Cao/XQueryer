@@ -1,0 +1,2 @@
+Cl6Mn16O20
+Atoms(symbols='Mn16Cl6O20', pbc=False)

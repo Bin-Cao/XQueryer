@@ -1,0 +1,2 @@
+O54Te24
+Atoms(symbols='O54Te24', pbc=False)

@@ -1,0 +1,2 @@
+Cl24N12P12
+Atoms(symbols='P12N12Cl24', pbc=False)

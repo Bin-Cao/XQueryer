@@ -1,0 +1,2 @@
+AlCl3
+Atoms(symbols='AlCl3', pbc=False)

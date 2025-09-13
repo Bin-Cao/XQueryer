@@ -1,0 +1,2 @@
+K4O12Zr5
+Atoms(symbols='K4Zr5O12', pbc=False)

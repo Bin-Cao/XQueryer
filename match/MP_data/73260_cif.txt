@@ -1,0 +1,2 @@
+Mg2O24Sn2V8
+Atoms(symbols='MgV4SnO12MgV4SnO12', pbc=False)

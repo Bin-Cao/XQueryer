@@ -1,0 +1,2 @@
+B16O40Th8
+Atoms(symbols='B16O40Th8', pbc=False)

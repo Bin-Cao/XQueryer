@@ -1,0 +1,2 @@
+Cr4O32Ta8
+Atoms(symbols='Ta4Cr2O16Ta4Cr2O16', pbc=False)

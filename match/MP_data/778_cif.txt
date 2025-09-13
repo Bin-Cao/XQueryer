@@ -1,0 +1,2 @@
+KMg3
+Atoms(symbols='KMg3', pbc=False)

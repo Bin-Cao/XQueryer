@@ -1,0 +1,2 @@
+Mg16Ni32
+Atoms(symbols='Mg8Ni16Mg8Ni16', pbc=False)

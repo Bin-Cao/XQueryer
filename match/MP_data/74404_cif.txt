@@ -1,0 +1,2 @@
+Cl2F10N2Re2
+Atoms(symbols='Re2N2Cl2F10', pbc=False)

@@ -1,0 +1,2 @@
+AgLi
+Atoms(symbols='LiAg', pbc=False)

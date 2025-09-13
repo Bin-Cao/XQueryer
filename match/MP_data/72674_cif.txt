@@ -1,0 +1,2 @@
+Eu4Mg2Na4O20Ti6
+Atoms(symbols='Na2Eu2MgTi3O10Na2Eu2MgTi3O10', pbc=False)

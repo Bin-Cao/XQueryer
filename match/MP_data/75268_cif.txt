@@ -1,0 +1,2 @@
+LiMnO2
+Atoms(symbols='LiMnO2', pbc=False)

@@ -1,0 +1,2 @@
+Al5Cu5
+Atoms(symbols='Al5Cu5', pbc=False)

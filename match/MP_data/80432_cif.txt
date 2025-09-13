@@ -1,0 +1,2 @@
+P32Re8
+Atoms(symbols='Re8P32', pbc=False)

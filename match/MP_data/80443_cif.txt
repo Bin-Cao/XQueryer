@@ -1,0 +1,2 @@
+Co5Er
+Atoms(symbols='ErCo5', pbc=False)

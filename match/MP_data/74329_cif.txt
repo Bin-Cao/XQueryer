@@ -1,0 +1,2 @@
+H2Ba2I2
+Atoms(symbols='Ba2H2I2', pbc=False)

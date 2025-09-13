@@ -1,0 +1,2 @@
+C8Co2N12
+Atoms(symbols='Co2C8N12', pbc=False)

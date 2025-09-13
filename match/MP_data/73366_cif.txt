@@ -1,0 +1,2 @@
+H4Fe2MgO10V2
+Atoms(symbols='MgV2Fe2H4O10', pbc=False)

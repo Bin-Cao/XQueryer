@@ -1,0 +1,2 @@
+La9Na6O144S18Si18Ta15
+Atoms(symbols='La9Na6O144S18Si18Ta15', pbc=False)

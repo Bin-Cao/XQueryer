@@ -1,0 +1,2 @@
+Si2Ti2
+Atoms(symbols='TiSiTiSi', pbc=False)

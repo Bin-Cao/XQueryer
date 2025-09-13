@@ -1,0 +1,2 @@
+Ca6Ge3Pd9
+Atoms(symbols='Ca2GePd3Ca2GePd3Ca2GePd3', pbc=False)

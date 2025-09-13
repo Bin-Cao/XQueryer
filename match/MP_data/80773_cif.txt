@@ -1,0 +1,2 @@
+C4Ce2
+Atoms(symbols='CeC2CeC2', pbc=False)

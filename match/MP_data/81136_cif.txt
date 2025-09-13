@@ -1,0 +1,2 @@
+H28B18Cs2
+Atoms(symbols='Cs2B18H28', pbc=False)

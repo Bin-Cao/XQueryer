@@ -1,0 +1,2 @@
+FMgNa3O10P2Ti2
+Atoms(symbols='Na3MgTi2P2O10F', pbc=False)

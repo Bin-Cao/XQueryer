@@ -1,0 +1,2 @@
+Bi13O28Sb2Si2
+Atoms(symbols='Si2Bi13Sb2O28', pbc=False)

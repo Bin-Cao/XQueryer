@@ -1,0 +1,2 @@
+LiNiO8W2
+Atoms(symbols='LiNiW2O8', pbc=False)

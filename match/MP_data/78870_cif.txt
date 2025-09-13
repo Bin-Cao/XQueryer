@@ -1,0 +1,2 @@
+Na12Nb10O72S3Si15Zn2
+Atoms(symbols='Na12Nb10O72S3Si15Zn2', pbc=False)

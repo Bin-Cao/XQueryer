@@ -1,0 +1,2 @@
+C4H40B36Na4
+Atoms(symbols='C4H40B36Na4', pbc=False)

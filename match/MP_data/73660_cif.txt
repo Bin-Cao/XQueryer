@@ -1,0 +1,2 @@
+CAlFe3
+Atoms(symbols='AlFe3C', pbc=False)

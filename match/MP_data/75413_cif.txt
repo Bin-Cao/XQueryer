@@ -1,0 +1,2 @@
+C8H24F2O10Re2
+Atoms(symbols='Re2H24C8O10F2', pbc=False)

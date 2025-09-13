@@ -1,0 +1,2 @@
+Co2Sb2
+Atoms(symbols='Co2Sb2', pbc=False)

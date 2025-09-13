@@ -1,0 +1,2 @@
+C56H5O
+Atoms(symbols='C56H5O', pbc=False)

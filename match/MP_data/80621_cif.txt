@@ -1,0 +1,2 @@
+Au2Nb6
+Atoms(symbols='Nb6Au2', pbc=False)

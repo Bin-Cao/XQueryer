@@ -1,0 +1,2 @@
+AlCrMgO4
+Atoms(symbols='MgAlCrO4', pbc=False)

@@ -1,0 +1,2 @@
+Ce2N2Se
+Atoms(symbols='Ce2SeN2', pbc=False)

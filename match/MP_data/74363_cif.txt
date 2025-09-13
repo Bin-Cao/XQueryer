@@ -1,0 +1,2 @@
+O16Pd4Se4
+Atoms(symbols='Pd2Se2O8Pd2Se2O8', pbc=False)

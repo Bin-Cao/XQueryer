@@ -1,0 +1,2 @@
+Mg8Na30Nb16O144S9Si27
+Atoms(symbols='Mg8Na30Nb16O144S9Si27', pbc=False)

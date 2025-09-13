@@ -1,0 +1,2 @@
+Ca2O24P6Ta2Ti2
+Atoms(symbols='Ca2Ta2Ti2P6O24', pbc=False)

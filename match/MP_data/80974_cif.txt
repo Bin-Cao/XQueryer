@@ -1,0 +1,2 @@
+H6I6N4
+Atoms(symbols='H6I6N4', pbc=False)

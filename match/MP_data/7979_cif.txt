@@ -1,0 +1,2 @@
+AlBa2O7V3
+Atoms(symbols='Ba2AlV3O7', pbc=False)

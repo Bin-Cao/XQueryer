@@ -1,0 +1,2 @@
+F18I15Sb3
+Atoms(symbols='Sb3I15F18', pbc=False)

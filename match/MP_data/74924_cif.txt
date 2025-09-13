@@ -1,0 +1,2 @@
+MnO2
+Atoms(symbols='MnO2', pbc=False)

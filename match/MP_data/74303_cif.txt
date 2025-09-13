@@ -1,0 +1,2 @@
+Cl12Mn32O40
+Atoms(symbols='Cl12Mn32O40', pbc=False)

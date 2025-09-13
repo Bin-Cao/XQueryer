@@ -1,0 +1,2 @@
+La3Na9O72S9Si9Sn9
+Atoms(symbols='La3Na9O72S9Si9Sn9', pbc=False)

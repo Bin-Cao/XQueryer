@@ -1,0 +1,2 @@
+MgO12Re2Sb2
+Atoms(symbols='MgRe2Sb2O12', pbc=False)

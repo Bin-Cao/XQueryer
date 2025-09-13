@@ -1,0 +1,2 @@
+In18Na30O144S15Si21Ta6
+Atoms(symbols='In18Na30O144S15Si21Ta6', pbc=False)

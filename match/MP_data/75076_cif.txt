@@ -1,0 +1,2 @@
+H40Cl8N16O32
+Atoms(symbols='H40Cl8N16O32', pbc=False)

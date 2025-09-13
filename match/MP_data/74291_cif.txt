@@ -1,0 +1,2 @@
+LaNi5
+Atoms(symbols='LaNi5', pbc=False)

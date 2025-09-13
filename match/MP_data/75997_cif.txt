@@ -1,0 +1,2 @@
+Ni16O48P12
+Atoms(symbols='Ni16O48P12', pbc=False)

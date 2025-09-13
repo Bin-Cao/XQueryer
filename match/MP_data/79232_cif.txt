@@ -1,0 +1,2 @@
+Ca12Hf12Na36O144P36
+Atoms(symbols='Ca12Hf12Na36O144P36', pbc=False)

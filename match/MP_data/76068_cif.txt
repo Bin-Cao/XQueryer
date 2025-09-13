@@ -1,0 +1,2 @@
+Co12O80P24
+Atoms(symbols='Co12O80P24', pbc=False)

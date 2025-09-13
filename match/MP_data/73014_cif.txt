@@ -1,0 +1,2 @@
+Ba4Co4MgO10
+Atoms(symbols='Ba4MgCo4O10', pbc=False)

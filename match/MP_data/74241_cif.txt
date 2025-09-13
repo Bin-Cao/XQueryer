@@ -1,0 +1,2 @@
+I12Ti4
+Atoms(symbols='Ti4I12', pbc=False)

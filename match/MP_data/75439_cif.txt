@@ -1,0 +1,2 @@
+O36P12V4
+Atoms(symbols='V4P12O36', pbc=False)

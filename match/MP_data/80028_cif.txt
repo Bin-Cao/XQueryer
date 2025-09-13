@@ -1,0 +1,2 @@
+Cu4Nb12O32
+Atoms(symbols='Nb12Cu4O32', pbc=False)

@@ -1,0 +1,2 @@
+Br6Ru2
+Atoms(symbols='Ru2Br6', pbc=False)

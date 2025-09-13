@@ -1,0 +1,2 @@
+Cu4Fe4Mg2O10Se4Sr6
+Atoms(symbols='Sr3MgFe2Cu2Se2O5Sr3MgFe2Cu2Se2O5', pbc=False)

@@ -1,0 +1,2 @@
+H8Dy2I6O22
+Atoms(symbols='Dy2H8I6O22', pbc=False)

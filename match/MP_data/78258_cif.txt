@@ -1,0 +1,2 @@
+Na21O72P3Si15Sn6Ti6
+Atoms(symbols='Na21O72P3Si15Sn6Ti6', pbc=False)

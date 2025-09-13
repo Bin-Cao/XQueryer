@@ -1,0 +1,2 @@
+Ni12P5
+Atoms(symbols='Ni12P5', pbc=False)

@@ -1,0 +1,2 @@
+Ni8O44P12
+Atoms(symbols='Ni8O44P12', pbc=False)

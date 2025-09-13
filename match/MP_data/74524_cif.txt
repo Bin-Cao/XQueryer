@@ -1,0 +1,2 @@
+Bi8O24Si6
+Atoms(symbols='Si6Bi8O24', pbc=False)

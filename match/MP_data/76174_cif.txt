@@ -1,0 +1,2 @@
+Br108Pt36
+Atoms(symbols='Br108Pt36', pbc=False)

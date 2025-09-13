@@ -1,0 +1,2 @@
+H12Cl2O6Sr
+Atoms(symbols='SrH12Cl2O6', pbc=False)

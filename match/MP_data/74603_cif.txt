@@ -1,0 +1,2 @@
+As4Os2
+Atoms(symbols='As4Os2', pbc=False)

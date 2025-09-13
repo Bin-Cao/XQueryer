@@ -1,0 +1,2 @@
+H4Sr2
+Atoms(symbols='Sr2H4', pbc=False)

@@ -1,0 +1,2 @@
+CoMgMnO12V4
+Atoms(symbols='MgMnV4CoO12', pbc=False)

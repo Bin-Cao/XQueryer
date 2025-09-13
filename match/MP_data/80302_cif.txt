@@ -1,0 +1,2 @@
+Bi4In8S18
+Atoms(symbols='In8Bi4S18', pbc=False)

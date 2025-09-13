@@ -1,0 +1,2 @@
+Mn2O12V4
+Atoms(symbols='Mn2V4O12', pbc=False)

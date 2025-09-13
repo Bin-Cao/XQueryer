@@ -1,0 +1,2 @@
+As2O13V4
+Atoms(symbols='V4As2O13', pbc=False)

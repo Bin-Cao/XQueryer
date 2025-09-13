@@ -1,0 +1,2 @@
+Al12In12Na42O144S15Si21
+Atoms(symbols='Al12In12Na42O144S15Si21', pbc=False)

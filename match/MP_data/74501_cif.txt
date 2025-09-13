@@ -1,0 +1,2 @@
+La4P4
+Atoms(symbols='LaPLaPLaPLaP', pbc=False)

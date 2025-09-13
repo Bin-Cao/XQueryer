@@ -1,0 +1,2 @@
+AgHo
+Atoms(symbols='HoAg', pbc=False)

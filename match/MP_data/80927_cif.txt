@@ -1,0 +1,2 @@
+Ge4K12Te12
+Atoms(symbols='K12Ge4Te12', pbc=False)

@@ -1,0 +1,2 @@
+C8Mn20
+Atoms(symbols='Mn10C4Mn10C4', pbc=False)

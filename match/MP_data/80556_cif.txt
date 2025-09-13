@@ -1,0 +1,2 @@
+Cl4O2V2
+Atoms(symbols='VCl2OVCl2O', pbc=False)

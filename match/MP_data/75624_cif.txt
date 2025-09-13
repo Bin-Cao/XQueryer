@@ -1,0 +1,2 @@
+Ag6Cl18Re3
+Atoms(symbols='ReAg2Cl6ReAg2Cl6ReAg2Cl6', pbc=False)

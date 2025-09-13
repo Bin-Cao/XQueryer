@@ -1,0 +1,2 @@
+C2H10Cl6N4Sn2
+Atoms(symbols='SnH5CN2Cl3SnH5CN2Cl3', pbc=False)

@@ -1,0 +1,2 @@
+MgO70V28
+Atoms(symbols='MgO70V28', pbc=False)

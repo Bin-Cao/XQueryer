@@ -1,0 +1,2 @@
+H20As4Ca4O24
+Atoms(symbols='Ca2As2H10O12Ca2As2H10O12', pbc=False)

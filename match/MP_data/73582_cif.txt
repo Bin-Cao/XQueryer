@@ -1,0 +1,2 @@
+F10MgO2Rb2Ti2Zn2
+Atoms(symbols='Rb2MgTi2Zn2O2F10', pbc=False)

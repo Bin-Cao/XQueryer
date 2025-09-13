@@ -1,0 +1,2 @@
+Cu3NaO4
+Atoms(symbols='NaCu3O4', pbc=False)

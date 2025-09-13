@@ -1,0 +1,2 @@
+Mg2Na4O16Pr4Ti4
+Atoms(symbols='Na2Pr2MgTi2O8Na2Pr2MgTi2O8', pbc=False)

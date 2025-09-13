@@ -1,0 +1,2 @@
+Mo14N38Na30
+Atoms(symbols='Mo14N38Na30', pbc=False)

@@ -1,0 +1,2 @@
+In18Mg3O36W3
+Atoms(symbols='MgIn6WO12MgIn6WO12MgIn6WO12', pbc=False)

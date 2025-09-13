@@ -1,0 +1,2 @@
+ClTl
+Atoms(symbols='TlCl', pbc=False)

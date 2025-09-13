@@ -1,0 +1,2 @@
+O16Sb2W4
+Atoms(symbols='Sb2W4O16', pbc=False)

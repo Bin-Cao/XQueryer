@@ -1,0 +1,2 @@
+Cl36P4V4
+Atoms(symbols='V2P2Cl18V2P2Cl18', pbc=False)

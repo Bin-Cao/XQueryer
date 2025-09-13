@@ -1,0 +1,2 @@
+H6Dy2O6
+Atoms(symbols='Dy2H6O6', pbc=False)

@@ -1,0 +1,2 @@
+Ca6Cl4Cu4O8
+Atoms(symbols='Ca3Cu2Cl2O4Ca3Cu2Cl2O4', pbc=False)

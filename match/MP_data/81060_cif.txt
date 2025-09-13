@@ -1,0 +1,2 @@
+Au2CaF12
+Atoms(symbols='CaAu2F12', pbc=False)

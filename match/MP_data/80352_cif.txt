@@ -1,0 +1,2 @@
+H5As3O10
+Atoms(symbols='As3H5O10', pbc=False)

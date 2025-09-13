@@ -1,0 +1,2 @@
+As4IKO6
+Atoms(symbols='KAs4IO6', pbc=False)

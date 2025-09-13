@@ -1,0 +1,2 @@
+Fe4MgO8Zn2
+Atoms(symbols='MgZn2Fe4O8', pbc=False)

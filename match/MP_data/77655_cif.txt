@@ -1,0 +1,2 @@
+O144P36Ta20Zn4
+Atoms(symbols='O144P36Ta20Zn4', pbc=False)

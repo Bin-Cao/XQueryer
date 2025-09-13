@@ -1,0 +1,2 @@
+I4Na4
+Atoms(symbols='NaINaINaINaI', pbc=False)

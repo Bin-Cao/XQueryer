@@ -1,0 +1,2 @@
+Cl20Fe4Tl12
+Atoms(symbols='Tl6Fe2Cl10Tl6Fe2Cl10', pbc=False)

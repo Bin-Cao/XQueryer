@@ -1,0 +1,2 @@
+LiMg3
+Atoms(symbols='LiMg3', pbc=False)

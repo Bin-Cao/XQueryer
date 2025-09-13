@@ -1,0 +1,2 @@
+H40N4O28Se4Zn2
+Atoms(symbols='H40N4O28Se4Zn2', pbc=False)

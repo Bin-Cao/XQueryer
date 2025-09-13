@@ -1,0 +1,2 @@
+Hg2P2S7
+Atoms(symbols='Hg2P2S7', pbc=False)

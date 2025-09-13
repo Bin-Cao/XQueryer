@@ -1,0 +1,2 @@
+Re2
+Atoms(symbols='Re2', pbc=False)

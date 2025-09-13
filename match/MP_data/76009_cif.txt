@@ -1,0 +1,2 @@
+H36Co3F18O18Si3
+Atoms(symbols='H36Co3F18O18Si3', pbc=False)

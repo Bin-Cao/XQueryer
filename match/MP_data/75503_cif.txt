@@ -1,0 +1,2 @@
+AlFe
+Atoms(symbols='AlFe', pbc=False)

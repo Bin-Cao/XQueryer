@@ -1,0 +1,2 @@
+H12B3Ho3
+Atoms(symbols='Ho3B3H12', pbc=False)

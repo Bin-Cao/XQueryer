@@ -1,0 +1,2 @@
+AlCu3O12W4
+Atoms(symbols='AlCu3W4O12', pbc=False)

@@ -1,0 +1,2 @@
+Co26O56Sb4Si4Y8
+Atoms(symbols='Co26O56Sb4Si4Y8', pbc=False)

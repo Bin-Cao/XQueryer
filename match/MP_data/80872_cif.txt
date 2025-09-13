@@ -1,0 +1,2 @@
+Mo18O52
+Atoms(symbols='Mo18O52', pbc=False)

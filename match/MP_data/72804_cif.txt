@@ -1,0 +1,2 @@
+Co2MgO10Si2Zn2
+Atoms(symbols='MgZn2Co2Si2O10', pbc=False)

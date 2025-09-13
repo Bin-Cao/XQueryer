@@ -1,0 +1,2 @@
+EuTl3
+Atoms(symbols='EuTl3', pbc=False)

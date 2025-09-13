@@ -1,0 +1,2 @@
+CuO3V
+Atoms(symbols='VCuO3', pbc=False)

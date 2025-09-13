@@ -1,0 +1,2 @@
+H16Be4N4O16P4
+Atoms(symbols='Be4P4H16N4O16', pbc=False)

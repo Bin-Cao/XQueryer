@@ -1,0 +1,2 @@
+Cl20Dy8Li4
+Atoms(symbols='Li2Dy4Cl10Li2Dy4Cl10', pbc=False)

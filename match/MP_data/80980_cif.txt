@@ -1,0 +1,2 @@
+Se36V8
+Atoms(symbols='V4Se18V4Se18', pbc=False)

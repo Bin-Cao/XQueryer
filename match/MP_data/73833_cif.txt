@@ -1,0 +1,2 @@
+Co2KMgMo2O10
+Atoms(symbols='KMgCo2Mo2O10', pbc=False)

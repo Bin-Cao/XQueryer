@@ -1,0 +1,2 @@
+O28Tc8
+Atoms(symbols='Tc8O28', pbc=False)

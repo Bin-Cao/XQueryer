@@ -1,0 +1,2 @@
+H8Cr4
+Atoms(symbols='CrH2CrH2CrH2CrH2', pbc=False)

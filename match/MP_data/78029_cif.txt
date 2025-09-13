@@ -1,0 +1,2 @@
+Ag7AlSe5
+Atoms(symbols='AlAg7Se5', pbc=False)

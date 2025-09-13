@@ -1,0 +1,2 @@
+Ga12In12Na6O144S33Si3
+Atoms(symbols='Ga12In12Na6O144S33Si3', pbc=False)

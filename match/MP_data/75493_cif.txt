@@ -1,0 +1,2 @@
+Co2O6Sr4
+Atoms(symbols='Sr2CoO3Sr2CoO3', pbc=False)

@@ -1,0 +1,2 @@
+Bi8O20Si4
+Atoms(symbols='Si2Bi4O10Si2Bi4O10', pbc=False)

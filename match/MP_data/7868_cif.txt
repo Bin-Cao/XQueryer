@@ -1,0 +1,2 @@
+Ni13O28Sb2Si2Y4
+Atoms(symbols='Y4Si2Ni13Sb2O28', pbc=False)

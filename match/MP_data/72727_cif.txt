@@ -1,0 +1,2 @@
+Co5MgNiO12
+Atoms(symbols='MgCo5NiO12', pbc=False)

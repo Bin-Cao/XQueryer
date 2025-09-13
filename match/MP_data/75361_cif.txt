@@ -1,0 +1,2 @@
+H4Li4Pt2
+Atoms(symbols='Li2H2PtLi2H2Pt', pbc=False)

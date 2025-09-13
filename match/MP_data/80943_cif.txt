@@ -1,0 +1,2 @@
+Cd2Na14O9
+Atoms(symbols='Na14Cd2O9', pbc=False)

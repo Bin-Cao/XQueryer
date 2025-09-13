@@ -1,0 +1,2 @@
+Na18O144S33Si3Sn6Zn18
+Atoms(symbols='Na18O144S33Si3Sn6Zn18', pbc=False)

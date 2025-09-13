@@ -1,0 +1,2 @@
+HoZn
+Atoms(symbols='HoZn', pbc=False)

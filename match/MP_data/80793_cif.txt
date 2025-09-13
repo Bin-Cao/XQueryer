@@ -1,0 +1,2 @@
+Cl24Fe4Hf4
+Atoms(symbols='Hf2Fe2Cl12Hf2Fe2Cl12', pbc=False)

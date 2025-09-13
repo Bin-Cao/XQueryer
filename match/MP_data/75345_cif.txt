@@ -1,0 +1,2 @@
+O32P10Sb4
+Atoms(symbols='Sb4P10O32', pbc=False)

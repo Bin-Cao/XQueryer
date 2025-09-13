@@ -1,0 +1,2 @@
+Bi8Ca2O16
+Atoms(symbols='CaBi4O8CaBi4O8', pbc=False)

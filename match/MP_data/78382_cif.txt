@@ -1,0 +1,2 @@
+Hf9Mg3Na18O72S6Si12
+Atoms(symbols='Hf9Mg3Na18O72S6Si12', pbc=False)

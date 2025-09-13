@@ -1,0 +1,2 @@
+Ag24O16Sr4
+Atoms(symbols='Sr4Ag24O16', pbc=False)

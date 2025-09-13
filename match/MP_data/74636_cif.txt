@@ -1,0 +1,2 @@
+Dy6Rh30Si18
+Atoms(symbols='Dy6Si18Rh30', pbc=False)

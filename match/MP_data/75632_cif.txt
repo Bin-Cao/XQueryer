@@ -1,0 +1,2 @@
+Cu5O14Si4
+Atoms(symbols='Cu5Si4O14', pbc=False)

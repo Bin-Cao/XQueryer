@@ -1,0 +1,2 @@
+MgNaO10V4
+Atoms(symbols='NaMgV4O10', pbc=False)

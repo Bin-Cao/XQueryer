@@ -1,0 +1,2 @@
+In8O14Rb4
+Atoms(symbols='Rb2In4O7Rb2In4O7', pbc=False)

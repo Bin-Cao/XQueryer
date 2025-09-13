@@ -1,0 +1,2 @@
+AlCo
+Atoms(symbols='AlCo', pbc=False)

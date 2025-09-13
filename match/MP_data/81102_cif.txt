@@ -1,0 +1,2 @@
+InTe
+Atoms(symbols='InTe', pbc=False)

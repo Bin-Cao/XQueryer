@@ -1,0 +1,2 @@
+Ca6Na54Nb30O216Si54
+Atoms(symbols='Ca6Na54Nb30O216Si54', pbc=False)

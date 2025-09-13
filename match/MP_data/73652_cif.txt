@@ -1,0 +1,2 @@
+Na90Pb24
+Atoms(symbols='Na90Pb24', pbc=False)

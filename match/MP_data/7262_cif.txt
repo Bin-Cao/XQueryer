@@ -1,0 +1,2 @@
+O26V18
+Atoms(symbols='V9O13V9O13', pbc=False)

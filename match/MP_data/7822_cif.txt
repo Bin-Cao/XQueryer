@@ -1,0 +1,2 @@
+Hf2PdSb3
+Atoms(symbols='Hf2Sb3Pd', pbc=False)

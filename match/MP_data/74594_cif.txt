@@ -1,0 +1,2 @@
+H8Dy4
+Atoms(symbols='DyH2DyH2DyH2DyH2', pbc=False)

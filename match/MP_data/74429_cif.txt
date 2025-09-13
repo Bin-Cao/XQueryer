@@ -1,0 +1,2 @@
+Ge16Li36
+Atoms(symbols='Li18Ge8Li18Ge8', pbc=False)

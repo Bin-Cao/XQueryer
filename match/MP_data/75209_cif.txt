@@ -1,0 +1,2 @@
+BaTe
+Atoms(symbols='BaTe', pbc=False)

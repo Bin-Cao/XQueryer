@@ -1,0 +1,2 @@
+Cl4Na4O16
+Atoms(symbols='Na2Cl2O8Na2Cl2O8', pbc=False)

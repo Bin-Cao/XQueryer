@@ -1,0 +1,2 @@
+Fe18O26Zn4
+Atoms(symbols='Zn2Fe9O13Zn2Fe9O13', pbc=False)

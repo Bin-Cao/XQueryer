@@ -1,0 +1,2 @@
+Bi6Hg6Mg3O18
+Atoms(symbols='MgHg2Bi2O6MgHg2Bi2O6MgHg2Bi2O6', pbc=False)

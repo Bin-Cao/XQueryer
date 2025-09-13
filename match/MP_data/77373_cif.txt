@@ -1,0 +1,2 @@
+Hf6O72P12S6Sn6
+Atoms(symbols='Hf6O72P12S6Sn6', pbc=False)

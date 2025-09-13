@@ -1,0 +1,2 @@
+Cl4Mg2Mo4O20P4Rb4
+Atoms(symbols='Rb2MgMo2P2Cl2O10Rb2MgMo2P2Cl2O10', pbc=False)

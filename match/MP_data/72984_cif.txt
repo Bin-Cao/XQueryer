@@ -1,0 +1,2 @@
+H6MgNa3O7V
+Atoms(symbols='Na3MgVH6O7', pbc=False)

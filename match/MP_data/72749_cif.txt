@@ -1,0 +1,2 @@
+ClCuLaMgNb2O7
+Atoms(symbols='LaMgNb2CuClO7', pbc=False)

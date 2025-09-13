@@ -1,0 +1,2 @@
+Br14Ga2Se2
+Atoms(symbols='Ga2Se2Br14', pbc=False)

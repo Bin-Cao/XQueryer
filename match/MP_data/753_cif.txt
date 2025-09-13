@@ -1,0 +1,2 @@
+Mg3Na
+Atoms(symbols='NaMg3', pbc=False)

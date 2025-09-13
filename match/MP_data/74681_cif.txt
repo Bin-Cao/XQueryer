@@ -1,0 +1,2 @@
+H2Ce4Li2O6
+Atoms(symbols='LiCe2HO3LiCe2HO3', pbc=False)

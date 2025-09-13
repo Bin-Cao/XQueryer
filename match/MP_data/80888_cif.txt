@@ -1,0 +1,2 @@
+Br2O2V2
+Atoms(symbols='V2Br2O2', pbc=False)

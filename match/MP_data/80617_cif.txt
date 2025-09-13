@@ -1,0 +1,2 @@
+Cl20Pa4
+Atoms(symbols='Pa2Cl10Pa2Cl10', pbc=False)

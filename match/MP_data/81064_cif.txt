@@ -1,0 +1,2 @@
+Be12K16O20
+Atoms(symbols='K8Be6O10K8Be6O10', pbc=False)

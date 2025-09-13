@@ -1,0 +1,2 @@
+K8O12Pb4
+Atoms(symbols='K4Pb2O6K4Pb2O6', pbc=False)

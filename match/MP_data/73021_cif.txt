@@ -1,0 +1,2 @@
+FeMgNiO12V4
+Atoms(symbols='MgV4FeNiO12', pbc=False)

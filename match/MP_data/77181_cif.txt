@@ -1,0 +1,2 @@
+Ca4O144P36Ta20
+Atoms(symbols='Ca4O144P36Ta20', pbc=False)

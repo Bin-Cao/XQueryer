@@ -1,0 +1,2 @@
+Bi2Co10Mg2O24
+Atoms(symbols='MgCo5BiO12MgCo5BiO12', pbc=False)

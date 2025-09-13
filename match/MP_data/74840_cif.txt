@@ -1,0 +1,2 @@
+H24Cl6N10O2Os2
+Atoms(symbols='H12OsN5Cl3OH12OsN5Cl3O', pbc=False)

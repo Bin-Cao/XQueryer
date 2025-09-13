@@ -1,0 +1,2 @@
+K30Mo14N38
+Atoms(symbols='K30Mo14N38', pbc=False)

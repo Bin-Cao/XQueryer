@@ -1,0 +1,2 @@
+CoO8W2
+Atoms(symbols='CoW2O8', pbc=False)

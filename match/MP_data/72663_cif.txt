@@ -1,0 +1,2 @@
+Mg2Ni8O16Sr2
+Atoms(symbols='SrMgNi4O8SrMgNi4O8', pbc=False)

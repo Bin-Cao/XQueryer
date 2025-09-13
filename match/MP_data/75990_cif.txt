@@ -1,0 +1,2 @@
+Cl48Co12K24
+Atoms(symbols='Cl48Co12K24', pbc=False)

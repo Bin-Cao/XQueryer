@@ -1,0 +1,2 @@
+Cl8I3Sb
+Atoms(symbols='SbI3Cl8', pbc=False)

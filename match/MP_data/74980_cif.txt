@@ -1,0 +1,2 @@
+As2F12I2Se12
+Atoms(symbols='As2Se12I2F12', pbc=False)

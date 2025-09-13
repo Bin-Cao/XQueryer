@@ -1,0 +1,2 @@
+Cr13O28Sb2Si2
+Atoms(symbols='Cr13Si2Sb2O28', pbc=False)

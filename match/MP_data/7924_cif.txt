@@ -1,0 +1,2 @@
+AgCa2O6W
+Atoms(symbols='Ca2AgWO6', pbc=False)

@@ -1,0 +1,2 @@
+Cd2Hg2O4
+Atoms(symbols='CdHgO2CdHgO2', pbc=False)

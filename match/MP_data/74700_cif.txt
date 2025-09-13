@@ -1,0 +1,2 @@
+Co5Ho
+Atoms(symbols='HoCo5', pbc=False)

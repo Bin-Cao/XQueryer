@@ -1,0 +1,2 @@
+Cu2F2MgNb2O6
+Atoms(symbols='MgNb2Cu2O6F2', pbc=False)

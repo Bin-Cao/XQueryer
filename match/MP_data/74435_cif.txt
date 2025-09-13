@@ -1,0 +1,2 @@
+BiITe
+Atoms(symbols='BiTeI', pbc=False)

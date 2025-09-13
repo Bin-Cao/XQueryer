@@ -1,0 +1,2 @@
+Br12N12S16
+Atoms(symbols='S16Br12N12', pbc=False)

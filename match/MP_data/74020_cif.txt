@@ -1,0 +1,2 @@
+LiPb
+Atoms(symbols='LiPb', pbc=False)

@@ -1,0 +1,2 @@
+Cl60Nb12
+Atoms(symbols='Cl60Nb12', pbc=False)

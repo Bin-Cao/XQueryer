@@ -1,0 +1,2 @@
+Mo4O32Ta8
+Atoms(symbols='Ta4Mo2O16Ta4Mo2O16', pbc=False)

@@ -1,0 +1,2 @@
+B12Co4W12
+Atoms(symbols='Co2B6W6Co2B6W6', pbc=False)

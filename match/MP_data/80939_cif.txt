@@ -1,0 +1,2 @@
+N8Pd4S24
+Atoms(symbols='Pd4S24N8', pbc=False)

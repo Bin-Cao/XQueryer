@@ -1,0 +1,2 @@
+GeO8Zr3
+Atoms(symbols='Zr3GeO8', pbc=False)

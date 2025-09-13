@@ -1,0 +1,2 @@
+ErGa2
+Atoms(symbols='ErGa2', pbc=False)

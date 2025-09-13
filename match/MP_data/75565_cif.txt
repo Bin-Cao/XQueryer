@@ -1,0 +1,2 @@
+HgPd
+Atoms(symbols='HgPd', pbc=False)

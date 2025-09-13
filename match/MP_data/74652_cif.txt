@@ -1,0 +1,2 @@
+C2H9KMgO10
+Atoms(symbols='KMgH9C2O10', pbc=False)

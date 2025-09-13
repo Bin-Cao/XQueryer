@@ -1,0 +1,2 @@
+Eu6MgO12W
+Atoms(symbols='Eu6MgWO12', pbc=False)

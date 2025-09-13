@@ -1,0 +1,2 @@
+AuKO2
+Atoms(symbols='KAuO2', pbc=False)

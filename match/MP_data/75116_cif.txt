@@ -1,0 +1,2 @@
+O36S12
+Atoms(symbols='S12O36', pbc=False)

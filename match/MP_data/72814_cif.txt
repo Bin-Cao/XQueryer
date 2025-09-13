@@ -1,0 +1,2 @@
+MgO12Te4V
+Atoms(symbols='MgVTe4O12', pbc=False)

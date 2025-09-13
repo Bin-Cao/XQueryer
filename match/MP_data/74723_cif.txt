@@ -1,0 +1,2 @@
+AgPr
+Atoms(symbols='PrAg', pbc=False)

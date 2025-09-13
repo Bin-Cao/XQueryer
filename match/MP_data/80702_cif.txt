@@ -1,0 +1,2 @@
+BiF6Li
+Atoms(symbols='LiBiF6', pbc=False)

@@ -1,0 +1,2 @@
+NiTe2
+Atoms(symbols='NiTe2', pbc=False)

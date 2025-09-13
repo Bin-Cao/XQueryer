@@ -1,0 +1,2 @@
+Co8Sc24
+Atoms(symbols='Sc24Co8', pbc=False)

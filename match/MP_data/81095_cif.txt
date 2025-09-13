@@ -1,0 +1,2 @@
+In8P12S36
+Atoms(symbols='In8P12S36', pbc=False)

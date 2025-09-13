@@ -1,0 +1,2 @@
+Mg54Sn30
+Atoms(symbols='Mg54Sn30', pbc=False)

@@ -1,0 +1,2 @@
+As2CuFeMgO10Pb
+Atoms(symbols='MgFeCuAs2PbO10', pbc=False)

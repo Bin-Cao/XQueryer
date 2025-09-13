@@ -1,0 +1,2 @@
+BeCo
+Atoms(symbols='BeCo', pbc=False)

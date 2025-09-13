@@ -1,0 +1,2 @@
+Cu10O26P6
+Atoms(symbols='Cu10P6O26', pbc=False)

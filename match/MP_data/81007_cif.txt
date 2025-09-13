@@ -1,0 +1,2 @@
+Al2Cl8Cu2
+Atoms(symbols='Al2Cu2Cl8', pbc=False)

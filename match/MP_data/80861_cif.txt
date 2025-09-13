@@ -1,0 +1,2 @@
+Cl18K2Zr7
+Atoms(symbols='K2Zr7Cl18', pbc=False)

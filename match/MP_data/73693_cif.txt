@@ -1,0 +1,2 @@
+MgMo2NaO8Rb3
+Atoms(symbols='Rb3NaMgMo2O8', pbc=False)

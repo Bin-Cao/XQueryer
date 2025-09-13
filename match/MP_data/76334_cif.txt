@@ -1,0 +1,2 @@
+Li18Ni18O72P18
+Atoms(symbols='Li18Ni18O72P18', pbc=False)

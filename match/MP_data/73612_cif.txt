@@ -1,0 +1,2 @@
+C4Ge4Mn12
+Atoms(symbols='Mn6Ge2C2Mn6Ge2C2', pbc=False)

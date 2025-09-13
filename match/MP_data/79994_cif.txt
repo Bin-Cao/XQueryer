@@ -1,0 +1,2 @@
+Br16Ti4
+Atoms(symbols='Ti4Br16', pbc=False)

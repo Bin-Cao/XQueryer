@@ -1,0 +1,2 @@
+F108Nb12Se12
+Atoms(symbols='F108Nb12Se12', pbc=False)

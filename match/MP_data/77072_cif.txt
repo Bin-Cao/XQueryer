@@ -1,0 +1,2 @@
+Cl120Ta48
+Atoms(symbols='Cl120Ta48', pbc=False)

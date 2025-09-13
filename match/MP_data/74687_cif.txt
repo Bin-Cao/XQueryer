@@ -1,0 +1,2 @@
+Co9Se8
+Atoms(symbols='Co9Se8', pbc=False)

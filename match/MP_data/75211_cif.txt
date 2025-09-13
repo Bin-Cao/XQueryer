@@ -1,0 +1,2 @@
+H24Cl6O12U2
+Atoms(symbols='U2H24Cl6O12', pbc=False)

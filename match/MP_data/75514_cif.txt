@@ -1,0 +1,2 @@
+Cu2Li2O8P2
+Atoms(symbols='LiCuPO4LiCuPO4', pbc=False)

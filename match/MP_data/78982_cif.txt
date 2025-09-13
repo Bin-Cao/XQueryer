@@ -1,0 +1,2 @@
+CaGe3Na6O24P4Si2
+Atoms(symbols='Na6CaSi2Ge3P4O24', pbc=False)

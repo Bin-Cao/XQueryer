@@ -1,0 +1,2 @@
+H8Ac4
+Atoms(symbols='AcH2AcH2AcH2AcH2', pbc=False)

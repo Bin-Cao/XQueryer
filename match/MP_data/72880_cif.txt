@@ -1,0 +1,2 @@
+CuEr2Ge4MgO12
+Atoms(symbols='Er2MgCuGe4O12', pbc=False)

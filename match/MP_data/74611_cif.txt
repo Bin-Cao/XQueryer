@@ -1,0 +1,2 @@
+I12Mn4Tl4
+Atoms(symbols='Mn4Tl4I12', pbc=False)

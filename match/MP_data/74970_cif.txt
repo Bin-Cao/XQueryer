@@ -1,0 +1,2 @@
+H4Fe4O8
+Atoms(symbols='Fe2H2O4Fe2H2O4', pbc=False)

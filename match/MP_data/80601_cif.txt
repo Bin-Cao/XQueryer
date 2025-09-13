@@ -1,0 +1,2 @@
+La8O20Re4
+Atoms(symbols='La4Re2O10La4Re2O10', pbc=False)

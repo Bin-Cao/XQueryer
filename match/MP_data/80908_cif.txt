@@ -1,0 +1,2 @@
+F32Mo8O8
+Atoms(symbols='Mo8O8F32', pbc=False)

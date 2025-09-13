@@ -1,0 +1,2 @@
+Ca4Ir2Ni2O12
+Atoms(symbols='Ca4Ni2Ir2O12', pbc=False)

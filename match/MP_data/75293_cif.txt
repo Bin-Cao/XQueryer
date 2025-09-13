@@ -1,0 +1,2 @@
+Cl6Cs2Cu2
+Atoms(symbols='Cs2Cu2Cl6', pbc=False)

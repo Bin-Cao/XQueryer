@@ -1,0 +1,2 @@
+Mg3Na21O72Si18Ta9
+Atoms(symbols='Mg3Na21O72Si18Ta9', pbc=False)

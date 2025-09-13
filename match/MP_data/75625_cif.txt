@@ -1,0 +1,2 @@
+H18Fe2MgO18P2
+Atoms(symbols='MgFe2P2H18O18', pbc=False)

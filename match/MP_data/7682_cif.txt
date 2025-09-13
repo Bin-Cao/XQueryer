@@ -1,0 +1,2 @@
+Cr2O16Ta4Zn4
+Atoms(symbols='Ta4Zn4Cr2O16', pbc=False)

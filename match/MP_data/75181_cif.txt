@@ -1,0 +1,2 @@
+H24Na12Rh4
+Atoms(symbols='Na12H24Rh4', pbc=False)

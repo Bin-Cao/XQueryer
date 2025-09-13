@@ -1,0 +1,2 @@
+H8Co4O20Se4
+Atoms(symbols='Co2H4Se2O10Co2H4Se2O10', pbc=False)

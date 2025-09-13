@@ -1,0 +1,2 @@
+MgMo2O12Tb5
+Atoms(symbols='Tb5MgMo2O12', pbc=False)

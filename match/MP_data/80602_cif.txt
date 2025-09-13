@@ -1,0 +1,2 @@
+Cl8Tl4
+Atoms(symbols='Tl4Cl8', pbc=False)

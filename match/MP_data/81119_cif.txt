@@ -1,0 +1,2 @@
+Ni5U
+Atoms(symbols='UNi5', pbc=False)

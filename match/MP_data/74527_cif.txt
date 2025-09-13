@@ -1,0 +1,2 @@
+Co3Mg3O9Pr3
+Atoms(symbols='PrMgCoO3PrMgCoO3PrMgCoO3', pbc=False)

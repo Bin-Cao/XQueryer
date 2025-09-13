@@ -1,0 +1,2 @@
+MgNiO9P3
+Atoms(symbols='MgNiP3O9', pbc=False)

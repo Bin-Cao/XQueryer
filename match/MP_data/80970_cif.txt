@@ -1,0 +1,2 @@
+Li8N20Ta12
+Atoms(symbols='Li4Ta6N10Li4Ta6N10', pbc=False)

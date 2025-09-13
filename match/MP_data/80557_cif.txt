@@ -1,0 +1,2 @@
+O4S32
+Atoms(symbols='S32O4', pbc=False)

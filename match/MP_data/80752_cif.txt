@@ -1,0 +1,2 @@
+Cl5O2U2
+Atoms(symbols='U2Cl5O2', pbc=False)

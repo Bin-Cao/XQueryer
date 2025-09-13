@@ -1,0 +1,2 @@
+H44F32N4
+Atoms(symbols='H44F32N4', pbc=False)

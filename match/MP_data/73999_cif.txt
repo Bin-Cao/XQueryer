@@ -1,0 +1,2 @@
+Bi2Ce4O4
+Atoms(symbols='Ce2BiO2Ce2BiO2', pbc=False)

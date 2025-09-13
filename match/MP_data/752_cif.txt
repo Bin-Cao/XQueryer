@@ -1,0 +1,2 @@
+N2O18P4Zn2
+Atoms(symbols='Zn2P4N2O18', pbc=False)

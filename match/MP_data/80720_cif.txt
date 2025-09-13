@@ -1,0 +1,2 @@
+O28Sn4Ta8
+Atoms(symbols='Ta4Sn2O14Ta4Sn2O14', pbc=False)

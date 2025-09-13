@@ -1,0 +1,2 @@
+I2Mg
+Atoms(symbols='MgI2', pbc=False)

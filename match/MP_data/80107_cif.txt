@@ -1,0 +1,2 @@
+In6Na18O72S9Sc6Si9
+Atoms(symbols='In6Na18O72S9Sc6Si9', pbc=False)

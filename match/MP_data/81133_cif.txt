@@ -1,0 +1,2 @@
+Br16In4Na4
+Atoms(symbols='Na4In4Br16', pbc=False)

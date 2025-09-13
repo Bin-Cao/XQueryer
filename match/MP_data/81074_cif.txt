@@ -1,0 +1,2 @@
+Cl14K6Mn4
+Atoms(symbols='K3Mn2Cl7K3Mn2Cl7', pbc=False)
