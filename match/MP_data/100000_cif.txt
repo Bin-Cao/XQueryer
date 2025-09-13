@@ -1,0 +1,2 @@
+Ag4La8Se14
+Atoms(symbols='La8Ag4Se14', pbc=False)

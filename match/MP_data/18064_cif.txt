@@ -1,0 +1,2 @@
+Ga18Pt4Y6
+Atoms(symbols='Y3Ga9Pt2Y3Ga9Pt2', pbc=False)

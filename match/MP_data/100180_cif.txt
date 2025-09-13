@@ -1,0 +1,2 @@
+As12Li19Mn9
+Atoms(symbols='Li19Mn9As12', pbc=False)

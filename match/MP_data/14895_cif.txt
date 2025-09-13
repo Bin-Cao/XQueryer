@@ -1,0 +1,2 @@
+B4Fe8Ga4O20
+Atoms(symbols='Ga4Fe8B4O20', pbc=False)

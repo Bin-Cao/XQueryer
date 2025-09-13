@@ -1,0 +1,2 @@
+N32O16Sn32
+Atoms(symbols='N32O16Sn32', pbc=False)

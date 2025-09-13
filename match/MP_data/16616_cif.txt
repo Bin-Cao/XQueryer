@@ -1,0 +1,2 @@
+Rh15Te16
+Atoms(symbols='Te16Rh15', pbc=False)

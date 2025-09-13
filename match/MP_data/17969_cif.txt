@@ -1,0 +1,2 @@
+Cu8La2P6
+Atoms(symbols='La2Cu8P6', pbc=False)

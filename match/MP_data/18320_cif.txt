@@ -1,0 +1,2 @@
+O24P6Sm6
+Atoms(symbols='Sm3P3O12Sm3P3O12', pbc=False)

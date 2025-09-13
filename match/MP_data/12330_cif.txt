@@ -1,0 +1,2 @@
+F12Sc4
+Atoms(symbols='Sc4F12', pbc=False)

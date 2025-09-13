@@ -1,0 +1,2 @@
+Ga8S14Zn2
+Atoms(symbols='Zn2Ga8S14', pbc=False)

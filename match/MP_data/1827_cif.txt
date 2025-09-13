@@ -1,0 +1,2 @@
+AlSi
+Atoms(symbols='AlSi', pbc=False)

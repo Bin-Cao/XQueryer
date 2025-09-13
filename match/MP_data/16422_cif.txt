@@ -1,0 +1,2 @@
+Hf4O16Pr4
+Atoms(symbols='Pr2Hf2O8Pr2Hf2O8', pbc=False)

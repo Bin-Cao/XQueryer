@@ -1,0 +1,2 @@
+Ho9Ni6
+Atoms(symbols='Ho9Ni6', pbc=False)

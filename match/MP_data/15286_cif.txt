@@ -1,0 +1,2 @@
+Be2Ti4Zn2
+Atoms(symbols='Ti2BeZnTi2BeZn', pbc=False)

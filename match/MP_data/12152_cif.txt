@@ -1,0 +1,2 @@
+Au2Li4Na2
+Atoms(symbols='NaLi2AuNaLi2Au', pbc=False)

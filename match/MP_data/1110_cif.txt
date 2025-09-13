@@ -1,0 +1,2 @@
+InNbSe2
+Atoms(symbols='NbInSe2', pbc=False)

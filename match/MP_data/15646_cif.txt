@@ -1,0 +1,2 @@
+Co4Hf2Ti2
+Atoms(symbols='HfTiCo2HfTiCo2', pbc=False)

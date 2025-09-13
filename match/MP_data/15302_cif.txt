@@ -1,0 +1,2 @@
+Be4Ni2Ru2
+Atoms(symbols='Be2NiRuBe2NiRu', pbc=False)

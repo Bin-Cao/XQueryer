@@ -1,0 +1,2 @@
+As4BrNO6
+Atoms(symbols='As4BrNO6', pbc=False)

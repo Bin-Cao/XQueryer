@@ -1,0 +1,2 @@
+B2Cs2O12
+Atoms(symbols='CsBO6CsBO6', pbc=False)

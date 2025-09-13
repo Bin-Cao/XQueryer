@@ -1,0 +1,2 @@
+H2O5V2
+Atoms(symbols='V2H2O5', pbc=False)

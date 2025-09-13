@@ -1,0 +1,2 @@
+B12Fe4U2
+Atoms(symbols='UFe2B6UFe2B6', pbc=False)

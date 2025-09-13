@@ -1,0 +1,2 @@
+Ag2Mo6Se6
+Atoms(symbols='Ag2Mo6Se6', pbc=False)

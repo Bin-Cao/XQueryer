@@ -1,0 +1,2 @@
+B12Ho4Ni6
+Atoms(symbols='Ho2Ni3B6Ho2Ni3B6', pbc=False)

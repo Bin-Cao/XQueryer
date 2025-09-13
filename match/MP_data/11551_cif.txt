@@ -1,0 +1,2 @@
+F6GeN2
+Atoms(symbols='GeN2F6', pbc=False)

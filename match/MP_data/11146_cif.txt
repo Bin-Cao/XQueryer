@@ -1,0 +1,2 @@
+CoDy6Te2
+Atoms(symbols='Dy6CoTe2', pbc=False)

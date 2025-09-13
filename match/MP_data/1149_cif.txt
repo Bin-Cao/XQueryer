@@ -1,0 +1,2 @@
+Er2Ga2
+Atoms(symbols='Er2Ga2', pbc=False)

@@ -1,0 +1,2 @@
+Al4Cr2Tc2
+Atoms(symbols='Al2CrTcAl2CrTc', pbc=False)

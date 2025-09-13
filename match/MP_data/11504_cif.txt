@@ -1,0 +1,2 @@
+CaCl4Cs2O2
+Atoms(symbols='Cs2CaCl4O2', pbc=False)

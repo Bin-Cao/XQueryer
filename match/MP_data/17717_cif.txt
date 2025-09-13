@@ -1,0 +1,2 @@
+Cl4Er4O16W4
+Atoms(symbols='Er2W2Cl2O8Er2W2Cl2O8', pbc=False)

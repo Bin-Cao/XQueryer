@@ -1,0 +1,2 @@
+N4O8PtRe2
+Atoms(symbols='Re2PtN4O8', pbc=False)

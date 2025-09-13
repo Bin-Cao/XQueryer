@@ -1,0 +1,2 @@
+O62U34
+Atoms(symbols='O62U34', pbc=False)

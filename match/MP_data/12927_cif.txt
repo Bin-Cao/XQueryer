@@ -1,0 +1,2 @@
+Mg3Y
+Atoms(symbols='YMg3', pbc=False)

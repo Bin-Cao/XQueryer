@@ -1,0 +1,2 @@
+Al2Cl2O16Se4Ti6
+Atoms(symbols='Ti6Al2Se4Cl2O16', pbc=False)

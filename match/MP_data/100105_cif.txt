@@ -1,0 +1,2 @@
+AgCuO2
+Atoms(symbols='CuAgO2', pbc=False)

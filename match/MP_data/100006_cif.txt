@@ -1,0 +1,2 @@
+C2Na4O10
+Atoms(symbols='Na2CO5Na2CO5', pbc=False)

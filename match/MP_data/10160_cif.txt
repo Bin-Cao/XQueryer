@@ -1,0 +1,2 @@
+H2MgO4Si
+Atoms(symbols='MgSiH2O4', pbc=False)

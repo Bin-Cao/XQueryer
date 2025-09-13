@@ -1,0 +1,2 @@
+Ag8Ba4O8
+Atoms(symbols='Ba2Ag4O4Ba2Ag4O4', pbc=False)

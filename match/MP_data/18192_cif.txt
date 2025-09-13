@@ -1,0 +1,2 @@
+Cl4Co6O20Se8
+Atoms(symbols='Co6Se8Cl4O20', pbc=False)

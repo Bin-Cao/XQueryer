@@ -1,0 +1,2 @@
+B2Mg28Na2
+Atoms(symbols='NaMg14BNaMg14B', pbc=False)

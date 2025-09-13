@@ -1,0 +1,2 @@
+F6LiPt
+Atoms(symbols='LiPtF6', pbc=False)

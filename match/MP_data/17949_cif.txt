@@ -1,0 +1,2 @@
+Cd2K4N24
+Atoms(symbols='K2CdN12K2CdN12', pbc=False)

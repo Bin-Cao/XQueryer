@@ -1,0 +1,2 @@
+O17Pb15Ti
+Atoms(symbols='TiPb15O17', pbc=False)

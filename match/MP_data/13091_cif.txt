@@ -1,0 +1,2 @@
+HfLi2N2
+Atoms(symbols='Li2HfN2', pbc=False)

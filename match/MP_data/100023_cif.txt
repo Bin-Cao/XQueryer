@@ -1,0 +1,2 @@
+Cr14MoO24
+Atoms(symbols='Cr14MoO24', pbc=False)

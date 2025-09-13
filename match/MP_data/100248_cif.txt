@@ -1,0 +1,2 @@
+C26O24Os8S4
+Atoms(symbols='C26O24Os8S4', pbc=False)

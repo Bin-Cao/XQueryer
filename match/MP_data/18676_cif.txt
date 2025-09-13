@@ -1,0 +1,2 @@
+Fe27Sm9
+Atoms(symbols='Sm3Fe9Sm3Fe9Sm3Fe9', pbc=False)

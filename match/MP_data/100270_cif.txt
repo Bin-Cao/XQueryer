@@ -1,0 +1,2 @@
+Li22P10Ti2
+Atoms(symbols='Li11TiP5Li11TiP5', pbc=False)

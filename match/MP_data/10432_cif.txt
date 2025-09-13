@@ -1,0 +1,2 @@
+In3Ni3Th3
+Atoms(symbols='Th3In3Ni3', pbc=False)

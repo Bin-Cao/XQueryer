@@ -1,0 +1,2 @@
+Hg2Li4Na2
+Atoms(symbols='NaLi2HgNaLi2Hg', pbc=False)

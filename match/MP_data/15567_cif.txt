@@ -1,0 +1,2 @@
+H6S2
+Atoms(symbols='H3SH3S', pbc=False)

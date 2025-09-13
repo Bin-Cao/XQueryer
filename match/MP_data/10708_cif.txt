@@ -1,0 +1,2 @@
+Fe28Se12
+Atoms(symbols='Fe28Se12', pbc=False)

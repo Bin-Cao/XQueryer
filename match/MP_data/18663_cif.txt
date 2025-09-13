@@ -1,0 +1,2 @@
+Cu6O72P18Sn3V9
+Atoms(symbols='Cu6O72P18Sn3V9', pbc=False)

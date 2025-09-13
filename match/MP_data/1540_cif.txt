@@ -1,0 +1,2 @@
+Cu2Ga2Hf2
+Atoms(symbols='Hf2Ga2Cu2', pbc=False)

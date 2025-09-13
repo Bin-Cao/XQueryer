@@ -1,0 +1,2 @@
+Ni24Pr56Si44
+Atoms(symbols='Ni24Pr56Si44', pbc=False)

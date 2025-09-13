@@ -1,0 +1,2 @@
+As2O10Sc2
+Atoms(symbols='Sc2As2O10', pbc=False)

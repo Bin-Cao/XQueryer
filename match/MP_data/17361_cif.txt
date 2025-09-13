@@ -1,0 +1,2 @@
+Bi18O31U2
+Atoms(symbols='U2Bi18O31', pbc=False)

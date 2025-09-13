@@ -1,0 +1,2 @@
+Cd4Cu4Na4Se8
+Atoms(symbols='Na4Cd4Cu4Se8', pbc=False)

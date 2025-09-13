@@ -1,0 +1,2 @@
+Ga2In2Li4
+Atoms(symbols='Li2InGaLi2InGa', pbc=False)

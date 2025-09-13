@@ -1,0 +1,2 @@
+Lu4Ni4
+Atoms(symbols='Lu4Ni4', pbc=False)

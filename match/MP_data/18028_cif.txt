@@ -1,0 +1,2 @@
+Bi4SnTe7
+Atoms(symbols='SnBi4Te7', pbc=False)

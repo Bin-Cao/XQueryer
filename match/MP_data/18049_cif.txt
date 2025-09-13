@@ -1,0 +1,2 @@
+N4O4Se8Tb12
+Atoms(symbols='Tb6Se4N2O2Tb6Se4N2O2', pbc=False)

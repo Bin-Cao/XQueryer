@@ -1,0 +1,2 @@
+Cu2Re2Ta4
+Atoms(symbols='Ta2CuReTa2CuRe', pbc=False)

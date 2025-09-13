@@ -1,0 +1,2 @@
+Fe24Y2
+Atoms(symbols='YFe12YFe12', pbc=False)

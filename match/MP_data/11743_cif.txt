@@ -1,0 +1,2 @@
+Fe4Ge2Mn2
+Atoms(symbols='MnFe2GeMnFe2Ge', pbc=False)

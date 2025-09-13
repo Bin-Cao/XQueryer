@@ -1,0 +1,2 @@
+O8Pr4Sm4
+Atoms(symbols='Pr2Sm2O4Pr2Sm2O4', pbc=False)

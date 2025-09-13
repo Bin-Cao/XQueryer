@@ -1,0 +1,2 @@
+Ga3O15V6
+Atoms(symbols='V6Ga3O15', pbc=False)

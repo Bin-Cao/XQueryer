@@ -1,0 +1,2 @@
+K3S6Y3
+Atoms(symbols='KYS2KYS2KYS2', pbc=False)

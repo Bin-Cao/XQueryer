@@ -1,0 +1,2 @@
+Be24Co2
+Atoms(symbols='Be12CoBe12Co', pbc=False)

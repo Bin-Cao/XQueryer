@@ -1,0 +1,2 @@
+K5Na3Nb2O24Ta6
+Atoms(symbols='K5Na3Ta6Nb2O24', pbc=False)

@@ -1,0 +1,2 @@
+Cl2N14O12Rh2
+Atoms(symbols='RhN7ClO6RhN7ClO6', pbc=False)

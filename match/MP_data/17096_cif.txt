@@ -1,0 +1,2 @@
+H16Co4Th4
+Atoms(symbols='Th2Co2H8Th2Co2H8', pbc=False)

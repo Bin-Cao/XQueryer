@@ -1,0 +1,2 @@
+Ho12O12Sb4
+Atoms(symbols='Ho6Sb2O6Ho6Sb2O6', pbc=False)

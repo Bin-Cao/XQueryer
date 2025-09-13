@@ -1,0 +1,2 @@
+Cl6Fe2O12
+Atoms(symbols='FeCl3O6FeCl3O6', pbc=False)

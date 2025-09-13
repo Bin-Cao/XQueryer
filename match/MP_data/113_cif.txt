@@ -1,0 +1,2 @@
+AlBN2
+Atoms(symbols='AlBN2', pbc=False)

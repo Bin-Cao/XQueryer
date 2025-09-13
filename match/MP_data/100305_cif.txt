@@ -1,0 +1,2 @@
+F3Gd39Ge18O93
+Atoms(symbols='F3Gd39Ge18O93', pbc=False)

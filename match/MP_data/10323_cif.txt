@@ -1,0 +1,2 @@
+Co4Ge8Ho6
+Atoms(symbols='Ho3Co2Ge4Ho3Co2Ge4', pbc=False)

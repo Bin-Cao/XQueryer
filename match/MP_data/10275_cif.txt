@@ -1,0 +1,2 @@
+Cu4S10Sr4U2
+Atoms(symbols='Sr2UCu2S5Sr2UCu2S5', pbc=False)

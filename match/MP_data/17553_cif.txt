@@ -1,0 +1,2 @@
+B4Co12Ni4Sm4
+Atoms(symbols='Sm2Co6Ni2B2Sm2Co6Ni2B2', pbc=False)

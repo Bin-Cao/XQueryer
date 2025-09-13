@@ -1,0 +1,2 @@
+Al16Ho2Mn8
+Atoms(symbols='HoMn4Al8HoMn4Al8', pbc=False)

@@ -1,0 +1,2 @@
+Ce3Ga10Ni
+Atoms(symbols='Ce3Ga10Ni', pbc=False)

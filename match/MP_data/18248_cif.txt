@@ -1,0 +1,2 @@
+Ir8La20
+Atoms(symbols='La10Ir4La10Ir4', pbc=False)

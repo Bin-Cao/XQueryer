@@ -1,0 +1,2 @@
+Dy8Te20
+Atoms(symbols='Dy4Te10Dy4Te10', pbc=False)

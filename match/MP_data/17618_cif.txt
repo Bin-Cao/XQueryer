@@ -1,0 +1,2 @@
+K2S16V10
+Atoms(symbols='KV5S8KV5S8', pbc=False)

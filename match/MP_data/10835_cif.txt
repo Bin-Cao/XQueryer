@@ -1,0 +1,2 @@
+N4O12Te2
+Atoms(symbols='TeN2O6TeN2O6', pbc=False)

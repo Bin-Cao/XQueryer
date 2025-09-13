@@ -1,0 +1,2 @@
+Bi2GdLi3
+Atoms(symbols='Li3GdBi2', pbc=False)

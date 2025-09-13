@@ -1,0 +1,2 @@
+Ca4O36Zr16
+Atoms(symbols='Ca2Zr8O18Ca2Zr8O18', pbc=False)

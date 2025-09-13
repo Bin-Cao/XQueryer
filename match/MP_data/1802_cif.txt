@@ -1,0 +1,2 @@
+Mn6Na2O26P6
+Atoms(symbols='Na2Mn6P6O26', pbc=False)

@@ -1,0 +1,2 @@
+HoP
+Atoms(symbols='HoP', pbc=False)

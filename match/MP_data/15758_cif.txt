@@ -1,0 +1,2 @@
+Ca2Na4Sr2
+Atoms(symbols='Na2SrCaNa2SrCa', pbc=False)

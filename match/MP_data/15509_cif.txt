@@ -1,0 +1,2 @@
+Be2Fe2Ru4
+Atoms(symbols='BeFeRu2BeFeRu2', pbc=False)

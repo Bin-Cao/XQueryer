@@ -1,0 +1,2 @@
+Cr2K2NiO10
+Atoms(symbols='K2Cr2NiO10', pbc=False)

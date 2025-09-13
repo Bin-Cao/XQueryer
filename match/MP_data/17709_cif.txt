@@ -1,0 +1,2 @@
+C11N4
+Atoms(symbols='C11N4', pbc=False)

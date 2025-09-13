@@ -1,0 +1,2 @@
+Co4Fe28O80Sr32
+Atoms(symbols='Co4Fe28O80Sr32', pbc=False)

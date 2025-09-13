@@ -1,0 +1,2 @@
+O10Sr4Ti4
+Atoms(symbols='Sr2Ti2O5Sr2Ti2O5', pbc=False)

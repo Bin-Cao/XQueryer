@@ -1,0 +1,2 @@
+AuTb
+Atoms(symbols='TbAu', pbc=False)

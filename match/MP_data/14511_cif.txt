@@ -1,0 +1,2 @@
+Ca4Na2Rh2
+Atoms(symbols='NaCa2RhNaCa2Rh', pbc=False)

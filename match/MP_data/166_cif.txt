@@ -1,0 +1,2 @@
+Co3Mo
+Atoms(symbols='Co3Mo', pbc=False)

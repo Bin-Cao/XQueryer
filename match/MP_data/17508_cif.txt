@@ -1,0 +1,2 @@
+In6O14Ta2
+Atoms(symbols='Ta2In6O14', pbc=False)

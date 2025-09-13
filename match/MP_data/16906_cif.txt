@@ -1,0 +1,2 @@
+In2O8V2
+Atoms(symbols='V2In2O8', pbc=False)

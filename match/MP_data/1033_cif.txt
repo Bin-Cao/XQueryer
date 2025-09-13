@@ -1,0 +1,2 @@
+HLiPd
+Atoms(symbols='LiHPd', pbc=False)

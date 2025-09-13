@@ -1,0 +1,2 @@
+Ni9O54V18
+Atoms(symbols='Ni9O54V18', pbc=False)

@@ -1,0 +1,2 @@
+Co28Cu4La20O80Sm12
+Atoms(symbols='Co28Cu4La20O80Sm12', pbc=False)

@@ -1,0 +1,2 @@
+Li15NaO48V16
+Atoms(symbols='Li15NaO48V16', pbc=False)

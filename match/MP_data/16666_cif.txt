@@ -1,0 +1,2 @@
+F4O16Sb12
+Atoms(symbols='Sb6O8F2Sb6O8F2', pbc=False)

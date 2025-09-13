@@ -1,0 +1,2 @@
+Gd12Pt4
+Atoms(symbols='Gd12Pt4', pbc=False)

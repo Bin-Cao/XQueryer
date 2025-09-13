@@ -1,0 +1,2 @@
+In2Se3
+Atoms(symbols='In2Se3', pbc=False)

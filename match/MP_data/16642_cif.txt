@@ -1,0 +1,2 @@
+N4O22Sr4Ti12
+Atoms(symbols='Sr2Ti6N2O11Sr2Ti6N2O11', pbc=False)

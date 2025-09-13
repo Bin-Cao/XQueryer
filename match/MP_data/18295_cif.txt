@@ -1,0 +1,2 @@
+Dy9Ni27
+Atoms(symbols='Dy3Ni9Dy3Ni9Dy3Ni9', pbc=False)

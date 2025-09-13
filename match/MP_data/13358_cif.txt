@@ -1,0 +1,2 @@
+F3InMn
+Atoms(symbols='MnInF3', pbc=False)

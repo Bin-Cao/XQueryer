@@ -1,0 +1,2 @@
+Ho3Sn7
+Atoms(symbols='Ho3Sn7', pbc=False)

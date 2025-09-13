@@ -1,0 +1,2 @@
+Au4Ca2Li2
+Atoms(symbols='LiCaAu2LiCaAu2', pbc=False)

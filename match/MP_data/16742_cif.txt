@@ -1,0 +1,2 @@
+O64P16V12
+Atoms(symbols='O64P16V12', pbc=False)

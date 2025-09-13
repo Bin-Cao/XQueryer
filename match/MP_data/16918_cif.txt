@@ -1,0 +1,2 @@
+Mn22S40Y12
+Atoms(symbols='Mn22S40Y12', pbc=False)

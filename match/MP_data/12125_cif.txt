@@ -1,0 +1,2 @@
+H18Al3Nd3
+Atoms(symbols='NdAlH6NdAlH6NdAlH6', pbc=False)

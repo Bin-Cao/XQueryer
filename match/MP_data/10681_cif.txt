@@ -1,0 +1,2 @@
+C3GaNSi3
+Atoms(symbols='GaSi3C3N', pbc=False)

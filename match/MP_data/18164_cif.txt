@@ -1,0 +1,2 @@
+F6Hg2O4Si
+Atoms(symbols='SiHg2O4F6', pbc=False)

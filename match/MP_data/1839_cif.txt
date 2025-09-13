@@ -1,0 +1,2 @@
+Ce6O32Zr10
+Atoms(symbols='Ce3Zr5O16Ce3Zr5O16', pbc=False)

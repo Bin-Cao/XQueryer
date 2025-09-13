@@ -1,0 +1,2 @@
+Te2V
+Atoms(symbols='VTe2', pbc=False)

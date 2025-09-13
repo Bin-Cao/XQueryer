@@ -1,0 +1,2 @@
+Cu4Se12Th4Tl4
+Atoms(symbols='Th2Tl2Cu2Se6Th2Tl2Cu2Se6', pbc=False)

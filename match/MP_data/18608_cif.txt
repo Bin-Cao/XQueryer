@@ -1,0 +1,2 @@
+B5Cu3Pt9
+Atoms(symbols='Cu3B5Pt9', pbc=False)

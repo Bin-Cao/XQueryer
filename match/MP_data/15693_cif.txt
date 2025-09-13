@@ -1,0 +1,2 @@
+La8O20Ti8
+Atoms(symbols='La4Ti4O10La4Ti4O10', pbc=False)

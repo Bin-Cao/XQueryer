@@ -1,0 +1,2 @@
+HfNO3Ta
+Atoms(symbols='HfTaNO3', pbc=False)

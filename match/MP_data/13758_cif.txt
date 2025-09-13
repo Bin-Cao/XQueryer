@@ -1,0 +1,2 @@
+Pt2Re2Zr4
+Atoms(symbols='Zr2RePtZr2RePt', pbc=False)

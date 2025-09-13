@@ -1,0 +1,2 @@
+Al3Ir3U3
+Atoms(symbols='U3Al3Ir3', pbc=False)

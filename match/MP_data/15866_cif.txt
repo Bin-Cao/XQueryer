@@ -1,0 +1,2 @@
+Ce2Mg12Ni2
+Atoms(symbols='CeMg6NiCeMg6Ni', pbc=False)

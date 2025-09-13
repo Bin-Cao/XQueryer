@@ -1,0 +1,2 @@
+Ag4Li4
+Atoms(symbols='Li2Ag2Li2Ag2', pbc=False)

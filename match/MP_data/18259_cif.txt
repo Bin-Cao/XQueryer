@@ -1,0 +1,2 @@
+CoN2O10
+Atoms(symbols='CoN2O10', pbc=False)

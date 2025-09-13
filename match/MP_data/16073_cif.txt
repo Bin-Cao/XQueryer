@@ -1,0 +1,2 @@
+Cu7Se4Tl
+Atoms(symbols='TlCu7Se4', pbc=False)

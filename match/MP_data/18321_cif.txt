@@ -1,0 +1,2 @@
+Cr10In2Se16
+Atoms(symbols='Cr5InSe8Cr5InSe8', pbc=False)

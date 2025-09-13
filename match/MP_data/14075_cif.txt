@@ -1,0 +1,2 @@
+C36H84Bi4I18N12Na6O18
+Atoms(symbols='C36H84Bi4I18N12Na6O18', pbc=False)

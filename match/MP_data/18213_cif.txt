@@ -1,0 +1,2 @@
+Ni3O27S3
+Atoms(symbols='NiSO9NiSO9NiSO9', pbc=False)

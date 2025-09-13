@@ -1,0 +1,2 @@
+Li2Mg12Sr2
+Atoms(symbols='SrLiMg6SrLiMg6', pbc=False)

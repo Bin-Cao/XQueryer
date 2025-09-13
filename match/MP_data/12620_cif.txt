@@ -1,0 +1,2 @@
+H18Al3Pr3
+Atoms(symbols='PrAlH6PrAlH6PrAlH6', pbc=False)

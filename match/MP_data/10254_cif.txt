@@ -1,0 +1,2 @@
+Al3Pt3Th3
+Atoms(symbols='Th3Al3Pt3', pbc=False)

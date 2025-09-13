@@ -1,0 +1,2 @@
+B18Mo6
+Atoms(symbols='B6Mo2B6Mo2B6Mo2', pbc=False)

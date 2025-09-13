@@ -1,0 +1,2 @@
+In4S8Tl4
+Atoms(symbols='Tl2In2S4Tl2In2S4', pbc=False)

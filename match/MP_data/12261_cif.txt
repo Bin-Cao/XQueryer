@@ -1,0 +1,2 @@
+In2Os4Ta2
+Atoms(symbols='TaInOs2TaInOs2', pbc=False)

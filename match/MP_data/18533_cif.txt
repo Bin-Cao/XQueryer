@@ -1,0 +1,2 @@
+Ho6Rh18Si4Sn6
+Atoms(symbols='Ho3Si2Sn3Rh9Ho3Si2Sn3Rh9', pbc=False)

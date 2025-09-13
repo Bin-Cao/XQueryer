@@ -1,0 +1,2 @@
+I20La4Sr4
+Atoms(symbols='Sr2La2I10Sr2La2I10', pbc=False)

@@ -1,0 +1,2 @@
+Cr10Na2Se16
+Atoms(symbols='NaCr5Se8NaCr5Se8', pbc=False)

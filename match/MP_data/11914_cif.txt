@@ -1,0 +1,2 @@
+Ca2Co12P7
+Atoms(symbols='Ca2Co12P7', pbc=False)

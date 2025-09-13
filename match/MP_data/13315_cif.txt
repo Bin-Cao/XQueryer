@@ -1,0 +1,2 @@
+Ca2Mg4Sr2
+Atoms(symbols='SrCaMg2SrCaMg2', pbc=False)

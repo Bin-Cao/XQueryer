@@ -1,0 +1,2 @@
+O13Sr5Ti5
+Atoms(symbols='Sr5Ti5O13', pbc=False)

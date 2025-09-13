@@ -1,0 +1,2 @@
+F6O2Sb2
+Atoms(symbols='SbOF3SbOF3', pbc=False)

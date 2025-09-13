@@ -1,0 +1,2 @@
+Co2P2Ta8
+Atoms(symbols='Ta8Co2P2', pbc=False)

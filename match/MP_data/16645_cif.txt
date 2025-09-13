@@ -1,0 +1,2 @@
+C84H48
+Atoms(symbols='C84H48', pbc=False)

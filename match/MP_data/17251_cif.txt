@@ -1,0 +1,2 @@
+C4I2O2PtS2
+Atoms(symbols='PtC4S2I2O2', pbc=False)

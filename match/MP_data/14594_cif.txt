@@ -1,0 +1,2 @@
+Al2Hg4Li2
+Atoms(symbols='LiAlHg2LiAlHg2', pbc=False)

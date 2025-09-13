@@ -1,0 +1,2 @@
+Co2Nb4Re2
+Atoms(symbols='Nb2CoReNb2CoRe', pbc=False)

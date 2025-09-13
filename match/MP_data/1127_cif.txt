@@ -1,0 +1,2 @@
+As12Cu4O4Sm8
+Atoms(symbols='Sm8Cu4As12O4', pbc=False)

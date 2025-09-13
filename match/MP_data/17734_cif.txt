@@ -1,0 +1,2 @@
+C2H3LiO5
+Atoms(symbols='LiH3C2O5', pbc=False)

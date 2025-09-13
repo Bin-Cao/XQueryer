@@ -1,0 +1,2 @@
+Ag2InZr
+Atoms(symbols='ZrInAg2', pbc=False)

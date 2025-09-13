@@ -1,0 +1,2 @@
+Co4O30P10
+Atoms(symbols='Co4P10O30', pbc=False)

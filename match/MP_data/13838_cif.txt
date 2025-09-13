@@ -1,0 +1,2 @@
+Li2Os4W2
+Atoms(symbols='LiOs2WLiOs2W', pbc=False)

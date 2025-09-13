@@ -1,0 +1,2 @@
+Co16Mn8Pr2
+Atoms(symbols='PrMn4Co8PrMn4Co8', pbc=False)

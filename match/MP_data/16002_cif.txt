@@ -1,0 +1,2 @@
+F20Ni12O4
+Atoms(symbols='Ni6O2F10Ni6O2F10', pbc=False)

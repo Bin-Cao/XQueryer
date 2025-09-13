@@ -1,0 +1,2 @@
+O8Sb2V2
+Atoms(symbols='VSbO4VSbO4', pbc=False)

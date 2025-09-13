@@ -1,0 +1,2 @@
+As2Mg2Pd4
+Atoms(symbols='MgAsPd2MgAsPd2', pbc=False)

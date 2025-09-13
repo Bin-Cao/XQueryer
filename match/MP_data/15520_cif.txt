@@ -1,0 +1,2 @@
+Co2Ru2Zr4
+Atoms(symbols='Zr2CoRuZr2CoRu', pbc=False)

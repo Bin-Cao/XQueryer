@@ -1,0 +1,2 @@
+K3Mo6Na5O24V2
+Atoms(symbols='K3Na5V2Mo6O24', pbc=False)

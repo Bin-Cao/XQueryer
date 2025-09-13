@@ -1,0 +1,2 @@
+Br6Cs2Ni2
+Atoms(symbols='Cs2Ni2Br6', pbc=False)

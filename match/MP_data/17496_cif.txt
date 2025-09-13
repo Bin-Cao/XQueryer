@@ -1,0 +1,2 @@
+Hg22K6
+Atoms(symbols='K3Hg11K3Hg11', pbc=False)

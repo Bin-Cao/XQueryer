@@ -1,0 +1,2 @@
+Co4Ge8Pr4
+Atoms(symbols='Pr2Co2Ge4Pr2Co2Ge4', pbc=False)

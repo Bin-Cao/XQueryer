@@ -1,0 +1,2 @@
+P8S80V16
+Atoms(symbols='P8S80V16', pbc=False)

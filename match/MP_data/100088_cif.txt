@@ -1,0 +1,2 @@
+Cu18Se10
+Atoms(symbols='Cu18Se10', pbc=False)

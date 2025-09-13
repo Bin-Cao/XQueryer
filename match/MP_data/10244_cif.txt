@@ -1,0 +1,2 @@
+Nb2Se8
+Atoms(symbols='Nb2Se8', pbc=False)

@@ -1,0 +1,2 @@
+S38Sm20
+Atoms(symbols='Sm20S38', pbc=False)

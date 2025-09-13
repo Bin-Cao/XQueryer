@@ -1,0 +1,2 @@
+Cu2Sc4Tl2
+Atoms(symbols='Sc2TlCuSc2TlCu', pbc=False)

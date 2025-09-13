@@ -1,0 +1,2 @@
+Er2O16P4Rb6
+Atoms(symbols='Rb3ErP2O8Rb3ErP2O8', pbc=False)

@@ -1,0 +1,2 @@
+Cr4Ho4O24Te4
+Atoms(symbols='Ho2Cr2Te2O12Ho2Cr2Te2O12', pbc=False)

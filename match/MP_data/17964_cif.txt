@@ -1,0 +1,2 @@
+Cl8Ga2Hg2
+Atoms(symbols='Ga2Hg2Cl8', pbc=False)

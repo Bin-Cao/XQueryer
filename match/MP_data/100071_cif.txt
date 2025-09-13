@@ -1,0 +1,2 @@
+Nd6O20U4
+Atoms(symbols='Nd3U2O10Nd3U2O10', pbc=False)

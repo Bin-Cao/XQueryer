@@ -1,0 +1,2 @@
+CaSe2Zn
+Atoms(symbols='CaZnSe2', pbc=False)

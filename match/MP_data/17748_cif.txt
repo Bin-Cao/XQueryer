@@ -1,0 +1,2 @@
+Co6O30Ti12
+Atoms(symbols='Ti12Co6O30', pbc=False)

@@ -1,0 +1,2 @@
+K4O10Ta4
+Atoms(symbols='K4Ta4O10', pbc=False)

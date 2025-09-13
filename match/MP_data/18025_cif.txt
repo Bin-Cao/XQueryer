@@ -1,0 +1,2 @@
+Ba6Hg20In2
+Atoms(symbols='Ba3InHg10Ba3InHg10', pbc=False)

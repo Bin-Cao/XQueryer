@@ -1,0 +1,2 @@
+IrSc
+Atoms(symbols='ScIr', pbc=False)

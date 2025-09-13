@@ -1,0 +1,2 @@
+C12Ti24
+Atoms(symbols='Ti8C4Ti8C4Ti8C4', pbc=False)

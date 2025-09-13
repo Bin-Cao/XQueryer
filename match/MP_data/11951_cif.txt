@@ -1,0 +1,2 @@
+Hf4Ir2Ti2
+Atoms(symbols='Hf2TiIrHf2TiIr', pbc=False)

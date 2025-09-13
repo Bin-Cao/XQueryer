@@ -1,0 +1,2 @@
+Ag2Fe4Ga2Te8
+Atoms(symbols='GaFe2AgTe4GaFe2AgTe4', pbc=False)

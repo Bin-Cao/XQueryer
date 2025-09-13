@@ -1,0 +1,2 @@
+H2Cl2Cs4
+Atoms(symbols='Cs2HClCs2HCl', pbc=False)

@@ -1,0 +1,2 @@
+Mo2Ru2Ti4
+Atoms(symbols='Ti2MoRuTi2MoRu', pbc=False)

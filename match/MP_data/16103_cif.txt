@@ -1,0 +1,2 @@
+O19Y2Zr8
+Atoms(symbols='Y2Zr8O19', pbc=False)

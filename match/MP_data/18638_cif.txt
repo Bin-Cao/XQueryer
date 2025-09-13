@@ -1,0 +1,2 @@
+Gd8Te12
+Atoms(symbols='Gd8Te12', pbc=False)

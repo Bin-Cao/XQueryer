@@ -1,0 +1,2 @@
+H14Ba2Re2
+Atoms(symbols='Ba2Re2H14', pbc=False)

@@ -1,0 +1,2 @@
+Cd14I28
+Atoms(symbols='Cd14I28', pbc=False)

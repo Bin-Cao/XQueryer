@@ -1,0 +1,2 @@
+OsSi
+Atoms(symbols='SiOs', pbc=False)

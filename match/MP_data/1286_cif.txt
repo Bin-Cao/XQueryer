@@ -1,0 +1,2 @@
+Co3Nb
+Atoms(symbols='NbCo3', pbc=False)

@@ -1,0 +1,2 @@
+Mo3P3Ru3
+Atoms(symbols='Mo3P3Ru3', pbc=False)

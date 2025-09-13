@@ -1,0 +1,2 @@
+O27S6Tl3
+Atoms(symbols='TlS2O9TlS2O9TlS2O9', pbc=False)

@@ -1,0 +1,2 @@
+Ce2Cu2Pb2
+Atoms(symbols='Ce2Cu2Pb2', pbc=False)

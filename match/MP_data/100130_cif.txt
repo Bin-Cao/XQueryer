@@ -1,0 +1,2 @@
+Bi20Cu16Pb4S44
+Atoms(symbols='Bi20Cu16Pb4S44', pbc=False)

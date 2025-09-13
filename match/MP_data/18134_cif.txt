@@ -1,0 +1,2 @@
+Ta12Zn14
+Atoms(symbols='Ta6Zn7Ta6Zn7', pbc=False)

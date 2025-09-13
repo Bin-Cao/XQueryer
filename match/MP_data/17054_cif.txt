@@ -1,0 +1,2 @@
+Ag2Ga2O4
+Atoms(symbols='Ga2Ag2O4', pbc=False)

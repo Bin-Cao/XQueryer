@@ -1,0 +1,2 @@
+Ag2Cu4O20Se4
+Atoms(symbols='Cu2AgSe2O10Cu2AgSe2O10', pbc=False)

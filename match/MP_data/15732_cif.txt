@@ -1,0 +1,2 @@
+O24Sb8Tl4
+Atoms(symbols='Tl2Sb4O12Tl2Sb4O12', pbc=False)

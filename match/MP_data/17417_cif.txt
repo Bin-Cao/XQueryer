@@ -1,0 +1,2 @@
+Ge4Hf4Rh4
+Atoms(symbols='Hf4Ge4Rh4', pbc=False)

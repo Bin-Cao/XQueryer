@@ -1,0 +1,2 @@
+As9Na3Zn12
+Atoms(symbols='NaZn4As3NaZn4As3NaZn4As3', pbc=False)

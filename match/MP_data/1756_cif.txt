@@ -1,0 +1,2 @@
+K2Mg12Si2
+Atoms(symbols='KMg6SiKMg6Si', pbc=False)

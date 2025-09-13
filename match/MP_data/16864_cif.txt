@@ -1,0 +1,2 @@
+O40Sb9V11
+Atoms(symbols='V11Sb9O40', pbc=False)

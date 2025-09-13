@@ -1,0 +1,2 @@
+K2Mn2O12W2Y2
+Atoms(symbols='K2Y2Mn2W2O12', pbc=False)

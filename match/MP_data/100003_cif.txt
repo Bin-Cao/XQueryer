@@ -1,0 +1,2 @@
+Cl24Re2Se4
+Atoms(symbols='Re2Se4Cl24', pbc=False)

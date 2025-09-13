@@ -1,0 +1,2 @@
+Er2O4Sr
+Atoms(symbols='SrEr2O4', pbc=False)

@@ -1,0 +1,2 @@
+Er6Ga18Pt4
+Atoms(symbols='Er3Ga9Pt2Er3Ga9Pt2', pbc=False)

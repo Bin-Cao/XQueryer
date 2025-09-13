@@ -1,0 +1,2 @@
+Ho2Zn24
+Atoms(symbols='HoZn12HoZn12', pbc=False)

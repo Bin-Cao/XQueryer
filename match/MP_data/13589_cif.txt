@@ -1,0 +1,2 @@
+Ag2Hf4Re2
+Atoms(symbols='Hf2ReAgHf2ReAg', pbc=False)

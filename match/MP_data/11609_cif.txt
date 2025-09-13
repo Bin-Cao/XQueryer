@@ -1,0 +1,2 @@
+Cu4Fe2Ge2Se8
+Atoms(symbols='FeCu2GeSe4FeCu2GeSe4', pbc=False)

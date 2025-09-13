@@ -1,0 +1,2 @@
+C30N24
+Atoms(symbols='C10N8C10N8C10N8', pbc=False)

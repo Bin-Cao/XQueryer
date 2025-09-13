@@ -1,0 +1,2 @@
+Ho5S7
+Atoms(symbols='Ho5S7', pbc=False)

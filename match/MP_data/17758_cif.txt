@@ -1,0 +1,2 @@
+H6N4O4Pd
+Atoms(symbols='H6PdN4O4', pbc=False)

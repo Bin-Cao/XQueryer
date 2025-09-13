@@ -1,0 +1,2 @@
+Be24Mn2
+Atoms(symbols='MnBe12MnBe12', pbc=False)

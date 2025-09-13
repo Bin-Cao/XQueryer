@@ -1,0 +1,2 @@
+Be2In2Pt4
+Atoms(symbols='BeInPt2BeInPt2', pbc=False)

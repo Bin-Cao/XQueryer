@@ -1,0 +1,2 @@
+Mo2O12Sr4Ti2
+Atoms(symbols='Sr2TiMoO6Sr2TiMoO6', pbc=False)

@@ -1,0 +1,2 @@
+Cr4Re2V2
+Atoms(symbols='VCr2ReVCr2Re', pbc=False)

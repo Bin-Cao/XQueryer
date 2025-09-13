@@ -1,0 +1,2 @@
+Ce2Mg12Na2
+Atoms(symbols='NaCeMg6NaCeMg6', pbc=False)

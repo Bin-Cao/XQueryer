@@ -1,0 +1,2 @@
+In2K2O4
+Atoms(symbols='KInO2KInO2', pbc=False)

@@ -1,0 +1,2 @@
+Cu16Y8
+Atoms(symbols='Y4Cu8Y4Cu8', pbc=False)

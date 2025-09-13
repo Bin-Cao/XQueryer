@@ -1,0 +1,2 @@
+Mo5O25V5
+Atoms(symbols='V5Mo5O25', pbc=False)

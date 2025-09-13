@@ -1,0 +1,2 @@
+Ba6Se14Th2
+Atoms(symbols='Ba3ThSe7Ba3ThSe7', pbc=False)

@@ -1,0 +1,2 @@
+Cd2Ga2In4
+Atoms(symbols='CdIn2GaCdIn2Ga', pbc=False)

@@ -1,0 +1,2 @@
+Cl2K2O6U2
+Atoms(symbols='K2U2Cl2O6', pbc=False)

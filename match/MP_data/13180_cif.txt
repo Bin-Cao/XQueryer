@@ -1,0 +1,2 @@
+BiMg5
+Atoms(symbols='Mg5Bi', pbc=False)

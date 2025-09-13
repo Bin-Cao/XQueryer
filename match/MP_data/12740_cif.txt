@@ -1,0 +1,2 @@
+I6K6O18
+Atoms(symbols='K2I2O6K2I2O6K2I2O6', pbc=False)

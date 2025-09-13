@@ -1,0 +1,2 @@
+AsBiGa2
+Atoms(symbols='Ga2BiAs', pbc=False)

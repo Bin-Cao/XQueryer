@@ -1,0 +1,2 @@
+S127Zr64
+Atoms(symbols='S127Zr64', pbc=False)

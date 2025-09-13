@@ -1,0 +1,2 @@
+Tb6Zn22
+Atoms(symbols='Tb3Zn11Tb3Zn11', pbc=False)

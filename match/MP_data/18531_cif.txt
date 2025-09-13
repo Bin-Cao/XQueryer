@@ -1,0 +1,2 @@
+H8Cr4In2Na2O20
+Atoms(symbols='NaCr2InH4O10NaCr2InH4O10', pbc=False)

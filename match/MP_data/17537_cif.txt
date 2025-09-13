@@ -1,0 +1,2 @@
+H12N8O8Pt2
+Atoms(symbols='H6PtN4O4H6PtN4O4', pbc=False)

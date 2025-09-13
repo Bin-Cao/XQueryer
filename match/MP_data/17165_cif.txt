@@ -1,0 +1,2 @@
+Li18Mn36O72
+Atoms(symbols='Li18Mn36O72', pbc=False)

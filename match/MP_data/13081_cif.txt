@@ -1,0 +1,2 @@
+O20Sr8Ti8
+Atoms(symbols='Sr8Ti8O20', pbc=False)

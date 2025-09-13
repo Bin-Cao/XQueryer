@@ -1,0 +1,2 @@
+As2Cu2Si2Ti2
+Atoms(symbols='Ti2Cu2Si2As2', pbc=False)

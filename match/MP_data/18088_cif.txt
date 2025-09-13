@@ -1,0 +1,2 @@
+Cr3Fe9O72P18Ti6
+Atoms(symbols='Cr3Fe9O72P18Ti6', pbc=False)

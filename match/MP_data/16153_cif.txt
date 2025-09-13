@@ -1,0 +1,2 @@
+Cr2Fe2O24V8
+Atoms(symbols='V4CrFeO12V4CrFeO12', pbc=False)

@@ -1,0 +1,2 @@
+La6Pt8Zn8
+Atoms(symbols='La3Zn4Pt4La3Zn4Pt4', pbc=False)

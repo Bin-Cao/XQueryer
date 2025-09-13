@@ -1,0 +1,2 @@
+CsMg6Rb
+Atoms(symbols='CsRbMg6', pbc=False)

@@ -1,0 +1,2 @@
+O34Sm12Th8
+Atoms(symbols='Sm6Th4O17Sm6Th4O17', pbc=False)

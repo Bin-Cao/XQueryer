@@ -1,0 +1,2 @@
+As4Ho4Pt4
+Atoms(symbols='Ho4As4Pt4', pbc=False)

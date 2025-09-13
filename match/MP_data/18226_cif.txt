@@ -1,0 +1,2 @@
+Cu3Nb2O8
+Atoms(symbols='Nb2Cu3O8', pbc=False)

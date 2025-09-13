@@ -1,0 +1,2 @@
+Ce16Se32
+Atoms(symbols='Ce16Se32', pbc=False)

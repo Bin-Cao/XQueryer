@@ -1,0 +1,2 @@
+Co9In3S6Sn3
+Atoms(symbols='InCo3SnS2InCo3SnS2InCo3SnS2', pbc=False)

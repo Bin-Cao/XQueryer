@@ -1,0 +1,2 @@
+C142
+Atoms(symbols='C142', pbc=False)

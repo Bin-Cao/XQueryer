@@ -1,0 +1,2 @@
+ErHg2
+Atoms(symbols='ErHg2', pbc=False)

@@ -1,0 +1,2 @@
+Lu12Nb4O28
+Atoms(symbols='Lu6Nb2O14Lu6Nb2O14', pbc=False)

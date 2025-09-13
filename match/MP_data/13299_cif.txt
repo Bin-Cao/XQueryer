@@ -1,0 +1,2 @@
+Dy4Ga8Ni4
+Atoms(symbols='Dy2Ga4Ni2Dy2Ga4Ni2', pbc=False)

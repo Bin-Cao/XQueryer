@@ -1,0 +1,2 @@
+Cu4La28Mn28O80Sm4
+Atoms(symbols='Cu4La28Mn28O80Sm4', pbc=False)

@@ -1,0 +1,2 @@
+Dy6Zn22
+Atoms(symbols='Dy3Zn11Dy3Zn11', pbc=False)

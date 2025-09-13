@@ -1,0 +1,2 @@
+H
+Atoms(symbols='H', pbc=False)

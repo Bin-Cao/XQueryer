@@ -1,0 +1,2 @@
+Cu2O45V18
+Atoms(symbols='Cu2O45V18', pbc=False)

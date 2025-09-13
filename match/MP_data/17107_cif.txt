@@ -1,0 +1,2 @@
+H4O6Se2
+Atoms(symbols='H4Se2O6', pbc=False)

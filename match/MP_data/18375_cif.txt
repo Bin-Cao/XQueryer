@@ -1,0 +1,2 @@
+Br10Ce4
+Atoms(symbols='Ce4Br10', pbc=False)

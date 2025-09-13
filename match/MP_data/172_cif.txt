@@ -1,0 +1,2 @@
+AsEr
+Atoms(symbols='ErAs', pbc=False)

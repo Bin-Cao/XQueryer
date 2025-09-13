@@ -1,0 +1,2 @@
+Er6Ga16Rh6
+Atoms(symbols='Er3Ga8Rh3Er3Ga8Rh3', pbc=False)

@@ -1,0 +1,2 @@
+CoGa
+Atoms(symbols='GaCo', pbc=False)

@@ -1,0 +1,2 @@
+Cl10V2
+Atoms(symbols='V2Cl10', pbc=False)

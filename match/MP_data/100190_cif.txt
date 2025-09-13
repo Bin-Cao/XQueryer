@@ -1,0 +1,2 @@
+O14Rb4U4
+Atoms(symbols='Rb4U4O14', pbc=False)

@@ -1,0 +1,2 @@
+H10W2
+Atoms(symbols='H10W2', pbc=False)

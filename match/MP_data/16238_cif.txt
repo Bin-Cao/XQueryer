@@ -1,0 +1,2 @@
+Cr28N56
+Atoms(symbols='Cr28N56', pbc=False)

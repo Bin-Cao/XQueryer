@@ -1,0 +1,2 @@
+Hg3O3
+Atoms(symbols='Hg3O3', pbc=False)

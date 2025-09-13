@@ -1,0 +1,2 @@
+H2O4Tb2
+Atoms(symbols='Tb2H2O4', pbc=False)

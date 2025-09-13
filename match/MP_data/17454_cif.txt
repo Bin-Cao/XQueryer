@@ -1,0 +1,2 @@
+Fe2O14Ti6
+Atoms(symbols='Ti3FeO7Ti3FeO7', pbc=False)

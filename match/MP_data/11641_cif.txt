@@ -1,0 +1,2 @@
+N20
+Atoms(symbols='N20', pbc=False)

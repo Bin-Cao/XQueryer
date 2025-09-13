@@ -1,0 +1,2 @@
+Re4Te8
+Atoms(symbols='Re4Te8', pbc=False)

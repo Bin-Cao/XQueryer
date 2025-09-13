@@ -1,0 +1,2 @@
+Cu4Hf8Si16
+Atoms(symbols='Hf4Cu2Si8Hf4Cu2Si8', pbc=False)

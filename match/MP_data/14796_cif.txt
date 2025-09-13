@@ -1,0 +1,2 @@
+Ge16Si16
+Atoms(symbols='Si16Ge16', pbc=False)

@@ -1,0 +1,2 @@
+Cd2Eu2Sn2
+Atoms(symbols='Eu2Cd2Sn2', pbc=False)

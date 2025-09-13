@@ -1,0 +1,2 @@
+Ba9In4
+Atoms(symbols='Ba9In4', pbc=False)

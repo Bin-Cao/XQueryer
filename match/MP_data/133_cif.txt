@@ -1,0 +1,2 @@
+Si24Sr4
+Atoms(symbols='Sr2Si12Sr2Si12', pbc=False)

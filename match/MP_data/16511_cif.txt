@@ -1,0 +1,2 @@
+F18O12Y14
+Atoms(symbols='Y14O12F18', pbc=False)

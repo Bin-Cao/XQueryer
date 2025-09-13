@@ -1,0 +1,2 @@
+Ni2O24P6V3W
+Atoms(symbols='V3Ni2P6WO24', pbc=False)

@@ -1,0 +1,2 @@
+Au2Hg2Na4
+Atoms(symbols='Na2HgAuNa2HgAu', pbc=False)

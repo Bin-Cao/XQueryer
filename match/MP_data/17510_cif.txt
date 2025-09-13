@@ -1,0 +1,2 @@
+Fe7O48P12V
+Atoms(symbols='Fe7O48P12V', pbc=False)

@@ -1,0 +1,2 @@
+Nb68O104Sr14
+Atoms(symbols='Nb68O104Sr14', pbc=False)

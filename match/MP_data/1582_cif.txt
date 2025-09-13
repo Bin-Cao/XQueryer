@@ -1,0 +1,2 @@
+GaHf2Sb3
+Atoms(symbols='Hf2GaSb3', pbc=False)

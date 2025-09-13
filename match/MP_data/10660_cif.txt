@@ -1,0 +1,2 @@
+Ga3Hf3Ni3
+Atoms(symbols='Hf3Ga3Ni3', pbc=False)

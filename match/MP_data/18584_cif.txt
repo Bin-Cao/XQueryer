@@ -1,0 +1,2 @@
+Nd9Pt6
+Atoms(symbols='Nd9Pt6', pbc=False)

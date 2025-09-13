@@ -1,0 +1,2 @@
+Au4Ga8
+Atoms(symbols='Ga8Au4', pbc=False)

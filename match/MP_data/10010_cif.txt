@@ -1,0 +1,2 @@
+F12Na4Ni4
+Atoms(symbols='Na2Ni2F6Na2Ni2F6', pbc=False)

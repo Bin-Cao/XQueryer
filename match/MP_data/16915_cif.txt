@@ -1,0 +1,2 @@
+F18Ti2Tl10
+Atoms(symbols='Ti2Tl10F18', pbc=False)

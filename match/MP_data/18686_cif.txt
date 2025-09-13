@@ -1,0 +1,2 @@
+H4Cl4O4Rb2U
+Atoms(symbols='Rb2UH4Cl4O4', pbc=False)

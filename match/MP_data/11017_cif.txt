@@ -1,0 +1,2 @@
+Ca12Cr8Ge12O48
+Atoms(symbols='Ca12Cr8Ge12O48', pbc=False)

@@ -1,0 +1,2 @@
+B40O90Sm20
+Atoms(symbols='B40O90Sm20', pbc=False)

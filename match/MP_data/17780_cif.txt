@@ -1,0 +1,2 @@
+C24Eu4
+Atoms(symbols='Eu2C12Eu2C12', pbc=False)

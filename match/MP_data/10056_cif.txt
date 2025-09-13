@@ -1,0 +1,2 @@
+C4H12Br4
+Atoms(symbols='H6C2Br2H6C2Br2', pbc=False)

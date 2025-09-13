@@ -1,0 +1,2 @@
+Ag4Ba2Sr2
+Atoms(symbols='BaSrAg2BaSrAg2', pbc=False)

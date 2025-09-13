@@ -1,0 +1,2 @@
+O24Sc8Ti6
+Atoms(symbols='Sc8Ti6O24', pbc=False)

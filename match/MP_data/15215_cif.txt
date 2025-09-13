@@ -1,0 +1,2 @@
+Bi2In2Li4
+Atoms(symbols='Li2InBiLi2InBi', pbc=False)

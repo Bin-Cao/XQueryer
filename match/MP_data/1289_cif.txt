@@ -1,0 +1,2 @@
+CrGaP2
+Atoms(symbols='CrGaP2', pbc=False)

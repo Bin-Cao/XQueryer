@@ -1,0 +1,2 @@
+K20Na12Nb28O80W4
+Atoms(symbols='K20Na12Nb28O80W4', pbc=False)

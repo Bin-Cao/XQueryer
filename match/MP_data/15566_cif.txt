@@ -1,0 +1,2 @@
+Co2Re2Ta4
+Atoms(symbols='Ta2CoReTa2CoRe', pbc=False)

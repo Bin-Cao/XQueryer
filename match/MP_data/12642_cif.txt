@@ -1,0 +1,2 @@
+In8O20Zr4
+Atoms(symbols='Zr4In8O20', pbc=False)

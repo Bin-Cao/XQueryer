@@ -1,0 +1,2 @@
+Ga2Ge4Re2
+Atoms(symbols='GaReGe2GaReGe2', pbc=False)

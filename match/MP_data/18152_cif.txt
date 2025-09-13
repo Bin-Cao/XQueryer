@@ -1,0 +1,2 @@
+Cl12Hg4Tl4
+Atoms(symbols='Tl4Hg4Cl12', pbc=False)

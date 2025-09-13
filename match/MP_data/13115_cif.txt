@@ -1,0 +1,2 @@
+Fe2Ga2Ru4
+Atoms(symbols='GaFeRu2GaFeRu2', pbc=False)

@@ -1,0 +1,2 @@
+Cr4O24Sr8Zr4
+Atoms(symbols='Sr8Zr4Cr4O24', pbc=False)

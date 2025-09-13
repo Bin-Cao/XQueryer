@@ -1,0 +1,2 @@
+K2Li2Mg12
+Atoms(symbols='KLiMg6KLiMg6', pbc=False)

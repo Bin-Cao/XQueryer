@@ -1,0 +1,2 @@
+Dy4Ge12Ni4
+Atoms(symbols='Dy2Ni2Ge6Dy2Ni2Ge6', pbc=False)

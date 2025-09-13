@@ -1,0 +1,2 @@
+As2La2O2Ru2
+Atoms(symbols='La2As2Ru2O2', pbc=False)

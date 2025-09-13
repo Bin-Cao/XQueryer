@@ -1,0 +1,2 @@
+As6Co12
+Atoms(symbols='Co6As3Co6As3', pbc=False)

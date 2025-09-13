@@ -1,0 +1,2 @@
+N2O8U
+Atoms(symbols='UN2O8', pbc=False)

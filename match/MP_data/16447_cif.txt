@@ -1,0 +1,2 @@
+BiO4V
+Atoms(symbols='VBiO4', pbc=False)

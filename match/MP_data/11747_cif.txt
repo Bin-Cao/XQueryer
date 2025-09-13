@@ -1,0 +1,2 @@
+Co12Mg2P7
+Atoms(symbols='Mg2Co12P7', pbc=False)

@@ -1,0 +1,2 @@
+Fe12Ga12Y2
+Atoms(symbols='YGa6Fe6YGa6Fe6', pbc=False)

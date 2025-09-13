@@ -1,0 +1,2 @@
+O28Pr12Re4
+Atoms(symbols='Pr6Re2O14Pr6Re2O14', pbc=False)

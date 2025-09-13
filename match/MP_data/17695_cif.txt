@@ -1,0 +1,2 @@
+Cr48N96
+Atoms(symbols='Cr48N96', pbc=False)

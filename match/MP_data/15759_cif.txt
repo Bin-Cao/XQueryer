@@ -1,0 +1,2 @@
+Fe2Li2Mg12
+Atoms(symbols='LiMg6FeLiMg6Fe', pbc=False)

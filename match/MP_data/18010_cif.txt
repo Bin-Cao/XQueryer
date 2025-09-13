@@ -1,0 +1,2 @@
+Ga18Ho6Pt4
+Atoms(symbols='Ho3Ga9Pt2Ho3Ga9Pt2', pbc=False)

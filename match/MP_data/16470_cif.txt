@@ -1,0 +1,2 @@
+Hf4O14Y4
+Atoms(symbols='Y2Hf2O7Y2Hf2O7', pbc=False)

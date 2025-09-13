@@ -1,0 +1,2 @@
+Co14Hf4
+Atoms(symbols='Hf2Co7Hf2Co7', pbc=False)

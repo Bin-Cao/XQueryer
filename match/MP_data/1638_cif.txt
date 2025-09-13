@@ -1,0 +1,2 @@
+Hf5Pb
+Atoms(symbols='Hf5Pb', pbc=False)

@@ -1,0 +1,2 @@
+Al2In2La4
+Atoms(symbols='La2AlInLa2AlIn', pbc=False)

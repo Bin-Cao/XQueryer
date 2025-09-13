@@ -1,0 +1,2 @@
+B2Be4O10
+Atoms(symbols='Be2BO5Be2BO5', pbc=False)

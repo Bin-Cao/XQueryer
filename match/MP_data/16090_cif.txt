@@ -1,0 +1,2 @@
+Au2GaTi
+Atoms(symbols='TiGaAu2', pbc=False)

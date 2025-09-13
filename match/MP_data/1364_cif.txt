@@ -1,0 +1,2 @@
+C12Li
+Atoms(symbols='LiC12', pbc=False)

@@ -1,0 +1,2 @@
+As3Mn3Ni3
+Atoms(symbols='Mn3Ni3As3', pbc=False)

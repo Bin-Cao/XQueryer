@@ -1,0 +1,2 @@
+Cu20La24O62
+Atoms(symbols='Cu20La24O62', pbc=False)

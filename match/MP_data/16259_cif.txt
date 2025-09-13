@@ -1,0 +1,2 @@
+Co4Dy8Ge8
+Atoms(symbols='Dy4Co2Ge4Dy4Co2Ge4', pbc=False)

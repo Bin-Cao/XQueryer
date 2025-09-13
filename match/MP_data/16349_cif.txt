@@ -1,0 +1,2 @@
+O32Pb14
+Atoms(symbols='Pb7O16Pb7O16', pbc=False)

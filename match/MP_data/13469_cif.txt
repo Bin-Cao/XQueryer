@@ -1,0 +1,2 @@
+As4Au4O16
+Atoms(symbols='As2Au2O8As2Au2O8', pbc=False)

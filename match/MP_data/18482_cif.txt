@@ -1,0 +1,2 @@
+Er6Pd8
+Atoms(symbols='Er6Pd8', pbc=False)

@@ -1,0 +1,2 @@
+Cu16Dy4In4
+Atoms(symbols='DyInCu4DyInCu4DyInCu4DyInCu4', pbc=False)

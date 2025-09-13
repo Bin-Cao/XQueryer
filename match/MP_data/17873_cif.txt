@@ -1,0 +1,2 @@
+Ce4Pt20Sb4
+Atoms(symbols='Ce2Sb2Pt10Ce2Sb2Pt10', pbc=False)

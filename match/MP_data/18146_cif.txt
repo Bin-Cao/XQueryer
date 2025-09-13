@@ -1,0 +1,2 @@
+Co27Lu9
+Atoms(symbols='Lu3Co9Lu3Co9Lu3Co9', pbc=False)

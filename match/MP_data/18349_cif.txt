@@ -1,0 +1,2 @@
+Co3O72P18V9
+Atoms(symbols='Co3O72P18V9', pbc=False)

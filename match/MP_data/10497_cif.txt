@@ -1,0 +1,2 @@
+Co5Cu3La7O24Sm
+Atoms(symbols='La7SmCo5Cu3O24', pbc=False)

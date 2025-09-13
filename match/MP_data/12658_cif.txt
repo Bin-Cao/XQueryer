@@ -1,0 +1,2 @@
+C9O18Y3
+Atoms(symbols='YC3O6YC3O6YC3O6', pbc=False)

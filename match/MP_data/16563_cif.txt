@@ -1,0 +1,2 @@
+Cu3Te12Y7
+Atoms(symbols='Y7Cu3Te12', pbc=False)

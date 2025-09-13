@@ -1,0 +1,2 @@
+K8Ni6O12
+Atoms(symbols='K4Ni3O6K4Ni3O6', pbc=False)

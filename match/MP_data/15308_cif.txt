@@ -1,0 +1,2 @@
+Cr2Ga2Ir4
+Atoms(symbols='CrGaIr2CrGaIr2', pbc=False)

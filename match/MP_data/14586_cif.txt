@@ -1,0 +1,2 @@
+Ga2Ni2Pt4
+Atoms(symbols='GaNiPt2GaNiPt2', pbc=False)

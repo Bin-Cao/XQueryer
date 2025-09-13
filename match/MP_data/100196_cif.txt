@@ -1,0 +1,2 @@
+Na6S40Ti20
+Atoms(symbols='Na6S40Ti20', pbc=False)

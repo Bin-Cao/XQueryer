@@ -1,0 +1,2 @@
+IrLa2Ni
+Atoms(symbols='La2NiIr', pbc=False)

@@ -1,0 +1,2 @@
+HfMg
+Atoms(symbols='HfMg', pbc=False)

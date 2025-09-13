@@ -1,0 +1,2 @@
+Ag2In4Na2
+Atoms(symbols='NaIn2AgNaIn2Ag', pbc=False)

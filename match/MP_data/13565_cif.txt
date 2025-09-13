@@ -1,0 +1,2 @@
+MoSiTc2
+Atoms(symbols='SiTc2Mo', pbc=False)

@@ -1,0 +1,2 @@
+Au4Si4U2
+Atoms(symbols='U2Si4Au4', pbc=False)

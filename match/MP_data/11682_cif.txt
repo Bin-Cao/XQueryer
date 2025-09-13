@@ -1,0 +1,2 @@
+KMn16O32
+Atoms(symbols='KMn16O32', pbc=False)

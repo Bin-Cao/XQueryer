@@ -1,0 +1,2 @@
+Ba8Co16Cu16O80Sr24
+Atoms(symbols='Ba8Co16Cu16O80Sr24', pbc=False)

@@ -1,0 +1,2 @@
+Ir5Te10
+Atoms(symbols='Te10Ir5', pbc=False)

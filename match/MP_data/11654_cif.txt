@@ -1,0 +1,2 @@
+In6Ni9Se6
+Atoms(symbols='In2Ni3Se2In2Ni3Se2In2Ni3Se2', pbc=False)

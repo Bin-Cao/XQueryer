@@ -1,0 +1,2 @@
+Au2Be4Pd2
+Atoms(symbols='Be2PdAuBe2PdAu', pbc=False)

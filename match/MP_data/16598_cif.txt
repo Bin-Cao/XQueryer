@@ -1,0 +1,2 @@
+F10Nd6O4
+Atoms(symbols='Nd6O4F10', pbc=False)

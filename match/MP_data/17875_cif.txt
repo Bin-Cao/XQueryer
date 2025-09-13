@@ -1,0 +1,2 @@
+Lu2Zn24
+Atoms(symbols='LuZn12LuZn12', pbc=False)

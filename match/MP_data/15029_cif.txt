@@ -1,0 +1,2 @@
+Bi2Hg4Tl2
+Atoms(symbols='TlHg2BiTlHg2Bi', pbc=False)

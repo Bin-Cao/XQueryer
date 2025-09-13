@@ -1,0 +1,2 @@
+O21Ti21
+Atoms(symbols='Ti21O21', pbc=False)

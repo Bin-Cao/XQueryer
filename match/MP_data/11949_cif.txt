@@ -1,0 +1,2 @@
+K16Mo28Na16O80V4
+Atoms(symbols='K16Mo28Na16O80V4', pbc=False)

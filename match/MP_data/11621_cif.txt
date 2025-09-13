@@ -1,0 +1,2 @@
+Cl3CsTl
+Atoms(symbols='CsTlCl3', pbc=False)

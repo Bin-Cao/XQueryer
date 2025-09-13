@@ -1,0 +1,2 @@
+Ge3Hf3Os3
+Atoms(symbols='Hf3Ge3Os3', pbc=False)

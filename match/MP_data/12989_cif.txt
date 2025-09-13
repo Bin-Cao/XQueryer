@@ -1,0 +1,2 @@
+H2Ca2Ge2Ni2
+Atoms(symbols='Ca2Ni2Ge2H2', pbc=False)

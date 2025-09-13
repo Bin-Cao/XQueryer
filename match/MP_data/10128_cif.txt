@@ -1,0 +1,2 @@
+Cd3Ni12Sm3
+Atoms(symbols='SmCdNi4SmCdNi4SmCdNi4', pbc=False)

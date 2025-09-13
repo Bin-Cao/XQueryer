@@ -1,0 +1,2 @@
+Ca12Co24Fe8O80Sr20
+Atoms(symbols='Ca12Co24Fe8O80Sr20', pbc=False)

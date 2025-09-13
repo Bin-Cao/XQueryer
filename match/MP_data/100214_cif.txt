@@ -1,0 +1,2 @@
+Bi6Cd2O11
+Atoms(symbols='Cd2Bi6O11', pbc=False)

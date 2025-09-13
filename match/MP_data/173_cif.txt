@@ -1,0 +1,2 @@
+CoV
+Atoms(symbols='VCo', pbc=False)

@@ -1,0 +1,2 @@
+Mg3O27S3
+Atoms(symbols='MgSO9MgSO9MgSO9', pbc=False)

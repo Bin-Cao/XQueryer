@@ -1,0 +1,2 @@
+Si9
+Atoms(symbols='Si9', pbc=False)

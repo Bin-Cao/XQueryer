@@ -1,0 +1,2 @@
+H12F7N3Ti
+Atoms(symbols='TiH12N3F7', pbc=False)

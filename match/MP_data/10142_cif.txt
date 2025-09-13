@@ -1,0 +1,2 @@
+Na3O12U3
+Atoms(symbols='NaUO4NaUO4NaUO4', pbc=False)

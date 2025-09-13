@@ -1,0 +1,2 @@
+Ca6Cl3Ga3O24
+Atoms(symbols='Ca2GaClO8Ca2GaClO8Ca2GaClO8', pbc=False)

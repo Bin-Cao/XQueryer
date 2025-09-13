@@ -1,0 +1,2 @@
+Ag6Dy6Ga16
+Atoms(symbols='Dy3Ga8Ag3Dy3Ga8Ag3', pbc=False)

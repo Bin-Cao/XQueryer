@@ -1,0 +1,2 @@
+AlCe
+Atoms(symbols='CeAl', pbc=False)

@@ -1,0 +1,2 @@
+Pt16V2
+Atoms(symbols='VPt8VPt8', pbc=False)

@@ -1,0 +1,2 @@
+Cs4Hg4
+Atoms(symbols='Cs4Hg4', pbc=False)

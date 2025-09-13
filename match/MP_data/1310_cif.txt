@@ -1,0 +1,2 @@
+C5B
+Atoms(symbols='BC5', pbc=False)

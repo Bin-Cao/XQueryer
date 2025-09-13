@@ -1,0 +1,2 @@
+Bi3Mo18S24
+Atoms(symbols='BiMo6S8BiMo6S8BiMo6S8', pbc=False)

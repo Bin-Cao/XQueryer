@@ -1,0 +1,2 @@
+La2Y2Zn4
+Atoms(symbols='LaYZn2LaYZn2', pbc=False)

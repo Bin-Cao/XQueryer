@@ -1,0 +1,2 @@
+Cd6Mg30
+Atoms(symbols='Mg15Cd3Mg15Cd3', pbc=False)

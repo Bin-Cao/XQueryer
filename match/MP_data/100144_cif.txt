@@ -1,0 +1,2 @@
+F48Sn16Tl16
+Atoms(symbols='F48Sn16Tl16', pbc=False)

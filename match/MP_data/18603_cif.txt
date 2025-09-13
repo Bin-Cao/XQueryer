@@ -1,0 +1,2 @@
+Be27Ti9
+Atoms(symbols='Ti3Be9Ti3Be9Ti3Be9', pbc=False)

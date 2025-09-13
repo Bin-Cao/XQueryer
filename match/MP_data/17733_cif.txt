@@ -1,0 +1,2 @@
+Al24Pr6
+Atoms(symbols='Pr3Al12Pr3Al12', pbc=False)

@@ -1,0 +1,2 @@
+BaIn9Ir2
+Atoms(symbols='BaIn9Ir2', pbc=False)

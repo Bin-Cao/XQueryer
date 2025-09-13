@@ -1,0 +1,2 @@
+Cu15Tb3
+Atoms(symbols='TbCu5TbCu5TbCu5', pbc=False)

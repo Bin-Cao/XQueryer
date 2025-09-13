@@ -1,0 +1,2 @@
+Ag2Au4Y2
+Atoms(symbols='YAgAu2YAgAu2', pbc=False)

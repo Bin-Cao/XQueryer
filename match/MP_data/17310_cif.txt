@@ -1,0 +1,2 @@
+Ga8Nd2Ni2
+Atoms(symbols='Nd2Ga8Ni2', pbc=False)

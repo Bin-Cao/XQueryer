@@ -1,0 +1,2 @@
+K2La2Na2Nb2O10
+Atoms(symbols='K2Na2La2Nb2O10', pbc=False)

@@ -1,0 +1,2 @@
+Mg2Na2Sr4
+Atoms(symbols='NaSr2MgNaSr2Mg', pbc=False)

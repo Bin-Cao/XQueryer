@@ -1,0 +1,2 @@
+Se4V5
+Atoms(symbols='V5Se4', pbc=False)

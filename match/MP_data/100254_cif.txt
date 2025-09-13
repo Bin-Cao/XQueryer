@@ -1,0 +1,2 @@
+Ag4Pr8Se14
+Atoms(symbols='Pr8Ag4Se14', pbc=False)

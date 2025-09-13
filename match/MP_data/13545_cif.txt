@@ -1,0 +1,2 @@
+H5Ti4
+Atoms(symbols='Ti4H5', pbc=False)

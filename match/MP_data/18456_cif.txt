@@ -1,0 +1,2 @@
+Ag2Cu4O20S4
+Atoms(symbols='Cu2AgS2O10Cu2AgS2O10', pbc=False)

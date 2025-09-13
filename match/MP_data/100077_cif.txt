@@ -1,0 +1,2 @@
+I76Nb28S8
+Atoms(symbols='I76Nb28S8', pbc=False)

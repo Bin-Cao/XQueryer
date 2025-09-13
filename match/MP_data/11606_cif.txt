@@ -1,0 +1,2 @@
+B3Fe3Nb3
+Atoms(symbols='Nb3Fe3B3', pbc=False)

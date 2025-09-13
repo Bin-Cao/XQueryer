@@ -1,0 +1,2 @@
+Lu6Pd8
+Atoms(symbols='Lu6Pd8', pbc=False)

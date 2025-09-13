@@ -1,0 +1,2 @@
+Nb8O12
+Atoms(symbols='Nb4O6Nb4O6', pbc=False)

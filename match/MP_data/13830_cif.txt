@@ -1,0 +1,2 @@
+Cr4La28O80Sm4V28
+Atoms(symbols='Cr4La28O80Sm4V28', pbc=False)

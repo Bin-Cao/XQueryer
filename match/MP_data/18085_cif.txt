@@ -1,0 +1,2 @@
+Ce2Co16Mn8
+Atoms(symbols='CeMn4Co8CeMn4Co8', pbc=False)

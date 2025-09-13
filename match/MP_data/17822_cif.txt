@@ -1,0 +1,2 @@
+Al8Fe16U2
+Atoms(symbols='UAl4Fe8UAl4Fe8', pbc=False)

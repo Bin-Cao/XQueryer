@@ -1,0 +1,2 @@
+Ge5Na4O12
+Atoms(symbols='Na4Ge5O12', pbc=False)

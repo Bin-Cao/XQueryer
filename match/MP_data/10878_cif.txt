@@ -1,0 +1,2 @@
+In2Lu4Ni4
+Atoms(symbols='Lu4In2Ni4', pbc=False)

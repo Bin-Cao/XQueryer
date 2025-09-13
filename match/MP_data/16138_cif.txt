@@ -1,0 +1,2 @@
+In4Na2Y2
+Atoms(symbols='NaYIn2NaYIn2', pbc=False)

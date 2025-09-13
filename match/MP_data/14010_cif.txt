@@ -1,0 +1,2 @@
+Bi2Hg4K2
+Atoms(symbols='KHg2BiKHg2Bi', pbc=False)

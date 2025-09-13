@@ -1,0 +1,2 @@
+Ge12Mn12Nd2
+Atoms(symbols='NdMn6Ge6NdMn6Ge6', pbc=False)

@@ -1,0 +1,2 @@
+Ce28Se56
+Atoms(symbols='Ce28Se56', pbc=False)

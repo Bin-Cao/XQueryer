@@ -1,0 +1,2 @@
+Li2Mn6O8Rb2
+Atoms(symbols='RbLiMn3O4RbLiMn3O4', pbc=False)

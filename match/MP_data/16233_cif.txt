@@ -1,0 +1,2 @@
+Mo6O16Zn6
+Atoms(symbols='Zn3Mo3O8Zn3Mo3O8', pbc=False)

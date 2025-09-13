@@ -1,0 +1,2 @@
+In2O12Sr4Ta2
+Atoms(symbols='Sr2TaInO6Sr2TaInO6', pbc=False)

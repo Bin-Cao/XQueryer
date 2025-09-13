@@ -1,0 +1,2 @@
+K2Mg12Y2
+Atoms(symbols='KYMg6KYMg6', pbc=False)

@@ -1,0 +1,2 @@
+Au4Cu2Hf2
+Atoms(symbols='HfCuAu2HfCuAu2', pbc=False)

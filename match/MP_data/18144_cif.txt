@@ -1,0 +1,2 @@
+Cu2MnO48P12Zr8
+Atoms(symbols='Cu2MnO48P12Zr8', pbc=False)

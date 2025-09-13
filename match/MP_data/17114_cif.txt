@@ -1,0 +1,2 @@
+Pr8Sb16
+Atoms(symbols='Pr4Sb8Pr4Sb8', pbc=False)

@@ -1,0 +1,2 @@
+Ca12Mg20Zn40
+Atoms(symbols='Ca12Mg20Zn40', pbc=False)

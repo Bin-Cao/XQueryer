@@ -1,0 +1,2 @@
+C6Cr4Er4
+Atoms(symbols='Er2Cr2C3Er2Cr2C3', pbc=False)

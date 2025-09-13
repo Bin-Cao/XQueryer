@@ -1,0 +1,2 @@
+CK4O6
+Atoms(symbols='K4CO6', pbc=False)

@@ -1,0 +1,2 @@
+H18Al3La3
+Atoms(symbols='LaAlH6LaAlH6LaAlH6', pbc=False)

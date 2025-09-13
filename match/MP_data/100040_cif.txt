@@ -1,0 +1,2 @@
+F22Nd2Pb8
+Atoms(symbols='NdPb4F11NdPb4F11', pbc=False)

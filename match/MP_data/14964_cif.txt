@@ -1,0 +1,2 @@
+Hf4Rh2V2
+Atoms(symbols='Hf2VRhHf2VRh', pbc=False)

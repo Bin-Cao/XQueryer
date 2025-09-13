@@ -1,0 +1,2 @@
+Fe32Si14U12
+Atoms(symbols='U6Fe16Si7U6Fe16Si7', pbc=False)

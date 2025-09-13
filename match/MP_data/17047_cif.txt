@@ -1,0 +1,2 @@
+B4Fe16Gd4
+Atoms(symbols='Gd2Fe8B2Gd2Fe8B2', pbc=False)

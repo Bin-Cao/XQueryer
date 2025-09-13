@@ -1,0 +1,2 @@
+In16Ni4Pr4
+Atoms(symbols='Pr2In8Ni2Pr2In8Ni2', pbc=False)

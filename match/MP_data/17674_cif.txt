@@ -1,0 +1,2 @@
+AlCa2ClO8
+Atoms(symbols='Ca2AlClO8', pbc=False)

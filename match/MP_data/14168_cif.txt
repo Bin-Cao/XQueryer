@@ -1,0 +1,2 @@
+Al2Mg2Pt4
+Atoms(symbols='MgAlPt2MgAlPt2', pbc=False)

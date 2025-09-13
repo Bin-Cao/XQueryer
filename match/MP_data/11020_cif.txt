@@ -1,0 +1,2 @@
+Ca2Ni4Si2
+Atoms(symbols='Ca2Si2Ni4', pbc=False)

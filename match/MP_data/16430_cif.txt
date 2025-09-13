@@ -1,0 +1,2 @@
+B4Co12Fe4Nd4
+Atoms(symbols='Nd2Fe2Co6B2Nd2Fe2Co6B2', pbc=False)

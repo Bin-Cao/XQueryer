@@ -1,0 +1,2 @@
+Ga2Mn4Ta2
+Atoms(symbols='TaMn2GaTaMn2Ga', pbc=False)

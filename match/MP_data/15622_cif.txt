@@ -1,0 +1,2 @@
+Cu4Ga2Zn2
+Atoms(symbols='ZnGaCu2ZnGaCu2', pbc=False)

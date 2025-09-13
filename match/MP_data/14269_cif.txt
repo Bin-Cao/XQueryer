@@ -1,0 +1,2 @@
+Al2Fe2Ru4
+Atoms(symbols='AlFeRu2AlFeRu2', pbc=False)

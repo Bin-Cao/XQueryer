@@ -1,0 +1,2 @@
+In3Nd3Pt12
+Atoms(symbols='NdInPt4NdInPt4NdInPt4', pbc=False)

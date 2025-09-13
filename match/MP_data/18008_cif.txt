@@ -1,0 +1,2 @@
+I24Te6
+Atoms(symbols='Te6I24', pbc=False)

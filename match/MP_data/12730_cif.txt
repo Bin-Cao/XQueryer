@@ -1,0 +1,2 @@
+Co32La16O80Sm16
+Atoms(symbols='Co32La16O80Sm16', pbc=False)

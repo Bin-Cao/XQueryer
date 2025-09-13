@@ -1,0 +1,2 @@
+O18Sr5U5
+Atoms(symbols='Sr5U5O18', pbc=False)

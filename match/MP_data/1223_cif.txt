@@ -1,0 +1,2 @@
+FeMg7
+Atoms(symbols='Mg7Fe', pbc=False)

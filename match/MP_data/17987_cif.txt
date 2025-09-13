@@ -1,0 +1,2 @@
+Mo6Na2Te6
+Atoms(symbols='Na2Te6Mo6', pbc=False)

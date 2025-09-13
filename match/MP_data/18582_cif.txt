@@ -1,0 +1,2 @@
+In12Te18
+Atoms(symbols='In6Te9In6Te9', pbc=False)

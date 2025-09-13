@@ -1,0 +1,2 @@
+H16Mn16O32
+Atoms(symbols='H16Mn16O32', pbc=False)

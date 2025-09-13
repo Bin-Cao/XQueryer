@@ -1,0 +1,2 @@
+N4Pt2S12
+Atoms(symbols='PtS6N2PtS6N2', pbc=False)

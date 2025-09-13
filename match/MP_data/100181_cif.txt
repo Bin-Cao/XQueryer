@@ -1,0 +1,2 @@
+F17La5Sr
+Atoms(symbols='SrLa5F17', pbc=False)

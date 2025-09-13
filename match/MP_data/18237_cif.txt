@@ -1,0 +1,2 @@
+Nb10Se16Sr2
+Atoms(symbols='SrNb5Se8SrNb5Se8', pbc=False)

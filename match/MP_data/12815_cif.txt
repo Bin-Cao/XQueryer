@@ -1,0 +1,2 @@
+Au4O16P4
+Atoms(symbols='P2Au2O8P2Au2O8', pbc=False)

@@ -1,0 +1,2 @@
+Mg2Ru4Si2
+Atoms(symbols='MgSiRu2MgSiRu2', pbc=False)

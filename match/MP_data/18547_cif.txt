@@ -1,0 +1,2 @@
+H4O20Si4Zn8
+Atoms(symbols='Zn4Si2H2O10Zn4Si2H2O10', pbc=False)

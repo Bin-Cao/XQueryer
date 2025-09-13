@@ -1,0 +1,2 @@
+CoNaO2
+Atoms(symbols='NaCoO2', pbc=False)

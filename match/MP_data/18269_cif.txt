@@ -1,0 +1,2 @@
+HoK3O8V2
+Atoms(symbols='K3HoV2O8', pbc=False)

@@ -1,0 +1,2 @@
+Ce22Mn2S32
+Atoms(symbols='Ce22Mn2S32', pbc=False)

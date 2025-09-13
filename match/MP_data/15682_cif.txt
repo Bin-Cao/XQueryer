@@ -1,0 +1,2 @@
+Cu2Mg2Pd4
+Atoms(symbols='MgCuPd2MgCuPd2', pbc=False)

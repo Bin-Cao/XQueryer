@@ -1,0 +1,2 @@
+K2O10Se2Zn
+Atoms(symbols='K2ZnSe2O10', pbc=False)

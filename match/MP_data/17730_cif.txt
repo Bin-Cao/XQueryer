@@ -1,0 +1,2 @@
+Cu8Ge8Y6
+Atoms(symbols='Y3Cu4Ge4Y3Cu4Ge4', pbc=False)

@@ -1,0 +1,2 @@
+Mo4Na2O20Zn4
+Atoms(symbols='NaZn2Mo2O10NaZn2Mo2O10', pbc=False)

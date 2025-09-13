@@ -1,0 +1,2 @@
+Ge4Mo2
+Atoms(symbols='Ge2MoGe2Mo', pbc=False)

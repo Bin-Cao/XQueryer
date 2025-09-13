@@ -1,0 +1,2 @@
+F44O8W10
+Atoms(symbols='F44O8W10', pbc=False)

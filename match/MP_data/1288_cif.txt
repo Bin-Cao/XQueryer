@@ -1,0 +1,2 @@
+HBaGaSn
+Atoms(symbols='BaGaSnH', pbc=False)

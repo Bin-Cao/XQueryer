@@ -1,0 +1,2 @@
+HoN
+Atoms(symbols='HoN', pbc=False)

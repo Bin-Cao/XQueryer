@@ -1,0 +1,2 @@
+Ce2Li2Mg28
+Atoms(symbols='LiCeMg14LiCeMg14', pbc=False)

@@ -1,0 +1,2 @@
+Mn4Re2Ti2
+Atoms(symbols='TiMn2ReTiMn2Re', pbc=False)

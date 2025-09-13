@@ -1,0 +1,2 @@
+Li3Mg3
+Atoms(symbols='Li3Mg3', pbc=False)

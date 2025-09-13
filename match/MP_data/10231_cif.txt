@@ -1,0 +1,2 @@
+La4Ni4Si8
+Atoms(symbols='La2Si4Ni2La2Si4Ni2', pbc=False)

@@ -1,0 +1,2 @@
+Ag2Mo2Ti4
+Atoms(symbols='Ti2AgMoTi2AgMo', pbc=False)

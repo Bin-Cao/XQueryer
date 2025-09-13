@@ -1,0 +1,2 @@
+F4O28Sb20
+Atoms(symbols='Sb10O14F2Sb10O14F2', pbc=False)

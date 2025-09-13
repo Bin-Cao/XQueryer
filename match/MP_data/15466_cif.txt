@@ -1,0 +1,2 @@
+Bi2Cs2Na4
+Atoms(symbols='CsNa2BiCsNa2Bi', pbc=False)

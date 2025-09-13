@@ -1,0 +1,2 @@
+AgBrO2
+Atoms(symbols='AgBrO2', pbc=False)

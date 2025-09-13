@@ -1,0 +1,2 @@
+Ca8O8
+Atoms(symbols='Ca4O4Ca4O4', pbc=False)

@@ -1,0 +1,2 @@
+S32Tl3V24
+Atoms(symbols='Tl3V24S32', pbc=False)

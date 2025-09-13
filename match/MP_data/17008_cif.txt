@@ -1,0 +1,2 @@
+O32Pb3V17
+Atoms(symbols='V17Pb3O32', pbc=False)

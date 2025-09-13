@@ -1,0 +1,2 @@
+Cl8Ni6
+Atoms(symbols='Ni3Cl4Ni3Cl4', pbc=False)

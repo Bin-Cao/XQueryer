@@ -1,0 +1,2 @@
+Cd8O20U4
+Atoms(symbols='U2Cd4O10U2Cd4O10', pbc=False)

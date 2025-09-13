@@ -1,0 +1,2 @@
+Be4Co2Cu2
+Atoms(symbols='Be2CoCuBe2CoCu', pbc=False)

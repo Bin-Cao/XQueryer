@@ -1,0 +1,2 @@
+Ca4Cu2Rh2
+Atoms(symbols='Ca2CuRhCa2CuRh', pbc=False)

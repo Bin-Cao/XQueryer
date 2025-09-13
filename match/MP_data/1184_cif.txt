@@ -1,0 +1,2 @@
+Mg7Na
+Atoms(symbols='NaMg7', pbc=False)

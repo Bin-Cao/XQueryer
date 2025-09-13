@@ -1,0 +1,2 @@
+H4Cl2Lu2O4
+Atoms(symbols='Lu2H4Cl2O4', pbc=False)

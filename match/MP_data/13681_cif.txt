@@ -1,0 +1,2 @@
+Mg2Ru4W2
+Atoms(symbols='MgRu2WMgRu2W', pbc=False)

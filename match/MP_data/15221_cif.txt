@@ -1,0 +1,2 @@
+In2Na2Pd4
+Atoms(symbols='NaInPd2NaInPd2', pbc=False)

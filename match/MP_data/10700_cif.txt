@@ -1,0 +1,2 @@
+Cr4K4O8
+Atoms(symbols='K2Cr2O4K2Cr2O4', pbc=False)

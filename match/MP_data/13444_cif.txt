@@ -1,0 +1,2 @@
+Al26Mg32
+Atoms(symbols='Mg16Al13Mg16Al13', pbc=False)

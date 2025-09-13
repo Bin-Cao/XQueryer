@@ -1,0 +1,2 @@
+Al4Cu2Ir2
+Atoms(symbols='Al2CuIrAl2CuIr', pbc=False)

@@ -1,0 +1,2 @@
+Au4Nd4
+Atoms(symbols='Nd4Au4', pbc=False)

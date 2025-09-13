@@ -1,0 +1,2 @@
+O28Ta8U4
+Atoms(symbols='U2Ta4O14U2Ta4O14', pbc=False)

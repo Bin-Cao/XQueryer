@@ -1,0 +1,2 @@
+S24V21
+Atoms(symbols='V21S24', pbc=False)

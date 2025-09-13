@@ -1,0 +1,2 @@
+Cr4F20K8O4
+Atoms(symbols='K4Cr2O2F10K4Cr2O2F10', pbc=False)

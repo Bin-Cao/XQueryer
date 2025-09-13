@@ -1,0 +1,2 @@
+B4Co16Dy4
+Atoms(symbols='Dy2Co8B2Dy2Co8B2', pbc=False)

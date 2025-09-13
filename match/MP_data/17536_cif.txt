@@ -1,0 +1,2 @@
+Ca28Co28Fe4Mg4O80
+Atoms(symbols='Ca28Co28Fe4Mg4O80', pbc=False)

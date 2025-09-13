@@ -1,0 +1,2 @@
+Cu2Fe2Rh4
+Atoms(symbols='FeCuRh2FeCuRh2', pbc=False)

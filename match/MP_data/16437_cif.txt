@@ -1,0 +1,2 @@
+F16V4
+Atoms(symbols='V4F16', pbc=False)

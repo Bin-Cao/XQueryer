@@ -1,0 +1,2 @@
+Nd18Pt24
+Atoms(symbols='Nd6Pt8Nd6Pt8Nd6Pt8', pbc=False)

@@ -1,0 +1,2 @@
+Ba2Ce2Mg28
+Atoms(symbols='BaCeMg14BaCeMg14', pbc=False)

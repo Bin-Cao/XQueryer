@@ -1,0 +1,2 @@
+C4Dy2Fe2
+Atoms(symbols='DyFeC2DyFeC2', pbc=False)

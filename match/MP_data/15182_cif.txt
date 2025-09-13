@@ -1,0 +1,2 @@
+Co4Hf2Mn2
+Atoms(symbols='HfMnCo2HfMnCo2', pbc=False)

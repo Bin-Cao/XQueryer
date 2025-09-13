@@ -1,0 +1,2 @@
+Li2Pd2Sr4
+Atoms(symbols='Sr2LiPdSr2LiPd', pbc=False)

@@ -1,0 +1,2 @@
+Ca2In4P4
+Atoms(symbols='Ca2In4P4', pbc=False)

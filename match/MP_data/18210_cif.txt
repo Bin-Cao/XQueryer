@@ -1,0 +1,2 @@
+Cl8Fe4O12Y4
+Atoms(symbols='Y2Fe2Cl4O6Y2Fe2Cl4O6', pbc=False)

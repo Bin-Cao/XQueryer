@@ -1,0 +1,2 @@
+C4F6Hg
+Atoms(symbols='HgC4F6', pbc=False)

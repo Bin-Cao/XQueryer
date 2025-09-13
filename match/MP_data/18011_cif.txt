@@ -1,0 +1,2 @@
+Fe23O38Sr2
+Atoms(symbols='Fe23O38Sr2', pbc=False)

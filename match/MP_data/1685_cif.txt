@@ -1,0 +1,2 @@
+Be3N2
+Atoms(symbols='Be3N2', pbc=False)

@@ -1,0 +1,2 @@
+Co16Cr16Fe16Ni16
+Atoms(symbols='Co16Cr16Fe16Ni16', pbc=False)

@@ -1,0 +1,2 @@
+In4Li2Sc2
+Atoms(symbols='LiScIn2LiScIn2', pbc=False)

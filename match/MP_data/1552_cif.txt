@@ -1,0 +1,2 @@
+K12Li4O28P8
+Atoms(symbols='K6Li2P4O14K6Li2P4O14', pbc=False)

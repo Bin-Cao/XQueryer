@@ -1,0 +1,2 @@
+Au2Br2Cs4
+Atoms(symbols='Cs2AuBrCs2AuBr', pbc=False)

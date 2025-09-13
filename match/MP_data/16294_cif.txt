@@ -1,0 +1,2 @@
+K4Mo3Na4O24W5
+Atoms(symbols='K4Na4Mo3W5O24', pbc=False)

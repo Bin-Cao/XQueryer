@@ -1,0 +1,2 @@
+Ca2Fe3Mn5O24Sr6
+Atoms(symbols='Sr6Ca2Mn5Fe3O24', pbc=False)

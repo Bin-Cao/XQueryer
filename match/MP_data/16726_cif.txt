@@ -1,0 +1,2 @@
+Cr18N36
+Atoms(symbols='Cr18N36', pbc=False)

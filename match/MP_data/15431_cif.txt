@@ -1,0 +1,2 @@
+Hf2Mo2Tc4
+Atoms(symbols='HfTc2MoHfTc2Mo', pbc=False)

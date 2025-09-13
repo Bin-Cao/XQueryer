@@ -1,0 +1,2 @@
+O28Ti22
+Atoms(symbols='Ti11O14Ti11O14', pbc=False)

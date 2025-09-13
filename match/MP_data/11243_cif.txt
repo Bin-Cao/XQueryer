@@ -1,0 +1,2 @@
+AlPt
+Atoms(symbols='AlPt', pbc=False)

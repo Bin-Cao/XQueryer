@@ -1,0 +1,2 @@
+Ba4Hg2In2
+Atoms(symbols='Ba2InHgBa2InHg', pbc=False)

@@ -1,0 +1,2 @@
+Hf4Mo2Pt2
+Atoms(symbols='Hf2MoPtHf2MoPt', pbc=False)

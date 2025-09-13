@@ -1,0 +1,2 @@
+Co2K2Mg28
+Atoms(symbols='KMg14CoKMg14Co', pbc=False)

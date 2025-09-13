@@ -1,0 +1,2 @@
+F20V6
+Atoms(symbols='V6F20', pbc=False)

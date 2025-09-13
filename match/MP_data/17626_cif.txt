@@ -1,0 +1,2 @@
+Ga10Nd3Ni
+Atoms(symbols='Nd3Ga10Ni', pbc=False)

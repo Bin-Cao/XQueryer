@@ -1,0 +1,2 @@
+Mg2Na8Se12Si4
+Atoms(symbols='Na4MgSi2Se6Na4MgSi2Se6', pbc=False)

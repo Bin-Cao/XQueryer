@@ -1,0 +1,2 @@
+Cr20Sb6Te14
+Atoms(symbols='Cr10Sb3Te7Cr10Sb3Te7', pbc=False)

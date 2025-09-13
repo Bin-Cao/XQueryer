@@ -1,0 +1,2 @@
+AgCu6Mo5O24V
+Atoms(symbols='VCu6AgMo5O24', pbc=False)

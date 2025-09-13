@@ -1,0 +1,2 @@
+B22Li2
+Atoms(symbols='LiB11LiB11', pbc=False)

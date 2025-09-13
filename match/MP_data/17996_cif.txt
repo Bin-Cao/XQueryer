@@ -1,0 +1,2 @@
+Ni3O72P18Sb6Ti9
+Atoms(symbols='Ni3O72P18Sb6Ti9', pbc=False)

@@ -1,0 +1,2 @@
+Cl18In6Ti4
+Atoms(symbols='Ti4In6Cl18', pbc=False)

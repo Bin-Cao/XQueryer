@@ -1,0 +1,2 @@
+Hf3Re3Si3
+Atoms(symbols='Hf3Re3Si3', pbc=False)

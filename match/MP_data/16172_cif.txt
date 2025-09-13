@@ -1,0 +1,2 @@
+CsKMg6
+Atoms(symbols='CsKMg6', pbc=False)

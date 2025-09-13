@@ -1,0 +1,2 @@
+N4O16Re4
+Atoms(symbols='Re2N2O8Re2N2O8', pbc=False)

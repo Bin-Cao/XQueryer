@@ -1,0 +1,2 @@
+Ga2Hg4Li2
+Atoms(symbols='LiGaHg2LiGaHg2', pbc=False)

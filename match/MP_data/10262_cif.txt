@@ -1,0 +1,2 @@
+Ge2La2Sc2
+Atoms(symbols='La2Sc2Ge2', pbc=False)

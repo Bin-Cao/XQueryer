@@ -1,0 +1,2 @@
+Ho12Ni8
+Atoms(symbols='Ho6Ni4Ho6Ni4', pbc=False)

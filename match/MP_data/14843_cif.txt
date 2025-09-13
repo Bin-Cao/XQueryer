@@ -1,0 +1,2 @@
+Al2Ga2Sc4
+Atoms(symbols='Sc2AlGaSc2AlGa', pbc=False)

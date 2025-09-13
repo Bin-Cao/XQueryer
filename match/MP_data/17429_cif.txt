@@ -1,0 +1,2 @@
+Bi2Fe4O18Si4
+Atoms(symbols='Fe2Si2BiO9Fe2Si2BiO9', pbc=False)

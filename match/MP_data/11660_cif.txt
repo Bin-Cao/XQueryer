@@ -1,0 +1,2 @@
+AlPr
+Atoms(symbols='PrAl', pbc=False)

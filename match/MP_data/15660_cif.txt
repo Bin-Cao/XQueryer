@@ -1,0 +1,2 @@
+Be4Ni2Pd2
+Atoms(symbols='Be2NiPdBe2NiPd', pbc=False)

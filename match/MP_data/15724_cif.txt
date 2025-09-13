@@ -1,0 +1,2 @@
+C2Cd2Mg28
+Atoms(symbols='Mg14CdCMg14CdC', pbc=False)

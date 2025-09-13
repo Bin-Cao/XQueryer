@@ -1,0 +1,2 @@
+B12Cr4Pr2
+Atoms(symbols='PrCr2B6PrCr2B6', pbc=False)

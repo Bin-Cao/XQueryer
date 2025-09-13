@@ -1,0 +1,2 @@
+Cr4K4Na28O80V28
+Atoms(symbols='Cr4K4Na28O80V28', pbc=False)

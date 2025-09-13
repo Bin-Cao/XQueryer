@@ -1,0 +1,2 @@
+Be2MgP2
+Atoms(symbols='MgBe2P2', pbc=False)

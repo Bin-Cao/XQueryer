@@ -1,0 +1,2 @@
+H4N34Ti40
+Atoms(symbols='H4N34Ti40', pbc=False)

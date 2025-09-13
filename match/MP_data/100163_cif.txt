@@ -1,0 +1,2 @@
+Al11NO15
+Atoms(symbols='Al11NO15', pbc=False)

@@ -1,0 +1,2 @@
+O18Sm4Th6
+Atoms(symbols='Sm2Th3O9Sm2Th3O9', pbc=False)

@@ -1,0 +1,2 @@
+Cl16Hg6N4O2
+Atoms(symbols='Hg3N2Cl8OHg3N2Cl8O', pbc=False)

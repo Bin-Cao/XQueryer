@@ -1,0 +1,2 @@
+C2H2S
+Atoms(symbols='H2C2S', pbc=False)

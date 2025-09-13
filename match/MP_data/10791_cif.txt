@@ -1,0 +1,2 @@
+Fe2Se6U2
+Atoms(symbols='U2Fe2Se6', pbc=False)

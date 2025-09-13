@@ -1,0 +1,2 @@
+As9Cd12Na3
+Atoms(symbols='NaCd4As3NaCd4As3NaCd4As3', pbc=False)

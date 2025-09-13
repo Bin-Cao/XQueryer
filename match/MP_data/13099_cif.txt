@@ -1,0 +1,2 @@
+Cu4F4La4O8
+Atoms(symbols='La2Cu2O4F2La2Cu2O4F2', pbc=False)

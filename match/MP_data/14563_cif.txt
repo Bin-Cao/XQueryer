@@ -1,0 +1,2 @@
+Co2Sc4Tl2
+Atoms(symbols='Sc2TlCoSc2TlCo', pbc=False)

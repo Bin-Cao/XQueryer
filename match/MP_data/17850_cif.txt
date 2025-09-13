@@ -1,0 +1,2 @@
+Bi23O44V4
+Atoms(symbols='Bi23O44V4', pbc=False)

@@ -1,0 +1,2 @@
+C8U4
+Atoms(symbols='UC2UC2UC2UC2', pbc=False)

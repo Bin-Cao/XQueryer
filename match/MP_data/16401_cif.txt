@@ -1,0 +1,2 @@
+F18V4
+Atoms(symbols='V4F18', pbc=False)

@@ -1,0 +1,2 @@
+H12La4
+Atoms(symbols='LaH3LaH3LaH3LaH3', pbc=False)

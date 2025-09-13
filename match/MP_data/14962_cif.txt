@@ -1,0 +1,2 @@
+Ni2Re2Ta4
+Atoms(symbols='Ta2ReNiTa2ReNi', pbc=False)

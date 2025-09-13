@@ -1,0 +1,2 @@
+K6O18Pt3
+Atoms(symbols='K2PtO6K2PtO6K2PtO6', pbc=False)

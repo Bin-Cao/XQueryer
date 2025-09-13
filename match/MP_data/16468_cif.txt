@@ -1,0 +1,2 @@
+GeN2Zn
+Atoms(symbols='ZnGeN2', pbc=False)

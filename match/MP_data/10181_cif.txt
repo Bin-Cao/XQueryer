@@ -1,0 +1,2 @@
+Co12Mg3Tb3
+Atoms(symbols='TbMgCo4TbMgCo4TbMgCo4', pbc=False)

@@ -1,0 +1,2 @@
+Ag4Cs4O8
+Atoms(symbols='Cs2Ag2O4Cs2Ag2O4', pbc=False)

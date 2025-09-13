@@ -1,0 +1,2 @@
+Co3N10Ti7
+Atoms(symbols='Ti7Co3N10', pbc=False)

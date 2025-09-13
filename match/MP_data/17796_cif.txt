@@ -1,0 +1,2 @@
+B8Ni12Zn4
+Atoms(symbols='Zn2Ni6B4Zn2Ni6B4', pbc=False)

@@ -1,0 +1,2 @@
+F4O18Pb4Ti8
+Atoms(symbols='Ti4Pb2O9F2Ti4Pb2O9F2', pbc=False)

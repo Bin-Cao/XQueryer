@@ -1,0 +1,2 @@
+O18P4Sn8
+Atoms(symbols='Sn8P4O18', pbc=False)

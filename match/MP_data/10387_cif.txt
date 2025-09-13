@@ -1,0 +1,2 @@
+Co4Ho2In2
+Atoms(symbols='Ho2In2Co4', pbc=False)

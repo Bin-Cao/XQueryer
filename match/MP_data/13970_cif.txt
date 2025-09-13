@@ -1,0 +1,2 @@
+Co2Ir2Mn4
+Atoms(symbols='Mn2CoIrMn2CoIr', pbc=False)

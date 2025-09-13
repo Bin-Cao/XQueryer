@@ -1,0 +1,2 @@
+Os3P12
+Atoms(symbols='P12Os3', pbc=False)

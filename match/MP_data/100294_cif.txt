@@ -1,0 +1,2 @@
+Co8La6Sn26
+Atoms(symbols='La6Co8Sn26', pbc=False)

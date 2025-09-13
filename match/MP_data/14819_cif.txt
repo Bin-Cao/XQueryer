@@ -1,0 +1,2 @@
+H2Ag2
+Atoms(symbols='Ag2H2', pbc=False)

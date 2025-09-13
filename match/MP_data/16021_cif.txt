@@ -1,0 +1,2 @@
+Ge8O28Ta8
+Atoms(symbols='Ta4Ge4O14Ta4Ge4O14', pbc=False)

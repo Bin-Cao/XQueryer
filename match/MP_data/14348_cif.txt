@@ -1,0 +1,2 @@
+Hg2Na4Te2
+Atoms(symbols='Na2HgTeNa2HgTe', pbc=False)

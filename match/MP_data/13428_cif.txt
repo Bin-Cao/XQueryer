@@ -1,0 +1,2 @@
+As3Fe3Ti3
+Atoms(symbols='Ti3Fe3As3', pbc=False)

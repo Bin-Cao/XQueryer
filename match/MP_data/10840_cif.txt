@@ -1,0 +1,2 @@
+CoEr6Te2
+Atoms(symbols='Er6CoTe2', pbc=False)

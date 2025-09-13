@@ -1,0 +1,2 @@
+N2O10Sm2
+Atoms(symbols='Sm2N2O10', pbc=False)

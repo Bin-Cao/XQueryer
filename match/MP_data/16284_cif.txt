@@ -1,0 +1,2 @@
+B2Cs2Mg12O14
+Atoms(symbols='CsMg6BO7CsMg6BO7', pbc=False)

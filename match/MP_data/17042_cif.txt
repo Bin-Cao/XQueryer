@@ -1,0 +1,2 @@
+Ag7O40V16
+Atoms(symbols='Ag7O40V16', pbc=False)

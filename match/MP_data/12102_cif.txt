@@ -1,0 +1,2 @@
+Au4Pt2Y2
+Atoms(symbols='YPtAu2YPtAu2', pbc=False)

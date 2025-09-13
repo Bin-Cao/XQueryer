@@ -1,0 +1,2 @@
+N4O20U2
+Atoms(symbols='UN2O10UN2O10', pbc=False)

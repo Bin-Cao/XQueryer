@@ -1,0 +1,2 @@
+Co18Ni9V9
+Atoms(symbols='V3Co6Ni3V3Co6Ni3V3Co6Ni3', pbc=False)

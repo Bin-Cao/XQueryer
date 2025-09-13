@@ -1,0 +1,2 @@
+Ag4Cr4O8
+Atoms(symbols='Cr4Ag4O8', pbc=False)

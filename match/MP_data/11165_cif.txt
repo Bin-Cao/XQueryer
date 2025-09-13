@@ -1,0 +1,2 @@
+Cs4Ni6S8
+Atoms(symbols='Cs2Ni3S4Cs2Ni3S4', pbc=False)

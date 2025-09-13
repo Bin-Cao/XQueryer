@@ -1,0 +1,2 @@
+O24Y2Zr10
+Atoms(symbols='YZr5O12YZr5O12', pbc=False)

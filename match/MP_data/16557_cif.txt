@@ -1,0 +1,2 @@
+As32Ni44
+Atoms(symbols='As32Ni44', pbc=False)

@@ -1,0 +1,2 @@
+Co12O32V4
+Atoms(symbols='V2Co6O16V2Co6O16', pbc=False)

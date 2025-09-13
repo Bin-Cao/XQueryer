@@ -1,0 +1,2 @@
+Na2Tl4Y2
+Atoms(symbols='NaYTl2NaYTl2', pbc=False)

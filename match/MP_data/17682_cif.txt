@@ -1,0 +1,2 @@
+Mn4Mo4N2O20
+Atoms(symbols='Mn2Mo2NO10Mn2Mo2NO10', pbc=False)

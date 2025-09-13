@@ -1,0 +1,2 @@
+Be2Cu4Li2
+Atoms(symbols='LiBeCu2LiBeCu2', pbc=False)

@@ -1,0 +1,2 @@
+Au6Er6Ga16
+Atoms(symbols='Er3Ga8Au3Er3Ga8Au3', pbc=False)

@@ -1,0 +1,2 @@
+C4Pa2
+Atoms(symbols='PaC2PaC2', pbc=False)

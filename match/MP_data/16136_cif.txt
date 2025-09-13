@@ -1,0 +1,2 @@
+O20Si6V6
+Atoms(symbols='V6Si6O20', pbc=False)

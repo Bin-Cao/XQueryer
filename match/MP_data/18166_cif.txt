@@ -1,0 +1,2 @@
+LaMo6S8
+Atoms(symbols='LaMo6S8', pbc=False)

@@ -1,0 +1,2 @@
+Co3Hf3Sn3
+Atoms(symbols='Hf3Co3Sn3', pbc=False)

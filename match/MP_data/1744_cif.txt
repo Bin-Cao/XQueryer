@@ -1,0 +1,2 @@
+In8O24Zn12
+Atoms(symbols='Zn12In8O24', pbc=False)

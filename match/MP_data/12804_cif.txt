@@ -1,0 +1,2 @@
+Co2Ir2Y4
+Atoms(symbols='Y2CoIrY2CoIr', pbc=False)

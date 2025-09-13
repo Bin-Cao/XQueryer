@@ -1,0 +1,2 @@
+CaO6Ti2
+Atoms(symbols='CaTi2O6', pbc=False)

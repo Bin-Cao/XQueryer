@@ -1,0 +1,2 @@
+Dy5Mg24
+Atoms(symbols='Dy5Mg24', pbc=False)

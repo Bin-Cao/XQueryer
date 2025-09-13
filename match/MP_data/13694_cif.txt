@@ -1,0 +1,2 @@
+Ir2Mo2Ta4
+Atoms(symbols='Ta2MoIrTa2MoIr', pbc=False)

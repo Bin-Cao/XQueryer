@@ -1,0 +1,2 @@
+Al2Be2Co4
+Atoms(symbols='BeAlCo2BeAlCo2', pbc=False)

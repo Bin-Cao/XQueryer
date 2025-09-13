@@ -1,0 +1,2 @@
+CuTe2Y
+Atoms(symbols='YCuTe2', pbc=False)

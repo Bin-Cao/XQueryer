@@ -1,0 +1,2 @@
+HNaO5Ti2
+Atoms(symbols='NaTi2HO5', pbc=False)

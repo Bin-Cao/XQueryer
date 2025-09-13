@@ -1,0 +1,2 @@
+Lu2Se4
+Atoms(symbols='Lu2Se4', pbc=False)

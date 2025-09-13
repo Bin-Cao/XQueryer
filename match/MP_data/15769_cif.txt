@@ -1,0 +1,2 @@
+NiO3Tl
+Atoms(symbols='TlNiO3', pbc=False)

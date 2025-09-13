@@ -1,0 +1,2 @@
+Co6Mn9O72P18Ti3
+Atoms(symbols='Co6Mn9O72P18Ti3', pbc=False)

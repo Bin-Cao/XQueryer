@@ -1,0 +1,2 @@
+Fe2Mg28Si2
+Atoms(symbols='Mg14FeSiMg14FeSi', pbc=False)

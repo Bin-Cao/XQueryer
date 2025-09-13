@@ -1,0 +1,2 @@
+CoMo12Se16
+Atoms(symbols='CoMo12Se16', pbc=False)

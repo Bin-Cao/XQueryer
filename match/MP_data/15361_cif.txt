@@ -1,0 +1,2 @@
+Fe2Si4Tc2
+Atoms(symbols='FeSi2TcFeSi2Tc', pbc=False)

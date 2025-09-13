@@ -1,0 +1,2 @@
+Be2CaP2
+Atoms(symbols='CaBe2P2', pbc=False)

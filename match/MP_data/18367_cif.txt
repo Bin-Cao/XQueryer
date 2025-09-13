@@ -1,0 +1,2 @@
+Fe6LuSn6
+Atoms(symbols='LuFe6Sn6', pbc=False)

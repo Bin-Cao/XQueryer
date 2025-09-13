@@ -1,0 +1,2 @@
+O5SrZn
+Atoms(symbols='SrZnO5', pbc=False)

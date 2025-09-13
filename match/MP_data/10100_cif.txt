@@ -1,0 +1,2 @@
+Ce4Fe2O4Se4
+Atoms(symbols='Ce2FeSe2O2Ce2FeSe2O2', pbc=False)

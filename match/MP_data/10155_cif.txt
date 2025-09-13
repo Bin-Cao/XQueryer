@@ -1,0 +1,2 @@
+Eu2Nb2O6
+Atoms(symbols='Eu2Nb2O6', pbc=False)

@@ -1,0 +1,2 @@
+Co2Ga4Ni2
+Atoms(symbols='Ga2CoNiGa2CoNi', pbc=False)

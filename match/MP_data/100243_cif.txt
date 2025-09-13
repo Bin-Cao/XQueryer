@@ -1,0 +1,2 @@
+Cu14S40Ti20
+Atoms(symbols='Cu14S40Ti20', pbc=False)

@@ -1,0 +1,2 @@
+Hf2N2O6Ta2
+Atoms(symbols='Hf2Ta2N2O6', pbc=False)

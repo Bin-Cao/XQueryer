@@ -1,0 +1,2 @@
+O8Pd4
+Atoms(symbols='Pd2O4Pd2O4', pbc=False)

@@ -1,0 +1,2 @@
+In2Mn2Pt4
+Atoms(symbols='MnInPt2MnInPt2', pbc=False)

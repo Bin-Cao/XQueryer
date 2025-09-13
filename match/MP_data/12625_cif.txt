@@ -1,0 +1,2 @@
+Mg2Sr10
+Atoms(symbols='Sr5MgSr5Mg', pbc=False)

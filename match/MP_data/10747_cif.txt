@@ -1,0 +1,2 @@
+Ni2O6Pb2
+Atoms(symbols='Ni2Pb2O6', pbc=False)

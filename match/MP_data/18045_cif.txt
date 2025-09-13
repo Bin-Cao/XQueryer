@@ -1,0 +1,2 @@
+Cr2Cs2P4S14
+Atoms(symbols='CsCrP2S7CsCrP2S7', pbc=False)

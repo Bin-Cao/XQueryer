@@ -1,0 +1,2 @@
+Ni18Pr6
+Atoms(symbols='Pr3Ni9Pr3Ni9', pbc=False)

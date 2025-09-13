@@ -1,0 +1,2 @@
+Li20P12Ti4
+Atoms(symbols='Li10Ti2P6Li10Ti2P6', pbc=False)

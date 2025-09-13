@@ -1,0 +1,2 @@
+Ce24Se48
+Atoms(symbols='Ce24Se48', pbc=False)

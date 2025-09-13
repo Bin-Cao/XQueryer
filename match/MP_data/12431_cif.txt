@@ -1,0 +1,2 @@
+La28O80Sm4V32
+Atoms(symbols='La28O80Sm4V32', pbc=False)

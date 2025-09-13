@@ -1,0 +1,2 @@
+Ho3S6Tl3
+Atoms(symbols='HoTlS2HoTlS2HoTlS2', pbc=False)

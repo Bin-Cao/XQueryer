@@ -1,0 +1,2 @@
+Ag6Ga16Ho6
+Atoms(symbols='Ho3Ga8Ag3Ho3Ga8Ag3', pbc=False)

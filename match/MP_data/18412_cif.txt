@@ -1,0 +1,2 @@
+Eu8Pt12Si20
+Atoms(symbols='Eu4Si10Pt6Eu4Si10Pt6', pbc=False)

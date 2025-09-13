@@ -1,0 +1,2 @@
+NO5Tl5
+Atoms(symbols='Tl5NO5', pbc=False)

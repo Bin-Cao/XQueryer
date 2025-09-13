@@ -1,0 +1,2 @@
+O106Y12Zr44
+Atoms(symbols='O106Y12Zr44', pbc=False)

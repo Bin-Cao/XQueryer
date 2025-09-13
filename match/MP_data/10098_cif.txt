@@ -1,0 +1,2 @@
+Ga3Ru3U3
+Atoms(symbols='U3Ga3Ru3', pbc=False)

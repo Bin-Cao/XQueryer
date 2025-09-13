@@ -1,0 +1,2 @@
+AgF6Ti
+Atoms(symbols='TiAgF6', pbc=False)

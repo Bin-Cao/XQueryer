@@ -1,0 +1,2 @@
+H27Ba3Re3
+Atoms(symbols='BaReH9BaReH9BaReH9', pbc=False)

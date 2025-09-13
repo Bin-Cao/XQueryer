@@ -1,0 +1,2 @@
+H8Ge2
+Atoms(symbols='Ge2H8', pbc=False)

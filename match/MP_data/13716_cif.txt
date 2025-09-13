@@ -1,0 +1,2 @@
+P10
+Atoms(symbols='P10', pbc=False)

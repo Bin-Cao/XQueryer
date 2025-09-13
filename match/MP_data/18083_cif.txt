@@ -1,0 +1,2 @@
+Co16Mn8Nd2
+Atoms(symbols='NdMn4Co8NdMn4Co8', pbc=False)

@@ -1,0 +1,2 @@
+Er4Li4O8
+Atoms(symbols='Li4Er4O8', pbc=False)

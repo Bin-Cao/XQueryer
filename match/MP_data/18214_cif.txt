@@ -1,0 +1,2 @@
+Al16Ce2Cr8
+Atoms(symbols='CeAl8Cr4CeAl8Cr4', pbc=False)

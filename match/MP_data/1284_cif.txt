@@ -1,0 +1,2 @@
+O14P4Si2
+Atoms(symbols='Si2P4O14', pbc=False)

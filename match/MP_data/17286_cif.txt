@@ -1,0 +1,2 @@
+C4N12Ni2S4
+Atoms(symbols='NiC2S2N6NiC2S2N6', pbc=False)

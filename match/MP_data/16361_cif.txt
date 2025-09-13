@@ -1,0 +1,2 @@
+Lu4O12Y4
+Atoms(symbols='Y4Lu4O12', pbc=False)

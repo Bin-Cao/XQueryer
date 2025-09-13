@@ -1,0 +1,2 @@
+Fe4K2Mo4O20
+Atoms(symbols='KFe2Mo2O10KFe2Mo2O10', pbc=False)

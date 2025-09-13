@@ -1,0 +1,2 @@
+HoIr
+Atoms(symbols='HoIr', pbc=False)

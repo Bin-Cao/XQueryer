@@ -1,0 +1,2 @@
+O12Re2Zn
+Atoms(symbols='ZnRe2O12', pbc=False)

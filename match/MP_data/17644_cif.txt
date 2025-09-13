@@ -1,0 +1,2 @@
+Br10Cs4O8V2
+Atoms(symbols='Cs2VBr5O4Cs2VBr5O4', pbc=False)

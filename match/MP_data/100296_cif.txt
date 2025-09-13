@@ -1,0 +1,2 @@
+Dy28O82Ti20
+Atoms(symbols='Dy28O82Ti20', pbc=False)

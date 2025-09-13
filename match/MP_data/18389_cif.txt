@@ -1,0 +1,2 @@
+Cl6Co12O18
+Atoms(symbols='Co4Cl2O6Co4Cl2O6Co4Cl2O6', pbc=False)

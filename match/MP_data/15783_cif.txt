@@ -1,0 +1,2 @@
+K2Mg28Si2
+Atoms(symbols='KMg14SiKMg14Si', pbc=False)

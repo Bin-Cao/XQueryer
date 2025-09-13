@@ -1,0 +1,2 @@
+Co2La3Sn7
+Atoms(symbols='La3Co2Sn7', pbc=False)

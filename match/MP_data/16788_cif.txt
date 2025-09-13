@@ -1,0 +1,2 @@
+NiO2Pt
+Atoms(symbols='NiPtO2', pbc=False)

@@ -1,0 +1,2 @@
+Pt4Sr2Y2
+Atoms(symbols='SrYPt2SrYPt2', pbc=False)

@@ -1,0 +1,2 @@
+Br12Cu4Ga4
+Atoms(symbols='Ga2Cu2Br6Ga2Cu2Br6', pbc=False)

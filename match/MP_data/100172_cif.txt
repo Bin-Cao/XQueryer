@@ -1,0 +1,2 @@
+Au6Ba12Pt6
+Atoms(symbols='Ba12Pt6Au6', pbc=False)

@@ -1,0 +1,2 @@
+Fe5O32V14
+Atoms(symbols='V14Fe5O32', pbc=False)

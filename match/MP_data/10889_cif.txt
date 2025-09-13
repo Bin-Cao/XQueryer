@@ -1,0 +1,2 @@
+Cd3Pd3Sm3
+Atoms(symbols='Sm3Cd3Pd3', pbc=False)

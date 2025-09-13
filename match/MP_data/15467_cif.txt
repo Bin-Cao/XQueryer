@@ -1,0 +1,2 @@
+Cd2In2Mg4
+Atoms(symbols='Mg2CdInMg2CdIn', pbc=False)

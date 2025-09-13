@@ -1,0 +1,2 @@
+C4Dy20Ge12
+Atoms(symbols='Dy10Ge6C2Dy10Ge6C2', pbc=False)

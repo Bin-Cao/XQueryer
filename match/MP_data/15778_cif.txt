@@ -1,0 +1,2 @@
+N10O4Zr10
+Atoms(symbols='Zr5N5O2Zr5N5O2', pbc=False)

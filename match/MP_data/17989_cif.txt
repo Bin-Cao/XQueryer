@@ -1,0 +1,2 @@
+H20Nd8
+Atoms(symbols='Nd4H10Nd4H10', pbc=False)

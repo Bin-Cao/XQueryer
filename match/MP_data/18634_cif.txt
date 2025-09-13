@@ -1,0 +1,2 @@
+Cu3Fe4O12Sr
+Atoms(symbols='SrFe4Cu3O12', pbc=False)

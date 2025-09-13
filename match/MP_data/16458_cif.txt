@@ -1,0 +1,2 @@
+Nb4O28Y12
+Atoms(symbols='Y6Nb2O14Y6Nb2O14', pbc=False)

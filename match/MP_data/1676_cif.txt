@@ -1,0 +1,2 @@
+N3Ta2Ti
+Atoms(symbols='Ta2TiN3', pbc=False)

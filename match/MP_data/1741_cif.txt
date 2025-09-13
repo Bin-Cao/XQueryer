@@ -1,0 +1,2 @@
+Mg12Na2Sn2
+Atoms(symbols='NaMg6SnNaMg6Sn', pbc=False)

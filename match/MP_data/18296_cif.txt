@@ -1,0 +1,2 @@
+Cl6O6Tc
+Atoms(symbols='TcCl6O6', pbc=False)

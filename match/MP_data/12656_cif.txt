@@ -1,0 +1,2 @@
+Hf4Mo2Ni2
+Atoms(symbols='Hf2NiMoHf2NiMo', pbc=False)

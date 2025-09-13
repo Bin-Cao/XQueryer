@@ -1,0 +1,2 @@
+Hg2Ir2La4
+Atoms(symbols='La2HgIrLa2HgIr', pbc=False)

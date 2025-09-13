@@ -1,0 +1,2 @@
+Cu6O4
+Atoms(symbols='Cu3O2Cu3O2', pbc=False)

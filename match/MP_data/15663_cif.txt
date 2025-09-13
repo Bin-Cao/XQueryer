@@ -1,0 +1,2 @@
+Cu2Ga2Ni4
+Atoms(symbols='GaCuNi2GaCuNi2', pbc=False)

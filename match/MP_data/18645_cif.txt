@@ -1,0 +1,2 @@
+Ni27Tb9
+Atoms(symbols='Tb3Ni9Tb3Ni9Tb3Ni9', pbc=False)

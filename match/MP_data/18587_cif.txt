@@ -1,0 +1,2 @@
+Cd8O24S4
+Atoms(symbols='Cd4S2O12Cd4S2O12', pbc=False)

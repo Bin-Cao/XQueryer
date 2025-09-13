@@ -1,0 +1,2 @@
+K4N8Zn2
+Atoms(symbols='K4Zn2N8', pbc=False)

@@ -1,0 +1,2 @@
+Se19Ti20
+Atoms(symbols='Ti20Se19', pbc=False)

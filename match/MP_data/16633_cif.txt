@@ -1,0 +1,2 @@
+Hg2Na2Rb4
+Atoms(symbols='Rb2NaHgRb2NaHg', pbc=False)

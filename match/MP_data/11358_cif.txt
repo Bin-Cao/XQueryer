@@ -1,0 +1,2 @@
+Cu3In3Y3
+Atoms(symbols='Y3In3Cu3', pbc=False)

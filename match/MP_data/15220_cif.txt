@@ -1,0 +1,2 @@
+In2Tl2Y4
+Atoms(symbols='Y2TlInY2TlIn', pbc=False)

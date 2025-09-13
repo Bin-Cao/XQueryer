@@ -1,0 +1,2 @@
+Ca4S44Sn20
+Atoms(symbols='Ca4S44Sn20', pbc=False)

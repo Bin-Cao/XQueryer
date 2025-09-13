@@ -1,0 +1,2 @@
+P8Ru2
+Atoms(symbols='P8Ru2', pbc=False)

@@ -1,0 +1,2 @@
+H3BrEu2
+Atoms(symbols='Eu2H3Br', pbc=False)

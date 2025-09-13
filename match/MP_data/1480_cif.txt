@@ -1,0 +1,2 @@
+Dy4In4Zn4
+Atoms(symbols='Dy2Zn2In2Dy2Zn2In2', pbc=False)

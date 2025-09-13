@@ -1,0 +1,2 @@
+H8Ni6O18Si4
+Atoms(symbols='Si2Ni3H4O9Si2Ni3H4O9', pbc=False)

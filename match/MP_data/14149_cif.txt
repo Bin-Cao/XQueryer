@@ -1,0 +1,2 @@
+Ga2Os4V2
+Atoms(symbols='VGaOs2VGaOs2', pbc=False)

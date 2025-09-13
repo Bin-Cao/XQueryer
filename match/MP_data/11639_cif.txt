@@ -1,0 +1,2 @@
+F6N2Si
+Atoms(symbols='SiN2F6', pbc=False)

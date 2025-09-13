@@ -1,0 +1,2 @@
+P2Pa
+Atoms(symbols='PaP2', pbc=False)

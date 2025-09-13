@@ -1,0 +1,2 @@
+Cr12La24O80Sm8V20
+Atoms(symbols='Cr12La24O80Sm8V20', pbc=False)

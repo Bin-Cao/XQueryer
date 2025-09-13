@@ -1,0 +1,2 @@
+Ba2Er2Fe8O14
+Atoms(symbols='BaErFe4O7BaErFe4O7', pbc=False)

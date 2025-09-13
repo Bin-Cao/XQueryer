@@ -1,0 +1,2 @@
+CoFe7
+Atoms(symbols='Fe7Co', pbc=False)

@@ -1,0 +1,2 @@
+Ce9GdO20
+Atoms(symbols='Ce9GdO20', pbc=False)

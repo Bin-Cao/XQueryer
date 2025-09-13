@@ -1,0 +1,2 @@
+Co4Er8Ge8
+Atoms(symbols='Er4Co2Ge4Er4Co2Ge4', pbc=False)

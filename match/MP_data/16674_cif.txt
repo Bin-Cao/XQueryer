@@ -1,0 +1,2 @@
+Cu2Ga2O4
+Atoms(symbols='Ga2Cu2O4', pbc=False)

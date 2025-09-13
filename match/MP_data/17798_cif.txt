@@ -1,0 +1,2 @@
+H2O12Sr6Ta2
+Atoms(symbols='Sr3TaHO6Sr3TaHO6', pbc=False)

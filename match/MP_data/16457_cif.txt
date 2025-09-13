@@ -1,0 +1,2 @@
+Co18Sm6
+Atoms(symbols='Sm3Co9Sm3Co9', pbc=False)

@@ -1,0 +1,2 @@
+MoO5V
+Atoms(symbols='VMoO5', pbc=False)

@@ -1,0 +1,2 @@
+H6Cl2Eu4
+Atoms(symbols='Eu2H3ClEu2H3Cl', pbc=False)

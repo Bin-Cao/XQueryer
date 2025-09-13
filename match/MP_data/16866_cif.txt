@@ -1,0 +1,2 @@
+Bi8O22V3
+Atoms(symbols='V3Bi8O22', pbc=False)

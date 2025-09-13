@@ -1,0 +1,2 @@
+H28Na6O30RuTe2
+Atoms(symbols='H28Na6O30RuTe2', pbc=False)

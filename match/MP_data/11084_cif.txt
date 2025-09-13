@@ -1,0 +1,2 @@
+Ge2Li4Pr2
+Atoms(symbols='Li4Pr2Ge2', pbc=False)

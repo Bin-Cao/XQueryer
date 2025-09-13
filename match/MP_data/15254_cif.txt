@@ -1,0 +1,2 @@
+Al2Mo2Tc4
+Atoms(symbols='AlTc2MoAlTc2Mo', pbc=False)

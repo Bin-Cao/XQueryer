@@ -1,0 +1,2 @@
+Mn5O16Ti3
+Atoms(symbols='Ti3Mn5O16', pbc=False)

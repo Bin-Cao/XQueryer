@@ -1,0 +1,2 @@
+Ni2O16P4V2
+Atoms(symbols='V2Ni2P4O16', pbc=False)

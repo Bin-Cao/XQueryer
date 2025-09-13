@@ -1,0 +1,2 @@
+Co2Tb12Te4
+Atoms(symbols='Tb6CoTe2Tb6CoTe2', pbc=False)

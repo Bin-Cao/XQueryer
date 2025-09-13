@@ -1,0 +1,2 @@
+Cu2Os2Ti4
+Atoms(symbols='Ti2CuOsTi2CuOs', pbc=False)

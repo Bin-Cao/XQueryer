@@ -1,0 +1,2 @@
+Si36Sn2
+Atoms(symbols='Si18SnSi18Sn', pbc=False)

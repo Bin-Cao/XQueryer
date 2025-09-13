@@ -1,0 +1,2 @@
+As2LaLi3
+Atoms(symbols='Li3LaAs2', pbc=False)

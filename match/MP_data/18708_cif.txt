@@ -1,0 +1,2 @@
+F18Ni3O18Zr3
+Atoms(symbols='ZrNiO6F6ZrNiO6F6ZrNiO6F6', pbc=False)

@@ -1,0 +1,2 @@
+Cs30N38W14
+Atoms(symbols='Cs30N38W14', pbc=False)

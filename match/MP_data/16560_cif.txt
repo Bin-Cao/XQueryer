@@ -1,0 +1,2 @@
+Na2Pt2Tl4
+Atoms(symbols='NaTl2PtNaTl2Pt', pbc=False)

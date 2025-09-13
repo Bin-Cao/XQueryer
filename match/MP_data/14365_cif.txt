@@ -1,0 +1,2 @@
+Na2Sr2Tl4
+Atoms(symbols='NaSrTl2NaSrTl2', pbc=False)

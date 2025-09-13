@@ -1,0 +1,2 @@
+AlRe
+Atoms(symbols='AlRe', pbc=False)

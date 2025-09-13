@@ -1,0 +1,2 @@
+K2La2Mg28
+Atoms(symbols='KLaMg14KLaMg14', pbc=False)

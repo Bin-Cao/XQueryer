@@ -1,0 +1,2 @@
+Al3Nd3Ni3
+Atoms(symbols='Nd3Al3Ni3', pbc=False)

@@ -1,0 +1,2 @@
+Fe8Ge4U2
+Atoms(symbols='U2Fe8Ge4', pbc=False)

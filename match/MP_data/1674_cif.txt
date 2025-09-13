@@ -1,0 +1,2 @@
+Be2Si2Zr2
+Atoms(symbols='Zr2Be2Si2', pbc=False)

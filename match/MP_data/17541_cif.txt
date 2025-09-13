@@ -1,0 +1,2 @@
+C8H20N4O16P2U2
+Atoms(symbols='U2P2H20C8N4O16', pbc=False)

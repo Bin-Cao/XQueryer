@@ -1,0 +1,2 @@
+Pd20Pr4
+Atoms(symbols='Pr2Pd10Pr2Pd10', pbc=False)

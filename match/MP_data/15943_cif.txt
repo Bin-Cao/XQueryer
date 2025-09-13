@@ -1,0 +1,2 @@
+Ga2S6Zn3
+Atoms(symbols='Zn3Ga2S6', pbc=False)

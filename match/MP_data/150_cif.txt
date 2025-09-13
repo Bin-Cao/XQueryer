@@ -1,0 +1,2 @@
+HfPd
+Atoms(symbols='HfPd', pbc=False)

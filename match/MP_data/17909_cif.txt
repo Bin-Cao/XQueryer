@@ -1,0 +1,2 @@
+O42P12Sn12
+Atoms(symbols='O42P12Sn12', pbc=False)

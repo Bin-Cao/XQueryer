@@ -1,0 +1,2 @@
+Mg2Se2
+Atoms(symbols='Mg2Se2', pbc=False)

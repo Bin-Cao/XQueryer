@@ -1,0 +1,2 @@
+Nd4O14Th4
+Atoms(symbols='Nd4Th4O14', pbc=False)

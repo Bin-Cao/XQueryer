@@ -1,0 +1,2 @@
+Cd2Ho
+Atoms(symbols='HoCd2', pbc=False)

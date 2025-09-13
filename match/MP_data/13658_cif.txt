@@ -1,0 +1,2 @@
+Si12
+Atoms(symbols='Si12', pbc=False)

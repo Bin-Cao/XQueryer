@@ -1,0 +1,2 @@
+Li18N40Ta22
+Atoms(symbols='Li18N40Ta22', pbc=False)

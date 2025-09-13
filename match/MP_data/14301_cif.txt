@@ -1,0 +1,2 @@
+In4Na2Sn2
+Atoms(symbols='NaIn2SnNaIn2Sn', pbc=False)

@@ -1,0 +1,2 @@
+Al8Fe4Lu
+Atoms(symbols='LuAl8Fe4', pbc=False)

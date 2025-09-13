@@ -1,0 +1,2 @@
+Cu2Hf4Ni2
+Atoms(symbols='Hf2CuNiHf2CuNi', pbc=False)

@@ -1,0 +1,2 @@
+Bi4O18U6
+Atoms(symbols='U3Bi2O9U3Bi2O9', pbc=False)

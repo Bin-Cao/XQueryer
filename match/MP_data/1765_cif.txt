@@ -1,0 +1,2 @@
+HCaGaGe
+Atoms(symbols='CaGaGeH', pbc=False)

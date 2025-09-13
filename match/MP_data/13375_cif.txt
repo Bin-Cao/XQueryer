@@ -1,0 +1,2 @@
+Mo2Ti4W2
+Atoms(symbols='Ti2MoWTi2MoW', pbc=False)

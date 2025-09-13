@@ -1,0 +1,2 @@
+K6O18Sn3
+Atoms(symbols='K2SnO6K2SnO6K2SnO6', pbc=False)

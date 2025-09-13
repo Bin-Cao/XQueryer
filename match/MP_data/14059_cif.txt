@@ -1,0 +1,2 @@
+Ga2Ta2Tc4
+Atoms(symbols='TaGaTc2TaGaTc2', pbc=False)

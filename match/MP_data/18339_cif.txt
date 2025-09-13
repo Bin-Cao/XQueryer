@@ -1,0 +1,2 @@
+Ir4Y10
+Atoms(symbols='Y10Ir4', pbc=False)
