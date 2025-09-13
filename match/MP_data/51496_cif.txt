@@ -1,0 +1,2 @@
+Gd4O48W12Y4
+Atoms(symbols='Gd4O48W12Y4', pbc=False)

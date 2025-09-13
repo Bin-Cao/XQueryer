@@ -1,0 +1,2 @@
+K4Mo6O33Se2
+Atoms(symbols='K4Mo6Se2O33', pbc=False)

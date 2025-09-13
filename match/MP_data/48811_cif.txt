@@ -1,0 +1,2 @@
+Cu36In12Pr8
+Atoms(symbols='Pr8In12Cu36', pbc=False)

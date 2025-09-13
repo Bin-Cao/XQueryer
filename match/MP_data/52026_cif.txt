@@ -1,0 +1,2 @@
+CuFeNi
+Atoms(symbols='FeCuNi', pbc=False)

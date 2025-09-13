@@ -1,0 +1,2 @@
+Mn2Ni3Sm
+Atoms(symbols='SmMn2Ni3', pbc=False)

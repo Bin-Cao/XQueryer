@@ -1,0 +1,2 @@
+Fe2Ga4O24P6
+Atoms(symbols='Ga2FeP3O12Ga2FeP3O12', pbc=False)

@@ -1,0 +1,2 @@
+Cu40Mn4Pr4
+Atoms(symbols='Pr2Mn2Cu20Pr2Mn2Cu20', pbc=False)

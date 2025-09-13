@@ -1,0 +1,2 @@
+Bi3LaNi4O12
+Atoms(symbols='LaNi4Bi3O12', pbc=False)

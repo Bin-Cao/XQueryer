@@ -1,0 +1,2 @@
+Ag3Ir2LiO6
+Atoms(symbols='LiAg3Ir2O6', pbc=False)

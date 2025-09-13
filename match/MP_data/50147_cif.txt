@@ -1,0 +1,2 @@
+La2LiMn3O9
+Atoms(symbols='LiLa2Mn3O9', pbc=False)

@@ -1,0 +1,2 @@
+F5KSn2
+Atoms(symbols='KSn2F5', pbc=False)

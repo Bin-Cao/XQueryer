@@ -1,0 +1,2 @@
+BaCoO6SrW
+Atoms(symbols='BaSrCoWO6', pbc=False)

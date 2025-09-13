@@ -1,0 +1,2 @@
+DyS4Sm3
+Atoms(symbols='Sm3DyS4', pbc=False)

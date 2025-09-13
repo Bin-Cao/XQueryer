@@ -1,0 +1,2 @@
+C4CrFe33Sm4
+Atoms(symbols='Sm4CrFe33C4', pbc=False)

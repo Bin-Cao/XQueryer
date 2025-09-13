@@ -1,0 +1,2 @@
+Ag8Er12Pb16
+Atoms(symbols='Er6Ag4Pb8Er6Ag4Pb8', pbc=False)

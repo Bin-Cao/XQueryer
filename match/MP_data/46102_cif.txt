@@ -1,0 +1,2 @@
+H2B8Ga6O28Sr6
+Atoms(symbols='Sr6Ga6B8H2O28', pbc=False)

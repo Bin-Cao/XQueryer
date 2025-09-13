@@ -1,0 +1,2 @@
+Ge13Nd4
+Atoms(symbols='Nd4Ge13', pbc=False)

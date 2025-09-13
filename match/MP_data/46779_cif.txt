@@ -1,0 +1,2 @@
+NiPrSb
+Atoms(symbols='PrNiSb', pbc=False)

@@ -1,0 +1,2 @@
+ReSi4W
+Atoms(symbols='ReSi4W', pbc=False)

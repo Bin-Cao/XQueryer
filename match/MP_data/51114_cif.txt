@@ -1,0 +1,2 @@
+GePbTe2
+Atoms(symbols='GeTe2Pb', pbc=False)

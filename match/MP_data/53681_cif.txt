@@ -1,0 +1,2 @@
+Cr8Mo4P12
+Atoms(symbols='Cr8Mo4P12', pbc=False)

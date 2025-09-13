@@ -1,0 +1,2 @@
+Cl16O32Sr16Te12
+Atoms(symbols='Cl16O32Sr16Te12', pbc=False)

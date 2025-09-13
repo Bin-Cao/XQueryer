@@ -1,0 +1,2 @@
+Mo3Se30Ta12
+Atoms(symbols='Ta4MoSe10Ta4MoSe10Ta4MoSe10', pbc=False)

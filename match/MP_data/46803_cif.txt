@@ -1,0 +1,2 @@
+Ca4Cu17O29Sr6
+Atoms(symbols='Sr6Ca4Cu17O29', pbc=False)

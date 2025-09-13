@@ -1,0 +1,2 @@
+Fe2Ho8Se14
+Atoms(symbols='Ho4FeSe7Ho4FeSe7', pbc=False)

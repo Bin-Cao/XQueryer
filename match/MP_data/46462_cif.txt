@@ -1,0 +1,2 @@
+Pt4S3Se
+Atoms(symbols='Pt4SeS3', pbc=False)

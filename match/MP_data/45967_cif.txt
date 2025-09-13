@@ -1,0 +1,2 @@
+Co12Ga9Si3Ti24
+Atoms(symbols='Ti8Ga3Co4SiTi8Ga3Co4SiTi8Ga3Co4Si', pbc=False)

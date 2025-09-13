@@ -1,0 +1,2 @@
+Nd10Ni2Ru6Si20
+Atoms(symbols='Nd10Si20Ni2Ru6', pbc=False)

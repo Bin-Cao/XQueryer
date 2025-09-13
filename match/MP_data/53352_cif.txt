@@ -1,0 +1,2 @@
+Cu18Dy6Se18
+Atoms(symbols='Dy2Cu6Se6Dy2Cu6Se6Dy2Cu6Se6', pbc=False)

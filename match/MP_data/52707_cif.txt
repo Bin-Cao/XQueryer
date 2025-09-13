@@ -1,0 +1,2 @@
+C2Co4Dy4Fe30
+Atoms(symbols='Dy2Fe15Co2CDy2Fe15Co2C', pbc=False)

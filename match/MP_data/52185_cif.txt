@@ -1,0 +1,2 @@
+CuErSi
+Atoms(symbols='ErCuSi', pbc=False)

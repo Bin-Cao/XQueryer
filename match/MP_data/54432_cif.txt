@@ -1,0 +1,2 @@
+Ca3CdO4
+Atoms(symbols='Ca3CdO4', pbc=False)

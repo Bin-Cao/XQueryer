@@ -1,0 +1,2 @@
+H15N3O12Se3
+Atoms(symbols='H15Se3N3O12', pbc=False)

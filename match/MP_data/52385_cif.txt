@@ -1,0 +1,2 @@
+Cu4Ge3O12Si
+Atoms(symbols='Cu4SiGe3O12', pbc=False)

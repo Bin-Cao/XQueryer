@@ -1,0 +1,2 @@
+Ca18Co9O36Rh3
+Atoms(symbols='Ca18Co9O36Rh3', pbc=False)

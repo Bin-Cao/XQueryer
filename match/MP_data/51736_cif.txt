@@ -1,0 +1,2 @@
+AlCuEr2
+Atoms(symbols='Er2AlCu', pbc=False)

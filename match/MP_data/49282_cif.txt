@@ -1,0 +1,2 @@
+Ge8In8La24
+Atoms(symbols='La24In8Ge8', pbc=False)

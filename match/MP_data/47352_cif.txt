@@ -1,0 +1,2 @@
+NbSe4W
+Atoms(symbols='NbWSe4', pbc=False)

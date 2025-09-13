@@ -1,0 +1,2 @@
+Mo2Re4Se8
+Atoms(symbols='Re4Mo2Se8', pbc=False)

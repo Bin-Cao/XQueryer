@@ -1,0 +1,2 @@
+In2Pr2Se8Tl4
+Atoms(symbols='PrTl2InSe4PrTl2InSe4', pbc=False)

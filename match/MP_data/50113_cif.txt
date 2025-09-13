@@ -1,0 +1,2 @@
+C2B72Lu4Si18
+Atoms(symbols='C2B72Lu4Si18', pbc=False)

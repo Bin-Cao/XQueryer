@@ -1,0 +1,2 @@
+H10Dy2O20P4
+Atoms(symbols='Dy2P4H10O20', pbc=False)

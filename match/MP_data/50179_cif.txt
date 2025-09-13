@@ -1,0 +1,2 @@
+CoLa6S14Si2
+Atoms(symbols='La6CoSi2S14', pbc=False)

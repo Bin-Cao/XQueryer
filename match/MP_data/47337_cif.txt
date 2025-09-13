@@ -1,0 +1,2 @@
+Co3O18Ru3Sr6
+Atoms(symbols='Sr2CoRuO6Sr2CoRuO6Sr2CoRuO6', pbc=False)

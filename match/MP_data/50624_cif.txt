@@ -1,0 +1,2 @@
+Li6N12O32Rh2
+Atoms(symbols='Li6Rh2N12O32', pbc=False)

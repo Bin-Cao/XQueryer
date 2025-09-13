@@ -1,0 +1,2 @@
+Co36Nb12
+Atoms(symbols='Nb6Co18Nb6Co18', pbc=False)

@@ -1,0 +1,2 @@
+Co48Sm6V3
+Atoms(symbols='Sm2VCo16Sm2VCo16Sm2VCo16', pbc=False)

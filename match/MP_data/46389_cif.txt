@@ -1,0 +1,2 @@
+N10Nb10O28Sr20
+Atoms(symbols='N10Nb10O28Sr20', pbc=False)

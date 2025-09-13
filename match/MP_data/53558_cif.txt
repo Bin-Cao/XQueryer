@@ -1,0 +1,2 @@
+B12CeEu
+Atoms(symbols='CeEuB12', pbc=False)

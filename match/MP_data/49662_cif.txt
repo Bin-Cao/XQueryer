@@ -1,0 +1,2 @@
+Ce2La2Ni2Pt2
+Atoms(symbols='LaCeNiPtLaCeNiPt', pbc=False)

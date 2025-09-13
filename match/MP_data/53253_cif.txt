@@ -1,0 +1,2 @@
+Cu9Fe3S24
+Atoms(symbols='FeCu3S8FeCu3S8FeCu3S8', pbc=False)

@@ -1,0 +1,2 @@
+Al12Fe12Gd2
+Atoms(symbols='GdAl6Fe6GdAl6Fe6', pbc=False)

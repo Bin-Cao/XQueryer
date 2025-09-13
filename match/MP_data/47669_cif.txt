@@ -1,0 +1,2 @@
+Cr3Fe48Sm6
+Atoms(symbols='Sm2CrFe16Sm2CrFe16Sm2CrFe16', pbc=False)

@@ -1,0 +1,2 @@
+H2B10Be4O26Sr6
+Atoms(symbols='Sr3Be2B5HO13Sr3Be2B5HO13', pbc=False)

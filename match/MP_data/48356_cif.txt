@@ -1,0 +1,2 @@
+CoMnPt2
+Atoms(symbols='MnCoPt2', pbc=False)

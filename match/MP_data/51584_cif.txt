@@ -1,0 +1,2 @@
+AsFe2S3
+Atoms(symbols='Fe2AsS3', pbc=False)

@@ -1,0 +1,2 @@
+Cr3Cu3S6
+Atoms(symbols='CrCuS2CrCuS2CrCuS2', pbc=False)

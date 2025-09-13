@@ -1,0 +1,2 @@
+FeMnSi4
+Atoms(symbols='MnFeSi4', pbc=False)

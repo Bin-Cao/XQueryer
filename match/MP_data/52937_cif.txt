@@ -1,0 +1,2 @@
+Dy6Fe36Th6
+Atoms(symbols='Dy3Th3Fe18Dy3Th3Fe18', pbc=False)

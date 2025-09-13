@@ -1,0 +1,2 @@
+Ga42Li9
+Atoms(symbols='Li3Ga14Li3Ga14Li3Ga14', pbc=False)

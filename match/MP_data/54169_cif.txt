@@ -1,0 +1,2 @@
+CaDy2Te4
+Atoms(symbols='CaDy2Te4', pbc=False)

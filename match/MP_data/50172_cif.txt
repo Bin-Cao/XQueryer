@@ -1,0 +1,2 @@
+CoLi3Ni2O6
+Atoms(symbols='Li3CoNi2O6', pbc=False)

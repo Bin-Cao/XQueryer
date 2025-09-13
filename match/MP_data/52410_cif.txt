@@ -1,0 +1,2 @@
+Dy8Fe4Mo4O28
+Atoms(symbols='Dy4Fe2Mo2O14Dy4Fe2Mo2O14', pbc=False)

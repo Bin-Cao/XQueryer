@@ -1,0 +1,2 @@
+Cu3Fe2Se16Sn6
+Atoms(symbols='Fe2Cu3Sn6Se16', pbc=False)

@@ -1,0 +1,2 @@
+MoPdRu2
+Atoms(symbols='MoPdRu2', pbc=False)

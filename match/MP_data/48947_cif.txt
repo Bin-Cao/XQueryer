@@ -1,0 +1,2 @@
+Br12Na4O12Te2
+Atoms(symbols='Na2TeBr6O6Na2TeBr6O6', pbc=False)

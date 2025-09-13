@@ -1,0 +1,2 @@
+Hf10MnSb5
+Atoms(symbols='Hf10MnSb5', pbc=False)

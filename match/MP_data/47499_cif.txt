@@ -1,0 +1,2 @@
+Co51Gd3Sm3
+Atoms(symbols='SmGdCo17SmGdCo17SmGdCo17', pbc=False)

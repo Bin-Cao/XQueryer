@@ -1,0 +1,2 @@
+Co4Fe30Sm4
+Atoms(symbols='Sm2Fe15Co2Sm2Fe15Co2', pbc=False)

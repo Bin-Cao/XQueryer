@@ -1,0 +1,2 @@
+AgCo4Sm
+Atoms(symbols='SmCo4Ag', pbc=False)

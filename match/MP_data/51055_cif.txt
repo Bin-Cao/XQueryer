@@ -1,0 +1,2 @@
+I20Mn2O60Zn8
+Atoms(symbols='I20Mn2O60Zn8', pbc=False)

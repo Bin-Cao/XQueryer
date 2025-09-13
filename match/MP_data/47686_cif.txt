@@ -1,0 +1,2 @@
+Fe2Mo6O24Rb2Ti
+Atoms(symbols='Rb2TiFe2Mo6O24', pbc=False)

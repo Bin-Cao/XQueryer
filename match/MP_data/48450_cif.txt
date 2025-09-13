@@ -1,0 +1,2 @@
+H16Nd4O30P4S8
+Atoms(symbols='H16Nd4O30P4S8', pbc=False)

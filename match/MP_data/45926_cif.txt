@@ -1,0 +1,2 @@
+Co6Ga3Si3Ti12
+Atoms(symbols='Ti4GaCo2SiTi4GaCo2SiTi4GaCo2Si', pbc=False)

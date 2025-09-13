@@ -1,0 +1,2 @@
+Al3InNb12
+Atoms(symbols='Nb12Al3In', pbc=False)

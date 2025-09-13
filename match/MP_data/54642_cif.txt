@@ -1,0 +1,2 @@
+Al20Ba6O40Ti2
+Atoms(symbols='Al20Ba6O40Ti2', pbc=False)

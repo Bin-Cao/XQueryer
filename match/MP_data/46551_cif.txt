@@ -1,0 +1,2 @@
+MoO33Ta12
+Atoms(symbols='Ta12MoO33', pbc=False)

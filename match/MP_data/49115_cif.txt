@@ -1,0 +1,2 @@
+CuGa2In2MgO8
+Atoms(symbols='MgIn2Ga2CuO8', pbc=False)

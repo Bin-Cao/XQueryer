@@ -1,0 +1,2 @@
+H40Li16N20Na4
+Atoms(symbols='H40Li16N20Na4', pbc=False)

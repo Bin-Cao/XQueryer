@@ -1,0 +1,2 @@
+C24La3U9
+Atoms(symbols='LaU3C8LaU3C8LaU3C8', pbc=False)

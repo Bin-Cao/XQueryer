@@ -1,0 +1,2 @@
+Cr12Fe3S20
+Atoms(symbols='Cr12Fe3S20', pbc=False)

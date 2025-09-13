@@ -1,0 +1,2 @@
+Gd4In2Nb2O14
+Atoms(symbols='Gd4Nb2In2O14', pbc=False)

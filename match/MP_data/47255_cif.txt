@@ -1,0 +1,2 @@
+AlCo4Nd
+Atoms(symbols='NdAlCo4', pbc=False)

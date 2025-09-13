@@ -1,0 +1,2 @@
+O16Rb6Se4
+Atoms(symbols='Rb3Se2O8Rb3Se2O8', pbc=False)

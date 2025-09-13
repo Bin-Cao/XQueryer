@@ -1,0 +1,2 @@
+Pb3SnTe4
+Atoms(symbols='SnTe4Pb3', pbc=False)

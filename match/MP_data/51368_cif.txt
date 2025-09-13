@@ -1,0 +1,2 @@
+Cu3In3Se8Si
+Atoms(symbols='In3Cu3SiSe8', pbc=False)

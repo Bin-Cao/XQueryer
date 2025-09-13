@@ -1,0 +1,2 @@
+Mg3Ni3O6
+Atoms(symbols='MgNiO2MgNiO2MgNiO2', pbc=False)

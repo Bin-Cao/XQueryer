@@ -1,0 +1,2 @@
+K7NO16Se4
+Atoms(symbols='K7Se4NO16', pbc=False)

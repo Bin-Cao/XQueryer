@@ -1,0 +1,2 @@
+O16P2Rb4S2
+Atoms(symbols='Rb4P2S2O16', pbc=False)

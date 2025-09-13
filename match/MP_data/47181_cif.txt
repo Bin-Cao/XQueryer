@@ -1,0 +1,2 @@
+Co3Ga2Pr
+Atoms(symbols='PrGa2Co3', pbc=False)

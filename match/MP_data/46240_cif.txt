@@ -1,0 +1,2 @@
+Cu6O32Sr12Tl6
+Atoms(symbols='Sr6Tl3Cu3O16Sr6Tl3Cu3O16', pbc=False)

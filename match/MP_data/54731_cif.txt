@@ -1,0 +1,2 @@
+C16Cd4N24Ni4O2
+Atoms(symbols='Cd2Ni2C8N12OCd2Ni2C8N12O', pbc=False)

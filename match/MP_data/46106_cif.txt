@@ -1,0 +1,2 @@
+Fe2Mo2N2O10Sr4
+Atoms(symbols='Sr2FeMoNO5Sr2FeMoNO5', pbc=False)

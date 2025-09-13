@@ -1,0 +1,2 @@
+HfN2Ti
+Atoms(symbols='HfTiN2', pbc=False)

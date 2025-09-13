@@ -1,0 +1,2 @@
+Ga4O68Pr20Ti16
+Atoms(symbols='Ga4O68Pr20Ti16', pbc=False)

@@ -1,0 +1,2 @@
+CoFeSb4
+Atoms(symbols='FeCoSb4', pbc=False)

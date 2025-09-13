@@ -1,0 +1,2 @@
+Cu12Na20O24
+Atoms(symbols='Na20Cu12O24', pbc=False)

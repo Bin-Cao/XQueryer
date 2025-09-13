@@ -1,0 +1,2 @@
+Al9Fe3Sm
+Atoms(symbols='SmAl9Fe3', pbc=False)

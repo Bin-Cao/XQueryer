@@ -1,0 +1,2 @@
+Er4Fe2O12V2
+Atoms(symbols='Er4V2Fe2O12', pbc=False)

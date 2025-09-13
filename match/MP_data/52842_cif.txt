@@ -1,0 +1,2 @@
+Co2Ni2S8
+Atoms(symbols='Co2Ni2S8', pbc=False)

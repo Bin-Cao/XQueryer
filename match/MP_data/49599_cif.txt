@@ -1,0 +1,2 @@
+Ge4Ir2La2Ru2
+Atoms(symbols='LaGe2IrRuLaGe2IrRu', pbc=False)

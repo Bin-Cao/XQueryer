@@ -1,0 +1,2 @@
+H12Cu4Na4O32Si10
+Atoms(symbols='H12Cu4Na4O32Si10', pbc=False)

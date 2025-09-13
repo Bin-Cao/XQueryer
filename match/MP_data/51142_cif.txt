@@ -1,0 +1,2 @@
+KO26Pr9Si6
+Atoms(symbols='KPr9Si6O26', pbc=False)

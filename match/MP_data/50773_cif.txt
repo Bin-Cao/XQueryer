@@ -1,0 +1,2 @@
+Hf4Mo16Zr4
+Atoms(symbols='HfZrMo4HfZrMo4HfZrMo4HfZrMo4', pbc=False)

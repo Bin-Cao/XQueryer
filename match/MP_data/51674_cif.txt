@@ -1,0 +1,2 @@
+Co2Gd4Mn2O12
+Atoms(symbols='Gd4Mn2Co2O12', pbc=False)

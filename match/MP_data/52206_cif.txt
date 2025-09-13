@@ -1,0 +1,2 @@
+B18Ba3K3O36Y3
+Atoms(symbols='B18Ba3K3O36Y3', pbc=False)

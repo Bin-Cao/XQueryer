@@ -1,0 +1,2 @@
+CaPPt
+Atoms(symbols='CaPPt', pbc=False)

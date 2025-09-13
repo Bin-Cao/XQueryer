@@ -1,0 +1,2 @@
+CeY4Zn5
+Atoms(symbols='CeY4Zn5', pbc=False)

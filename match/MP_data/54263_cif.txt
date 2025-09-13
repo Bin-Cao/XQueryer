@@ -1,0 +1,2 @@
+Ce2Cu10In14
+Atoms(symbols='CeIn7Cu5CeIn7Cu5', pbc=False)

@@ -1,0 +1,2 @@
+Cl6NaU2
+Atoms(symbols='NaU2Cl6', pbc=False)

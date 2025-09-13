@@ -1,0 +1,2 @@
+Na3Nb2O12PrTi2
+Atoms(symbols='Na3PrTi2Nb2O12', pbc=False)

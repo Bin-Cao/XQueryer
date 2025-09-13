@@ -1,0 +1,2 @@
+Ga2Sb2
+Atoms(symbols='GaSbGaSb', pbc=False)

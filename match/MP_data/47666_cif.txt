@@ -1,0 +1,2 @@
+Al3Co9Sc6
+Atoms(symbols='Sc2AlCo3Sc2AlCo3Sc2AlCo3', pbc=False)

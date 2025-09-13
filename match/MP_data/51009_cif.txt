@@ -1,0 +1,2 @@
+Na80Sn44Zn32
+Atoms(symbols='Na80Sn44Zn32', pbc=False)

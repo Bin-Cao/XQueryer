@@ -1,0 +1,2 @@
+Hf2Ta2
+Atoms(symbols='HfTaHfTa', pbc=False)

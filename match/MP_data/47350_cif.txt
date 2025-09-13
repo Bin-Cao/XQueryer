@@ -1,0 +1,2 @@
+Cd5Nd6Si7
+Atoms(symbols='Nd6Cd5Si7', pbc=False)

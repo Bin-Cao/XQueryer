@@ -1,0 +1,2 @@
+KNd9O26Si6
+Atoms(symbols='KNd9Si6O26', pbc=False)

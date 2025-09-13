@@ -1,0 +1,2 @@
+CuIn10NaS16
+Atoms(symbols='NaIn10CuS16', pbc=False)

@@ -1,0 +1,2 @@
+Cd2SeTe
+Atoms(symbols='Cd2TeSe', pbc=False)

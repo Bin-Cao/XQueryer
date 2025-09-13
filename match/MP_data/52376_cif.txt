@@ -1,0 +1,2 @@
+Co4Cr4Fe4O16
+Atoms(symbols='Cr2Fe2Co2O8Cr2Fe2Co2O8', pbc=False)

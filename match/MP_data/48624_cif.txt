@@ -1,0 +1,2 @@
+Al6Mo9Nb9
+Atoms(symbols='Nb3Al2Mo3Nb3Al2Mo3Nb3Al2Mo3', pbc=False)

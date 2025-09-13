@@ -1,0 +1,2 @@
+Tb20Te36
+Atoms(symbols='Tb20Te36', pbc=False)

@@ -1,0 +1,2 @@
+Nb12Pd4Se30
+Atoms(symbols='Nb12Pd4Se30', pbc=False)

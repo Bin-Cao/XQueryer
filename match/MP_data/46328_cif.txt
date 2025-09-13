@@ -1,0 +1,2 @@
+MoSi4W
+Atoms(symbols='Si4MoW', pbc=False)

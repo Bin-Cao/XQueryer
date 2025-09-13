@@ -1,0 +1,2 @@
+La4SSe7
+Atoms(symbols='La4Se7S', pbc=False)

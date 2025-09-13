@@ -1,0 +1,2 @@
+Au10Cd2Eu2
+Atoms(symbols='EuCdAu5EuCdAu5', pbc=False)

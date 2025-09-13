@@ -1,0 +1,2 @@
+InMnRh2
+Atoms(symbols='MnInRh2', pbc=False)

@@ -1,0 +1,2 @@
+Dy2Ge2Mn4Si2
+Atoms(symbols='DyMn2SiGeDyMn2SiGe', pbc=False)

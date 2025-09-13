@@ -1,0 +1,2 @@
+Eu8Ga4Nb4O28
+Atoms(symbols='Eu4Nb2Ga2O14Eu4Nb2Ga2O14', pbc=False)

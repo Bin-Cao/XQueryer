@@ -1,0 +1,2 @@
+C4Mo24N4Ni16
+Atoms(symbols='Ni8Mo12C2N2Ni8Mo12C2N2', pbc=False)

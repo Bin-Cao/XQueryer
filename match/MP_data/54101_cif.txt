@@ -1,0 +1,2 @@
+Ca8Dy3Se12
+Atoms(symbols='Ca8Dy3Se12', pbc=False)

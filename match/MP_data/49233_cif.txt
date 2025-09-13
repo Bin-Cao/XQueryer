@@ -1,0 +1,2 @@
+Cr4LaNd3O12
+Atoms(symbols='LaNd3Cr4O12', pbc=False)

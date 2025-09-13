@@ -1,0 +1,2 @@
+Al8FO27Ta6
+Atoms(symbols='Ta6Al8O27F', pbc=False)

@@ -1,0 +1,2 @@
+CoGaInS4
+Atoms(symbols='InGaCoS4', pbc=False)

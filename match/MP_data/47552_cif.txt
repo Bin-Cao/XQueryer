@@ -1,0 +1,2 @@
+O39Pb12Sb9Sc3
+Atoms(symbols='O39Pb12Sb9Sc3', pbc=False)

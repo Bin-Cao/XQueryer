@@ -1,0 +1,2 @@
+Cl32Mo8Rb12
+Atoms(symbols='Rb6Mo4Cl16Rb6Mo4Cl16', pbc=False)

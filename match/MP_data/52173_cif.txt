@@ -1,0 +1,2 @@
+Ge5La12S28
+Atoms(symbols='La12Ge5S28', pbc=False)

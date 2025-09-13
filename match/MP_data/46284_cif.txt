@@ -1,0 +1,2 @@
+GdMn2Ni8Sm
+Atoms(symbols='SmGdMn2Ni8', pbc=False)

@@ -1,0 +1,2 @@
+Br12Ho4O72
+Atoms(symbols='Br12Ho4O72', pbc=False)

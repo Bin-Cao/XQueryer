@@ -1,0 +1,2 @@
+GaLa4Si3
+Atoms(symbols='La4GaSi3', pbc=False)

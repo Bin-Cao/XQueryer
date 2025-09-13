@@ -1,0 +1,2 @@
+Al2Ca2Nd2O8
+Atoms(symbols='CaNdAlO4CaNdAlO4', pbc=False)

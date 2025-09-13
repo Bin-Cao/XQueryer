@@ -1,0 +1,2 @@
+F12K8Mo4Na4O12
+Atoms(symbols='K2NaMoO3F3K2NaMoO3F3K2NaMoO3F3K2NaMoO3F3', pbc=False)

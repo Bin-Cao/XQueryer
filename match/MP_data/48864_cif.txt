@@ -1,0 +1,2 @@
+CeLi2Mo4O16Pr
+Atoms(symbols='Li2CePrMo4O16', pbc=False)

@@ -1,0 +1,2 @@
+Fe2HfMo6O24Tl2
+Atoms(symbols='HfTl2Fe2Mo6O24', pbc=False)

@@ -1,0 +1,2 @@
+In9Pt12
+Atoms(symbols='In9Pt12', pbc=False)

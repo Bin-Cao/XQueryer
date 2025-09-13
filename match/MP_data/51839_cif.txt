@@ -1,0 +1,2 @@
+EuGaSi
+Atoms(symbols='EuGaSi', pbc=False)

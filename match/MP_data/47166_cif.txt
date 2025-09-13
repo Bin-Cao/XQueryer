@@ -1,0 +1,2 @@
+AlGaNd
+Atoms(symbols='NdAlGa', pbc=False)

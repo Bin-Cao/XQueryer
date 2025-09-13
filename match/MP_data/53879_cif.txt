@@ -1,0 +1,2 @@
+Cd3I3P
+Atoms(symbols='Cd3PI3', pbc=False)

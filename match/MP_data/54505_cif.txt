@@ -1,0 +1,2 @@
+CaS3Sm2
+Atoms(symbols='CaSm2S3', pbc=False)

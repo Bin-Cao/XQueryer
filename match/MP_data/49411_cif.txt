@@ -1,0 +1,2 @@
+Ir23Mg8P8
+Atoms(symbols='Mg8P8Ir23', pbc=False)

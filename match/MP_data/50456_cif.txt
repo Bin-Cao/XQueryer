@@ -1,0 +1,2 @@
+Al3Cr9Fe3Mg3O24
+Atoms(symbols='MgAlCr3FeO8MgAlCr3FeO8MgAlCr3FeO8', pbc=False)

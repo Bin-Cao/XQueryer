@@ -1,0 +1,2 @@
+Mg5Mo3O30Sr10W2
+Atoms(symbols='Sr10Mg5Mo3W2O30', pbc=False)

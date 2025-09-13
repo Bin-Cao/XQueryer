@@ -1,0 +1,2 @@
+In5Mg3Sr2
+Atoms(symbols='Sr2Mg3In5', pbc=False)

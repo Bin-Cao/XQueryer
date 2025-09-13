@@ -1,0 +1,2 @@
+Ga3La6NaS14
+Atoms(symbols='NaLa6Ga3S14', pbc=False)

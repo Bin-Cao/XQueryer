@@ -1,0 +1,2 @@
+Ru24W36
+Atoms(symbols='Ru12W18Ru12W18', pbc=False)

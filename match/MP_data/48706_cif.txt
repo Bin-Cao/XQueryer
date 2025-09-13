@@ -1,0 +1,2 @@
+MnNiSb2
+Atoms(symbols='MnNiSb2', pbc=False)

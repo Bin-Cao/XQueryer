@@ -1,0 +1,2 @@
+Cl4K12Mo4O5S11
+Atoms(symbols='K12Mo4S11Cl4O5', pbc=False)

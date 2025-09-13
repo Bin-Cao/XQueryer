@@ -1,0 +1,2 @@
+GaMnRh2
+Atoms(symbols='MnGaRh2', pbc=False)

@@ -1,0 +1,2 @@
+Fe3Mn6Nb3O18
+Atoms(symbols='Mn2NbFeO6Mn2NbFeO6Mn2NbFeO6', pbc=False)

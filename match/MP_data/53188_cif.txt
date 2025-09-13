@@ -1,0 +1,2 @@
+Ce2Cu2Ga6
+Atoms(symbols='CeGa3CuCeGa3Cu', pbc=False)

@@ -1,0 +1,2 @@
+In4Li4N4
+Atoms(symbols='Li4In4N4', pbc=False)

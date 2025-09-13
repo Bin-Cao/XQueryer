@@ -1,0 +1,2 @@
+Cl4GdLa3O4
+Atoms(symbols='La3GdCl4O4', pbc=False)

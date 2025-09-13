@@ -1,0 +1,2 @@
+GaIr2Mn
+Atoms(symbols='MnGaIr2', pbc=False)

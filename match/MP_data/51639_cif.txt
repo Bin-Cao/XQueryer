@@ -1,0 +1,2 @@
+CoGd2Ni3
+Atoms(symbols='Gd2CoNi3', pbc=False)

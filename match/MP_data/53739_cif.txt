@@ -1,0 +1,2 @@
+Cs12F40Ni12Tl4
+Atoms(symbols='Cs12F40Ni12Tl4', pbc=False)

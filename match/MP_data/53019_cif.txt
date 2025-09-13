@@ -1,0 +1,2 @@
+CeCuSi
+Atoms(symbols='CeCuSi', pbc=False)

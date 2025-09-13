@@ -1,0 +1,2 @@
+C8H24Mg3O24Zn
+Atoms(symbols='Mg3ZnH24C8O24', pbc=False)

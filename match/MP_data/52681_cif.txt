@@ -1,0 +1,2 @@
+DyGaGe5Mn6
+Atoms(symbols='DyMn6GaGe5', pbc=False)

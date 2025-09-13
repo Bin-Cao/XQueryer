@@ -1,0 +1,2 @@
+Cu2Ge2In2S8
+Atoms(symbols='InCuGeS4InCuGeS4', pbc=False)

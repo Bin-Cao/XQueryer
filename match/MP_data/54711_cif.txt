@@ -1,0 +1,2 @@
+Bi2O8Pd3Pt
+Atoms(symbols='Bi2Pd3PtO8', pbc=False)

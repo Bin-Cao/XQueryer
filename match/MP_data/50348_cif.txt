@@ -1,0 +1,2 @@
+F58Na6Th12Zn2
+Atoms(symbols='F58Na6Th12Zn2', pbc=False)

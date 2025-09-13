@@ -1,0 +1,2 @@
+Dy10Ir16Sc10Si40
+Atoms(symbols='Dy10Ir16Sc10Si40', pbc=False)

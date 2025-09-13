@@ -1,0 +1,2 @@
+La2Mg2Na2O12Te2
+Atoms(symbols='NaLaMgTeO6NaLaMgTeO6', pbc=False)

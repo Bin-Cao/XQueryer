@@ -1,0 +1,2 @@
+Fe48Sm6Zr3
+Atoms(symbols='Sm2ZrFe16Sm2ZrFe16Sm2ZrFe16', pbc=False)

@@ -1,0 +1,2 @@
+CuFeO6Pb2Sr2
+Atoms(symbols='Sr2FeCuPb2O6', pbc=False)

@@ -1,0 +1,2 @@
+O32Rb28Si4V4
+Atoms(symbols='O32Rb28Si4V4', pbc=False)

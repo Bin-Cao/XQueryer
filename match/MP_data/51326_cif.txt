@@ -1,0 +1,2 @@
+ClCuIn2Te3
+Atoms(symbols='In2CuTe3Cl', pbc=False)

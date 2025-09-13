@@ -1,0 +1,2 @@
+H12As6K4O31V4
+Atoms(symbols='K4V4As6H12O31', pbc=False)

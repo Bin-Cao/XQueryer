@@ -1,0 +1,2 @@
+DyLa
+Atoms(symbols='LaDy', pbc=False)

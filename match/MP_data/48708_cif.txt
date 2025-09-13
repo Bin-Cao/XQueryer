@@ -1,0 +1,2 @@
+Ga2Mn4Ni2
+Atoms(symbols='Mn2GaNiMn2GaNi', pbc=False)

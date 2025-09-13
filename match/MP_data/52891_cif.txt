@@ -1,0 +1,2 @@
+Cu9Er2O36Ti12
+Atoms(symbols='Er2Ti12Cu9O36', pbc=False)

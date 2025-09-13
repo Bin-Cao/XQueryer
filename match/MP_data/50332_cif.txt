@@ -1,0 +1,2 @@
+BiLa3Mn8O20
+Atoms(symbols='La3Mn8BiO20', pbc=False)

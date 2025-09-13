@@ -1,0 +1,2 @@
+K20P12S48U4
+Atoms(symbols='K20P12S48U4', pbc=False)

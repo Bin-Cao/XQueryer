@@ -1,0 +1,2 @@
+Al3Si3Ta3
+Atoms(symbols='Ta3Al3Si3', pbc=False)

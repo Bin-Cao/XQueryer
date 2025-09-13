@@ -1,0 +1,2 @@
+Er24Ga18Ge22
+Atoms(symbols='Er24Ga18Ge22', pbc=False)

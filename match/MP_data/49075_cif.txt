@@ -1,0 +1,2 @@
+Mg12Mn4O16
+Atoms(symbols='Mg12Mn4O16', pbc=False)

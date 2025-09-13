@@ -1,0 +1,2 @@
+Fe13Ta13
+Atoms(symbols='Ta13Fe13', pbc=False)

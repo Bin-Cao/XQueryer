@@ -1,0 +1,2 @@
+Cu3NdO8Pb2Sr2
+Atoms(symbols='Sr2NdCu3Pb2O8', pbc=False)

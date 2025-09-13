@@ -1,0 +1,2 @@
+Pr2Te12U2
+Atoms(symbols='PrUTe6PrUTe6', pbc=False)

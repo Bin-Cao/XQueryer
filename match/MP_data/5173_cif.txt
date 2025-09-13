@@ -1,0 +1,2 @@
+LiMg14O16W
+Atoms(symbols='LiMg14WO16', pbc=False)

@@ -1,0 +1,2 @@
+BLaMg14O16
+Atoms(symbols='LaMg14BO16', pbc=False)

@@ -1,0 +1,2 @@
+CMn4O13Sr5
+Atoms(symbols='Sr5Mn4CO13', pbc=False)

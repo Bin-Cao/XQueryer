@@ -1,0 +1,2 @@
+AgCeSi
+Atoms(symbols='CeSiAg', pbc=False)

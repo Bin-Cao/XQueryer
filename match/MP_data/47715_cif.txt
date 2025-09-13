@@ -1,0 +1,2 @@
+Ga5Nd3O14Si
+Atoms(symbols='Nd3Ga5SiO14', pbc=False)

@@ -1,0 +1,2 @@
+AuCe4CoSi6
+Atoms(symbols='Ce4CoSi6Au', pbc=False)

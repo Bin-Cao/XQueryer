@@ -1,0 +1,2 @@
+Ge10Hg15K8Rb2S40
+Atoms(symbols='Ge10Hg15K8Rb2S40', pbc=False)

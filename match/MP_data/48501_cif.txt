@@ -1,0 +1,2 @@
+Co48Cu3Pr6
+Atoms(symbols='Pr2Co16CuPr2Co16CuPr2Co16Cu', pbc=False)

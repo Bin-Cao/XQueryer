@@ -1,0 +1,2 @@
+Cd4MnTe5
+Atoms(symbols='MnCd4Te5', pbc=False)

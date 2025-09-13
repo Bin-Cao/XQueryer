@@ -1,0 +1,2 @@
+LaNi10Pr
+Atoms(symbols='LaPrNi10', pbc=False)

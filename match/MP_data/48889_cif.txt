@@ -1,0 +1,2 @@
+Na19S30Zr11
+Atoms(symbols='Na19Zr11S30', pbc=False)

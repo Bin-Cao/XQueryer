@@ -1,0 +1,2 @@
+Dy12S28Si5
+Atoms(symbols='Dy12Si5S28', pbc=False)

@@ -1,0 +1,2 @@
+CuFe2NiPt4
+Atoms(symbols='Fe2CuNiPt4', pbc=False)

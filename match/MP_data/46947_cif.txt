@@ -1,0 +1,2 @@
+C8Fe66Th6
+Atoms(symbols='C8Fe66Th6', pbc=False)

@@ -1,0 +1,2 @@
+Mg60Mn2O64Rb2
+Atoms(symbols='Mg60Mn2O64Rb2', pbc=False)

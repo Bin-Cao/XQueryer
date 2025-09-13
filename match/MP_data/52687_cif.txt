@@ -1,0 +1,2 @@
+CoOs
+Atoms(symbols='CoOs', pbc=False)

@@ -1,0 +1,2 @@
+As19Rh30Sr6
+Atoms(symbols='Sr6As19Rh30', pbc=False)

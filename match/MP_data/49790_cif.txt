@@ -1,0 +1,2 @@
+C3Mn10N
+Atoms(symbols='Mn10C3N', pbc=False)

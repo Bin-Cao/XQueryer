@@ -1,0 +1,2 @@
+Er4Fe2O14Sb2
+Atoms(symbols='Er4Fe2Sb2O14', pbc=False)

@@ -1,0 +1,2 @@
+KLiMg14O15
+Atoms(symbols='KLiMg14O15', pbc=False)

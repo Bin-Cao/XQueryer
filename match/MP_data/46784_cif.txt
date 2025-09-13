@@ -1,0 +1,2 @@
+O36Sr16U8
+Atoms(symbols='Sr16U8O36', pbc=False)

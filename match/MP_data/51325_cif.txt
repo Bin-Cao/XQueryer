@@ -1,0 +1,2 @@
+In4O12Sn3
+Atoms(symbols='In4Sn3O12', pbc=False)

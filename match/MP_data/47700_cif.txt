@@ -1,0 +1,2 @@
+CeNaS2
+Atoms(symbols='NaCeS2', pbc=False)

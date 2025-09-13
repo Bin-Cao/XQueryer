@@ -1,0 +1,2 @@
+CuInSe2
+Atoms(symbols='InCuSe2', pbc=False)

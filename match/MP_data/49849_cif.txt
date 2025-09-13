@@ -1,0 +1,2 @@
+As4Fe4La3O4Y
+Atoms(symbols='La3YFe4As4O4', pbc=False)

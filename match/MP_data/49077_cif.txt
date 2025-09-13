@@ -1,0 +1,2 @@
+InLuMn
+Atoms(symbols='LuMnIn', pbc=False)

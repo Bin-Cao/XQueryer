@@ -1,0 +1,2 @@
+Cd5F2O24P6Sr5
+Atoms(symbols='Sr5Cd5P6O24F2', pbc=False)

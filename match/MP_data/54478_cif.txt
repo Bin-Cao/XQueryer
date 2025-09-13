@@ -1,0 +1,2 @@
+AuBaSi
+Atoms(symbols='BaSiAu', pbc=False)

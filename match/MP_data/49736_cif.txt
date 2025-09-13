@@ -1,0 +1,2 @@
+FeGeLa
+Atoms(symbols='LaFeGe', pbc=False)

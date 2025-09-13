@@ -1,0 +1,2 @@
+Ca3O96P24SrZr16
+Atoms(symbols='Ca3O96P24SrZr16', pbc=False)

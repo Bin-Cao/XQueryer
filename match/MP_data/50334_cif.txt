@@ -1,0 +1,2 @@
+Cu6Li21N9
+Atoms(symbols='Li7Cu2N3Li7Cu2N3Li7Cu2N3', pbc=False)

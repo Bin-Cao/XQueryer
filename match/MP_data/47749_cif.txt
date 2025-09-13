@@ -1,0 +1,2 @@
+Mo6NiSe8
+Atoms(symbols='NiMo6Se8', pbc=False)

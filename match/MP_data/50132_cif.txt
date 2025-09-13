@@ -1,0 +1,2 @@
+H8Al2Ga2Li4O20Si4
+Atoms(symbols='Li4Al2Ga2Si4H8O20', pbc=False)

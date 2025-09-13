@@ -1,0 +1,2 @@
+Co12Ge8Si4
+Atoms(symbols='Co12Si4Ge8', pbc=False)

@@ -1,0 +1,2 @@
+Mo30S40Th4
+Atoms(symbols='Mo30S40Th4', pbc=False)

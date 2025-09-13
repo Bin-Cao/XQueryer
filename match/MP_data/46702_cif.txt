@@ -1,0 +1,2 @@
+Co6Ni4PrY
+Atoms(symbols='PrYCo6Ni4', pbc=False)

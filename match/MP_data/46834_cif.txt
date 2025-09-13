@@ -1,0 +1,2 @@
+Re8Si14
+Atoms(symbols='Re4Si7Re4Si7', pbc=False)

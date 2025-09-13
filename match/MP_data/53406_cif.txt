@@ -1,0 +1,2 @@
+Al3La20O52Si9
+Atoms(symbols='Al3La20O52Si9', pbc=False)

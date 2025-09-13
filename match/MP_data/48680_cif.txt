@@ -1,0 +1,2 @@
+Be12Na8O32Si12
+Atoms(symbols='Be12Na8O32Si12', pbc=False)

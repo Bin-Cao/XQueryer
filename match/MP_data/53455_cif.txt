@@ -1,0 +1,2 @@
+Cd8Mo2O32W6
+Atoms(symbols='Cd4MoW3O16Cd4MoW3O16', pbc=False)

@@ -1,0 +1,2 @@
+Ge8Pt4Sm4
+Atoms(symbols='Sm4Ge8Pt4', pbc=False)

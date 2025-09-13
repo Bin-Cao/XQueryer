@@ -1,0 +1,2 @@
+HoSb
+Atoms(symbols='HoSb', pbc=False)

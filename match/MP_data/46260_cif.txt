@@ -1,0 +1,2 @@
+Al6Fe2O16Sr4
+Atoms(symbols='Sr4Al6Fe2O16', pbc=False)

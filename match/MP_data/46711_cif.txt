@@ -1,0 +1,2 @@
+H6Cu4O20Rb2S4
+Atoms(symbols='RbCu2H3S2O10RbCu2H3S2O10', pbc=False)

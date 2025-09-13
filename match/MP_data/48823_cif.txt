@@ -1,0 +1,2 @@
+Na20O72U20
+Atoms(symbols='Na20O72U20', pbc=False)

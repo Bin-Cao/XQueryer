@@ -1,0 +1,2 @@
+Ce2Co2Mn8O30Sr8
+Atoms(symbols='Sr4CeMn4CoO15Sr4CeMn4CoO15', pbc=False)

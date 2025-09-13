@@ -1,0 +1,2 @@
+Dy2Ge3
+Atoms(symbols='Dy2Ge3', pbc=False)

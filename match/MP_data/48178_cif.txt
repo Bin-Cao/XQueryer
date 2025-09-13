@@ -1,0 +1,2 @@
+Cd2Na12S24Sn8
+Atoms(symbols='Na6CdSn4S12Na6CdSn4S12', pbc=False)

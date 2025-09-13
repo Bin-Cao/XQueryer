@@ -1,0 +1,2 @@
+As18Ge6Ni8
+Atoms(symbols='Ni4Ge3As9Ni4Ge3As9', pbc=False)

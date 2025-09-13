@@ -1,0 +1,2 @@
+KO22P2W6
+Atoms(symbols='KP2W6O22', pbc=False)

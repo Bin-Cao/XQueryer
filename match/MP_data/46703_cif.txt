@@ -1,0 +1,2 @@
+Ho9Ni12Sm3
+Atoms(symbols='Sm3Ho9Ni12', pbc=False)

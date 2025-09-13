@@ -1,0 +1,2 @@
+CEr20Si12
+Atoms(symbols='Er20Si12C', pbc=False)

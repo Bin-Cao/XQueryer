@@ -1,0 +1,2 @@
+CMo2N
+Atoms(symbols='Mo2CN', pbc=False)

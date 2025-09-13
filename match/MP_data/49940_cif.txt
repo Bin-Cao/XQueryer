@@ -1,0 +1,2 @@
+F3Ga4Li4O17P4
+Atoms(symbols='Li4Ga4P4O17F3', pbc=False)

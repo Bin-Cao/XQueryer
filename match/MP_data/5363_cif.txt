@@ -1,0 +1,2 @@
+CdMg
+Atoms(symbols='MgCd', pbc=False)

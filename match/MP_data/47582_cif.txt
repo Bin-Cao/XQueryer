@@ -1,0 +1,2 @@
+As18Re12S9
+Atoms(symbols='Re4As6S3Re4As6S3Re4As6S3', pbc=False)

@@ -1,0 +1,2 @@
+H12Cl4Mn2N4
+Atoms(symbols='MnH6N2Cl2MnH6N2Cl2', pbc=False)

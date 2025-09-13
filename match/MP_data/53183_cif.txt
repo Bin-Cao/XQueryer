@@ -1,0 +1,2 @@
+Cr2Ni2O10P2
+Atoms(symbols='Cr2Ni2P2O10', pbc=False)

@@ -1,0 +1,2 @@
+InMo6RbTe6
+Atoms(symbols='RbInTe6Mo6', pbc=False)

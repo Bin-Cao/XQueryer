@@ -1,0 +1,2 @@
+CeCu3O10Pb2PrSr2
+Atoms(symbols='Sr2CePrCu3Pb2O10', pbc=False)

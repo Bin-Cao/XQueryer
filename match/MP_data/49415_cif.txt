@@ -1,0 +1,2 @@
+Bi4Fe3MnO12
+Atoms(symbols='MnFe3Bi4O12', pbc=False)

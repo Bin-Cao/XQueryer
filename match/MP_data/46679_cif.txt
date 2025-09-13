@@ -1,0 +1,2 @@
+Os2Re2
+Atoms(symbols='ReOsReOs', pbc=False)

@@ -1,0 +1,2 @@
+GdLiS2
+Atoms(symbols='LiGdS2', pbc=False)

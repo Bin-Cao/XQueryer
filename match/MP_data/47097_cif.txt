@@ -1,0 +1,2 @@
+CoNd2Si3
+Atoms(symbols='Nd2CoSi3', pbc=False)

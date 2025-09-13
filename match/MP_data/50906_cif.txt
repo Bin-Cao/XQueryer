@@ -1,0 +1,2 @@
+AlFKMg3O11Si3
+Atoms(symbols='KMg3AlSi3O11F', pbc=False)

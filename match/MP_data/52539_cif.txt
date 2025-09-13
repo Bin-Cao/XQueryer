@@ -1,0 +1,2 @@
+Bi2Ca2Fe4O12
+Atoms(symbols='CaFe2BiO6CaFe2BiO6', pbc=False)

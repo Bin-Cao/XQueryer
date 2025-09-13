@@ -1,0 +1,2 @@
+CaO2Zn
+Atoms(symbols='CaZnO2', pbc=False)

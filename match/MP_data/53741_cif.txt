@@ -1,0 +1,2 @@
+Ga23La12MoO56
+Atoms(symbols='Ga23La12MoO56', pbc=False)

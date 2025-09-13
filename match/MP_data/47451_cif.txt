@@ -1,0 +1,2 @@
+Nb8Si12V12
+Atoms(symbols='Nb4V6Si6Nb4V6Si6', pbc=False)

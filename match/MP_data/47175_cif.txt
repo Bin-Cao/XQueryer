@@ -1,0 +1,2 @@
+Mo8N10Ni2
+Atoms(symbols='NiMo4N5NiMo4N5', pbc=False)

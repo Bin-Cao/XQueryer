@@ -1,0 +1,2 @@
+CaCu4FeO14PbSr4Y
+Atoms(symbols='Sr4CaYFeCu4PbO14', pbc=False)

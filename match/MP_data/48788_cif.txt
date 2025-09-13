@@ -1,0 +1,2 @@
+Lu3Th
+Atoms(symbols='Lu3Th', pbc=False)

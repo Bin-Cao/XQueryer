@@ -1,0 +1,2 @@
+FeRu
+Atoms(symbols='FeRu', pbc=False)

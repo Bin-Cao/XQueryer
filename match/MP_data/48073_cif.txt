@@ -1,0 +1,2 @@
+Nb18Se24Tl2
+Atoms(symbols='Nb18Tl2Se24', pbc=False)

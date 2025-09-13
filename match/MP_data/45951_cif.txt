@@ -1,0 +1,2 @@
+CuMo12O48Zn11
+Atoms(symbols='CuMo12O48Zn11', pbc=False)

@@ -1,0 +1,2 @@
+NaNd9O26Si6
+Atoms(symbols='NaNd9Si6O26', pbc=False)

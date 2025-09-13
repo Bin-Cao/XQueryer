@@ -1,0 +1,2 @@
+Mg21Sb16Sm3
+Atoms(symbols='Sm3Mg21Sb16', pbc=False)

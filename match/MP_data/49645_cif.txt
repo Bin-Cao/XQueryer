@@ -1,0 +1,2 @@
+Ge3Li3Zn3
+Atoms(symbols='Li3Zn3Ge3', pbc=False)

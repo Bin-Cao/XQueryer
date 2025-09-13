@@ -1,0 +1,2 @@
+Co19Ho5P12
+Atoms(symbols='Ho5Co19P12', pbc=False)

@@ -1,0 +1,2 @@
+Bi6La16Pb6
+Atoms(symbols='La8Bi3Pb3La8Bi3Pb3', pbc=False)

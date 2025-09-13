@@ -1,0 +1,2 @@
+H20Dy4O24P12
+Atoms(symbols='Dy2P6H10O12Dy2P6H10O12', pbc=False)

@@ -1,0 +1,2 @@
+CuMnNaSe2
+Atoms(symbols='NaMnCuSe2', pbc=False)

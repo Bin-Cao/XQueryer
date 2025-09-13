@@ -1,0 +1,2 @@
+H34N6O26P6Te
+Atoms(symbols='H34N6O26P6Te', pbc=False)

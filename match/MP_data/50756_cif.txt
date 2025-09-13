@@ -1,0 +1,2 @@
+Cr2Ho8S14
+Atoms(symbols='Ho4CrS7Ho4CrS7', pbc=False)

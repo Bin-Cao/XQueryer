@@ -1,0 +1,2 @@
+Sc4Si20V20
+Atoms(symbols='Sc2V10Si10Sc2V10Si10', pbc=False)

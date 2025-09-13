@@ -1,0 +1,2 @@
+Bi8In16Pb3S38
+Atoms(symbols='Bi8In16Pb3S38', pbc=False)

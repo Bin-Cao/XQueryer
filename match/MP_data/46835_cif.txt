@@ -1,0 +1,2 @@
+Ge2Mn4Pr2Si2
+Atoms(symbols='PrMn2SiGePrMn2SiGe', pbc=False)

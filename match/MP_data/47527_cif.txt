@@ -1,0 +1,2 @@
+Ga34Nd8Ni4
+Atoms(symbols='Nd4Ga17Ni2Nd4Ga17Ni2', pbc=False)

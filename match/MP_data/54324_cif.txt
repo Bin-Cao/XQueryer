@@ -1,0 +1,2 @@
+B8K20Mn8O84P20
+Atoms(symbols='B8K20Mn8O84P20', pbc=False)

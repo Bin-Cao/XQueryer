@@ -1,0 +1,2 @@
+Cu8Dy12Ga16
+Atoms(symbols='Dy6Ga8Cu4Dy6Ga8Cu4', pbc=False)

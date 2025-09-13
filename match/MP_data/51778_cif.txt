@@ -1,0 +1,2 @@
+Fe3Si
+Atoms(symbols='Fe3Si', pbc=False)

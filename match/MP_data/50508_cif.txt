@@ -1,0 +1,2 @@
+Ag2Ho2Sn2
+Atoms(symbols='HoAgSnHoAgSn', pbc=False)

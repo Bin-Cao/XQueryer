@@ -1,0 +1,2 @@
+Co9Mo12Na4O48
+Atoms(symbols='Co9Mo12Na4O48', pbc=False)

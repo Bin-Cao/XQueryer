@@ -1,0 +1,2 @@
+AgHo2In
+Atoms(symbols='Ho2InAg', pbc=False)

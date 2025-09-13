@@ -1,0 +1,2 @@
+As4Bi4Co2Fe2O24
+Atoms(symbols='Fe2Co2Bi4As4O24', pbc=False)

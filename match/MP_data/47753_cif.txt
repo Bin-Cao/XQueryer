@@ -1,0 +1,2 @@
+C6Mn44Nd4
+Atoms(symbols='Nd2Mn22C3Nd2Mn22C3', pbc=False)

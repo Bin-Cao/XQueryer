@@ -1,0 +1,2 @@
+Li3Nb3O18W3
+Atoms(symbols='LiNbWO6LiNbWO6LiNbWO6', pbc=False)

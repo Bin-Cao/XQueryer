@@ -1,0 +1,2 @@
+AgCa2Ga7
+Atoms(symbols='Ca2Ga7Ag', pbc=False)

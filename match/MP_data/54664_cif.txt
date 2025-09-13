@@ -1,0 +1,2 @@
+Cd20Ge4O48P8
+Atoms(symbols='Cd20Ge4O48P8', pbc=False)

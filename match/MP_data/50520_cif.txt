@@ -1,0 +1,2 @@
+Al2K2O16Si6
+Atoms(symbols='KAlSi3O8KAlSi3O8', pbc=False)

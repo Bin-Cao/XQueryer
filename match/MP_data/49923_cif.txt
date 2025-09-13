@@ -1,0 +1,2 @@
+C40Dy4La16
+Atoms(symbols='La4DyC10La4DyC10La4DyC10La4DyC10', pbc=False)

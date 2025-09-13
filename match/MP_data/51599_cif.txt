@@ -1,0 +1,2 @@
+Hf20In6Sb6
+Atoms(symbols='Hf10In3Sb3Hf10In3Sb3', pbc=False)

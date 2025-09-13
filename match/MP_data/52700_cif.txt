@@ -1,0 +1,2 @@
+C4Er4Fe28Ga6
+Atoms(symbols='Er2Ga3Fe14C2Er2Ga3Fe14C2', pbc=False)

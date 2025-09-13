@@ -1,0 +1,2 @@
+Dy2Ga3Ni
+Atoms(symbols='Dy2Ga3Ni', pbc=False)

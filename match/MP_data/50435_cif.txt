@@ -1,0 +1,2 @@
+AgBrIn2Te3
+Atoms(symbols='In2AgTe3Br', pbc=False)

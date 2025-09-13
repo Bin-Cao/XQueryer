@@ -1,0 +1,2 @@
+CoMnSe2
+Atoms(symbols='MnCoSe2', pbc=False)

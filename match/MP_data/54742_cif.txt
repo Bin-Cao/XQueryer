@@ -1,0 +1,2 @@
+AlSi3W2
+Atoms(symbols='AlSi3W2', pbc=False)

@@ -1,0 +1,2 @@
+Gd3O24Y13
+Atoms(symbols='Gd3Y13O24', pbc=False)

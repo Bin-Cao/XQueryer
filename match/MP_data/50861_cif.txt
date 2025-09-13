@@ -1,0 +1,2 @@
+H31As2KMg2O23
+Atoms(symbols='KMg2As2H31O23', pbc=False)

@@ -1,0 +1,2 @@
+Cl12Mo3
+Atoms(symbols='Mo3Cl12', pbc=False)

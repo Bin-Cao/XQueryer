@@ -1,0 +1,2 @@
+Ga84Ni20
+Atoms(symbols='Ga84Ni20', pbc=False)

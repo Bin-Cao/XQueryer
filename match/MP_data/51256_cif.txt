@@ -1,0 +1,2 @@
+In3SbTe2
+Atoms(symbols='In3SbTe2', pbc=False)

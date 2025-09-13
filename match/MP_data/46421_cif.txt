@@ -1,0 +1,2 @@
+O3Sm2
+Atoms(symbols='Sm2O3', pbc=False)

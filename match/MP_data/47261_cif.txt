@@ -1,0 +1,2 @@
+Ni6Pt4Sn8
+Atoms(symbols='Ni3Sn4Pt2Ni3Sn4Pt2', pbc=False)

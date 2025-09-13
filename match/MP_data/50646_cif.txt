@@ -1,0 +1,2 @@
+ErN2U
+Atoms(symbols='ErUN2', pbc=False)

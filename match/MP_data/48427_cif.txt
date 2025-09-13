@@ -1,0 +1,2 @@
+Na8Ni6O20Sb4
+Atoms(symbols='Na8Ni6Sb4O20', pbc=False)

@@ -1,0 +1,2 @@
+CuLaSn
+Atoms(symbols='LaCuSn', pbc=False)

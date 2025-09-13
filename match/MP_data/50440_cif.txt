@@ -1,0 +1,2 @@
+CuGeHo
+Atoms(symbols='HoCuGe', pbc=False)

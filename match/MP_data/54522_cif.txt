@@ -1,0 +1,2 @@
+Ce8Co64Ti4
+Atoms(symbols='Ce8Co64Ti4', pbc=False)

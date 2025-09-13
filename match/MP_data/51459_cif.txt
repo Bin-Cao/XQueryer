@@ -1,0 +1,2 @@
+Gd2O24Ta8
+Atoms(symbols='GdTa4O12GdTa4O12', pbc=False)

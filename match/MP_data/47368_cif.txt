@@ -1,0 +1,2 @@
+Ge3In6Nd7Ni5
+Atoms(symbols='Nd7In6Ni5Ge3', pbc=False)

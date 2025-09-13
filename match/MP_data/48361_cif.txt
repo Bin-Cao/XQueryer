@@ -1,0 +1,2 @@
+InMn4Sb3
+Atoms(symbols='Mn4InSb3', pbc=False)

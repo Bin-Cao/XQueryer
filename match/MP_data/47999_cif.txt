@@ -1,0 +1,2 @@
+Mg9Ni24Pr3
+Atoms(symbols='PrMg3Ni8PrMg3Ni8PrMg3Ni8', pbc=False)

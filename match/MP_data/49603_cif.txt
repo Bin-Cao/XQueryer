@@ -1,0 +1,2 @@
+In2MnTe4
+Atoms(symbols='MnIn2Te4', pbc=False)

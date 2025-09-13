@@ -1,0 +1,2 @@
+Li7Mn2N3
+Atoms(symbols='Li7Mn2N3', pbc=False)

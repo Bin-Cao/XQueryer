@@ -1,0 +1,2 @@
+C8Hf2Ta6
+Atoms(symbols='HfTa3C4HfTa3C4', pbc=False)

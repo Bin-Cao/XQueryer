@@ -1,0 +1,2 @@
+Dy2Fe22N2Ti2
+Atoms(symbols='DyTiFe11NDyTiFe11N', pbc=False)

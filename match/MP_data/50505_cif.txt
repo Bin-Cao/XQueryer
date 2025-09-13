@@ -1,0 +1,2 @@
+Al14Fe10Ho2
+Atoms(symbols='HoAl7Fe5HoAl7Fe5', pbc=False)

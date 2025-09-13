@@ -1,0 +1,2 @@
+AlGaHo
+Atoms(symbols='HoAlGa', pbc=False)

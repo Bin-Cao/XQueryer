@@ -1,0 +1,2 @@
+Ga2Ge22Ho4Mn24
+Atoms(symbols='Ho2Mn12GaGe11Ho2Mn12GaGe11', pbc=False)

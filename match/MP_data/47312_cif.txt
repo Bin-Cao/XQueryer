@@ -1,0 +1,2 @@
+Ga7Nd2Pd
+Atoms(symbols='Nd2Ga7Pd', pbc=False)

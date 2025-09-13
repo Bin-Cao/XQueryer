@@ -1,0 +1,2 @@
+NaSbSe2
+Atoms(symbols='NaSbSe2', pbc=False)

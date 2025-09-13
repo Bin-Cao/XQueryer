@@ -1,0 +1,2 @@
+Co3Fe2LaO15Sr4
+Atoms(symbols='Sr4LaFe2Co3O15', pbc=False)

@@ -1,0 +1,2 @@
+BeNi2Si
+Atoms(symbols='BeSiNi2', pbc=False)

@@ -1,0 +1,2 @@
+LiSe2Y
+Atoms(symbols='LiYSe2', pbc=False)

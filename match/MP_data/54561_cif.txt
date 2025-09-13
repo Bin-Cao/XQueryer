@@ -1,0 +1,2 @@
+Br18MgO8Pb16Tl2
+Atoms(symbols='MgTl2Pb16Br18O8', pbc=False)

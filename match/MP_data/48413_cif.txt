@@ -1,0 +1,2 @@
+MnZn3
+Atoms(symbols='MnZn3', pbc=False)

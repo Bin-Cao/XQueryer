@@ -1,0 +1,2 @@
+Li6Mo30Se38
+Atoms(symbols='Li6Mo30Se38', pbc=False)

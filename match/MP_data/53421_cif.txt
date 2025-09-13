@@ -1,0 +1,2 @@
+Co2O12Rh4
+Atoms(symbols='CoRh2O6CoRh2O6', pbc=False)

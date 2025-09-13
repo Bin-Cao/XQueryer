@@ -1,0 +1,2 @@
+Co5Hf20P11
+Atoms(symbols='Hf20Co5P11', pbc=False)

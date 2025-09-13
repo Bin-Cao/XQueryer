@@ -1,0 +1,2 @@
+Li2N2Sr4
+Atoms(symbols='Sr2LiNSr2LiN', pbc=False)

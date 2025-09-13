@@ -1,0 +1,2 @@
+Hf4O26Pb8Sb4
+Atoms(symbols='Hf2Sb2Pb4O13Hf2Sb2Pb4O13', pbc=False)

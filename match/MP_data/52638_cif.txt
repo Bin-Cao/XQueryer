@@ -1,0 +1,2 @@
+Co3I36La21
+Atoms(symbols='La7CoI12La7CoI12La7CoI12', pbc=False)

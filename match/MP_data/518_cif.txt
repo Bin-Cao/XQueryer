@@ -1,0 +1,2 @@
+HNa
+Atoms(symbols='NaH', pbc=False)

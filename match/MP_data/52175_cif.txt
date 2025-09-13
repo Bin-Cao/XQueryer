@@ -1,0 +1,2 @@
+Er2Fe22N2Ti2
+Atoms(symbols='ErTiFe11NErTiFe11N', pbc=False)

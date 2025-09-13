@@ -1,0 +1,2 @@
+In28S52Sn10
+Atoms(symbols='In28S52Sn10', pbc=False)

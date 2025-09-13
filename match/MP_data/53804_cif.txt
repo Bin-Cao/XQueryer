@@ -1,0 +1,2 @@
+Ca2Ga2La2O8
+Atoms(symbols='CaLaGaO4CaLaGaO4', pbc=False)

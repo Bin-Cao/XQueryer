@@ -1,0 +1,2 @@
+H6Na2Ni4O20Se4
+Atoms(symbols='Na2Ni4H6Se4O20', pbc=False)

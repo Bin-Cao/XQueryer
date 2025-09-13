@@ -1,0 +1,2 @@
+Fe8Ge32La8Ni64
+Atoms(symbols='Fe8Ge32La8Ni64', pbc=False)

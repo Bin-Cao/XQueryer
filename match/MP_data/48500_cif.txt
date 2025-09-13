@@ -1,0 +1,2 @@
+CCoLu
+Atoms(symbols='LuCoC', pbc=False)

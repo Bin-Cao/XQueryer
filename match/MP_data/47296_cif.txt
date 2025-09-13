@@ -1,0 +1,2 @@
+H2Nb2
+Atoms(symbols='NbHNbH', pbc=False)

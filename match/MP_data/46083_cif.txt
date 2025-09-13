@@ -1,0 +1,2 @@
+Mo2Ni18Ta19
+Atoms(symbols='Ta19Ni18Mo2', pbc=False)

@@ -1,0 +1,2 @@
+NaNdS2
+Atoms(symbols='NaNdS2', pbc=False)

@@ -1,0 +1,2 @@
+Cd4Ga5KS12
+Atoms(symbols='KCd4Ga5S12', pbc=False)

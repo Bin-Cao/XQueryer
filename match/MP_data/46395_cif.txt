@@ -1,0 +1,2 @@
+O55Ta22
+Atoms(symbols='O55Ta22', pbc=False)

@@ -1,0 +1,2 @@
+Gd7Nb4O28Y5
+Atoms(symbols='Gd7Y5Nb4O28', pbc=False)

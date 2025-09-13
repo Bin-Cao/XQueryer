@@ -1,0 +1,2 @@
+C6Cl6Mg12O42
+Atoms(symbols='C6Cl6Mg12O42', pbc=False)

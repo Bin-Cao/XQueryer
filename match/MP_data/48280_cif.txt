@@ -1,0 +1,2 @@
+Fe51N9Nd3Sm3
+Atoms(symbols='Fe51N9Nd3Sm3', pbc=False)

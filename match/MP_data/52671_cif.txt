@@ -1,0 +1,2 @@
+Co9Dy12
+Atoms(symbols='Dy12Co9', pbc=False)

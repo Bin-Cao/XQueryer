@@ -1,0 +1,2 @@
+C4H4Nd4O16
+Atoms(symbols='Nd4H4C4O16', pbc=False)

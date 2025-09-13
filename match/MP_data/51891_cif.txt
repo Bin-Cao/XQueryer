@@ -1,0 +1,2 @@
+Cu29Ga15MgSc8
+Atoms(symbols='MgSc8Ga15Cu29', pbc=False)

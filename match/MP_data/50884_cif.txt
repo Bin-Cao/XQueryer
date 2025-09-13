@@ -1,0 +1,2 @@
+Cu10Ho8P14
+Atoms(symbols='Ho4Cu5P7Ho4Cu5P7', pbc=False)

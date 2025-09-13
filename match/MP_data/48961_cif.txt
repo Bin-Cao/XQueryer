@@ -1,0 +1,2 @@
+BiLiTe2
+Atoms(symbols='LiBiTe2', pbc=False)

@@ -1,0 +1,2 @@
+Ca5Cl2O24P6Sr5
+Atoms(symbols='Sr5Ca5P6Cl2O24', pbc=False)

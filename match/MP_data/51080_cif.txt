@@ -1,0 +1,2 @@
+H2O24W8
+Atoms(symbols='HW4O12HW4O12', pbc=False)

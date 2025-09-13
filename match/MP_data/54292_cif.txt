@@ -1,0 +1,2 @@
+Ca4O20Si4Ti3Zr
+Atoms(symbols='Ca4ZrTi3Si4O20', pbc=False)

@@ -1,0 +1,2 @@
+C2Hg2N4O6
+Atoms(symbols='HgCN2O3HgCN2O3', pbc=False)

@@ -1,0 +1,2 @@
+DyEr
+Atoms(symbols='DyEr', pbc=False)

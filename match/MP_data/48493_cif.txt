@@ -1,0 +1,2 @@
+CuFeNaSe2
+Atoms(symbols='NaFeCuSe2', pbc=False)

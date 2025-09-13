@@ -1,0 +1,2 @@
+Nb2O12Rb2Te2
+Atoms(symbols='Rb2Nb2Te2O12', pbc=False)

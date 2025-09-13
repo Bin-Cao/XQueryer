@@ -1,0 +1,2 @@
+As7Li3Ni11
+Atoms(symbols='Li3Ni11As7', pbc=False)

@@ -1,0 +1,2 @@
+AlKO9Si3
+Atoms(symbols='KAlSi3O9', pbc=False)

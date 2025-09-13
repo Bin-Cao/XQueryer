@@ -1,0 +1,2 @@
+In6Mn3S6Se6
+Atoms(symbols='MnIn2Se2S2MnIn2Se2S2MnIn2Se2S2', pbc=False)

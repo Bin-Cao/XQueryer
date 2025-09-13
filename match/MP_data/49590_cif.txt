@@ -1,0 +1,2 @@
+Al3Be12Mn3
+Atoms(symbols='MnBe4AlMnBe4AlMnBe4Al', pbc=False)

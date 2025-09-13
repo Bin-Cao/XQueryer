@@ -1,0 +1,2 @@
+Dy2O3
+Atoms(symbols='Dy2O3', pbc=False)

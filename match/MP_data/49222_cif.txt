@@ -1,0 +1,2 @@
+Hf6Mo16Si2
+Atoms(symbols='Hf3SiMo8Hf3SiMo8', pbc=False)

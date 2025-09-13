@@ -1,0 +1,2 @@
+Ca4Na2O20Ta6
+Atoms(symbols='NaCa2Ta3O10NaCa2Ta3O10', pbc=False)

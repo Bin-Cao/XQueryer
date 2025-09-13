@@ -1,0 +1,2 @@
+B40Gd2La8O120Sc30
+Atoms(symbols='B40Gd2La8O120Sc30', pbc=False)

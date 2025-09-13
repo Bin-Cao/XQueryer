@@ -1,0 +1,2 @@
+Ge2O12Sr2Te2
+Atoms(symbols='SrGeTeO6SrGeTeO6', pbc=False)

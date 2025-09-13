@@ -1,0 +1,2 @@
+H16K4Mn2O24S4
+Atoms(symbols='K4Mn2H16S4O24', pbc=False)

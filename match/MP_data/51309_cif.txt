@@ -1,0 +1,2 @@
+Al16Gd4U4
+Atoms(symbols='GdUAl4GdUAl4GdUAl4GdUAl4', pbc=False)

@@ -1,0 +1,2 @@
+Fe6Pt2
+Atoms(symbols='Fe3PtFe3Pt', pbc=False)

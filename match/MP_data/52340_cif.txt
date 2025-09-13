@@ -1,0 +1,2 @@
+CoFeSe2
+Atoms(symbols='FeCoSe2', pbc=False)

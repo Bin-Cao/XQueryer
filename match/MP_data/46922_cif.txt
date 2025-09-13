@@ -1,0 +1,2 @@
+O32Si12
+Atoms(symbols='Si12O32', pbc=False)

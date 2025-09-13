@@ -1,0 +1,2 @@
+Mg6O26Si8
+Atoms(symbols='Mg3Si4O13Mg3Si4O13', pbc=False)

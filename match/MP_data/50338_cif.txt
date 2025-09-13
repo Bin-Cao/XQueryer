@@ -1,0 +1,2 @@
+Fe12Mg3O24Zn3
+Atoms(symbols='MgZnFe4O8MgZnFe4O8MgZnFe4O8', pbc=False)

@@ -1,0 +1,2 @@
+Ba3Cl2Ga5KSe10
+Atoms(symbols='KBa3Ga5Se10Cl2', pbc=False)

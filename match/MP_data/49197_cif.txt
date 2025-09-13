@@ -1,0 +1,2 @@
+K8Nd8O40Ti12
+Atoms(symbols='K8Nd8O40Ti12', pbc=False)

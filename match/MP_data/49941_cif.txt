@@ -1,0 +1,2 @@
+LaPb6Th
+Atoms(symbols='LaThPb6', pbc=False)

@@ -1,0 +1,2 @@
+Cu8O10Pt2
+Atoms(symbols='Cu8Pt2O10', pbc=False)

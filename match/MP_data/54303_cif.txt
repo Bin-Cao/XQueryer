@@ -1,0 +1,2 @@
+BaGa4Sr
+Atoms(symbols='BaSrGa4', pbc=False)

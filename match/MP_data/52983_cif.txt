@@ -1,0 +1,2 @@
+CoCu2GeSe4
+Atoms(symbols='CoCu2GeSe4', pbc=False)

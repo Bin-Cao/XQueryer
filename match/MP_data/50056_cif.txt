@@ -1,0 +1,2 @@
+Ga3Mn12
+Atoms(symbols='Mn4GaMn4GaMn4Ga', pbc=False)

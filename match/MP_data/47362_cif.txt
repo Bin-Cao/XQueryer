@@ -1,0 +1,2 @@
+Co10NdU
+Atoms(symbols='NdUCo10', pbc=False)

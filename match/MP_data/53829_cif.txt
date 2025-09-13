@@ -1,0 +1,2 @@
+H18Fe3N3O24P6
+Atoms(symbols='Fe3P6H18N3O24', pbc=False)

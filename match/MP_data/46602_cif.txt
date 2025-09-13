@@ -1,0 +1,2 @@
+CuNdNi4
+Atoms(symbols='NdCuNi4', pbc=False)

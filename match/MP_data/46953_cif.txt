@@ -1,0 +1,2 @@
+AgGe4O2Rb3Se10
+Atoms(symbols='Rb3AgGe4Se10O2', pbc=False)

@@ -1,0 +1,2 @@
+Be2Cu8Sm2
+Atoms(symbols='SmBeCu4SmBeCu4', pbc=False)

@@ -1,0 +1,2 @@
+In3Pr32Rh19
+Atoms(symbols='Pr32In3Rh19', pbc=False)

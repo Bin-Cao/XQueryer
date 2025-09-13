@@ -1,0 +1,2 @@
+B30Co104Ta11
+Atoms(symbols='B30Co104Ta11', pbc=False)

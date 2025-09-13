@@ -1,0 +1,2 @@
+H6Ce2O24S6
+Atoms(symbols='Ce2H6S6O24', pbc=False)

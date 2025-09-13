@@ -1,0 +1,2 @@
+B50Be8
+Atoms(symbols='Be8B50', pbc=False)

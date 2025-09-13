@@ -1,0 +1,2 @@
+AsSb
+Atoms(symbols='SbAs', pbc=False)

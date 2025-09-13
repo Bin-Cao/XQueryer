@@ -1,0 +1,2 @@
+Bi4Eu2Nb2O18Ti2
+Atoms(symbols='Eu2Ti2Nb2Bi4O18', pbc=False)

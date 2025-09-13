@@ -1,0 +1,2 @@
+B12Co42Mn2Mo2
+Atoms(symbols='MnCo21B6MoMnCo21B6Mo', pbc=False)

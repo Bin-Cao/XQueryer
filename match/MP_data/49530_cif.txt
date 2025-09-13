@@ -1,0 +1,2 @@
+Na11Nb2O26P2Si4Ti
+Atoms(symbols='Na11TiNb2Si4P2O26', pbc=False)

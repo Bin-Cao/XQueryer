@@ -1,0 +1,2 @@
+La4O36Te12W2
+Atoms(symbols='La4Te12W2O36', pbc=False)

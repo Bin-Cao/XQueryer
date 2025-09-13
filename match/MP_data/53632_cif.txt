@@ -1,0 +1,2 @@
+Cl10Cu3Fe8O32Te12
+Atoms(symbols='Cl10Cu3Fe8O32Te12', pbc=False)

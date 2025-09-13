@@ -1,0 +1,2 @@
+Cr2F12K2Ni2
+Atoms(symbols='K2Cr2Ni2F12', pbc=False)

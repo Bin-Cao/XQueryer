@@ -1,0 +1,2 @@
+Pr12Se28Si5
+Atoms(symbols='Pr12Si5Se28', pbc=False)

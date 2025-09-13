@@ -1,0 +1,2 @@
+B8Cs4Ge2O18
+Atoms(symbols='Cs2GeB4O9Cs2GeB4O9', pbc=False)

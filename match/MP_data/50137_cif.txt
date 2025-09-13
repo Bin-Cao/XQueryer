@@ -1,0 +1,2 @@
+KNaNb2O6
+Atoms(symbols='KNaNb2O6', pbc=False)

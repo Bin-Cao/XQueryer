@@ -1,0 +1,2 @@
+Co10Ga14Sm2
+Atoms(symbols='SmGa7Co5SmGa7Co5', pbc=False)

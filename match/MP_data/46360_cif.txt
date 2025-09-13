@@ -1,0 +1,2 @@
+MoRe3
+Atoms(symbols='Re3Mo', pbc=False)

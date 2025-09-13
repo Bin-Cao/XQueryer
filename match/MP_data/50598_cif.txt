@@ -1,0 +1,2 @@
+KNiO4Sb
+Atoms(symbols='KNiSbO4', pbc=False)

@@ -1,0 +1,2 @@
+H66B24Cl4La2O22
+Atoms(symbols='H66B24Cl4La2O22', pbc=False)

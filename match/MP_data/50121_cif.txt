@@ -1,0 +1,2 @@
+La3Li2NdO12Sb2
+Atoms(symbols='Li2La3NdSb2O12', pbc=False)

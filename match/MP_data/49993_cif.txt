@@ -1,0 +1,2 @@
+Cr4La3NdO12
+Atoms(symbols='La3NdCr4O12', pbc=False)

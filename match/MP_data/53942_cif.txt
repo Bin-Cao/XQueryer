@@ -1,0 +1,2 @@
+CsCuInO18P6
+Atoms(symbols='CsInCuP6O18', pbc=False)

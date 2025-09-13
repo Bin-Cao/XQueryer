@@ -1,0 +1,2 @@
+O30Ta12
+Atoms(symbols='Ta6O15Ta6O15', pbc=False)

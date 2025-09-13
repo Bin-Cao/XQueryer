@@ -1,0 +1,2 @@
+B4Co3Re
+Atoms(symbols='Co3ReB4', pbc=False)

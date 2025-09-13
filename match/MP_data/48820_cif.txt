@@ -1,0 +1,2 @@
+LiSbTe2
+Atoms(symbols='LiSbTe2', pbc=False)

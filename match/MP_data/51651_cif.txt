@@ -1,0 +1,2 @@
+Co4ErGd
+Atoms(symbols='GdErCo4', pbc=False)

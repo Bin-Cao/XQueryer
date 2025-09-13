@@ -1,0 +1,2 @@
+Ba8O72Si24Sn6Ti2
+Atoms(symbols='Ba8O72Si24Sn6Ti2', pbc=False)

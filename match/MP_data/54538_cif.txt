@@ -1,0 +1,2 @@
+BaLa3Ni2O8
+Atoms(symbols='BaLa3Ni2O8', pbc=False)

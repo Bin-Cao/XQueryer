@@ -1,0 +1,2 @@
+F20O18Pb10W6
+Atoms(symbols='Pb10W6O18F20', pbc=False)

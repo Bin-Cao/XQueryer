@@ -1,0 +1,2 @@
+ErNd3O24W6
+Atoms(symbols='Nd3ErW6O24', pbc=False)

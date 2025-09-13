@@ -1,0 +1,2 @@
+HfMg6O8Sr
+Atoms(symbols='SrHfMg6O8', pbc=False)

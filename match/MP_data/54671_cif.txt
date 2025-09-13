@@ -1,0 +1,2 @@
+Ca4Eu4Ge8In6
+Atoms(symbols='Ca2Eu2In3Ge4Ca2Eu2In3Ge4', pbc=False)

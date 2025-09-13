@@ -1,0 +1,2 @@
+Nd8Pb4S32Si8
+Atoms(symbols='Nd4Si4Pb2S16Nd4Si4Pb2S16', pbc=False)

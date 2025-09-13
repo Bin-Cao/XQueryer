@@ -1,0 +1,2 @@
+Al9Co3Er6
+Atoms(symbols='Er2Al3CoEr2Al3CoEr2Al3Co', pbc=False)

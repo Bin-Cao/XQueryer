@@ -1,0 +1,2 @@
+Nd60Ni8Si28
+Atoms(symbols='Nd60Ni8Si28', pbc=False)

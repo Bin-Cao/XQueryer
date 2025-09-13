@@ -1,0 +1,2 @@
+Er6Ge2MnS14
+Atoms(symbols='Er6MnGe2S14', pbc=False)

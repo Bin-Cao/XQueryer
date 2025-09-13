@@ -1,0 +1,2 @@
+C4Co14Fe54Sm8
+Atoms(symbols='C4Co14Fe54Sm8', pbc=False)

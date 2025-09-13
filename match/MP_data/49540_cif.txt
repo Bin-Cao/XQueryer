@@ -1,0 +1,2 @@
+Cu2La2Nd2O8
+Atoms(symbols='LaNdCuO4LaNdCuO4', pbc=False)

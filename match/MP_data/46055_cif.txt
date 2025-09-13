@@ -1,0 +1,2 @@
+Fe32Tb3V4
+Atoms(symbols='Tb3V4Fe32', pbc=False)

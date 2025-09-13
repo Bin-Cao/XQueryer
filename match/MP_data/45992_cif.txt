@@ -1,0 +1,2 @@
+Co13Ta13
+Atoms(symbols='Ta13Co13', pbc=False)

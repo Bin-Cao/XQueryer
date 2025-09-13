@@ -1,0 +1,2 @@
+Mo2Nb2
+Atoms(symbols='NbMoNbMo', pbc=False)

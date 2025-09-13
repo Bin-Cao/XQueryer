@@ -1,0 +1,2 @@
+Ge6Sb6Sn15Te30
+Atoms(symbols='Sn5Ge2Sb2Te10Sn5Ge2Sb2Te10Sn5Ge2Sb2Te10', pbc=False)

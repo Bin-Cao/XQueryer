@@ -1,0 +1,2 @@
+Nb9O25P
+Atoms(symbols='Nb9PO25', pbc=False)

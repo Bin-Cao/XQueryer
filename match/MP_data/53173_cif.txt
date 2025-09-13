@@ -1,0 +1,2 @@
+B8Cs4O18Si2
+Atoms(symbols='Cs2SiB4O9Cs2SiB4O9', pbc=False)

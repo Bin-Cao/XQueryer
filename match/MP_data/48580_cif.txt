@@ -1,0 +1,2 @@
+Ga4LiNa3O24Si8
+Atoms(symbols='Na3LiGa4Si8O24', pbc=False)

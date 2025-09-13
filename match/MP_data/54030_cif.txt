@@ -1,0 +1,2 @@
+CaCeN2
+Atoms(symbols='CaCeN2', pbc=False)

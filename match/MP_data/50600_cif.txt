@@ -1,0 +1,2 @@
+GeSb
+Atoms(symbols='GeSb', pbc=False)

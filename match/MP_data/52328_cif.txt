@@ -1,0 +1,2 @@
+Cl9Ge3N3
+Atoms(symbols='GeNCl3GeNCl3GeNCl3', pbc=False)

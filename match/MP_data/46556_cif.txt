@@ -1,0 +1,2 @@
+H2O16Rb6Se4
+Atoms(symbols='Rb3HSe2O8Rb3HSe2O8', pbc=False)

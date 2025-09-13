@@ -1,0 +1,2 @@
+Cr23Fe3Ga26
+Atoms(symbols='Cr23Ga26Fe3', pbc=False)

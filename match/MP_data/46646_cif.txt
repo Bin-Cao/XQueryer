@@ -1,0 +1,2 @@
+In3NiPr2
+Atoms(symbols='Pr2In3Ni', pbc=False)

@@ -1,0 +1,2 @@
+Er8Mn3Mo5O28
+Atoms(symbols='Er8Mn3Mo5O28', pbc=False)

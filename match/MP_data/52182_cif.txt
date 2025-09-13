@@ -1,0 +1,2 @@
+Ga5In5S15
+Atoms(symbols='In5Ga5S15', pbc=False)

@@ -1,0 +1,2 @@
+Fe20Ga16Sc3
+Atoms(symbols='Sc3Ga16Fe20', pbc=False)

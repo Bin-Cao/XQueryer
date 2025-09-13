@@ -1,0 +1,2 @@
+Cs2Eu2Na2Nb10O30
+Atoms(symbols='Cs2Na2Eu2Nb10O30', pbc=False)

@@ -1,0 +1,2 @@
+Au3Fe2Pd3
+Atoms(symbols='Fe2Pd3Au3', pbc=False)

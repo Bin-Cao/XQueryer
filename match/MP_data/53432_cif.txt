@@ -1,0 +1,2 @@
+Be16Co4Ge4
+Atoms(symbols='Be4CoGeBe4CoGeBe4CoGeBe4CoGe', pbc=False)

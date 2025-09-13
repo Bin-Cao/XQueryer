@@ -1,0 +1,2 @@
+Fe4Ga4Mn4O16
+Atoms(symbols='Mn2Ga2Fe2O8Mn2Ga2Fe2O8', pbc=False)

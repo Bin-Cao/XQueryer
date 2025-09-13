@@ -1,0 +1,2 @@
+H9AuCl4O4
+Atoms(symbols='H9AuCl4O4', pbc=False)

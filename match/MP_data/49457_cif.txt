@@ -1,0 +1,2 @@
+Cu9Na3Nb3O36Ti9
+Atoms(symbols='NaTi3NbCu3O12NaTi3NbCu3O12NaTi3NbCu3O12', pbc=False)

@@ -1,0 +1,2 @@
+HoPr
+Atoms(symbols='PrHo', pbc=False)

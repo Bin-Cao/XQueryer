@@ -1,0 +1,2 @@
+N4Nb4O24W4
+Atoms(symbols='Nb2W2N2O12Nb2W2N2O12', pbc=False)

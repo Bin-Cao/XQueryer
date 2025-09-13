@@ -1,0 +1,2 @@
+GaLaNi4
+Atoms(symbols='LaGaNi4', pbc=False)

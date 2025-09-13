@@ -1,0 +1,2 @@
+Au4Pb16Pd4
+Atoms(symbols='PdPb4AuPdPb4AuPdPb4AuPdPb4Au', pbc=False)

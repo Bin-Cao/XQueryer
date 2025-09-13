@@ -1,0 +1,2 @@
+CeCuPt4
+Atoms(symbols='CeCuPt4', pbc=False)

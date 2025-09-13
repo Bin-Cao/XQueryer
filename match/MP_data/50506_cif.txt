@@ -1,0 +1,2 @@
+Au3Ge
+Atoms(symbols='GeAu3', pbc=False)

@@ -1,0 +1,2 @@
+Cr12In3Li3S24
+Atoms(symbols='LiCr4InS8LiCr4InS8LiCr4InS8', pbc=False)

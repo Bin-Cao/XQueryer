@@ -1,0 +1,2 @@
+Ga24Lu4Mn24
+Atoms(symbols='LuMn6Ga6LuMn6Ga6LuMn6Ga6LuMn6Ga6', pbc=False)

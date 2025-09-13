@@ -1,0 +1,2 @@
+C4Fe28Ga6Nd4
+Atoms(symbols='Nd2Ga3Fe14C2Nd2Ga3Fe14C2', pbc=False)

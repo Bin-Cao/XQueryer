@@ -1,0 +1,2 @@
+La2Na2O14Ta4
+Atoms(symbols='NaLaTa2O7NaLaTa2O7', pbc=False)

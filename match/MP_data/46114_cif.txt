@@ -1,0 +1,2 @@
+Cu8FeO22Sr6Y3
+Atoms(symbols='Sr6Y3FeCu8O22', pbc=False)

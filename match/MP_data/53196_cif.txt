@@ -1,0 +1,2 @@
+CoNiSe2
+Atoms(symbols='CoNiSe2', pbc=False)

@@ -1,0 +1,2 @@
+EuP2Pt2Sr
+Atoms(symbols='SrEuP2Pt2', pbc=False)

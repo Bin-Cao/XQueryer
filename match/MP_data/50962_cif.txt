@@ -1,0 +1,2 @@
+B4Fe9Ir3
+Atoms(symbols='Fe9B4Ir3', pbc=False)

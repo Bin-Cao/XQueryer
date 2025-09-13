@@ -1,0 +1,2 @@
+Ga20Ni4Sc12
+Atoms(symbols='Sc6Ga10Ni2Sc6Ga10Ni2', pbc=False)

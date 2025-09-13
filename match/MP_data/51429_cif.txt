@@ -1,0 +1,2 @@
+FeGdNi4
+Atoms(symbols='GdFeNi4', pbc=False)

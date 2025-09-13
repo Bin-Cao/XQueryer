@@ -1,0 +1,2 @@
+Ni2Ru2S8
+Atoms(symbols='Ni2Ru2S8', pbc=False)

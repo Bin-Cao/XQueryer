@@ -1,0 +1,2 @@
+AuF20O4Te4
+Atoms(symbols='Te4AuO4F20', pbc=False)

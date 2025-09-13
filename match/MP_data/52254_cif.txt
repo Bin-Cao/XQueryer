@@ -1,0 +1,2 @@
+C3Fe68Ho8
+Atoms(symbols='C3Fe68Ho8', pbc=False)

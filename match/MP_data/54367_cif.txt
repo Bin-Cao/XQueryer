@@ -1,0 +1,2 @@
+Ca5Co3O16Si4
+Atoms(symbols='Ca5Co3Si4O16', pbc=False)

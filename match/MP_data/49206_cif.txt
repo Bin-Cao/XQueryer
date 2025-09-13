@@ -1,0 +1,2 @@
+K2Pd8Si8
+Atoms(symbols='KSi4Pd4KSi4Pd4', pbc=False)

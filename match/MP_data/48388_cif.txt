@@ -1,0 +1,2 @@
+MnNi2Si
+Atoms(symbols='MnSiNi2', pbc=False)

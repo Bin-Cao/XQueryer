@@ -1,0 +1,2 @@
+CaCo4O12Pr3
+Atoms(symbols='CaPr3Co4O12', pbc=False)

@@ -1,0 +1,2 @@
+Cu3Mg6Si9
+Atoms(symbols='Mg2CuSi3Mg2CuSi3Mg2CuSi3', pbc=False)

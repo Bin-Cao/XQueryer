@@ -1,0 +1,2 @@
+C3TaTiW
+Atoms(symbols='TaTiWC3', pbc=False)

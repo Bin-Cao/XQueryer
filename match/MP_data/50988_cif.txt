@@ -1,0 +1,2 @@
+CuGaSe2
+Atoms(symbols='GaCuSe2', pbc=False)

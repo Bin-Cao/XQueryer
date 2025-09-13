@@ -1,0 +1,2 @@
+Ce2Ho8S14
+Atoms(symbols='CeHo4S7CeHo4S7', pbc=False)

@@ -1,0 +1,2 @@
+Cl2Fe2Mg8O26
+Atoms(symbols='Mg4FeClO13Mg4FeClO13', pbc=False)

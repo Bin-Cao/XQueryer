@@ -1,0 +1,2 @@
+Co2Cr4S2Se6
+Atoms(symbols='Cr2CoSe3SCr2CoSe3S', pbc=False)

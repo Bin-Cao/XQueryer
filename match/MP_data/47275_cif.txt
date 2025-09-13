@@ -1,0 +1,2 @@
+CNNbV
+Atoms(symbols='NbVCN', pbc=False)

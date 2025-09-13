@@ -1,0 +1,2 @@
+Mo4Ni4O19
+Atoms(symbols='Ni4Mo4O19', pbc=False)

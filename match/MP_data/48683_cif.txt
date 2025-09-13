@@ -1,0 +1,2 @@
+Cl10N10Na2Ti10
+Atoms(symbols='Na2Ti10N10Cl10', pbc=False)

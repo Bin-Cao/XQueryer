@@ -1,0 +1,2 @@
+O44Pb8Si16
+Atoms(symbols='O44Pb8Si16', pbc=False)

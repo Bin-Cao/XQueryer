@@ -1,0 +1,2 @@
+Ga3Se16Ta12Te8
+Atoms(symbols='Ta12Ga3Te8Se16', pbc=False)

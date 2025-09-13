@@ -1,0 +1,2 @@
+CuDy2O6Ti
+Atoms(symbols='Dy2TiCuO6', pbc=False)

@@ -1,0 +1,2 @@
+Au4Cl24N20O2Ru4
+Atoms(symbols='Ru2Au2N10Cl12ORu2Au2N10Cl12O', pbc=False)

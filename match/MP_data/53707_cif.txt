@@ -1,0 +1,2 @@
+Ag4Cl32Co4Cs20
+Atoms(symbols='Cs10Co2Ag2Cl16Cs10Co2Ag2Cl16', pbc=False)

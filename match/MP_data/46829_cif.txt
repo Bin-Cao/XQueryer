@@ -1,0 +1,2 @@
+Rh20Si13
+Atoms(symbols='Si13Rh20', pbc=False)

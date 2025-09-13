@@ -1,0 +1,2 @@
+HfTi
+Atoms(symbols='HfTi', pbc=False)

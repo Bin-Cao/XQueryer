@@ -1,0 +1,2 @@
+C2Ca14O46Si12
+Atoms(symbols='C2Ca14O46Si12', pbc=False)

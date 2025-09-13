@@ -1,0 +1,2 @@
+B32Ir24Na8
+Atoms(symbols='B32Ir24Na8', pbc=False)

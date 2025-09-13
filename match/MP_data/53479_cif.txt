@@ -1,0 +1,2 @@
+Er20Ni2Sb10
+Atoms(symbols='Er20Ni2Sb10', pbc=False)

@@ -1,0 +1,2 @@
+Co17SmY
+Atoms(symbols='SmYCo17', pbc=False)

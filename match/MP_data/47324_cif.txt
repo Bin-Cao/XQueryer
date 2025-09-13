@@ -1,0 +1,2 @@
+C40H36Ag2N12O24Tb2
+Atoms(symbols='C40H36Ag2N12O24Tb2', pbc=False)

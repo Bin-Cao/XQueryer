@@ -1,0 +1,2 @@
+N16Na2O24Rh2
+Atoms(symbols='NaRhN8O12NaRhN8O12', pbc=False)

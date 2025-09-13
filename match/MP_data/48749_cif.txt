@@ -1,0 +1,2 @@
+Mn3Pd9Si6
+Atoms(symbols='Mn3Si6Pd9', pbc=False)

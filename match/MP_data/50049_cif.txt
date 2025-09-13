@@ -1,0 +1,2 @@
+ErHo
+Atoms(symbols='HoEr', pbc=False)

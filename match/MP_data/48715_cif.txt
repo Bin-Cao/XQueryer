@@ -1,0 +1,2 @@
+AgLuS2
+Atoms(symbols='LuAgS2', pbc=False)

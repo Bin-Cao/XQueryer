@@ -1,0 +1,2 @@
+Al12Ho3Pr3
+Atoms(symbols='PrHoAl4PrHoAl4PrHoAl4', pbc=False)

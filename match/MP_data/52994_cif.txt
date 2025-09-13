@@ -1,0 +1,2 @@
+CeN2U
+Atoms(symbols='CeUN2', pbc=False)

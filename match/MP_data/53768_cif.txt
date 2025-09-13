@@ -1,0 +1,2 @@
+Ca2Fe2Rh2Si4
+Atoms(symbols='CaFeSi2RhCaFeSi2Rh', pbc=False)

@@ -1,0 +1,2 @@
+Ge4Sn8Te12
+Atoms(symbols='Sn8Ge4Te12', pbc=False)

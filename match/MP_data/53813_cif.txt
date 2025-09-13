@@ -1,0 +1,2 @@
+Ce2Co3Ge4Ru
+Atoms(symbols='Ce2Co3Ge4Ru', pbc=False)

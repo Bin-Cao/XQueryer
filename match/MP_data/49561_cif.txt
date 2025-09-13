@@ -1,0 +1,2 @@
+LaNdNi10
+Atoms(symbols='LaNdNi10', pbc=False)

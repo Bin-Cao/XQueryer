@@ -1,0 +1,2 @@
+Pb19Ti24
+Atoms(symbols='Ti24Pb19', pbc=False)

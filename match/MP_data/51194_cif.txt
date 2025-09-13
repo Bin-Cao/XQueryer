@@ -1,0 +1,2 @@
+Ag2Cu2In4Te8
+Atoms(symbols='In2CuAgTe4In2CuAgTe4', pbc=False)

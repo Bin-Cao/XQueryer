@@ -1,0 +1,2 @@
+H20N8Na8O22P8
+Atoms(symbols='H20N8Na8O22P8', pbc=False)

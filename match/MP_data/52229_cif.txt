@@ -1,0 +1,2 @@
+As12Ga15In3
+Atoms(symbols='InGa5As4InGa5As4InGa5As4', pbc=False)

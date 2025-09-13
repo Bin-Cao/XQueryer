@@ -1,0 +1,2 @@
+Cl4Mo2O2
+Atoms(symbols='MoCl2OMoCl2O', pbc=False)

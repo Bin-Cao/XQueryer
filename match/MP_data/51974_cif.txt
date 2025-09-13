@@ -1,0 +1,2 @@
+La12S28Si4Sn
+Atoms(symbols='La12Si4SnS28', pbc=False)

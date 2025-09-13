@@ -1,0 +1,2 @@
+BaBeSi
+Atoms(symbols='BaBeSi', pbc=False)

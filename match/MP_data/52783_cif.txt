@@ -1,0 +1,2 @@
+Eu4Gd4O28Ti8
+Atoms(symbols='Eu2Gd2Ti4O14Eu2Gd2Ti4O14', pbc=False)

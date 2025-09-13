@@ -1,0 +1,2 @@
+Ce2S14Y8
+Atoms(symbols='CeY4S7CeY4S7', pbc=False)

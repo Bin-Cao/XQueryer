@@ -1,0 +1,2 @@
+O88Rb20Sb28Ti4
+Atoms(symbols='O88Rb20Sb28Ti4', pbc=False)

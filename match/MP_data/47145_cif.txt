@@ -1,0 +1,2 @@
+Co2Fe2Nd2Si4
+Atoms(symbols='NdFeCoSi2NdFeCoSi2', pbc=False)

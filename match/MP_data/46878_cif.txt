@@ -1,0 +1,2 @@
+Ni16Pr4Y4
+Atoms(symbols='PrYNi4PrYNi4PrYNi4PrYNi4', pbc=False)

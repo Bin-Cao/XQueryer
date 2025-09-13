@@ -1,0 +1,2 @@
+B2Co8LaY
+Atoms(symbols='LaYCo8B2', pbc=False)

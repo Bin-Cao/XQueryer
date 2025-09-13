@@ -1,0 +1,2 @@
+Ge8Ho4In4O28
+Atoms(symbols='Ho2In2Ge4O14Ho2In2Ge4O14', pbc=False)

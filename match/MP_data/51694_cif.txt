@@ -1,0 +1,2 @@
+H12F6Ga2N4
+Atoms(symbols='GaH6N2F3GaH6N2F3', pbc=False)

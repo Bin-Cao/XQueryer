@@ -1,0 +1,2 @@
+Fe6Ga6Nd
+Atoms(symbols='NdGa6Fe6', pbc=False)

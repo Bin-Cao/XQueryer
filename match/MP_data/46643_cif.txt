@@ -1,0 +1,2 @@
+C60Br28
+Atoms(symbols='C60Br28', pbc=False)

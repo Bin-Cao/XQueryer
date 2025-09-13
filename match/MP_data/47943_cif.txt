@@ -1,0 +1,2 @@
+CNNa
+Atoms(symbols='NaCN', pbc=False)

@@ -1,0 +1,2 @@
+Ge2Si6Sm4
+Atoms(symbols='Sm2Si3GeSm2Si3Ge', pbc=False)

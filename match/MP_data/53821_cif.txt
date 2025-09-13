@@ -1,0 +1,2 @@
+In22La4Ni30
+Atoms(symbols='La2In11Ni15La2In11Ni15', pbc=False)

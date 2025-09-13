@@ -1,0 +1,2 @@
+C12H22In6O38
+Atoms(symbols='C12H22In6O38', pbc=False)

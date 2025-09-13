@@ -1,0 +1,2 @@
+Mg76Y11
+Atoms(symbols='Mg76Y11', pbc=False)

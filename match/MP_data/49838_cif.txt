@@ -1,0 +1,2 @@
+Br6Cl2La8O8
+Atoms(symbols='La4Br3ClO4La4Br3ClO4', pbc=False)

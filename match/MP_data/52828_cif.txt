@@ -1,0 +1,2 @@
+Cu10Dy2In14
+Atoms(symbols='DyIn7Cu5DyIn7Cu5', pbc=False)

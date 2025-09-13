@@ -1,0 +1,2 @@
+B2Fe3U
+Atoms(symbols='UFe3B2', pbc=False)

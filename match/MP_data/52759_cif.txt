@@ -1,0 +1,2 @@
+Dy10O24Re4
+Atoms(symbols='Dy10Re4O24', pbc=False)

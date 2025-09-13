@@ -1,0 +1,2 @@
+GaRe
+Atoms(symbols='GaRe', pbc=False)

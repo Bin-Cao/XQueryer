@@ -1,0 +1,2 @@
+Al44La6Nd6
+Atoms(symbols='La3Nd3Al22La3Nd3Al22', pbc=False)

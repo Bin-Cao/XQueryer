@@ -1,0 +1,2 @@
+Co8Nb8V8
+Atoms(symbols='Nb4V4Co4Nb4V4Co4', pbc=False)

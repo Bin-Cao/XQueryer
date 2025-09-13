@@ -1,0 +1,2 @@
+Co4CuHo
+Atoms(symbols='HoCo4Cu', pbc=False)

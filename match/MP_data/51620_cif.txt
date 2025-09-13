@@ -1,0 +1,2 @@
+CdCu9K2O26V6
+Atoms(symbols='K2V6CdCu9O26', pbc=False)

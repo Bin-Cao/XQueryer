@@ -1,0 +1,2 @@
+ClEu2P
+Atoms(symbols='Eu2PCl', pbc=False)

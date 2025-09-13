@@ -1,0 +1,2 @@
+Ho2Mn23Pr4
+Atoms(symbols='Pr4Ho2Mn23', pbc=False)

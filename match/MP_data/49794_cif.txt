@@ -1,0 +1,2 @@
+In4Mn4S5Se5
+Atoms(symbols='Mn4In4Se5S5', pbc=False)

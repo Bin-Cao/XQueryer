@@ -1,0 +1,2 @@
+CuInMnTe3
+Atoms(symbols='MnInCuTe3', pbc=False)

@@ -1,0 +1,2 @@
+Al8Dy20Ge22
+Atoms(symbols='Dy10Al4Ge11Dy10Al4Ge11', pbc=False)

@@ -1,0 +1,2 @@
+InPd2Sc
+Atoms(symbols='ScInPd2', pbc=False)

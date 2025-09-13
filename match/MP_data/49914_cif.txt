@@ -1,0 +1,2 @@
+Ga4LaO12Pr3
+Atoms(symbols='LaPr3Ga4O12', pbc=False)

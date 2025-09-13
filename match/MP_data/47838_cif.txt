@@ -1,0 +1,2 @@
+NaS4YZr
+Atoms(symbols='NaYZrS4', pbc=False)

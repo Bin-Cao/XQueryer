@@ -1,0 +1,2 @@
+Bi3KO9Sr2
+Atoms(symbols='KSr2Bi3O9', pbc=False)

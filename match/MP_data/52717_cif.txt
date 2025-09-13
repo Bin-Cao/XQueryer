@@ -1,0 +1,2 @@
+Co2Ni2Te8
+Atoms(symbols='CoNiTe4CoNiTe4', pbc=False)

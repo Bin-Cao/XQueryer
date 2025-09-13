@@ -1,0 +1,2 @@
+AlCsFe3O12Si3
+Atoms(symbols='CsAlFe3Si3O12', pbc=False)

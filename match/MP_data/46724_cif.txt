@@ -1,0 +1,2 @@
+Fe3Mn6O18Ta3
+Atoms(symbols='TaMn2FeO6TaMn2FeO6TaMn2FeO6', pbc=False)

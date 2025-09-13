@@ -1,0 +1,2 @@
+Cu21Dy3
+Atoms(symbols='Dy3Cu21', pbc=False)

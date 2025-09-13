@@ -1,0 +1,2 @@
+La2Li2O14Ta4
+Atoms(symbols='LiLaTa2O7LiLaTa2O7', pbc=False)

@@ -1,0 +1,2 @@
+AlKO8Ti3
+Atoms(symbols='KTi3AlO8', pbc=False)

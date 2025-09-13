@@ -1,0 +1,2 @@
+C3Mo2Ta
+Atoms(symbols='TaMo2C3', pbc=False)

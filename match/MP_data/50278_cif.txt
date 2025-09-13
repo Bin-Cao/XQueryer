@@ -1,0 +1,2 @@
+Fe2K2O16Sn6
+Atoms(symbols='KFeSn3O8KFeSn3O8', pbc=False)

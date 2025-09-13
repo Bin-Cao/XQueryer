@@ -1,0 +1,2 @@
+Al6Fe14Lu2Si4
+Atoms(symbols='LuAl3Fe7Si2LuAl3Fe7Si2', pbc=False)

@@ -1,0 +1,2 @@
+F84Mo18O18Rb30
+Atoms(symbols='F84Mo18O18Rb30', pbc=False)

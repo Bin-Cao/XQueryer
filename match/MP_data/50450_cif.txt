@@ -1,0 +1,2 @@
+GaLa2NiO6
+Atoms(symbols='La2GaNiO6', pbc=False)

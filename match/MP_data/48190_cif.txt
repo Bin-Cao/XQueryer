@@ -1,0 +1,2 @@
+La2NaO12TaTi2
+Atoms(symbols='NaLa2TaTi2O12', pbc=False)

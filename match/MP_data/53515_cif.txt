@@ -1,0 +1,2 @@
+Ce2SbTe
+Atoms(symbols='Ce2SbTe', pbc=False)

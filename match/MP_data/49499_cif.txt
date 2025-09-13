@@ -1,0 +1,2 @@
+Li6Pd8Sn22
+Atoms(symbols='Li3Sn11Pd4Li3Sn11Pd4', pbc=False)

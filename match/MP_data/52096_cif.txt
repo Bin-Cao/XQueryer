@@ -1,0 +1,2 @@
+Cu2Er2Te4
+Atoms(symbols='ErCuTe2ErCuTe2', pbc=False)

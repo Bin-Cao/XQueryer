@@ -1,0 +1,2 @@
+Bi8Dy2Fe10O30
+Atoms(symbols='Dy2Fe10Bi8O30', pbc=False)

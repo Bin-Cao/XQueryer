@@ -1,0 +1,2 @@
+BaEuS2
+Atoms(symbols='BaEuS2', pbc=False)

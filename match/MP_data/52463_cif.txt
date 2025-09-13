@@ -1,0 +1,2 @@
+CrRh
+Atoms(symbols='CrRh', pbc=False)

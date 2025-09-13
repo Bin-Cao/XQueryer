@@ -1,0 +1,2 @@
+Co10LaY
+Atoms(symbols='LaYCo10', pbc=False)

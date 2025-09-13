@@ -1,0 +1,2 @@
+Cu16O6P16Pr12
+Atoms(symbols='Pr6Cu8P8O3Pr6Cu8P8O3', pbc=False)

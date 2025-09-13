@@ -1,0 +1,2 @@
+CErNTh
+Atoms(symbols='ErThCN', pbc=False)

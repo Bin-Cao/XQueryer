@@ -1,0 +1,2 @@
+Ni6Sb4Te4
+Atoms(symbols='Ni3Sb2Te2Ni3Sb2Te2', pbc=False)

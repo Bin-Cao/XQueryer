@@ -1,0 +1,2 @@
+LiMo2NdO8
+Atoms(symbols='LiNdMo2O8', pbc=False)

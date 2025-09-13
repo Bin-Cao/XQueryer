@@ -1,0 +1,2 @@
+Cu2Fe8La6O30Sr4
+Atoms(symbols='Sr4La6Fe8Cu2O30', pbc=False)

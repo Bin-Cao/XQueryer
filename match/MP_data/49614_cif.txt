@@ -1,0 +1,2 @@
+In4Lu4O24
+Atoms(symbols='Lu2In2O12Lu2In2O12', pbc=False)

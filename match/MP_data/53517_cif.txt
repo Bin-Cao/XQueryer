@@ -1,0 +1,2 @@
+Co9Gd12
+Atoms(symbols='Gd12Co9', pbc=False)

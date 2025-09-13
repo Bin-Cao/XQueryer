@@ -1,0 +1,2 @@
+Hf30Mo22Se4
+Atoms(symbols='Hf15Mo11Se2Hf15Mo11Se2', pbc=False)

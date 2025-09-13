@@ -1,0 +1,2 @@
+CoNi2S4
+Atoms(symbols='CoNi2S4', pbc=False)

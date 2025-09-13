@@ -1,0 +1,2 @@
+CoNiTe4
+Atoms(symbols='CoNiTe4', pbc=False)

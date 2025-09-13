@@ -1,0 +1,2 @@
+Dy2Fe68Pr6
+Atoms(symbols='Dy2Fe68Pr6', pbc=False)

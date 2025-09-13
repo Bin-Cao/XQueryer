@@ -1,0 +1,2 @@
+Hf2O8Ti2
+Atoms(symbols='Hf2Ti2O8', pbc=False)

@@ -1,0 +1,2 @@
+As12Fe6Ni12
+Atoms(symbols='Fe3Ni6As6Fe3Ni6As6', pbc=False)

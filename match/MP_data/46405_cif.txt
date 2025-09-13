@@ -1,0 +1,2 @@
+H26Mo24O80P2
+Atoms(symbols='H26Mo24O80P2', pbc=False)

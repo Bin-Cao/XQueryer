@@ -1,0 +1,2 @@
+Br4Cl2Nd2
+Atoms(symbols='Nd2Br4Cl2', pbc=False)

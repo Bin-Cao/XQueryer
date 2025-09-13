@@ -1,0 +1,2 @@
+Ce2Si8Th2
+Atoms(symbols='CeThSi4CeThSi4', pbc=False)

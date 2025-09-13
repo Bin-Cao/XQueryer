@@ -1,0 +1,2 @@
+K28O112P32Pd18
+Atoms(symbols='K28O112P32Pd18', pbc=False)

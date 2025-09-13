@@ -1,0 +1,2 @@
+PrY
+Atoms(symbols='PrY', pbc=False)

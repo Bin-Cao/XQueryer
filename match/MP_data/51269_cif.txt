@@ -1,0 +1,2 @@
+K3Mg4O14Si4
+Atoms(symbols='K3Mg4Si4O14', pbc=False)

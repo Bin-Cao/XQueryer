@@ -1,0 +1,2 @@
+EuPbTe2
+Atoms(symbols='EuTe2Pb', pbc=False)

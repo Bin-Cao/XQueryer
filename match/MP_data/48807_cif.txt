@@ -1,0 +1,2 @@
+Cr15RbTe24
+Atoms(symbols='RbCr15Te24', pbc=False)

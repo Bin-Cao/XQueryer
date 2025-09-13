@@ -1,0 +1,2 @@
+Bi2Fe2Mn2Nd2O12
+Atoms(symbols='Nd2Mn2Fe2Bi2O12', pbc=False)

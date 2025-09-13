@@ -1,0 +1,2 @@
+Bi3Ce4Ni4Sb5
+Atoms(symbols='Ce4Ni4Bi3Sb5', pbc=False)

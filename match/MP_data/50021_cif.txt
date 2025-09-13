@@ -1,0 +1,2 @@
+CuLi3Nb4O12
+Atoms(symbols='Li3Nb4CuO12', pbc=False)

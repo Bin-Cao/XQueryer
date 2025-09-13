@@ -1,0 +1,2 @@
+La2Si16Y18
+Atoms(symbols='La2Y18Si16', pbc=False)

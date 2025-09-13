@@ -1,0 +1,2 @@
+Ce2Cr2Mn2Si4
+Atoms(symbols='CeMnCrSi2CeMnCrSi2', pbc=False)

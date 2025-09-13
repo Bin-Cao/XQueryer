@@ -1,0 +1,2 @@
+Ce4Fe16U4
+Atoms(symbols='CeUFe4CeUFe4CeUFe4CeUFe4', pbc=False)

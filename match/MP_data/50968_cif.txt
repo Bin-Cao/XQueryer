@@ -1,0 +1,2 @@
+K7Na17Sn8Zn4
+Atoms(symbols='K7Na17Zn4Sn8', pbc=False)

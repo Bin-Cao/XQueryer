@@ -1,0 +1,2 @@
+CdMnSe2
+Atoms(symbols='MnCdSe2', pbc=False)

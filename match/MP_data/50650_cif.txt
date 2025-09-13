@@ -1,0 +1,2 @@
+CuHoSi
+Atoms(symbols='HoCuSi', pbc=False)

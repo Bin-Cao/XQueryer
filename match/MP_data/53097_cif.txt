@@ -1,0 +1,2 @@
+Ag2Cr2P4Se12
+Atoms(symbols='CrAgP2Se6CrAgP2Se6', pbc=False)

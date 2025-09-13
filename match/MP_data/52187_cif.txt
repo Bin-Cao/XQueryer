@@ -1,0 +1,2 @@
+CuFe2S3
+Atoms(symbols='Fe2CuS3', pbc=False)

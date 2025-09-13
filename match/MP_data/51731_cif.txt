@@ -1,0 +1,2 @@
+Al2Cl3K6Na3O26Si8Ti2
+Atoms(symbols='K6Na3Ti2Al2Si8Cl3O26', pbc=False)

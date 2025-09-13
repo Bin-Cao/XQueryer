@@ -1,0 +1,2 @@
+Ca2Fe2Na2O24Si8
+Atoms(symbols='NaCaFeSi4O12NaCaFeSi4O12', pbc=False)

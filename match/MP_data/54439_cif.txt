@@ -1,0 +1,2 @@
+Ca4GaSn3
+Atoms(symbols='Ca4GaSn3', pbc=False)

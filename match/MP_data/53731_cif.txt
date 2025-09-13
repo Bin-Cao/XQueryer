@@ -1,0 +1,2 @@
+Cu20Hg4S26Sb8
+Atoms(symbols='Cu10Hg2Sb4S13Cu10Hg2Sb4S13', pbc=False)

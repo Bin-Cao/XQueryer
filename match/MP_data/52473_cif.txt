@@ -1,0 +1,2 @@
+La2N2O10Pb2
+Atoms(symbols='LaPbNO5LaPbNO5', pbc=False)

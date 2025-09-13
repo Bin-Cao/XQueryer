@@ -1,0 +1,2 @@
+FeNiPt2
+Atoms(symbols='FeNiPt2', pbc=False)

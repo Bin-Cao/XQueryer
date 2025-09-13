@@ -1,0 +1,2 @@
+Mo4Ni2Re4S16
+Atoms(symbols='Re2NiMo2S8Re2NiMo2S8', pbc=False)

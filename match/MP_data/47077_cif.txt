@@ -1,0 +1,2 @@
+O90P18V24
+Atoms(symbols='O90P18V24', pbc=False)

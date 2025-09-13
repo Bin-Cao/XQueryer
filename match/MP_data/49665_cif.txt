@@ -1,0 +1,2 @@
+Cu2La2Ni8
+Atoms(symbols='LaCuNi4LaCuNi4', pbc=False)

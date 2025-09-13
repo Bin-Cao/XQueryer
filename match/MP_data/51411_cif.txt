@@ -1,0 +1,2 @@
+Cl5K4Na
+Atoms(symbols='K4NaCl5', pbc=False)

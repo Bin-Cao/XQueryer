@@ -1,0 +1,2 @@
+Cu2HfIn
+Atoms(symbols='HfInCu2', pbc=False)

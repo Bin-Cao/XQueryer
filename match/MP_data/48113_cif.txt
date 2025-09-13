@@ -1,0 +1,2 @@
+Co26In10Sc72
+Atoms(symbols='Co26In10Sc72', pbc=False)

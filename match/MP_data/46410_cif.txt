@@ -1,0 +1,2 @@
+HgO9Re3
+Atoms(symbols='Re3HgO9', pbc=False)

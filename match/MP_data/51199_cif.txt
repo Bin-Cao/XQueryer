@@ -1,0 +1,2 @@
+In4O23P6Pb2
+Atoms(symbols='In4P6Pb2O23', pbc=False)

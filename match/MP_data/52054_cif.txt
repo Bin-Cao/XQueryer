@@ -1,0 +1,2 @@
+C6H22Cl2Ga2P2
+Atoms(symbols='Ga2P2H22C6Cl2', pbc=False)

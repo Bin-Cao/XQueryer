@@ -1,0 +1,2 @@
+Co4Si6Sm12
+Atoms(symbols='Sm12Co4Si6', pbc=False)

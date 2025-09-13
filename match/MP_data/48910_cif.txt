@@ -1,0 +1,2 @@
+HoLiSe2
+Atoms(symbols='LiHoSe2', pbc=False)

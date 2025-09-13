@@ -1,0 +1,2 @@
+Cr2Fe4Ga2
+Atoms(symbols='CrGaFe2CrGaFe2', pbc=False)

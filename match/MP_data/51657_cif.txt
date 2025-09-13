@@ -1,0 +1,2 @@
+Ga23La12O56W
+Atoms(symbols='Ga23La12O56W', pbc=False)

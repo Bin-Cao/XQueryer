@@ -1,0 +1,2 @@
+Ag12Hg2Se12Si2
+Atoms(symbols='Si2Ag12Hg2Se12', pbc=False)

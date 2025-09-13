@@ -1,0 +1,2 @@
+As2Ba4Fe8P6
+Atoms(symbols='Ba2Fe4AsP3Ba2Fe4AsP3', pbc=False)

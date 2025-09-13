@@ -1,0 +1,2 @@
+CCoEr
+Atoms(symbols='ErCoC', pbc=False)

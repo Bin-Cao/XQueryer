@@ -1,0 +1,2 @@
+Be2Cu8Dy2
+Atoms(symbols='DyBeCu4DyBeCu4', pbc=False)

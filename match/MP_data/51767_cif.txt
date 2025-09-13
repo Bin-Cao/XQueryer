@@ -1,0 +1,2 @@
+DySiZn
+Atoms(symbols='DyZnSi', pbc=False)

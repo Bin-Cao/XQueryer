@@ -1,0 +1,2 @@
+Fe20Mo4Nd2
+Atoms(symbols='NdFe10Mo2NdFe10Mo2', pbc=False)

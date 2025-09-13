@@ -1,0 +1,2 @@
+CeCo5LaNi5
+Atoms(symbols='LaCeCo5Ni5', pbc=False)

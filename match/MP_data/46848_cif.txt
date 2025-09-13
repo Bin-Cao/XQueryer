@@ -1,0 +1,2 @@
+Co52Er2Fe4Mn12Pr6
+Atoms(symbols='Co52Er2Fe4Mn12Pr6', pbc=False)

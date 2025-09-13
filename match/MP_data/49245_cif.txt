@@ -1,0 +1,2 @@
+NaNi7O23Sr12
+Atoms(symbols='NaSr12Ni7O23', pbc=False)

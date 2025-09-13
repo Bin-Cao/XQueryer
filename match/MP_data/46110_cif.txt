@@ -1,0 +1,2 @@
+Pd9S50Ta20
+Atoms(symbols='Pd9S50Ta20', pbc=False)

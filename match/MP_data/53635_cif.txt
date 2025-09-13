@@ -1,0 +1,2 @@
+CeCo3Cu2
+Atoms(symbols='CeCo3Cu2', pbc=False)

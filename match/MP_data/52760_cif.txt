@@ -1,0 +1,2 @@
+CuEr2O6Ti
+Atoms(symbols='Er2TiCuO6', pbc=False)

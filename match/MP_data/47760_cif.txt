@@ -1,0 +1,2 @@
+Mo6NiTe8
+Atoms(symbols='NiTe8Mo6', pbc=False)

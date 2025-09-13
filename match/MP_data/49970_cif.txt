@@ -1,0 +1,2 @@
+La2Pt4Si4
+Atoms(symbols='LaSi2Pt2LaSi2Pt2', pbc=False)

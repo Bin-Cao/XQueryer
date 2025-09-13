@@ -1,0 +1,2 @@
+As4FeMo3
+Atoms(symbols='FeMo3As4', pbc=False)

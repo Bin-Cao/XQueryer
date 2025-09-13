@@ -1,0 +1,2 @@
+B6Cr9Fe
+Atoms(symbols='Cr9FeB6', pbc=False)

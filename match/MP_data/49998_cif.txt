@@ -1,0 +1,2 @@
+Al2La2Mg22
+Atoms(symbols='LaMg11AlLaMg11Al', pbc=False)

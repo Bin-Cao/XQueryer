@@ -1,0 +1,2 @@
+Co4GdY
+Atoms(symbols='GdYCo4', pbc=False)

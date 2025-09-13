@@ -1,0 +1,2 @@
+Al82Ce4Mo6
+Atoms(symbols='Al82Ce4Mo6', pbc=False)

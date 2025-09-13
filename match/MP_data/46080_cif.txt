@@ -1,0 +1,2 @@
+Fe2O28Sr12Ti6
+Atoms(symbols='Sr12Ti6Fe2O28', pbc=False)

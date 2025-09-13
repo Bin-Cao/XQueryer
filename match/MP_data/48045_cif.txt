@@ -1,0 +1,2 @@
+F12Mo4N12O12
+Atoms(symbols='MoN3O3F3MoN3O3F3MoN3O3F3MoN3O3F3', pbc=False)

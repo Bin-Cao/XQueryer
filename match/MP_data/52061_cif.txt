@@ -1,0 +1,2 @@
+AgEr2In
+Atoms(symbols='Er2InAg', pbc=False)

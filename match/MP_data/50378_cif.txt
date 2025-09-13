@@ -1,0 +1,2 @@
+CeLaNi10
+Atoms(symbols='LaCeNi10', pbc=False)

@@ -1,0 +1,2 @@
+CuPSe2
+Atoms(symbols='CuPSe2', pbc=False)

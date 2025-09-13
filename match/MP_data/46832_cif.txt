@@ -1,0 +1,2 @@
+Au15In17Sr4
+Atoms(symbols='Sr4In17Au15', pbc=False)

@@ -1,0 +1,2 @@
+BiNaS2
+Atoms(symbols='NaBiS2', pbc=False)

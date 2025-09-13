@@ -1,0 +1,2 @@
+As2Fe2Li2
+Atoms(symbols='LiFeAsLiFeAs', pbc=False)

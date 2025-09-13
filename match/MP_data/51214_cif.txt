@@ -1,0 +1,2 @@
+K12O60Ta22
+Atoms(symbols='K12O60Ta22', pbc=False)

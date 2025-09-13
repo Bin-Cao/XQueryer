@@ -1,0 +1,2 @@
+CaPbSe2
+Atoms(symbols='CaPbSe2', pbc=False)

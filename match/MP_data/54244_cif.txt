@@ -1,0 +1,2 @@
+BiCa2HoMn4O12
+Atoms(symbols='Ca2HoMn4BiO12', pbc=False)

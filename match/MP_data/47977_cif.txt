@@ -1,0 +1,2 @@
+Mo30S38Sc2Tl4
+Atoms(symbols='Mo30S38Sc2Tl4', pbc=False)

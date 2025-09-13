@@ -1,0 +1,2 @@
+As7Ho2Rh12
+Atoms(symbols='Ho2As7Rh12', pbc=False)

@@ -1,0 +1,2 @@
+Cu20N6
+Atoms(symbols='Cu10N3Cu10N3', pbc=False)

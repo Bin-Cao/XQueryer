@@ -1,0 +1,2 @@
+C2H4Cl3O29Pb12Te4
+Atoms(symbols='Te4H4Pb12C2Cl3O29', pbc=False)

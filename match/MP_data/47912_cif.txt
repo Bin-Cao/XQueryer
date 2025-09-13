@@ -1,0 +1,2 @@
+Ho9NaO26Si6
+Atoms(symbols='NaHo9Si6O26', pbc=False)

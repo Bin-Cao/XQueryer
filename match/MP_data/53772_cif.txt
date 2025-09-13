@@ -1,0 +1,2 @@
+CeInMn
+Atoms(symbols='CeMnIn', pbc=False)

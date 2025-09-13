@@ -1,0 +1,2 @@
+CdFe4La3O12
+Atoms(symbols='La3CdFe4O12', pbc=False)

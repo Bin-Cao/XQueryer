@@ -1,0 +1,2 @@
+Ca2Na2O40Rb2Si16Th2
+Atoms(symbols='Ca2Na2O40Rb2Si16Th2', pbc=False)

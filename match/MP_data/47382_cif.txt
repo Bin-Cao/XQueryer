@@ -1,0 +1,2 @@
+Nd6Ni2Sn14
+Atoms(symbols='Nd3NiSn7Nd3NiSn7', pbc=False)

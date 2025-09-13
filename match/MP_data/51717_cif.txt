@@ -1,0 +1,2 @@
+Ca3KMg10NaO48Si16
+Atoms(symbols='Ca3KMg10NaO48Si16', pbc=False)

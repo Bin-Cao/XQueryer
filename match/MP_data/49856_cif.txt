@@ -1,0 +1,2 @@
+Co2La4O20Ti6
+Atoms(symbols='La2Ti3CoO10La2Ti3CoO10', pbc=False)

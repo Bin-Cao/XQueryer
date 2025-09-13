@@ -1,0 +1,2 @@
+Cr4Fe16
+Atoms(symbols='CrFe4CrFe4CrFe4CrFe4', pbc=False)

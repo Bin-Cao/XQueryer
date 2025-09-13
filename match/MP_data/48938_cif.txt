@@ -1,0 +1,2 @@
+AsIn2Te
+Atoms(symbols='In2TeAs', pbc=False)

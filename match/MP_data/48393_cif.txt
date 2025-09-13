@@ -1,0 +1,2 @@
+NaO24S2Si6Sm9
+Atoms(symbols='NaSm9Si6S2O24', pbc=False)

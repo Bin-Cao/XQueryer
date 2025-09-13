@@ -1,0 +1,2 @@
+CoNd2Sb4
+Atoms(symbols='Nd2CoSb4', pbc=False)

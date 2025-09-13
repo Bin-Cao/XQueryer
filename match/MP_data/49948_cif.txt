@@ -1,0 +1,2 @@
+GeLiSbTe3
+Atoms(symbols='LiGeSbTe3', pbc=False)

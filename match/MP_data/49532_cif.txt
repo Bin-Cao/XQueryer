@@ -1,0 +1,2 @@
+CaF2Mg5Na2O22Si8
+Atoms(symbols='Na2CaMg5Si8O22F2', pbc=False)

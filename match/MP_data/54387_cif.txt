@@ -1,0 +1,2 @@
+Ce6Co18Ga12
+Atoms(symbols='Ce3Ga6Co9Ce3Ga6Co9', pbc=False)

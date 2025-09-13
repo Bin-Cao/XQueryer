@@ -1,0 +1,2 @@
+Ce4Fe16Pr4
+Atoms(symbols='CePrFe4CePrFe4CePrFe4CePrFe4', pbc=False)

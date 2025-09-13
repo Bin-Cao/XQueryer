@@ -1,0 +1,2 @@
+C15NNi2S16Se4
+Atoms(symbols='Ni2C15Se4S16N', pbc=False)

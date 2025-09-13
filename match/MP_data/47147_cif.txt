@@ -1,0 +1,2 @@
+Nd4Ni4Ru4
+Atoms(symbols='Nd2Ni2Ru2Nd2Ni2Ru2', pbc=False)

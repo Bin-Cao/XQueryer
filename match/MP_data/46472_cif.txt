@@ -1,0 +1,2 @@
+Ir3O12Sr4Zn
+Atoms(symbols='Sr4ZnIr3O12', pbc=False)

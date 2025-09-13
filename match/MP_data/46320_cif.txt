@@ -1,0 +1,2 @@
+OSm2
+Atoms(symbols='Sm2O', pbc=False)

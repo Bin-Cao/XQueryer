@@ -1,0 +1,2 @@
+Co2Cs2F12Mg2
+Atoms(symbols='Cs2Mg2Co2F12', pbc=False)

@@ -1,0 +1,2 @@
+Ge3NiSm2
+Atoms(symbols='Sm2NiGe3', pbc=False)

@@ -1,0 +1,2 @@
+H6Cu4N2O10
+Atoms(symbols='Cu4H6N2O10', pbc=False)

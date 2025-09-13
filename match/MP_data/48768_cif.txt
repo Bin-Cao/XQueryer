@@ -1,0 +1,2 @@
+GaLiO2
+Atoms(symbols='LiGaO2', pbc=False)

@@ -1,0 +1,2 @@
+Cu3Ga5Nd2
+Atoms(symbols='Nd2Ga5Cu3', pbc=False)

@@ -1,0 +1,2 @@
+As2CoNi
+Atoms(symbols='CoNiAs2', pbc=False)

@@ -1,0 +1,2 @@
+Fe3NdO6
+Atoms(symbols='NdFe3O6', pbc=False)

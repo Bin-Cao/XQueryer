@@ -1,0 +1,2 @@
+Na10Si102
+Atoms(symbols='Na10Si102', pbc=False)

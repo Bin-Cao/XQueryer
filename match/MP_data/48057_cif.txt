@@ -1,0 +1,2 @@
+AlNa3SiTe4
+Atoms(symbols='Na3AlSiTe4', pbc=False)

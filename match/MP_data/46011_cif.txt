@@ -1,0 +1,2 @@
+O62P10Tl12V14
+Atoms(symbols='O62P10Tl12V14', pbc=False)

@@ -1,0 +1,2 @@
+H16Fe4K12O76S16Ti4
+Atoms(symbols='H16Fe4K12O76S16Ti4', pbc=False)

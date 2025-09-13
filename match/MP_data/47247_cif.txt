@@ -1,0 +1,2 @@
+CaCo10O30Sr10Y4
+Atoms(symbols='Sr10CaY4Co10O30', pbc=False)

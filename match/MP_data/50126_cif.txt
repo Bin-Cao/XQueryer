@@ -1,0 +1,2 @@
+H16Li32N16
+Atoms(symbols='H16Li32N16', pbc=False)

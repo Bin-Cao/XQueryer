@@ -1,0 +1,2 @@
+FeHo4Sn8
+Atoms(symbols='Ho4FeSn8', pbc=False)

@@ -1,0 +1,2 @@
+Dy4Er4Mn16
+Atoms(symbols='DyErMn4DyErMn4DyErMn4DyErMn4', pbc=False)

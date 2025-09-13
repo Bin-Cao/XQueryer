@@ -1,0 +1,2 @@
+Ge3Ho4Si
+Atoms(symbols='Ho4SiGe3', pbc=False)

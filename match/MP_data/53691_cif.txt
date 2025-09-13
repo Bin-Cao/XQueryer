@@ -1,0 +1,2 @@
+AsCdIn3Te4
+Atoms(symbols='CdIn3Te4As', pbc=False)

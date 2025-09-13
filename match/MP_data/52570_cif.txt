@@ -1,0 +1,2 @@
+CoEr4Sn8
+Atoms(symbols='Er4CoSn8', pbc=False)

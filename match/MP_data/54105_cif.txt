@@ -1,0 +1,2 @@
+Cu9Pd39S21
+Atoms(symbols='Cu9Pd39S21', pbc=False)

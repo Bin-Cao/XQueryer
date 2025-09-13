@@ -1,0 +1,2 @@
+FeNiS2
+Atoms(symbols='FeNiS2', pbc=False)

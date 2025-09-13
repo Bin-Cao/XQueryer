@@ -1,0 +1,2 @@
+Be6F26Na6Pb4
+Atoms(symbols='Na6Be6Pb4F26', pbc=False)

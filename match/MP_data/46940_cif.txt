@@ -1,0 +1,2 @@
+Ca2Cr2Mg2Na2O24Si8
+Atoms(symbols='Na2Ca2Mg2Cr2Si8O24', pbc=False)

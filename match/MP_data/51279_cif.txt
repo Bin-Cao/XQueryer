@@ -1,0 +1,2 @@
+BaFeKNa2O18Si4Ti3
+Atoms(symbols='KBaNa2Ti3FeSi4O18', pbc=False)

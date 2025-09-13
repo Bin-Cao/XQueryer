@@ -1,0 +1,2 @@
+F28Mg8Na4Sr4
+Atoms(symbols='Na2Sr2Mg4F14Na2Sr2Mg4F14', pbc=False)

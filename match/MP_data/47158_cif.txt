@@ -1,0 +1,2 @@
+Bi12Ni2Rh2
+Atoms(symbols='Ni2Bi12Rh2', pbc=False)

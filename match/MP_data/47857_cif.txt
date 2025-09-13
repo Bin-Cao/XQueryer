@@ -1,0 +1,2 @@
+Ge14Nb20
+Atoms(symbols='Nb10Ge7Nb10Ge7', pbc=False)

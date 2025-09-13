@@ -1,0 +1,2 @@
+In3Pt5
+Atoms(symbols='In3Pt5', pbc=False)

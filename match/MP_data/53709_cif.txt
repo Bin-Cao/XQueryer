@@ -1,0 +1,2 @@
+Cd2Cr12Cu4O24
+Atoms(symbols='Cr12Cd2Cu4O24', pbc=False)

@@ -1,0 +1,2 @@
+Bi4Dy4O28Ru8
+Atoms(symbols='Dy2Bi2Ru4O14Dy2Bi2Ru4O14', pbc=False)

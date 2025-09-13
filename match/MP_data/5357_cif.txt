@@ -1,0 +1,2 @@
+Mg14O16SiY
+Atoms(symbols='YMg14SiO16', pbc=False)

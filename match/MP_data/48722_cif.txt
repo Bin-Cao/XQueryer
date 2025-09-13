@@ -1,0 +1,2 @@
+Nb10O30Pb5
+Atoms(symbols='Nb10Pb5O30', pbc=False)

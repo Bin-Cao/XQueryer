@@ -1,0 +1,2 @@
+Hf2S3Se3
+Atoms(symbols='Hf2Se3S3', pbc=False)

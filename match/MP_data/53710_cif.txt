@@ -1,0 +1,2 @@
+H2Cl4Cu6Mo2O15Te2
+Atoms(symbols='Cu6Te2Mo2H2Cl4O15', pbc=False)

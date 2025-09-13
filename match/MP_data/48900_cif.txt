@@ -1,0 +1,2 @@
+Ag32Li72
+Atoms(symbols='Ag32Li72', pbc=False)

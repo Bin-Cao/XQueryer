@@ -1,0 +1,2 @@
+Co2Ga10Sc6
+Atoms(symbols='Sc6Ga10Co2', pbc=False)

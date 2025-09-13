@@ -1,0 +1,2 @@
+Hg3Pt12
+Atoms(symbols='HgPt4HgPt4HgPt4', pbc=False)

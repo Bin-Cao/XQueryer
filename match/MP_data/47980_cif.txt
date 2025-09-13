@@ -1,0 +1,2 @@
+MnNd4Sn8
+Atoms(symbols='Nd4MnSn8', pbc=False)

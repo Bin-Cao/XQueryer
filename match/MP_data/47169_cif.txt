@@ -1,0 +1,2 @@
+Ce4Co2Cu4O22Sr4Y2
+Atoms(symbols='Sr4Ce4Y2Co2Cu4O22', pbc=False)

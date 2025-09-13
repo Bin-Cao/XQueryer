@@ -1,0 +1,2 @@
+Co15Te18
+Atoms(symbols='Co5Te6Co5Te6Co5Te6', pbc=False)

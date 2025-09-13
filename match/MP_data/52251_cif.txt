@@ -1,0 +1,2 @@
+ErFeNi4
+Atoms(symbols='ErFeNi4', pbc=False)

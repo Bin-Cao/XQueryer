@@ -1,0 +1,2 @@
+Ga12Ni9Pd3
+Atoms(symbols='Ga4Ni3PdGa4Ni3PdGa4Ni3Pd', pbc=False)

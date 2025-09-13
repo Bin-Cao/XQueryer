@@ -1,0 +1,2 @@
+Cl6NaPr2
+Atoms(symbols='NaPr2Cl6', pbc=False)

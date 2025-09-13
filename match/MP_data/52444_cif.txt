@@ -1,0 +1,2 @@
+Dy4Ga4Se12
+Atoms(symbols='Dy4Ga4Se12', pbc=False)

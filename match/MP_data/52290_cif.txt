@@ -1,0 +1,2 @@
+Er4Ni3Si
+Atoms(symbols='Er4SiNi3', pbc=False)

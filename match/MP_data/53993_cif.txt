@@ -1,0 +1,2 @@
+Al16Ca4Dy4
+Atoms(symbols='CaDyAl4CaDyAl4CaDyAl4CaDyAl4', pbc=False)

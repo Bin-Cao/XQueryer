@@ -1,0 +1,2 @@
+I18Na6U3
+Atoms(symbols='Na2UI6Na2UI6Na2UI6', pbc=False)

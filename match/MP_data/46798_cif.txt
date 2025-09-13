@@ -1,0 +1,2 @@
+Co4GaNd
+Atoms(symbols='NdGaCo4', pbc=False)

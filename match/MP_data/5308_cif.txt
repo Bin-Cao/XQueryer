@@ -1,0 +1,2 @@
+BaMg14O16Y
+Atoms(symbols='BaYMg14O16', pbc=False)

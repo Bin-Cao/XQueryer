@@ -1,0 +1,2 @@
+AlCeCo4
+Atoms(symbols='CeAlCo4', pbc=False)

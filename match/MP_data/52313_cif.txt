@@ -1,0 +1,2 @@
+Cu2Ni6
+Atoms(symbols='CuNi3CuNi3', pbc=False)

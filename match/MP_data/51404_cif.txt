@@ -1,0 +1,2 @@
+C10K12Mo12N10Se16
+Atoms(symbols='K6Mo6C5Se8N5K6Mo6C5Se8N5', pbc=False)

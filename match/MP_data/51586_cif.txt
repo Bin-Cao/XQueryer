@@ -1,0 +1,2 @@
+Cu2Gd4O12Ti2
+Atoms(symbols='Gd4Ti2Cu2O12', pbc=False)

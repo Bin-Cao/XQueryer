@@ -1,0 +1,2 @@
+Au51Dy14
+Atoms(symbols='Au51Dy14', pbc=False)

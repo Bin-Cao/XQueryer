@@ -1,0 +1,2 @@
+C20B6Nd15
+Atoms(symbols='Nd15B6C20', pbc=False)

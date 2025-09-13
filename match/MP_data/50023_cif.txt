@@ -1,0 +1,2 @@
+Cl10K2Na8
+Atoms(symbols='KNa4Cl5KNa4Cl5', pbc=False)

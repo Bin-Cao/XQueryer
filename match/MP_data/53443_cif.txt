@@ -1,0 +1,2 @@
+H4Cl2Cr4F2O20Pb8
+Atoms(symbols='Cr4H4Pb8Cl2O20F2', pbc=False)

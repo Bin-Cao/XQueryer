@@ -1,0 +1,2 @@
+HfInNi2
+Atoms(symbols='HfInNi2', pbc=False)

@@ -1,0 +1,2 @@
+Ag3Co48Sm6
+Atoms(symbols='Sm2Co16AgSm2Co16AgSm2Co16Ag', pbc=False)

@@ -1,0 +1,2 @@
+Cu4HoNi
+Atoms(symbols='HoCu4Ni', pbc=False)

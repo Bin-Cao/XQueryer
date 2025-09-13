@@ -1,0 +1,2 @@
+Ca4Mn2O6
+Atoms(symbols='Ca2MnO3Ca2MnO3', pbc=False)

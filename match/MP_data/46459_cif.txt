@@ -1,0 +1,2 @@
+CaNi2O12Sr3W2
+Atoms(symbols='Sr3CaNi2W2O12', pbc=False)

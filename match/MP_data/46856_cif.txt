@@ -1,0 +1,2 @@
+Fe16Pr4Sm4
+Atoms(symbols='PrSmFe4PrSmFe4PrSmFe4PrSmFe4', pbc=False)

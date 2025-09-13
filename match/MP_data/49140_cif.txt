@@ -1,0 +1,2 @@
+Al2Ga3La3O14Sn
+Atoms(symbols='La3Al2Ga3SnO14', pbc=False)

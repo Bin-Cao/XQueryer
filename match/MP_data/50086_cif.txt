@@ -1,0 +1,2 @@
+Al2FLi2O9P2
+Atoms(symbols='Li2Al2P2O9F', pbc=False)

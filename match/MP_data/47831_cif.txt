@@ -1,0 +1,2 @@
+C6Na2O23Rb6U2
+Atoms(symbols='Rb6Na2U2C6O23', pbc=False)

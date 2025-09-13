@@ -1,0 +1,2 @@
+Hf2O12Pb4Ti2
+Atoms(symbols='HfTiPb2O6HfTiPb2O6', pbc=False)

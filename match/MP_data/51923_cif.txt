@@ -1,0 +1,2 @@
+Co10Dy2Fe10V4
+Atoms(symbols='DyV2Fe5Co5DyV2Fe5Co5', pbc=False)

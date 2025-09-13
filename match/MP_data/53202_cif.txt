@@ -1,0 +1,2 @@
+CrFeSb4
+Atoms(symbols='CrFeSb4', pbc=False)

@@ -1,0 +1,2 @@
+AsIn2Se
+Atoms(symbols='In2AsSe', pbc=False)

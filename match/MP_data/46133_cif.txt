@@ -1,0 +1,2 @@
+CaHf4O12Sr3
+Atoms(symbols='Sr3CaHf4O12', pbc=False)

@@ -1,0 +1,2 @@
+Cu4Dy4Fe4
+Atoms(symbols='Dy2Fe2Cu2Dy2Fe2Cu2', pbc=False)

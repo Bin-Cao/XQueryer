@@ -1,0 +1,2 @@
+F3Nd2O3
+Atoms(symbols='Nd2O3F3', pbc=False)

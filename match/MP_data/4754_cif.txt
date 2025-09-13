@@ -1,0 +1,2 @@
+Mo16N40Na24
+Atoms(symbols='Mo16N40Na24', pbc=False)

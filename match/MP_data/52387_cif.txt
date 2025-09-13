@@ -1,0 +1,2 @@
+Ag3Al9Hf6
+Atoms(symbols='Hf2Al3AgHf2Al3AgHf2Al3Ag', pbc=False)

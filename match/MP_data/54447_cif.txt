@@ -1,0 +1,2 @@
+As4Be4O16Tl4
+Atoms(symbols='Be4Tl4As4O16', pbc=False)

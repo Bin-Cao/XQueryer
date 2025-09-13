@@ -1,0 +1,2 @@
+Co3Mn3O12Te2
+Atoms(symbols='Mn3Co3Te2O12', pbc=False)

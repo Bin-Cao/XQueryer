@@ -1,0 +1,2 @@
+FeNd2Si3
+Atoms(symbols='Nd2FeSi3', pbc=False)

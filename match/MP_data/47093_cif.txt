@@ -1,0 +1,2 @@
+Cu3Mn6O27Sr12
+Atoms(symbols='Sr12Mn6Cu3O27', pbc=False)

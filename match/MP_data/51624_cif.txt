@@ -1,0 +1,2 @@
+As16Ba4K20Nb4
+Atoms(symbols='K10Ba2Nb2As8K10Ba2Nb2As8', pbc=False)

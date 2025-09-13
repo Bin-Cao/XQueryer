@@ -1,0 +1,2 @@
+Cd4Ga4Se10
+Atoms(symbols='Cd4Ga4Se10', pbc=False)

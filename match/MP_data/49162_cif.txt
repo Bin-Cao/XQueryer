@@ -1,0 +1,2 @@
+Co8Ho2Zr2
+Atoms(symbols='HoZrCo4HoZrCo4', pbc=False)

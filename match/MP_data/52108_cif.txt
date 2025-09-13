@@ -1,0 +1,2 @@
+Al12Dy2Mn12
+Atoms(symbols='DyMn6Al6DyMn6Al6', pbc=False)

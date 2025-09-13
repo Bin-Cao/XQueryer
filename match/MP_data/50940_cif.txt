@@ -1,0 +1,2 @@
+Fe22Ho2Re2
+Atoms(symbols='HoFe11ReHoFe11Re', pbc=False)

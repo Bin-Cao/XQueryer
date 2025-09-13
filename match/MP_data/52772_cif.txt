@@ -1,0 +1,2 @@
+Cr2Mo2
+Atoms(symbols='CrMoCrMo', pbc=False)

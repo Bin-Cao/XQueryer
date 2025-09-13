@@ -1,0 +1,2 @@
+CaNa2O36V12
+Atoms(symbols='Na2CaV12O36', pbc=False)

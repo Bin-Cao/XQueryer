@@ -1,0 +1,2 @@
+H40N16O26S2
+Atoms(symbols='H40N16O26S2', pbc=False)

@@ -1,0 +1,2 @@
+Fe3Ni3Si2
+Atoms(symbols='Fe3Si2Ni3', pbc=False)

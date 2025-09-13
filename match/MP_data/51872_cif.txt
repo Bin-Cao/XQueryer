@@ -1,0 +1,2 @@
+BHf20Si12
+Atoms(symbols='Hf20Si12B', pbc=False)

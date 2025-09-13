@@ -1,0 +1,2 @@
+C9ClFNa15O30SY2
+Atoms(symbols='Na15Y2C9SClO30F', pbc=False)

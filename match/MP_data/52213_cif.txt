@@ -1,0 +1,2 @@
+C6K6Na2O24U2
+Atoms(symbols='K6Na2U2C6O24', pbc=False)

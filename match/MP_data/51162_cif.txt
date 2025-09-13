@@ -1,0 +1,2 @@
+In5S8
+Atoms(symbols='In5S8', pbc=False)

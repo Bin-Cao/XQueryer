@@ -1,0 +1,2 @@
+C2O48Si24
+Atoms(symbols='C2O48Si24', pbc=False)

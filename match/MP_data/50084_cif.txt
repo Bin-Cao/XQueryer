@@ -1,0 +1,2 @@
+Cu3La2Ni
+Atoms(symbols='La2Cu3Ni', pbc=False)

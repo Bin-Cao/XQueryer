@@ -1,0 +1,2 @@
+Fe3P3Rh3
+Atoms(symbols='Fe3P3Rh3', pbc=False)

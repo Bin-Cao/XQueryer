@@ -1,0 +1,2 @@
+Na4O72Pt12Sr44
+Atoms(symbols='Na4O72Pt12Sr44', pbc=False)

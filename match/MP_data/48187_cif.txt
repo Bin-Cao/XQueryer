@@ -1,0 +1,2 @@
+F12La3Na3
+Atoms(symbols='Na3La3F12', pbc=False)

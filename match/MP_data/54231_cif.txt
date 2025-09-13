@@ -1,0 +1,2 @@
+Al18Ca2Mn6
+Atoms(symbols='CaMn3Al9CaMn3Al9', pbc=False)

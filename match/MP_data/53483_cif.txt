@@ -1,0 +1,2 @@
+H5CsMnO10S2
+Atoms(symbols='CsMnH5S2O10', pbc=False)

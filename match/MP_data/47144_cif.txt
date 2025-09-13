@@ -1,0 +1,2 @@
+CoGe4Mn3Pr2
+Atoms(symbols='Pr2Mn3CoGe4', pbc=False)

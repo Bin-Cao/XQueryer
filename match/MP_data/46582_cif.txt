@@ -1,0 +1,2 @@
+GaGe11Mn12Sc2
+Atoms(symbols='Sc2Mn12GaGe11', pbc=False)

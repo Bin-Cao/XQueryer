@@ -1,0 +1,2 @@
+La2N2O10
+Atoms(symbols='La2N2O10', pbc=False)

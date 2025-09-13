@@ -1,0 +1,2 @@
+Br2K4O22P8Pt2
+Atoms(symbols='K4P8Pt2Br2O22', pbc=False)

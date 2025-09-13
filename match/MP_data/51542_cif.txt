@@ -1,0 +1,2 @@
+K3O27Ta3W6
+Atoms(symbols='K3Ta3W6O27', pbc=False)

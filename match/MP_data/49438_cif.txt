@@ -1,0 +1,2 @@
+Mo6Nd2O46Te
+Atoms(symbols='Nd2TeMo6O46', pbc=False)

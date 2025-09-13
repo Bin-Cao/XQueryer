@@ -1,0 +1,2 @@
+InLaMn
+Atoms(symbols='LaMnIn', pbc=False)

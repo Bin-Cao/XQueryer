@@ -1,0 +1,2 @@
+CCoHo
+Atoms(symbols='HoCoC', pbc=False)

@@ -1,0 +1,2 @@
+Fe2PtRh
+Atoms(symbols='Fe2PtRh', pbc=False)

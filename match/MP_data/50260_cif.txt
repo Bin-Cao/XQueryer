@@ -1,0 +1,2 @@
+La4Mg8O24Ta4
+Atoms(symbols='La2Mg4Ta2O12La2Mg4Ta2O12', pbc=False)

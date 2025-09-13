@@ -1,0 +1,2 @@
+Co22Er2Ti2
+Atoms(symbols='ErTiCo11ErTiCo11', pbc=False)

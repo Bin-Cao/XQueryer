@@ -1,0 +1,2 @@
+AsNd
+Atoms(symbols='NdAs', pbc=False)

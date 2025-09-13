@@ -1,0 +1,2 @@
+Br56Mo24Tl8
+Atoms(symbols='Br56Mo24Tl8', pbc=False)

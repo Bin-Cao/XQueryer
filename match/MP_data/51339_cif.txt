@@ -1,0 +1,2 @@
+H28Nb12O54Rb12
+Atoms(symbols='H28Nb12O54Rb12', pbc=False)

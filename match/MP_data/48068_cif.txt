@@ -1,0 +1,2 @@
+Ag4In4Mn4Pd4
+Atoms(symbols='MnInAgPdMnInAgPdMnInAgPdMnInAgPd', pbc=False)

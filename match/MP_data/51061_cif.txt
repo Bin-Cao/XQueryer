@@ -1,0 +1,2 @@
+H2AlKMg3O12Si3
+Atoms(symbols='KMg3AlSi3H2O12', pbc=False)

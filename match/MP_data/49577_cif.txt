@@ -1,0 +1,2 @@
+CH12Al2Mg4O18
+Atoms(symbols='Mg4Al2H12CO18', pbc=False)

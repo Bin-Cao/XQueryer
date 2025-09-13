@@ -1,0 +1,2 @@
+AgNb4P2RbS20
+Atoms(symbols='RbNb4AgP2S20', pbc=False)

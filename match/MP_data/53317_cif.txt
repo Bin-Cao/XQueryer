@@ -1,0 +1,2 @@
+B12Cr2Re26
+Atoms(symbols='CrRe13B6CrRe13B6', pbc=False)

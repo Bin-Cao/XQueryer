@@ -1,0 +1,2 @@
+La10MgO30Ti7
+Atoms(symbols='La10MgTi7O30', pbc=False)

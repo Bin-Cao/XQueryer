@@ -1,0 +1,2 @@
+La6MnS14Si2
+Atoms(symbols='La6MnSi2S14', pbc=False)

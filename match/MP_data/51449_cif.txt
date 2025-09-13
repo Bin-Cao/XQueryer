@@ -1,0 +1,2 @@
+O6Rb32
+Atoms(symbols='Rb32O6', pbc=False)

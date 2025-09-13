@@ -1,0 +1,2 @@
+LiO2Tl
+Atoms(symbols='LiTlO2', pbc=False)

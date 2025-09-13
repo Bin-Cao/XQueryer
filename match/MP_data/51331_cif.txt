@@ -1,0 +1,2 @@
+La7O30Ta3W4
+Atoms(symbols='La7Ta3W4O30', pbc=False)

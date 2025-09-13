@@ -1,0 +1,2 @@
+AlGdNi4
+Atoms(symbols='GdAlNi4', pbc=False)

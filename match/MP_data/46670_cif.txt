@@ -1,0 +1,2 @@
+Cu3Sc24Te9
+Atoms(symbols='Sc24Cu3Te9', pbc=False)

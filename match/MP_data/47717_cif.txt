@@ -1,0 +1,2 @@
+CCoNa5O5
+Atoms(symbols='Na5CoCO5', pbc=False)

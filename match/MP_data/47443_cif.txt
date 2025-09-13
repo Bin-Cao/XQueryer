@@ -1,0 +1,2 @@
+Mo2Nb2Se6
+Atoms(symbols='Nb2Mo2Se6', pbc=False)

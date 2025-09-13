@@ -1,0 +1,2 @@
+C8H32Cu2N8O22Pt2
+Atoms(symbols='C8H32Cu2N8O22Pt2', pbc=False)

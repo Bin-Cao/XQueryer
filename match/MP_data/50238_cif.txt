@@ -1,0 +1,2 @@
+Fe2K2O16Ti6
+Atoms(symbols='KTi3FeO8KTi3FeO8', pbc=False)

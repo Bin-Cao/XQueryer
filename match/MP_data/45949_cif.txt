@@ -1,0 +1,2 @@
+La2Ni2O12Sr2Ta2
+Atoms(symbols='Sr2La2Ta2Ni2O12', pbc=False)

@@ -1,0 +1,2 @@
+B4Ge2Ni10O20
+Atoms(symbols='Ni10Ge2B4O20', pbc=False)

@@ -1,0 +1,2 @@
+Al12Cr12Gd2
+Atoms(symbols='GdAl6Cr6GdAl6Cr6', pbc=False)

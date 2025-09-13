@@ -1,0 +1,2 @@
+CsLiMg6O7
+Atoms(symbols='CsLiMg6O7', pbc=False)

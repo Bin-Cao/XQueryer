@@ -1,0 +1,2 @@
+Br8Cl16K12Pd6
+Atoms(symbols='K6Pd3Br4Cl8K6Pd3Br4Cl8', pbc=False)

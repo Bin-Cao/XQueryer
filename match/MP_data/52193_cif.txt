@@ -1,0 +1,2 @@
+ErTe4U
+Atoms(symbols='ErUTe4', pbc=False)

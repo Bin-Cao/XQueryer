@@ -1,0 +1,2 @@
+Nd12Ni28P20
+Atoms(symbols='Nd12Ni28P20', pbc=False)

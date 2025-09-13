@@ -1,0 +1,2 @@
+Cu9Ga3Li6
+Atoms(symbols='Li2GaCu3Li2GaCu3Li2GaCu3', pbc=False)

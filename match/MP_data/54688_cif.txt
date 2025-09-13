@@ -1,0 +1,2 @@
+Br2Ca6ClN3
+Atoms(symbols='Ca6Br2N3Cl', pbc=False)

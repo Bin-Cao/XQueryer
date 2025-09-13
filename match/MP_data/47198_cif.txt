@@ -1,0 +1,2 @@
+Nd4Rh2Sn8
+Atoms(symbols='Nd2Sn4RhNd2Sn4Rh', pbc=False)

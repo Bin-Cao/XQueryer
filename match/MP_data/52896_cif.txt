@@ -1,0 +1,2 @@
+Co8Mo8Si8
+Atoms(symbols='Co4Si4Mo4Co4Si4Mo4', pbc=False)

@@ -1,0 +1,2 @@
+MnRh2Sb
+Atoms(symbols='MnSbRh2', pbc=False)

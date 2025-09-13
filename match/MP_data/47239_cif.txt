@@ -1,0 +1,2 @@
+Ge3In6Ni5Pr7
+Atoms(symbols='Pr7In6Ni5Ge3', pbc=False)

@@ -1,0 +1,2 @@
+Cl16Nd20O72Se24Sr2
+Atoms(symbols='Cl16Nd20O72Se24Sr2', pbc=False)

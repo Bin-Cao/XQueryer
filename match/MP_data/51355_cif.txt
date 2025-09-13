@@ -1,0 +1,2 @@
+Ge20O44
+Atoms(symbols='Ge20O44', pbc=False)

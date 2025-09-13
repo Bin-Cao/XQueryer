@@ -1,0 +1,2 @@
+CsKMg30O31
+Atoms(symbols='CsKMg30O31', pbc=False)

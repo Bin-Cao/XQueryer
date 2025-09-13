@@ -1,0 +1,2 @@
+AlBaSn
+Atoms(symbols='BaAlSn', pbc=False)

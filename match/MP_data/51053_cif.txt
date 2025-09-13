@@ -1,0 +1,2 @@
+FeNiSb4
+Atoms(symbols='FeNiSb4', pbc=False)

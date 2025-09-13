@@ -1,0 +1,2 @@
+Cu2Mn10O32P8
+Atoms(symbols='Mn10Cu2P8O32', pbc=False)

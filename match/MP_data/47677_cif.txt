@@ -1,0 +1,2 @@
+Er3Fe51Sm3
+Atoms(symbols='SmErFe17SmErFe17SmErFe17', pbc=False)

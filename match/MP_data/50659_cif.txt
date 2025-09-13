@@ -1,0 +1,2 @@
+Ga22La12O56Ta2
+Atoms(symbols='Ga22La12O56Ta2', pbc=False)

@@ -1,0 +1,2 @@
+In4Nb4Nd8O28
+Atoms(symbols='Nd4Nb2In2O14Nd4Nb2In2O14', pbc=False)

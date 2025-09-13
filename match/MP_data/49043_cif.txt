@@ -1,0 +1,2 @@
+FeLiO2
+Atoms(symbols='LiFeO2', pbc=False)

@@ -1,0 +1,2 @@
+Cl4Hf4N4Na
+Atoms(symbols='NaHf4N4Cl4', pbc=False)

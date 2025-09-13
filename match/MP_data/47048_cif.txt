@@ -1,0 +1,2 @@
+Gd3Mn23Pr3
+Atoms(symbols='Pr3Gd3Mn23', pbc=False)

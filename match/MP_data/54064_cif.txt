@@ -1,0 +1,2 @@
+B8Co22O40Sb2
+Atoms(symbols='B8Co22O40Sb2', pbc=False)

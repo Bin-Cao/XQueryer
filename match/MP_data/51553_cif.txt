@@ -1,0 +1,2 @@
+Dy3Ga2Mn3Si
+Atoms(symbols='Dy3Mn3Ga2Si', pbc=False)

@@ -1,0 +1,2 @@
+GaInSb2
+Atoms(symbols='InGaSb2', pbc=False)

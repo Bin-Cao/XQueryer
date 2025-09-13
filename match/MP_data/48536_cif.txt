@@ -1,0 +1,2 @@
+MoPdRhRu
+Atoms(symbols='MoPdRuRh', pbc=False)

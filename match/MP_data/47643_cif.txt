@@ -1,0 +1,2 @@
+Cr20Ge36Sc28
+Atoms(symbols='Cr20Ge36Sc28', pbc=False)

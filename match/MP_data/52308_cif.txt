@@ -1,0 +1,2 @@
+Co66La8Ta2
+Atoms(symbols='Co66La8Ta2', pbc=False)

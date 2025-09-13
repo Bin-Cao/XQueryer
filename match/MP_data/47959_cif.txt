@@ -1,0 +1,2 @@
+Dy3Fe51Sm3
+Atoms(symbols='SmDyFe17SmDyFe17SmDyFe17', pbc=False)

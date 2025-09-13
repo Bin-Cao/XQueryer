@@ -1,0 +1,2 @@
+CdHgSe2
+Atoms(symbols='CdHgSe2', pbc=False)

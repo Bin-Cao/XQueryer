@@ -1,0 +1,2 @@
+La2Li2O16W4
+Atoms(symbols='LiLaW2O8LiLaW2O8', pbc=False)

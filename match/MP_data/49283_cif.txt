@@ -1,0 +1,2 @@
+C60Ba3K3
+Atoms(symbols='C60Ba3K3', pbc=False)

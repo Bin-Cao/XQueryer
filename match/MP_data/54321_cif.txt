@@ -1,0 +1,2 @@
+Be16Cr6Nb2
+Atoms(symbols='Be8NbCr3Be8NbCr3', pbc=False)

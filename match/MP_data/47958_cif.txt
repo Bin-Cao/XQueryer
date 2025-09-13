@@ -1,0 +1,2 @@
+Na3O12SrTa4
+Atoms(symbols='Na3SrTa4O12', pbc=False)

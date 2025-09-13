@@ -1,0 +1,2 @@
+Dy6Fe9Ni3
+Atoms(symbols='Dy2Fe3NiDy2Fe3NiDy2Fe3Ni', pbc=False)

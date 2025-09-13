@@ -1,0 +1,2 @@
+La12Mg8Nb4O36
+Atoms(symbols='La6Mg4Nb2O18La6Mg4Nb2O18', pbc=False)

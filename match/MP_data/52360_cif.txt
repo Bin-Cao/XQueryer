@@ -1,0 +1,2 @@
+Cu3In3Te6
+Atoms(symbols='InCuTe2InCuTe2InCuTe2', pbc=False)

@@ -1,0 +1,2 @@
+La2NaSe3
+Atoms(symbols='NaLa2Se3', pbc=False)

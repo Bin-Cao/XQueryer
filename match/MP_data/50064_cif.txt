@@ -1,0 +1,2 @@
+Bi6Fe6La2Mn2O24
+Atoms(symbols='LaMnFe3Bi3O12LaMnFe3Bi3O12', pbc=False)

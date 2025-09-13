@@ -1,0 +1,2 @@
+As5Li3O35U7
+Atoms(symbols='Li3U7As5O35', pbc=False)

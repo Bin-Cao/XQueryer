@@ -1,0 +1,2 @@
+Li3O16V8Zn
+Atoms(symbols='Li3V8ZnO16', pbc=False)

@@ -1,0 +1,2 @@
+In2S42Si6Sm18
+Atoms(symbols='In2S42Si6Sm18', pbc=False)

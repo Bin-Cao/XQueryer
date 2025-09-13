@@ -1,0 +1,2 @@
+Ag3Ga3Ge3S12
+Atoms(symbols='Ga3Ag3Ge3S12', pbc=False)

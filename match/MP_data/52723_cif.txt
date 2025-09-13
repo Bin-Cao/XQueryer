@@ -1,0 +1,2 @@
+Ga9Ni12Si3
+Atoms(symbols='Ga3SiNi4Ga3SiNi4Ga3SiNi4', pbc=False)

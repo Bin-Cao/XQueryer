@@ -1,0 +1,2 @@
+Ce2La2Ru8
+Atoms(symbols='LaCeRu4LaCeRu4', pbc=False)

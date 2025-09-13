@@ -1,0 +1,2 @@
+B16Co8Re20
+Atoms(symbols='Co4Re10B8Co4Re10B8', pbc=False)

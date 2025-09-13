@@ -1,0 +1,2 @@
+Ba8Bi2O30Sc2Ti8
+Atoms(symbols='Ba4ScTi4BiO15Ba4ScTi4BiO15', pbc=False)

@@ -1,0 +1,2 @@
+AlKO4Si
+Atoms(symbols='KAlSiO4', pbc=False)

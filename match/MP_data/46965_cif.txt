@@ -1,0 +1,2 @@
+Pr4Si6
+Atoms(symbols='Pr2Si3Pr2Si3', pbc=False)

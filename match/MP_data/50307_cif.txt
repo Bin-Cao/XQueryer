@@ -1,0 +1,2 @@
+CoGa7La2
+Atoms(symbols='La2Ga7Co', pbc=False)

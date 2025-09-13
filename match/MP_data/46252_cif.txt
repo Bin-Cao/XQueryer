@@ -1,0 +1,2 @@
+Nb8O36Sr16
+Atoms(symbols='Sr8Nb4O18Sr8Nb4O18', pbc=False)

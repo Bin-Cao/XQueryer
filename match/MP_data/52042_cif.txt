@@ -1,0 +1,2 @@
+Bi2FeGaO6
+Atoms(symbols='GaFeBi2O6', pbc=False)

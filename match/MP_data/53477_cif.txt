@@ -1,0 +1,2 @@
+CeNd3Si8
+Atoms(symbols='CeNd3Si8', pbc=False)

@@ -1,0 +1,2 @@
+Cu8K2La14O32
+Atoms(symbols='KLa7Cu4O16KLa7Cu4O16', pbc=False)

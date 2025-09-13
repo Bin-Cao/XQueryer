@@ -1,0 +1,2 @@
+B12Fe44W2
+Atoms(symbols='Fe22B6WFe22B6W', pbc=False)

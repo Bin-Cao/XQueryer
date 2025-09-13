@@ -1,0 +1,2 @@
+Fe2Ho4Si8
+Atoms(symbols='Ho2FeSi4Ho2FeSi4', pbc=False)

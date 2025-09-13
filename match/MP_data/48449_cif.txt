@@ -1,0 +1,2 @@
+Na4O12Se12V6
+Atoms(symbols='Na2V3Se6O6Na2V3Se6O6', pbc=False)

@@ -1,0 +1,2 @@
+CaEuS2
+Atoms(symbols='CaEuS2', pbc=False)

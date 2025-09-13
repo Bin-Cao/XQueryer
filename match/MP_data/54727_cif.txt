@@ -1,0 +1,2 @@
+Al3Ca8Fe5O20
+Atoms(symbols='Ca8Al3Fe5O20', pbc=False)

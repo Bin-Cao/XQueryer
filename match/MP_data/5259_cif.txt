@@ -1,0 +1,2 @@
+CCoMg14O16
+Atoms(symbols='Mg14CoCO16', pbc=False)

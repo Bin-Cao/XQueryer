@@ -1,0 +1,2 @@
+C3O9Sr3
+Atoms(symbols='SrCO3SrCO3SrCO3', pbc=False)

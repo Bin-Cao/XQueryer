@@ -1,0 +1,2 @@
+F4Li28N38Nd10O14Si22
+Atoms(symbols='F4Li28N38Nd10O14Si22', pbc=False)

@@ -1,0 +1,2 @@
+Mo30Se40U4
+Atoms(symbols='Mo30Se40U4', pbc=False)

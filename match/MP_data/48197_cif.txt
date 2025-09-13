@@ -1,0 +1,2 @@
+Mn6PtRh
+Atoms(symbols='Mn6PtRh', pbc=False)

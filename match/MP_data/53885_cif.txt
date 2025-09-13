@@ -1,0 +1,2 @@
+CoCs2Cu3F10
+Atoms(symbols='Cs2CoCu3F10', pbc=False)

@@ -1,0 +1,2 @@
+CsMo6O20Rb3
+Atoms(symbols='CsRb3Mo6O20', pbc=False)

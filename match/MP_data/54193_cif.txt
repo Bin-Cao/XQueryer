@@ -1,0 +1,2 @@
+Cd2O24Pt18
+Atoms(symbols='Cd2Pt18O24', pbc=False)

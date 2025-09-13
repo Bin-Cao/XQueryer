@@ -1,0 +1,2 @@
+Fe2SSe
+Atoms(symbols='Fe2SeS', pbc=False)

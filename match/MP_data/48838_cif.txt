@@ -1,0 +1,2 @@
+As2LiNb
+Atoms(symbols='LiNbAs2', pbc=False)

@@ -1,0 +1,2 @@
+C8Cl24
+Atoms(symbols='C2Cl6C2Cl6C2Cl6C2Cl6', pbc=False)

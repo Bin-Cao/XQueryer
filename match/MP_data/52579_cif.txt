@@ -1,0 +1,2 @@
+FeMo6Se8
+Atoms(symbols='FeMo6Se8', pbc=False)

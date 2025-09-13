@@ -1,0 +1,2 @@
+B4HfTa
+Atoms(symbols='HfTaB4', pbc=False)

@@ -1,0 +1,2 @@
+In2K12P6
+Atoms(symbols='K12In2P6', pbc=False)

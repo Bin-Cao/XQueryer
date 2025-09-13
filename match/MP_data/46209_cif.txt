@@ -1,0 +1,2 @@
+La8Mn12O36Sr4
+Atoms(symbols='Sr4La8Mn12O36', pbc=False)

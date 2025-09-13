@@ -1,0 +1,2 @@
+Co4Fe4In4O16
+Atoms(symbols='In2Fe2Co2O8In2Fe2Co2O8', pbc=False)

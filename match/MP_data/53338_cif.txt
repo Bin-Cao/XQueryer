@@ -1,0 +1,2 @@
+Mo60Na17S76
+Atoms(symbols='Mo60Na17S76', pbc=False)

@@ -1,0 +1,2 @@
+Bi6Cl4Na2O8
+Atoms(symbols='NaBi3Cl2O4NaBi3Cl2O4', pbc=False)

@@ -1,0 +1,2 @@
+Bi10Cu2S16
+Atoms(symbols='CuBi5S8CuBi5S8', pbc=False)

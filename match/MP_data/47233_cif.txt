@@ -1,0 +1,2 @@
+Ga10S42Tb18
+Atoms(symbols='Ga10S42Tb18', pbc=False)

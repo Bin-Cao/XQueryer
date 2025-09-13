@@ -1,0 +1,2 @@
+Cd3Li
+Atoms(symbols='LiCd3', pbc=False)

@@ -1,0 +1,2 @@
+Al3Hf10Si3
+Atoms(symbols='Hf10Al3Si3', pbc=False)

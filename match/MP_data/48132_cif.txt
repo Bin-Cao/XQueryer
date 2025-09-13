@@ -1,0 +1,2 @@
+Nb24Te32Tl2
+Atoms(symbols='Nb12TlTe16Nb12TlTe16', pbc=False)

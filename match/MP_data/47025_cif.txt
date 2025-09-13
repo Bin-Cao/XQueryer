@@ -1,0 +1,2 @@
+As12Na2Sn12Sr4
+Atoms(symbols='NaSr2Sn6As6NaSr2Sn6As6', pbc=False)

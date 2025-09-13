@@ -1,0 +1,2 @@
+Mo16Ru4
+Atoms(symbols='Mo4RuMo4RuMo4RuMo4Ru', pbc=False)

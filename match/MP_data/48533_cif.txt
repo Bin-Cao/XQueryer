@@ -1,0 +1,2 @@
+AsMn4P3
+Atoms(symbols='Mn4AsP3', pbc=False)

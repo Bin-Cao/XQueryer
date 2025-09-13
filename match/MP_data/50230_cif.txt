@@ -1,0 +1,2 @@
+La5LiN10OSi4
+Atoms(symbols='LiLa5Si4N10O', pbc=False)

@@ -1,0 +1,2 @@
+Nb15S24
+Atoms(symbols='Nb15S24', pbc=False)

@@ -1,0 +1,2 @@
+Mo2Re2
+Atoms(symbols='ReMoReMo', pbc=False)

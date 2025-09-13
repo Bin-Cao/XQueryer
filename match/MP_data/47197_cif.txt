@@ -1,0 +1,2 @@
+Co32Sm4Zr2
+Atoms(symbols='Sm4Zr2Co32', pbc=False)

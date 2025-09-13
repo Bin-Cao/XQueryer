@@ -1,0 +1,2 @@
+Al16Ho4Nd4
+Atoms(symbols='NdHoAl4NdHoAl4NdHoAl4NdHoAl4', pbc=False)

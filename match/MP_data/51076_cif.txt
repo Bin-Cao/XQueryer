@@ -1,0 +1,2 @@
+Co8Hf8Si8
+Atoms(symbols='Hf4Co4Si4Hf4Co4Si4', pbc=False)

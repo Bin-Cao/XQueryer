@@ -1,0 +1,2 @@
+CdNiO2
+Atoms(symbols='CdNiO2', pbc=False)

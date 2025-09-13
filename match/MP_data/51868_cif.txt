@@ -1,0 +1,2 @@
+Fe8Hf2Ta2
+Atoms(symbols='Hf2Ta2Fe8', pbc=False)

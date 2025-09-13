@@ -1,0 +1,2 @@
+H2Cu2
+Atoms(symbols='Cu2H2', pbc=False)

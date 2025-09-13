@@ -1,0 +1,2 @@
+Co2Li10Ni8O20
+Atoms(symbols='Li5CoNi4O10Li5CoNi4O10', pbc=False)

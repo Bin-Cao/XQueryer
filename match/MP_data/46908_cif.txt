@@ -1,0 +1,2 @@
+As4FeO4Pr4Ru3
+Atoms(symbols='Pr4FeAs4Ru3O4', pbc=False)

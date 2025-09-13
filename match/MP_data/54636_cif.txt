@@ -1,0 +1,2 @@
+C28H72Cu4I4S12Si4
+Atoms(symbols='C28H72Cu4I4S12Si4', pbc=False)

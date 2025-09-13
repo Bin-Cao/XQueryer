@@ -1,0 +1,2 @@
+Dy6Sc6Si6
+Atoms(symbols='Dy6Sc6Si6', pbc=False)

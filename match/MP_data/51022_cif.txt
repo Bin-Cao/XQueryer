@@ -1,0 +1,2 @@
+Co4Cu2La6O18
+Atoms(symbols='La6Co4Cu2O18', pbc=False)

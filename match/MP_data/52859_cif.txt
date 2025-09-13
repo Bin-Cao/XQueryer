@@ -1,0 +1,2 @@
+Co7NiP4
+Atoms(symbols='Co7NiP4', pbc=False)

@@ -1,0 +1,2 @@
+N3O8Se2
+Atoms(symbols='Se2N3O8', pbc=False)

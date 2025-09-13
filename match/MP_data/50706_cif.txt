@@ -1,0 +1,2 @@
+As2CuIn3Se2
+Atoms(symbols='In3CuAs2Se2', pbc=False)

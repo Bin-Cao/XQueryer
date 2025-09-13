@@ -1,0 +1,2 @@
+IrW
+Atoms(symbols='IrW', pbc=False)

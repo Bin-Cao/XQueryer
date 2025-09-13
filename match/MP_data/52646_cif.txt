@@ -1,0 +1,2 @@
+Co6Er2Fe6P7
+Atoms(symbols='Er2Fe6Co6P7', pbc=False)

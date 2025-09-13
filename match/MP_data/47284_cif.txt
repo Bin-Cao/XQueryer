@@ -1,0 +1,2 @@
+H2Fe22Nd2Ti2
+Atoms(symbols='NdTiFe11HNdTiFe11H', pbc=False)

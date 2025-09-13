@@ -1,0 +1,2 @@
+Er6Gd2Mn16
+Atoms(symbols='GdEr3Mn8GdEr3Mn8', pbc=False)

@@ -1,0 +1,2 @@
+In21K3S24
+Atoms(symbols='K3In21S24', pbc=False)

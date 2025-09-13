@@ -1,0 +1,2 @@
+FeGeNd
+Atoms(symbols='NdFeGe', pbc=False)

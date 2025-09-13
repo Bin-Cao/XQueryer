@@ -1,0 +1,2 @@
+Br3Cl9Na12O36
+Atoms(symbols='Na4BrCl3O12Na4BrCl3O12Na4BrCl3O12', pbc=False)

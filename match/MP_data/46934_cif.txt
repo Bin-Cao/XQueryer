@@ -1,0 +1,2 @@
+O26Sb12
+Atoms(symbols='Sb6O13Sb6O13', pbc=False)

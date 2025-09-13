@@ -1,0 +1,2 @@
+Au40Ge15Na26
+Atoms(symbols='Au40Ge15Na26', pbc=False)

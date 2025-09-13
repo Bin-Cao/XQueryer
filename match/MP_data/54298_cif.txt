@@ -1,0 +1,2 @@
+Ca2Ga6La2O2S12
+Atoms(symbols='Ca2La2Ga6S12O2', pbc=False)

@@ -1,0 +1,2 @@
+Na4O28Sb4W4
+Atoms(symbols='Na2Sb2W2O14Na2Sb2W2O14', pbc=False)

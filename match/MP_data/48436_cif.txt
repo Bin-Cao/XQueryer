@@ -1,0 +1,2 @@
+H18O32P8Rb6
+Atoms(symbols='H18O32P8Rb6', pbc=False)

@@ -1,0 +1,2 @@
+Ag2Cl10Na8
+Atoms(symbols='Na4AgCl5Na4AgCl5', pbc=False)

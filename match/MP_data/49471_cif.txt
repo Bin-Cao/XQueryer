@@ -1,0 +1,2 @@
+Ga38Lu12Pd6
+Atoms(symbols='Lu6Ga19Pd3Lu6Ga19Pd3', pbc=False)

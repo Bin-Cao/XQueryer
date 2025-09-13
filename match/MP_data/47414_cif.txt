@@ -1,0 +1,2 @@
+Au27In17Sr10
+Atoms(symbols='Sr10In17Au27', pbc=False)

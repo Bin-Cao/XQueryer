@@ -1,0 +1,2 @@
+As12Ga2Na20Nb2
+Atoms(symbols='Na20Nb2Ga2As12', pbc=False)

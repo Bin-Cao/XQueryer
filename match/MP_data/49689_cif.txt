@@ -1,0 +1,2 @@
+GeMg6Sn2
+Atoms(symbols='Mg6Sn2Ge', pbc=False)

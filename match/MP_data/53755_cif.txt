@@ -1,0 +1,2 @@
+CaHgSn
+Atoms(symbols='CaSnHg', pbc=False)

@@ -1,0 +1,2 @@
+Cd72Nd12
+Atoms(symbols='Cd72Nd12', pbc=False)

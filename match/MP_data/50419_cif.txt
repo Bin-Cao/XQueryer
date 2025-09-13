@@ -1,0 +1,2 @@
+CrKS4Sn
+Atoms(symbols='KCrSnS4', pbc=False)

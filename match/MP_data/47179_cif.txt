@@ -1,0 +1,2 @@
+Al9O42P3S3Sr3
+Atoms(symbols='SrAl3PSO14SrAl3PSO14SrAl3PSO14', pbc=False)

@@ -1,0 +1,2 @@
+Cu15Na4O60V20
+Atoms(symbols='Cu15Na4O60V20', pbc=False)

@@ -1,0 +1,2 @@
+Fe4O26Ru4Sr16
+Atoms(symbols='Sr8Fe2Ru2O13Sr8Fe2Ru2O13', pbc=False)

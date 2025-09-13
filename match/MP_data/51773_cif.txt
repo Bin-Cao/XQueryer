@@ -1,0 +1,2 @@
+Cu2Er4Si6
+Atoms(symbols='Er2CuSi3Er2CuSi3', pbc=False)

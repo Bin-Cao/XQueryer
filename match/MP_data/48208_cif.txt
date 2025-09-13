@@ -1,0 +1,2 @@
+Fe10Mn10Si12
+Atoms(symbols='Mn5Fe5Si6Mn5Fe5Si6', pbc=False)

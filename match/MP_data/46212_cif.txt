@@ -1,0 +1,2 @@
+Cr20Ga4Se40Zn5
+Atoms(symbols='Cr20Ga4Se40Zn5', pbc=False)

@@ -1,0 +1,2 @@
+LaNaSe2
+Atoms(symbols='NaLaSe2', pbc=False)

@@ -1,0 +1,2 @@
+Co4Cr12Cu2Se24
+Atoms(symbols='Cr6Co2CuSe12Cr6Co2CuSe12', pbc=False)

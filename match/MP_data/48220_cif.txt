@@ -1,0 +1,2 @@
+Fe24Sc4Ti8
+Atoms(symbols='Sc4Ti8Fe24', pbc=False)

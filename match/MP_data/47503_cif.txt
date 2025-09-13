@@ -1,0 +1,2 @@
+Mo4Na2O16Y2
+Atoms(symbols='NaYMo2O8NaYMo2O8', pbc=False)

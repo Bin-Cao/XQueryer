@@ -1,0 +1,2 @@
+F44Li2Tl2Zr10
+Atoms(symbols='Li2Zr10Tl2F44', pbc=False)

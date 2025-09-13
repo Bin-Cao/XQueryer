@@ -1,0 +1,2 @@
+La2Te12U2
+Atoms(symbols='LaUTe6LaUTe6', pbc=False)

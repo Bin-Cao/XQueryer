@@ -1,0 +1,2 @@
+Cs2Li2S4Zn2
+Atoms(symbols='CsLiZnS2CsLiZnS2', pbc=False)

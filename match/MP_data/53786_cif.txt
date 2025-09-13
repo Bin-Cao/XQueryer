@@ -1,0 +1,2 @@
+Dy6Ga15Ni15
+Atoms(symbols='Dy6Ga15Ni15', pbc=False)

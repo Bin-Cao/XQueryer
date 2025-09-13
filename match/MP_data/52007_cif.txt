@@ -1,0 +1,2 @@
+Gd4Mn2O14Sb2
+Atoms(symbols='Gd4Mn2Sb2O14', pbc=False)

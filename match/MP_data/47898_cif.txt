@@ -1,0 +1,2 @@
+Na2Pr4Se6
+Atoms(symbols='NaPr2Se3NaPr2Se3', pbc=False)

@@ -1,0 +1,2 @@
+Ge6La9NaO26
+Atoms(symbols='NaLa9Ge6O26', pbc=False)

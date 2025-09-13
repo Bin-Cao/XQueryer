@@ -1,0 +1,2 @@
+HoTe4U
+Atoms(symbols='HoUTe4', pbc=False)

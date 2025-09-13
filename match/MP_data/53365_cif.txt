@@ -1,0 +1,2 @@
+H5CrO4
+Atoms(symbols='CrH5O4', pbc=False)

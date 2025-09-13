@@ -1,0 +1,2 @@
+Eu4Ni4O18Sr4Tl2
+Atoms(symbols='Sr2Eu2TlNi2O9Sr2Eu2TlNi2O9', pbc=False)

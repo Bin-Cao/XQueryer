@@ -1,0 +1,2 @@
+C4DyHo
+Atoms(symbols='DyHoC4', pbc=False)

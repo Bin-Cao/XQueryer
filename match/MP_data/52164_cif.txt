@@ -1,0 +1,2 @@
+GeIn9K9Sb22
+Atoms(symbols='K9In9GeSb22', pbc=False)

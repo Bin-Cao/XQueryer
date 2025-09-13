@@ -1,0 +1,2 @@
+Co28O90Sr36
+Atoms(symbols='Co28O90Sr36', pbc=False)

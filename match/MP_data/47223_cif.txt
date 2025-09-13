@@ -1,0 +1,2 @@
+Bi4Nd4O28Ru8
+Atoms(symbols='Nd2Bi2Ru4O14Nd2Bi2Ru4O14', pbc=False)

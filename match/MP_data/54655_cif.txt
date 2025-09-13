@@ -1,0 +1,2 @@
+Ba4Ga12La4O28
+Atoms(symbols='Ba2La2Ga6O14Ba2La2Ga6O14', pbc=False)

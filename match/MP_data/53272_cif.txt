@@ -1,0 +1,2 @@
+BeCaGe
+Atoms(symbols='CaBeGe', pbc=False)

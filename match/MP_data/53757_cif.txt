@@ -1,0 +1,2 @@
+Cd2Hg8Se10
+Atoms(symbols='CdHg4Se5CdHg4Se5', pbc=False)

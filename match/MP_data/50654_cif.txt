@@ -1,0 +1,2 @@
+Co44Ga12La24
+Atoms(symbols='Co44Ga12La24', pbc=False)

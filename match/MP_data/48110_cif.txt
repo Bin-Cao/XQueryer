@@ -1,0 +1,2 @@
+Mn3Si
+Atoms(symbols='Mn3Si', pbc=False)

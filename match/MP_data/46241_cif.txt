@@ -1,0 +1,2 @@
+Nd4Ni4O18Sr4Tl2
+Atoms(symbols='Sr2Nd2TlNi2O9Sr2Nd2TlNi2O9', pbc=False)

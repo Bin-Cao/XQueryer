@@ -1,0 +1,2 @@
+Ge12Li13Zn11
+Atoms(symbols='Li13Zn11Ge12', pbc=False)

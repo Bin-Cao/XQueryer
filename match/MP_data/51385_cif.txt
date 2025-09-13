@@ -1,0 +1,2 @@
+Fe4In8O28Sb4
+Atoms(symbols='In4Fe2Sb2O14In4Fe2Sb2O14', pbc=False)

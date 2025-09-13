@@ -1,0 +1,2 @@
+Ho6Sc6Si6
+Atoms(symbols='Ho6Sc6Si6', pbc=False)

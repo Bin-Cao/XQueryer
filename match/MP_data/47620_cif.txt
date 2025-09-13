@@ -1,0 +1,2 @@
+C16Ni8W44
+Atoms(symbols='C16Ni8W44', pbc=False)

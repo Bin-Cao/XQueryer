@@ -1,0 +1,2 @@
+GaIn2S4
+Atoms(symbols='In2GaS4', pbc=False)

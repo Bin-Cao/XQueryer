@@ -1,0 +1,2 @@
+CaNa3O24Sc3Si8Zn
+Atoms(symbols='Na3CaSc3ZnSi8O24', pbc=False)

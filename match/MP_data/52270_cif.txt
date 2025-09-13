@@ -1,0 +1,2 @@
+Cu2Ni2
+Atoms(symbols='CuNiCuNi', pbc=False)

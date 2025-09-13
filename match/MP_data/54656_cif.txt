@@ -1,0 +1,2 @@
+Ca4Cu2In6
+Atoms(symbols='Ca2In3CuCa2In3Cu', pbc=False)

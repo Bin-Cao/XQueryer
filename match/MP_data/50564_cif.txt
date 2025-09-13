@@ -1,0 +1,2 @@
+GaInN2
+Atoms(symbols='InGaN2', pbc=False)

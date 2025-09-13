@@ -1,0 +1,2 @@
+Cr28Se40
+Atoms(symbols='Cr28Se40', pbc=False)

@@ -1,0 +1,2 @@
+F2K4Nb2O6
+Atoms(symbols='K2NbO3FK2NbO3F', pbc=False)

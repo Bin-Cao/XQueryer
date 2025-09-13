@@ -1,0 +1,2 @@
+Pb8S10Sn2
+Atoms(symbols='SnPb4S5SnPb4S5', pbc=False)

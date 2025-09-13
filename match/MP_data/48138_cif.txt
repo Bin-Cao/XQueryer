@@ -1,0 +1,2 @@
+Co2Mn2Na6Ni2O12
+Atoms(symbols='Na3MnCoNiO6Na3MnCoNiO6', pbc=False)

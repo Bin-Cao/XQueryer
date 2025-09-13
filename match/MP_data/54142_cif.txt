@@ -1,0 +1,2 @@
+Be2Ga4O8
+Atoms(symbols='Be2Ga4O8', pbc=False)

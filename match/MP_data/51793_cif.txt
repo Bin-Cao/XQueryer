@@ -1,0 +1,2 @@
+Bi2Fe4O14Sb2
+Atoms(symbols='Fe4Bi2Sb2O14', pbc=False)

@@ -1,0 +1,2 @@
+MoRh
+Atoms(symbols='MoRh', pbc=False)

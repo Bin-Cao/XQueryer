@@ -1,0 +1,2 @@
+Cr3Nb5Se20
+Atoms(symbols='Nb5Cr3Se20', pbc=False)

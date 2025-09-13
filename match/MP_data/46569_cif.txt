@@ -1,0 +1,2 @@
+Co10NdPr
+Atoms(symbols='PrNdCo10', pbc=False)

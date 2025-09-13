@@ -1,0 +1,2 @@
+C4Mn34Sm4
+Atoms(symbols='Sm2Mn17C2Sm2Mn17C2', pbc=False)

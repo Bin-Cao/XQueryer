@@ -1,0 +1,2 @@
+PtSSe
+Atoms(symbols='PtSeS', pbc=False)

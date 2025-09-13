@@ -1,0 +1,2 @@
+B32Ce4U4
+Atoms(symbols='Ce2U2B16Ce2U2B16', pbc=False)

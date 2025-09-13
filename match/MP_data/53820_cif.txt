@@ -1,0 +1,2 @@
+Al20Ce4Mn14
+Atoms(symbols='Ce2Mn7Al10Ce2Mn7Al10', pbc=False)

@@ -1,0 +1,2 @@
+H11IN2O6
+Atoms(symbols='H11IN2O6', pbc=False)

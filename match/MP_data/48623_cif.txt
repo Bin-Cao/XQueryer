@@ -1,0 +1,2 @@
+Co4Ge2Mn4Si2
+Atoms(symbols='Mn4Co4Si2Ge2', pbc=False)

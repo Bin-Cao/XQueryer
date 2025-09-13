@@ -1,0 +1,2 @@
+AlF2Ge3KMgMn2O10
+Atoms(symbols='KMgMn2AlGe3O10F2', pbc=False)

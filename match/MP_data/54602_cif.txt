@@ -1,0 +1,2 @@
+AlCa2FO9Si2Ti
+Atoms(symbols='Ca2TiAlSi2O9F', pbc=False)

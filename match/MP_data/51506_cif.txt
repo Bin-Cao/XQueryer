@@ -1,0 +1,2 @@
+Fe2SbTe3
+Atoms(symbols='Fe2SbTe3', pbc=False)

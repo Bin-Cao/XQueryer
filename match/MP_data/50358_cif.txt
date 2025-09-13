@@ -1,0 +1,2 @@
+Cl4La12O32Si8
+Atoms(symbols='La6Si4Cl2O16La6Si4Cl2O16', pbc=False)

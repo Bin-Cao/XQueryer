@@ -1,0 +1,2 @@
+Cu6O17Pr3Sr6
+Atoms(symbols='Sr6Pr3Cu6O17', pbc=False)

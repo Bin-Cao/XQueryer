@@ -1,0 +1,2 @@
+InLiSe2
+Atoms(symbols='LiInSe2', pbc=False)

@@ -1,0 +1,2 @@
+In2Na4O24Sc2Si8
+Atoms(symbols='Na2ScInSi4O12Na2ScInSi4O12', pbc=False)

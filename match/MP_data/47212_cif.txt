@@ -1,0 +1,2 @@
+Co30Cr4Pr4
+Atoms(symbols='Pr2Cr2Co15Pr2Cr2Co15', pbc=False)

@@ -1,0 +1,2 @@
+Bi9In3Te12
+Atoms(symbols='In3Bi9Te12', pbc=False)

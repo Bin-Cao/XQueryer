@@ -1,0 +1,2 @@
+Cl2O12Sb6Te2
+Atoms(symbols='Sb3TeClO6Sb3TeClO6', pbc=False)

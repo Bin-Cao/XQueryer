@@ -1,0 +1,2 @@
+LaLiO9SrTi3
+Atoms(symbols='SrLiLaTi3O9', pbc=False)

@@ -1,0 +1,2 @@
+CuHf10Sn7
+Atoms(symbols='Hf10CuSn7', pbc=False)

@@ -1,0 +1,2 @@
+Ba6Co12K2O32Y4
+Atoms(symbols='KBa3Y2Co6O16KBa3Y2Co6O16', pbc=False)

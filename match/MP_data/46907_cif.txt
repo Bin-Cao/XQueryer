@@ -1,0 +1,2 @@
+N2PrTh
+Atoms(symbols='PrThN2', pbc=False)

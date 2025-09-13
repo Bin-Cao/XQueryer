@@ -1,0 +1,2 @@
+I14K6O52U4
+Atoms(symbols='I14K6O52U4', pbc=False)

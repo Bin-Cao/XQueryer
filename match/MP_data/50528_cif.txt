@@ -1,0 +1,2 @@
+As6Ga2In4
+Atoms(symbols='In2GaAs3In2GaAs3', pbc=False)

@@ -1,0 +1,2 @@
+Se3Sn12Te9
+Atoms(symbols='Sn4Te3SeSn4Te3SeSn4Te3Se', pbc=False)

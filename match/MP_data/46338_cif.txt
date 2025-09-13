@@ -1,0 +1,2 @@
+Pb2Sn8Te10
+Atoms(symbols='Sn4Te5PbSn4Te5Pb', pbc=False)

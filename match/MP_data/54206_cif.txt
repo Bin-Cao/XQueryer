@@ -1,0 +1,2 @@
+Be16Ru2
+Atoms(symbols='Be16Ru2', pbc=False)

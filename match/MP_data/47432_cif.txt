@@ -1,0 +1,2 @@
+CoNb4Pt3
+Atoms(symbols='Nb4CoPt3', pbc=False)

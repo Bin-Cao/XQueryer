@@ -1,0 +1,2 @@
+MoNbSe4
+Atoms(symbols='NbMoSe4', pbc=False)

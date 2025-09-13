@@ -1,0 +1,2 @@
+Ga12Ho12Mn12
+Atoms(symbols='Ho6Mn6Ga6Ho6Mn6Ga6', pbc=False)

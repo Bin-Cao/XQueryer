@@ -1,0 +1,2 @@
+CeLaMo12S16
+Atoms(symbols='LaCeMo12S16', pbc=False)

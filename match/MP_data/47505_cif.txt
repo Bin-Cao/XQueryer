@@ -1,0 +1,2 @@
+BiNaSe2
+Atoms(symbols='NaBiSe2', pbc=False)

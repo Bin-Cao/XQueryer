@@ -1,0 +1,2 @@
+MoPt3
+Atoms(symbols='MoPt3', pbc=False)

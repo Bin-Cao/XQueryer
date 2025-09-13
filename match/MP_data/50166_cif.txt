@@ -1,0 +1,2 @@
+La3Y3
+Atoms(symbols='La3Y3', pbc=False)

@@ -1,0 +1,2 @@
+CuHo2In3
+Atoms(symbols='Ho2In3Cu', pbc=False)

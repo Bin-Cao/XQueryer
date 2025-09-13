@@ -1,0 +1,2 @@
+Ce2La2Na4O24Ti8
+Atoms(symbols='Na2LaCeTi4O12Na2LaCeTi4O12', pbc=False)

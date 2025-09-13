@@ -1,0 +1,2 @@
+LaO6SbTi
+Atoms(symbols='LaTiSbO6', pbc=False)

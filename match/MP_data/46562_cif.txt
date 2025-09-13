@@ -1,0 +1,2 @@
+Cu3Ir6O27Sr12
+Atoms(symbols='Sr12Cu3Ir6O27', pbc=False)

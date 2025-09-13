@@ -1,0 +1,2 @@
+Bi2Ca2N2O10
+Atoms(symbols='CaBiNO5CaBiNO5', pbc=False)

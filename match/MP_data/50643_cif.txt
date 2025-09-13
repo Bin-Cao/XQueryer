@@ -1,0 +1,2 @@
+H16Ga8K2Mn4O56P12Rb2
+Atoms(symbols='H16Ga8K2Mn4O56P12Rb2', pbc=False)

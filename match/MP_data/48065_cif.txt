@@ -1,0 +1,2 @@
+F18Fe12Na16O48P12
+Atoms(symbols='F18Fe12Na16O48P12', pbc=False)

@@ -1,0 +1,2 @@
+Al2Mg2O8Sc2
+Atoms(symbols='MgScAlO4MgScAlO4', pbc=False)

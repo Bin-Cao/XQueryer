@@ -1,0 +1,2 @@
+EuNaO48P12Ti8
+Atoms(symbols='EuNaO48P12Ti8', pbc=False)

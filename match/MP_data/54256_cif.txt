@@ -1,0 +1,2 @@
+Cs6K2O40Si12Zr4
+Atoms(symbols='Cs6K2O40Si12Zr4', pbc=False)

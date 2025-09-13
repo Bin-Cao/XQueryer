@@ -1,0 +1,2 @@
+H24Cu2K2O28Rb2Se4
+Atoms(symbols='H24Cu2K2O28Rb2Se4', pbc=False)

@@ -1,0 +1,2 @@
+Ga15Hf12Ni9
+Atoms(symbols='Hf12Ga15Ni9', pbc=False)

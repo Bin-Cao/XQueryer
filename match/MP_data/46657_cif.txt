@@ -1,0 +1,2 @@
+Ca4Mn10Nd2O30Sr4
+Atoms(symbols='Sr4Ca4Nd2Mn10O30', pbc=False)

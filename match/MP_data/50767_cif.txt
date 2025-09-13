@@ -1,0 +1,2 @@
+C120Li7
+Atoms(symbols='C120Li7', pbc=False)

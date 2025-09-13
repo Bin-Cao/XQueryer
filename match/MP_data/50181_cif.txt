@@ -1,0 +1,2 @@
+Mo2Na2O45V16
+Atoms(symbols='Mo2Na2O45V16', pbc=False)

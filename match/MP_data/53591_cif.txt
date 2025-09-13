@@ -1,0 +1,2 @@
+Cd3FeS4
+Atoms(symbols='Cd3FeS4', pbc=False)

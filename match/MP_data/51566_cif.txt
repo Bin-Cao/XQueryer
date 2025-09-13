@@ -1,0 +1,2 @@
+La32O32Se40Ti16
+Atoms(symbols='La32O32Se40Ti16', pbc=False)

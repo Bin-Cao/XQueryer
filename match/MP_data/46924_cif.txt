@@ -1,0 +1,2 @@
+Ni2Pr6Si6
+Atoms(symbols='Pr3Si3NiPr3Si3Ni', pbc=False)

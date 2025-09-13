@@ -1,0 +1,2 @@
+Ca4Ir2O12Pt2
+Atoms(symbols='Ca2IrPtO6Ca2IrPtO6', pbc=False)

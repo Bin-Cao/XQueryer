@@ -1,0 +1,2 @@
+RuW
+Atoms(symbols='RuW', pbc=False)

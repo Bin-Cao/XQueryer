@@ -1,0 +1,2 @@
+Er2Mo4Na2O16
+Atoms(symbols='NaErMo2O8NaErMo2O8', pbc=False)

@@ -1,0 +1,2 @@
+CuGaTe2
+Atoms(symbols='GaCuTe2', pbc=False)

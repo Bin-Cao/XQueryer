@@ -1,0 +1,2 @@
+Co4Ga2La2O18Sr6
+Atoms(symbols='Sr3LaGaCo2O9Sr3LaGaCo2O9', pbc=False)

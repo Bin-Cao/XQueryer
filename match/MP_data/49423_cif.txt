@@ -1,0 +1,2 @@
+CuLu2O6Ti
+Atoms(symbols='Lu2TiCuO6', pbc=False)

@@ -1,0 +1,2 @@
+As4Hf30Mo22
+Atoms(symbols='Hf15Mo11As2Hf15Mo11As2', pbc=False)

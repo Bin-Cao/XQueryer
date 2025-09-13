@@ -1,0 +1,2 @@
+As2Mo4P6
+Atoms(symbols='Mo2AsP3Mo2AsP3', pbc=False)

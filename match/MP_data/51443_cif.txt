@@ -1,0 +1,2 @@
+CuEu2In3
+Atoms(symbols='Eu2In3Cu', pbc=False)

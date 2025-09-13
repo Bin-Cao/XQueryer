@@ -1,0 +1,2 @@
+HfInPt2
+Atoms(symbols='HfInPt2', pbc=False)

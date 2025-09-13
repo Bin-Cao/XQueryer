@@ -1,0 +1,2 @@
+Ga8O41P10Rb4
+Atoms(symbols='Ga8O41P10Rb4', pbc=False)

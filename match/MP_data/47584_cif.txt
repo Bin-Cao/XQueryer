@@ -1,0 +1,2 @@
+NaPd3Sn2
+Atoms(symbols='NaSn2Pd3', pbc=False)

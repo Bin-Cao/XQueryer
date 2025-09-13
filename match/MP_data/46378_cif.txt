@@ -1,0 +1,2 @@
+Mo20P2Si10
+Atoms(symbols='Si5Mo10PSi5Mo10P', pbc=False)

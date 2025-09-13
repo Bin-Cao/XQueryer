@@ -1,0 +1,2 @@
+BMg14O16W
+Atoms(symbols='Mg14BWO16', pbc=False)

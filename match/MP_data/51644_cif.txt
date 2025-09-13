@@ -1,0 +1,2 @@
+Ag8Eu2Ga2
+Atoms(symbols='EuGaAg4EuGaAg4', pbc=False)

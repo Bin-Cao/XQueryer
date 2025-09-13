@@ -1,0 +1,2 @@
+CsMg14O16Y
+Atoms(symbols='CsYMg14O16', pbc=False)

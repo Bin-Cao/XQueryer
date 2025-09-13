@@ -1,0 +1,2 @@
+C6H24Li2N12Ni2O15
+Atoms(symbols='C6H24Li2N12Ni2O15', pbc=False)

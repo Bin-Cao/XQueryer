@@ -1,0 +1,2 @@
+Lu4O12Zr3
+Atoms(symbols='Lu4Zr3O12', pbc=False)

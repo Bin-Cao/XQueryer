@@ -1,0 +1,2 @@
+AlLaMnNi3
+Atoms(symbols='LaMnAlNi3', pbc=False)

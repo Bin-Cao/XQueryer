@@ -1,0 +1,2 @@
+Cu3Li3O18Ta6
+Atoms(symbols='LiTa2CuO6LiTa2CuO6LiTa2CuO6', pbc=False)

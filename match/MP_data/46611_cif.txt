@@ -1,0 +1,2 @@
+Fe2Pr4Sn8
+Atoms(symbols='Pr2FeSn4Pr2FeSn4', pbc=False)

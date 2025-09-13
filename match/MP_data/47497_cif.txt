@@ -1,0 +1,2 @@
+Cu2Nb8Se16
+Atoms(symbols='Nb4CuSe8Nb4CuSe8', pbc=False)

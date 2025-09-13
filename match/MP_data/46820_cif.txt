@@ -1,0 +1,2 @@
+Cu12In12Pr2
+Atoms(symbols='PrIn6Cu6PrIn6Cu6', pbc=False)

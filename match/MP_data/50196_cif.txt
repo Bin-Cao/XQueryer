@@ -1,0 +1,2 @@
+La3O12Sc4Y
+Atoms(symbols='La3YSc4O12', pbc=False)

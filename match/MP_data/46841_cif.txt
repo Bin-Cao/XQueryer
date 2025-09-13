@@ -1,0 +1,2 @@
+C2Fe26Ga4Mn4Sm4
+Atoms(symbols='Sm2Mn2Ga2Fe13CSm2Mn2Ga2Fe13C', pbc=False)

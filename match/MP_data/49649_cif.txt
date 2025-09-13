@@ -1,0 +1,2 @@
+In3Li4O24ScSi8
+Atoms(symbols='Li4ScIn3Si8O24', pbc=False)

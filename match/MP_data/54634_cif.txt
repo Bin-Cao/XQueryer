@@ -1,0 +1,2 @@
+CaO18P2U2
+Atoms(symbols='CaU2P2O18', pbc=False)

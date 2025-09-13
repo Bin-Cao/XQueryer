@@ -1,0 +1,2 @@
+H6As4Ca2Mn2O20Zn2
+Atoms(symbols='Ca2Mn2Zn2As4H6O20', pbc=False)

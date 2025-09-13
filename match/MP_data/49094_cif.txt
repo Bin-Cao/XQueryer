@@ -1,0 +1,2 @@
+LuMn4Sc3Si4
+Atoms(symbols='LuSc3Mn4Si4', pbc=False)

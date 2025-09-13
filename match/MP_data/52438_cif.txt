@@ -1,0 +1,2 @@
+Co2Cu4O6
+Atoms(symbols='CoCu2O3CoCu2O3', pbc=False)

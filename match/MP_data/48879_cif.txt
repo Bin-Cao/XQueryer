@@ -1,0 +1,2 @@
+H8Al6Mg7O38Si8Ti
+Atoms(symbols='H8Al6Mg7O38Si8Ti', pbc=False)

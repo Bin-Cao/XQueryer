@@ -1,0 +1,2 @@
+Cr8Mn8Sc8
+Atoms(symbols='Sc4Mn4Cr4Sc4Mn4Cr4', pbc=False)

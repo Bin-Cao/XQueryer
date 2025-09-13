@@ -1,0 +1,2 @@
+Bi5Na3Nb6O24
+Atoms(symbols='Na3Nb6Bi5O24', pbc=False)

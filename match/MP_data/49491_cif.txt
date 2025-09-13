@@ -1,0 +1,2 @@
+Mn12P3Si
+Atoms(symbols='Mn12SiP3', pbc=False)

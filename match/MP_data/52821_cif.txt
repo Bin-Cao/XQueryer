@@ -1,0 +1,2 @@
+CoNi3Si4
+Atoms(symbols='CoSi4Ni3', pbc=False)

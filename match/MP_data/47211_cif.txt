@@ -1,0 +1,2 @@
+AlNdSn
+Atoms(symbols='NdAlSn', pbc=False)

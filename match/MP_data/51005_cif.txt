@@ -1,0 +1,2 @@
+Co2Ho2Ni2
+Atoms(symbols='Ho2Co2Ni2', pbc=False)

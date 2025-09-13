@@ -1,0 +1,2 @@
+Co14Cr16
+Atoms(symbols='Cr16Co14', pbc=False)

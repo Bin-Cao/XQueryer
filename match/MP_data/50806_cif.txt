@@ -1,0 +1,2 @@
+As12Ba2Fe12K4
+Atoms(symbols='K2BaFe6As6K2BaFe6As6', pbc=False)

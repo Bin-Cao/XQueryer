@@ -1,0 +1,2 @@
+H14Cl3LiMgO7
+Atoms(symbols='LiMgH14Cl3O7', pbc=False)

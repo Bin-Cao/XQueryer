@@ -1,0 +1,2 @@
+Gd2NiSi3
+Atoms(symbols='Gd2Si3Ni', pbc=False)

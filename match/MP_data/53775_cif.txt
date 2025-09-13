@@ -1,0 +1,2 @@
+Cd9Eu3S12
+Atoms(symbols='EuCd3S4EuCd3S4EuCd3S4', pbc=False)

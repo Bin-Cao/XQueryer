@@ -1,0 +1,2 @@
+C6Co36Si8Sm4
+Atoms(symbols='Sm2Co18Si4C3Sm2Co18Si4C3', pbc=False)

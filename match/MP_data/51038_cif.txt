@@ -1,0 +1,2 @@
+Ga2Ho3Mn3Si
+Atoms(symbols='Ho3Mn3Ga2Si', pbc=False)

@@ -1,0 +1,2 @@
+Ce4Si6
+Atoms(symbols='Ce2Si3Ce2Si3', pbc=False)

@@ -1,0 +1,2 @@
+CAs5Cr12
+Atoms(symbols='Cr12As5C', pbc=False)

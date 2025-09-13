@@ -1,0 +1,2 @@
+Cl16O18Tc4Y2
+Atoms(symbols='Y2Tc4Cl16O18', pbc=False)

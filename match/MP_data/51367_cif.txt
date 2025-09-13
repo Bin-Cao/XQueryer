@@ -1,0 +1,2 @@
+CuGdSi
+Atoms(symbols='GdCuSi', pbc=False)

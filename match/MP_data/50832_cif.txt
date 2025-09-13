@@ -1,0 +1,2 @@
+H14As6Fe2K2O26
+Atoms(symbols='K2Fe2As6H14O26', pbc=False)

@@ -1,0 +1,2 @@
+Nd14Sn3Zn43
+Atoms(symbols='Nd14Zn43Sn3', pbc=False)

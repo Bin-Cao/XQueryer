@@ -1,0 +1,2 @@
+Mg4Nb20O60Rb12
+Atoms(symbols='Mg4Nb20O60Rb12', pbc=False)

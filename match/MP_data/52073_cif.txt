@@ -1,0 +1,2 @@
+Eu4Fe2P6Pt14
+Atoms(symbols='Eu2FeP3Pt7Eu2FeP3Pt7', pbc=False)

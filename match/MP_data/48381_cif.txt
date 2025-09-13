@@ -1,0 +1,2 @@
+C18HgSi8
+Atoms(symbols='Si8HgC18', pbc=False)

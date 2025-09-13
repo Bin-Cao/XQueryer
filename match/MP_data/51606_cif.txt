@@ -1,0 +1,2 @@
+Gd6O32V8Y2
+Atoms(symbols='Gd3YV4O16Gd3YV4O16', pbc=False)

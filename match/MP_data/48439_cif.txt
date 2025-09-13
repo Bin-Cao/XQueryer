@@ -1,0 +1,2 @@
+AsNb12Te15Tl
+Atoms(symbols='Nb12TlTe15As', pbc=False)

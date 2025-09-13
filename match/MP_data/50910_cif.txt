@@ -1,0 +1,2 @@
+H2GaKMg3O12Si3
+Atoms(symbols='KMg3GaSi3H2O12', pbc=False)

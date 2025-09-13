@@ -1,0 +1,2 @@
+CuMg14O16V
+Atoms(symbols='Mg14VCuO16', pbc=False)

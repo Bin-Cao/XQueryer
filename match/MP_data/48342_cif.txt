@@ -1,0 +1,2 @@
+H10Na2O12P4
+Atoms(symbols='Na2P4H10O12', pbc=False)

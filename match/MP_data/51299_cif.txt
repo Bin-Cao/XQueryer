@@ -1,0 +1,2 @@
+Ho4NiSn8
+Atoms(symbols='Ho4NiSn8', pbc=False)

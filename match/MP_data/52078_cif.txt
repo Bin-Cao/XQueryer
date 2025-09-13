@@ -1,0 +1,2 @@
+Ag13Ga5
+Atoms(symbols='Ga5Ag13', pbc=False)

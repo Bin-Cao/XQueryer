@@ -1,0 +1,2 @@
+S2ScU
+Atoms(symbols='ScUS2', pbc=False)

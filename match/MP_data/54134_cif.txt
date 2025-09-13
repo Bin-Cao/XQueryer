@@ -1,0 +1,2 @@
+H4Ag8Co12O48P12
+Atoms(symbols='H4Ag8Co12O48P12', pbc=False)

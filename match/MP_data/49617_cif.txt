@@ -1,0 +1,2 @@
+LaO12Ti4Y3
+Atoms(symbols='LaY3Ti4O12', pbc=False)

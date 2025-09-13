@@ -1,0 +1,2 @@
+Co6Cr24Ga4S48
+Atoms(symbols='Co6Cr24Ga4S48', pbc=False)

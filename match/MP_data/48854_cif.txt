@@ -1,0 +1,2 @@
+HoLiS2
+Atoms(symbols='LiHoS2', pbc=False)

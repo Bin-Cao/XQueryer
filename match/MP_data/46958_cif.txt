@@ -1,0 +1,2 @@
+O12Sc4Ti3
+Atoms(symbols='Sc4Ti3O12', pbc=False)

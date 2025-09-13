@@ -1,0 +1,2 @@
+PdSiSm
+Atoms(symbols='SmSiPd', pbc=False)

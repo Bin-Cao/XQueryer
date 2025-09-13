@@ -1,0 +1,2 @@
+Hf20Ni2Sb10
+Atoms(symbols='Hf10NiSb5Hf10NiSb5', pbc=False)

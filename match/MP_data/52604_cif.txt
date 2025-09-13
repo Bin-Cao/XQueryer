@@ -1,0 +1,2 @@
+Eu4Mn6O28Sb6
+Atoms(symbols='Eu2Mn3Sb3O14Eu2Mn3Sb3O14', pbc=False)

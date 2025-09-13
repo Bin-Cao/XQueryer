@@ -1,0 +1,2 @@
+AsNb9O25
+Atoms(symbols='Nb9AsO25', pbc=False)

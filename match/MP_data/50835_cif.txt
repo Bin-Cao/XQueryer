@@ -1,0 +1,2 @@
+AlLiMg4Mo6O24
+Atoms(symbols='LiMg4AlMo6O24', pbc=False)

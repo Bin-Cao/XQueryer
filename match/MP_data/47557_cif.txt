@@ -1,0 +1,2 @@
+O37Si8Tl32
+Atoms(symbols='O37Si8Tl32', pbc=False)

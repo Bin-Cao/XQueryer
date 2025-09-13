@@ -1,0 +1,2 @@
+Au16In16K6
+Atoms(symbols='K6In16Au16', pbc=False)

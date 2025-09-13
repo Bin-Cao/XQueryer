@@ -1,0 +1,2 @@
+Hg2MnTe3
+Atoms(symbols='MnHg2Te3', pbc=False)

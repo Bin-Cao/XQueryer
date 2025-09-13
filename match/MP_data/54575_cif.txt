@@ -1,0 +1,2 @@
+Cd20O48P8Si4
+Atoms(symbols='Cd20O48P8Si4', pbc=False)

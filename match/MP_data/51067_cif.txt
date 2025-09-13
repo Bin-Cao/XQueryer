@@ -1,0 +1,2 @@
+HIN2
+Atoms(symbols='HIN2', pbc=False)

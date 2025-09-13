@@ -1,0 +1,2 @@
+PrPt5
+Atoms(symbols='PrPt5', pbc=False)

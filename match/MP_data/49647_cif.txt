@@ -1,0 +1,2 @@
+Ce4La2Mn6O18
+Atoms(symbols='LaCe2Mn3O9LaCe2Mn3O9', pbc=False)

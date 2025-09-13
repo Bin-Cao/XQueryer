@@ -1,0 +1,2 @@
+Cl8Na6O8W4
+Atoms(symbols='Na3W2Cl4O4Na3W2Cl4O4', pbc=False)

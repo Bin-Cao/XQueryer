@@ -1,0 +1,2 @@
+Al10Dy18S42
+Atoms(symbols='Al10Dy18S42', pbc=False)

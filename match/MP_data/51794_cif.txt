@@ -1,0 +1,2 @@
+EuPPt
+Atoms(symbols='EuPPt', pbc=False)

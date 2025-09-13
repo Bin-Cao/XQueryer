@@ -1,0 +1,2 @@
+Co14Mn10Sm2
+Atoms(symbols='SmMn5Co7SmMn5Co7', pbc=False)

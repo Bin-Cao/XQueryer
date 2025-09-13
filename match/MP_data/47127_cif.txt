@@ -1,0 +1,2 @@
+Al4O32Rb4Si12
+Atoms(symbols='Rb2Al2Si6O16Rb2Al2Si6O16', pbc=False)

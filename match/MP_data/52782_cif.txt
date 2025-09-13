@@ -1,0 +1,2 @@
+Co6Mo4Si2
+Atoms(symbols='Co6Si2Mo4', pbc=False)

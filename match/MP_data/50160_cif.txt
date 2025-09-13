@@ -1,0 +1,2 @@
+KO2
+Atoms(symbols='KO2', pbc=False)

@@ -1,0 +1,2 @@
+LaNi10Y
+Atoms(symbols='LaYNi10', pbc=False)

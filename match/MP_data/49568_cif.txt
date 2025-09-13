@@ -1,0 +1,2 @@
+FeMn2Se3
+Atoms(symbols='Mn2FeSe3', pbc=False)

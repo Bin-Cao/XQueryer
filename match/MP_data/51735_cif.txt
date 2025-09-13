@@ -1,0 +1,2 @@
+Co4GaGe3
+Atoms(symbols='GaCo4Ge3', pbc=False)

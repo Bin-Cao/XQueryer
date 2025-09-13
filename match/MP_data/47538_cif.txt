@@ -1,0 +1,2 @@
+Dy2Na2O16W4
+Atoms(symbols='NaDyW2O8NaDyW2O8', pbc=False)

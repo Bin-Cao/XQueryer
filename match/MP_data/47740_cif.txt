@@ -1,0 +1,2 @@
+Nd4Sc16Si16
+Atoms(symbols='Nd4Sc16Si16', pbc=False)

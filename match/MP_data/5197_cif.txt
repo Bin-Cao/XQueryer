@@ -1,0 +1,2 @@
+Mg14O16SiV
+Atoms(symbols='Mg14VSiO16', pbc=False)

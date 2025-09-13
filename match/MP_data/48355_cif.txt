@@ -1,0 +1,2 @@
+Al2Cr3Mn
+Atoms(symbols='MnAl2Cr3', pbc=False)

@@ -1,0 +1,2 @@
+Ag2Ga12Na2Te20
+Atoms(symbols='Na2Ga12Ag2Te20', pbc=False)

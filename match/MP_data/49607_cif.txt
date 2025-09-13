@@ -1,0 +1,2 @@
+Nd12Se28Si5
+Atoms(symbols='Nd12Si5Se28', pbc=False)

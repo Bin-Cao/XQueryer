@@ -1,0 +1,2 @@
+Fe15Ni3O24
+Atoms(symbols='Fe5NiO8Fe5NiO8Fe5NiO8', pbc=False)

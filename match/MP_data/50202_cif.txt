@@ -1,0 +1,2 @@
+La4Mn12Nd2Si12
+Atoms(symbols='La2NdMn6Si6La2NdMn6Si6', pbc=False)

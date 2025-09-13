@@ -1,0 +1,2 @@
+H2Na2O8Se2
+Atoms(symbols='Na2H2Se2O8', pbc=False)

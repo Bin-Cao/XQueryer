@@ -1,0 +1,2 @@
+B40Mo22Nb8
+Atoms(symbols='B40Mo22Nb8', pbc=False)

@@ -1,0 +1,2 @@
+GeMnTe2
+Atoms(symbols='MnGeTe2', pbc=False)

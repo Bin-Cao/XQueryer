@@ -1,0 +1,2 @@
+Co51Pr3Sm3
+Atoms(symbols='PrSmCo17PrSmCo17PrSmCo17', pbc=False)

@@ -1,0 +1,2 @@
+B2K2O26Si10
+Atoms(symbols='K2Si10B2O26', pbc=False)

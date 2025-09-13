@@ -1,0 +1,2 @@
+Nd5Rh8Sn15
+Atoms(symbols='Nd5Sn15Rh8', pbc=False)

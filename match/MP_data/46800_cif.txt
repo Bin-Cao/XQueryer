@@ -1,0 +1,2 @@
+O24Rb4Ti2W6
+Atoms(symbols='Rb2TiW3O12Rb2TiW3O12', pbc=False)

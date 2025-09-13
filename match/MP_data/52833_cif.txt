@@ -1,0 +1,2 @@
+La14SiZn45
+Atoms(symbols='La14Zn45Si', pbc=False)

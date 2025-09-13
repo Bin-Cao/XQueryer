@@ -1,0 +1,2 @@
+Ga16Li6Nd2
+Atoms(symbols='Li3NdGa8Li3NdGa8', pbc=False)

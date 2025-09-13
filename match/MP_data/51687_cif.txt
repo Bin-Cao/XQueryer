@@ -1,0 +1,2 @@
+Hf6Te40Ti2
+Atoms(symbols='Hf3TiTe20Hf3TiTe20', pbc=False)

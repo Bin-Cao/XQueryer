@@ -1,0 +1,2 @@
+Ga8LaLi3
+Atoms(symbols='Li3LaGa8', pbc=False)

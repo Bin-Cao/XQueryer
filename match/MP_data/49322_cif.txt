@@ -1,0 +1,2 @@
+CeF2LaO4
+Atoms(symbols='LaCeO4F2', pbc=False)

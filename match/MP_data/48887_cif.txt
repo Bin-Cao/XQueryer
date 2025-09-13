@@ -1,0 +1,2 @@
+LiPrS2
+Atoms(symbols='LiPrS2', pbc=False)

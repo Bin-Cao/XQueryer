@@ -1,0 +1,2 @@
+AlCsO8Ti3
+Atoms(symbols='CsTi3AlO8', pbc=False)

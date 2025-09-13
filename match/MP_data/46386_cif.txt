@@ -1,0 +1,2 @@
+Fe12Ni12Ti48
+Atoms(symbols='Fe12Ni12Ti48', pbc=False)

@@ -1,0 +1,2 @@
+C8H4O20Sb4
+Atoms(symbols='Sb4H4C8O20', pbc=False)

@@ -1,0 +1,2 @@
+C2Fe22Ho2Ti2
+Atoms(symbols='HoTiFe11CHoTiFe11C', pbc=False)

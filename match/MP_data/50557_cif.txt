@@ -1,0 +1,2 @@
+Mn31PSi11
+Atoms(symbols='Mn31Si11P', pbc=False)

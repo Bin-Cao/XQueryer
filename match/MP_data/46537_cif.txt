@@ -1,0 +1,2 @@
+Ir66P48Tb28
+Atoms(symbols='Ir66P48Tb28', pbc=False)

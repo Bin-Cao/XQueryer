@@ -1,0 +1,2 @@
+Fe2La4Ni2O12
+Atoms(symbols='La4Fe2Ni2O12', pbc=False)

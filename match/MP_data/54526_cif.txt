@@ -1,0 +1,2 @@
+Ba10Mo2O30Ti8
+Atoms(symbols='Ba5Ti4MoO15Ba5Ti4MoO15', pbc=False)

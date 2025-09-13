@@ -1,0 +1,2 @@
+F60Gd4Zr12
+Atoms(symbols='F60Gd4Zr12', pbc=False)

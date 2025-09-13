@@ -1,0 +1,2 @@
+H5B5Ca4O20Si3
+Atoms(symbols='Ca4Si3B5H5O20', pbc=False)

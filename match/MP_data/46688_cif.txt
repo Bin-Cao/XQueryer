@@ -1,0 +1,2 @@
+Cl4O30Sb16
+Atoms(symbols='Sb8Cl2O15Sb8Cl2O15', pbc=False)

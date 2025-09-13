@@ -1,0 +1,2 @@
+NaO25P2W7
+Atoms(symbols='NaP2W7O25', pbc=False)

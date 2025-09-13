@@ -1,0 +1,2 @@
+FeGa
+Atoms(symbols='GaFe', pbc=False)

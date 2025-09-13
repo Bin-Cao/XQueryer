@@ -1,0 +1,2 @@
+Fe3Na3O8Ti
+Atoms(symbols='Na3TiFe3O8', pbc=False)

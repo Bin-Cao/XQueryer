@@ -1,0 +1,2 @@
+CaMn3Na2O18Si6
+Atoms(symbols='Na2CaMn3Si6O18', pbc=False)

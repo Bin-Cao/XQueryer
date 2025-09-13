@@ -1,0 +1,2 @@
+CaTe4Y2
+Atoms(symbols='CaY2Te4', pbc=False)

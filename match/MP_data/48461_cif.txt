@@ -1,0 +1,2 @@
+Al3FeNa4O24Si8
+Atoms(symbols='Na4Al3FeSi8O24', pbc=False)

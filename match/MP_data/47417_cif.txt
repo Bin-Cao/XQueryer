@@ -1,0 +1,2 @@
+F90O3Sr21Y18
+Atoms(symbols='F90O3Sr21Y18', pbc=False)

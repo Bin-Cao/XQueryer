@@ -1,0 +1,2 @@
+CFe17NSm2
+Atoms(symbols='Sm2Fe17CN', pbc=False)

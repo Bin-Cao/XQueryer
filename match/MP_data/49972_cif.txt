@@ -1,0 +1,2 @@
+CaF6Fe6Na22O48P12
+Atoms(symbols='CaF6Fe6Na22O48P12', pbc=False)

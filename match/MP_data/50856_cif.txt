@@ -1,0 +1,2 @@
+K8Mo12O2Se50
+Atoms(symbols='K8Mo12O2Se50', pbc=False)

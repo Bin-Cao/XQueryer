@@ -1,0 +1,2 @@
+Ga3Mn2S8Sc
+Atoms(symbols='ScMn2Ga3S8', pbc=False)

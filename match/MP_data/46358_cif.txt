@@ -1,0 +1,2 @@
+Cu18Hg6O48Pr8Sr16
+Atoms(symbols='Cu18Hg6O48Pr8Sr16', pbc=False)

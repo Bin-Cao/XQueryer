@@ -1,0 +1,2 @@
+SiSmZn
+Atoms(symbols='SmZnSi', pbc=False)

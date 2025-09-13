@@ -1,0 +1,2 @@
+Dy8Mn2Se14
+Atoms(symbols='Dy4MnSe7Dy4MnSe7', pbc=False)

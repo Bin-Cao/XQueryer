@@ -1,0 +1,2 @@
+HfMg14O16Sb
+Atoms(symbols='HfMg14SbO16', pbc=False)

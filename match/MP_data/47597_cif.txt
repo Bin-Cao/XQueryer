@@ -1,0 +1,2 @@
+Ir6Na6O24Y6
+Atoms(symbols='Na3Y3Ir3O12Na3Y3Ir3O12', pbc=False)

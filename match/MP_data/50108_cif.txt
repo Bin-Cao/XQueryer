@@ -1,0 +1,2 @@
+In40Rh16Sc30
+Atoms(symbols='In40Rh16Sc30', pbc=False)

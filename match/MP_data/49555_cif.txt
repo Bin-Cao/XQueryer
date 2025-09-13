@@ -1,0 +1,2 @@
+Co2La2Ni8
+Atoms(symbols='LaCoNi4LaCoNi4', pbc=False)

@@ -1,0 +1,2 @@
+Na8O30W10
+Atoms(symbols='Na4W5O15Na4W5O15', pbc=False)

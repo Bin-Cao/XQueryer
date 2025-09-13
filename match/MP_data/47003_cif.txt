@@ -1,0 +1,2 @@
+F4O32Re12Se16
+Atoms(symbols='F4O32Re12Se16', pbc=False)

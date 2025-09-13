@@ -1,0 +1,2 @@
+Al3Na4O24P6Ta
+Atoms(symbols='Na4TaAl3P6O24', pbc=False)

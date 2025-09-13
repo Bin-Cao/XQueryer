@@ -1,0 +1,2 @@
+Cr4F24K4Ni4O4
+Atoms(symbols='K2Cr2Ni2O2F12K2Cr2Ni2O2F12', pbc=False)

@@ -1,0 +1,2 @@
+Ce4La4Os16
+Atoms(symbols='LaCeOs4LaCeOs4LaCeOs4LaCeOs4', pbc=False)

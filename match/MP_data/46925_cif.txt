@@ -1,0 +1,2 @@
+Mo3Re9Se16
+Atoms(symbols='Re9Mo3Se16', pbc=False)

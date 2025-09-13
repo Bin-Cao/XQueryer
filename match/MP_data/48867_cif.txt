@@ -1,0 +1,2 @@
+LiO2V
+Atoms(symbols='LiVO2', pbc=False)

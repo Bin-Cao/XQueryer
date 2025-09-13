@@ -1,0 +1,2 @@
+C4B2Mn23
+Atoms(symbols='Mn23B2C4', pbc=False)

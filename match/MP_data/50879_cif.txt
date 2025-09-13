@@ -1,0 +1,2 @@
+Fe18Gd2Si4Ti2
+Atoms(symbols='GdTiFe9Si2GdTiFe9Si2', pbc=False)

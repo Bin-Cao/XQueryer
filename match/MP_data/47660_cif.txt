@@ -1,0 +1,2 @@
+Ce2Mo4Na2O16
+Atoms(symbols='NaCeMo2O8NaCeMo2O8', pbc=False)

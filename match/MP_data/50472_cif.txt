@@ -1,0 +1,2 @@
+Li3Mo18S18Se6
+Atoms(symbols='LiMo6Se2S6LiMo6Se2S6LiMo6Se2S6', pbc=False)

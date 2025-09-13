@@ -1,0 +1,2 @@
+Mg3Ni27Pr6
+Atoms(symbols='Pr2MgNi9Pr2MgNi9Pr2MgNi9', pbc=False)

@@ -1,0 +1,2 @@
+Mo4Ni6P2
+Atoms(symbols='Ni6Mo4P2', pbc=False)

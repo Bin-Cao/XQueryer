@@ -1,0 +1,2 @@
+Cl18K3Nb3
+Atoms(symbols='KNbCl6KNbCl6KNbCl6', pbc=False)

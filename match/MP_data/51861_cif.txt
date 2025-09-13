@@ -1,0 +1,2 @@
+Ag6Ga4In2Se12
+Atoms(symbols='In2Ga4Ag6Se12', pbc=False)

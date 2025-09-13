@@ -1,0 +1,2 @@
+Li3Na5O24V8
+Atoms(symbols='Na5Li3V8O24', pbc=False)

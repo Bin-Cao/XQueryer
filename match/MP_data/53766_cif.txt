@@ -1,0 +1,2 @@
+AuCeGa3
+Atoms(symbols='CeGa3Au', pbc=False)

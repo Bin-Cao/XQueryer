@@ -1,0 +1,2 @@
+Co6Er2Ni4
+Atoms(symbols='ErCo3Ni2ErCo3Ni2', pbc=False)

@@ -1,0 +1,2 @@
+O10ScSe2
+Atoms(symbols='ScSe2O10', pbc=False)

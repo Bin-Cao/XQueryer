@@ -1,0 +1,2 @@
+H5KMgO10Se2
+Atoms(symbols='KMgH5Se2O10', pbc=False)

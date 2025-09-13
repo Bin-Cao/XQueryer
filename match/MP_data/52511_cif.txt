@@ -1,0 +1,2 @@
+Cu8Mg4O42V12
+Atoms(symbols='Cu8Mg4O42V12', pbc=False)

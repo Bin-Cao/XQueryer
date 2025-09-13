@@ -1,0 +1,2 @@
+As6Cr10Ni2
+Atoms(symbols='Cr5NiAs3Cr5NiAs3', pbc=False)

@@ -1,0 +1,2 @@
+Nd2P7Rh12
+Atoms(symbols='Nd2P7Rh12', pbc=False)

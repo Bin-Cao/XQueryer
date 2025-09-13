@@ -1,0 +1,2 @@
+Co38Nd4Si6
+Atoms(symbols='Nd2Co19Si3Nd2Co19Si3', pbc=False)

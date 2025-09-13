@@ -1,0 +1,2 @@
+H2AlKNi3O12Si3
+Atoms(symbols='KAlSi3Ni3H2O12', pbc=False)

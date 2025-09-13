@@ -1,0 +1,2 @@
+Al30Au6Cu4La10
+Atoms(symbols='La5Al15Cu2Au3La5Al15Cu2Au3', pbc=False)

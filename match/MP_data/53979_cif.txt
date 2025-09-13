@@ -1,0 +1,2 @@
+Be16Cu4In4
+Atoms(symbols='Be4InCuBe4InCuBe4InCuBe4InCu', pbc=False)

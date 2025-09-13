@@ -1,0 +1,2 @@
+CoNiPt2
+Atoms(symbols='CoNiPt2', pbc=False)

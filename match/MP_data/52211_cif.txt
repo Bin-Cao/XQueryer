@@ -1,0 +1,2 @@
+Co6Er2Fe16Ti2
+Atoms(symbols='ErTiFe8Co3ErTiFe8Co3', pbc=False)

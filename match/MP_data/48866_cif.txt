@@ -1,0 +1,2 @@
+AgCo6Na3O28P8
+Atoms(symbols='Na3Co6AgP8O28', pbc=False)

@@ -1,0 +1,2 @@
+KN3O16P4
+Atoms(symbols='KP4N3O16', pbc=False)

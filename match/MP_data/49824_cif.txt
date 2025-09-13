@@ -1,0 +1,2 @@
+Mn9O24V6
+Atoms(symbols='Mn9V6O24', pbc=False)

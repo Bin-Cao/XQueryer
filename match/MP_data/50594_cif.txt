@@ -1,0 +1,2 @@
+Fe4KO12Si3
+Atoms(symbols='KFe4Si3O12', pbc=False)

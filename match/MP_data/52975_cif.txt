@@ -1,0 +1,2 @@
+Co6Ni6Sb6
+Atoms(symbols='Co3Ni3Sb3Co3Ni3Sb3', pbc=False)

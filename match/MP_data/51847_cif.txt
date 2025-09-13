@@ -1,0 +1,2 @@
+H10B16Li8O36
+Atoms(symbols='H10B16Li8O36', pbc=False)

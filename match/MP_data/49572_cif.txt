@@ -1,0 +1,2 @@
+C24Cl4Li4N36
+Atoms(symbols='C24Cl4Li4N36', pbc=False)

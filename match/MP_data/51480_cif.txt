@@ -1,0 +1,2 @@
+Fe16Ga4
+Atoms(symbols='GaFe4GaFe4GaFe4GaFe4', pbc=False)

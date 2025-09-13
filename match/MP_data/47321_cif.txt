@@ -1,0 +1,2 @@
+S21Se3
+Atoms(symbols='Se3S21', pbc=False)

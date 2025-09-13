@@ -1,0 +1,2 @@
+CdSb
+Atoms(symbols='CdSb', pbc=False)

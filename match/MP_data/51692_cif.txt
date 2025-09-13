@@ -1,0 +1,2 @@
+Bi6Ga8N2
+Atoms(symbols='Ga4Bi3NGa4Bi3N', pbc=False)

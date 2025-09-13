@@ -1,0 +1,2 @@
+Cl8N12Pr20S8
+Atoms(symbols='Pr10S4N6Cl4Pr10S4N6Cl4', pbc=False)

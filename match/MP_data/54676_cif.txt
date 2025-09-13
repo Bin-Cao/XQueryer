@@ -1,0 +1,2 @@
+B2Ca6Er6Ge4O26
+Atoms(symbols='Ca3Er3Ge2BO13Ca3Er3Ge2BO13', pbc=False)

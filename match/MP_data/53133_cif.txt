@@ -1,0 +1,2 @@
+Fe9Ir3Si12
+Atoms(symbols='Fe3Si4IrFe3Si4IrFe3Si4Ir', pbc=False)

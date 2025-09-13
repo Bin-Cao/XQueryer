@@ -1,0 +1,2 @@
+BaGa2
+Atoms(symbols='BaGa2', pbc=False)

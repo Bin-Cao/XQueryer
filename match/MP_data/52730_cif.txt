@@ -1,0 +1,2 @@
+As4Cr6Fe6Ga2
+Atoms(symbols='Cr3GaFe3As2Cr3GaFe3As2', pbc=False)

@@ -1,0 +1,2 @@
+K6Na2O40Si12Sn4
+Atoms(symbols='K6Na2O40Si12Sn4', pbc=False)

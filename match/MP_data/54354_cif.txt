@@ -1,0 +1,2 @@
+CdFeS2
+Atoms(symbols='CdFeS2', pbc=False)

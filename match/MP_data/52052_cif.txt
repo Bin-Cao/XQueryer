@@ -1,0 +1,2 @@
+Cu2Dy2Ga6
+Atoms(symbols='DyGa3CuDyGa3Cu', pbc=False)

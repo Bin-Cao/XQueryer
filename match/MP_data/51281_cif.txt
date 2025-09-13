@@ -1,0 +1,2 @@
+AgCuIn10S16
+Atoms(symbols='In10CuAgS16', pbc=False)

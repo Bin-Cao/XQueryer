@@ -1,0 +1,2 @@
+CoHo4Sn8
+Atoms(symbols='Ho4CoSn8', pbc=False)

@@ -1,0 +1,2 @@
+H12La2Ni10
+Atoms(symbols='LaNi5H6LaNi5H6', pbc=False)

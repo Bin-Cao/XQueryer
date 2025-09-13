@@ -1,0 +1,2 @@
+Cd16Ga8Sr12
+Atoms(symbols='Sr6Cd8Ga4Sr6Cd8Ga4', pbc=False)

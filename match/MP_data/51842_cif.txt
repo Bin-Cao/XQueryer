@@ -1,0 +1,2 @@
+AlDyGa
+Atoms(symbols='DyAlGa', pbc=False)

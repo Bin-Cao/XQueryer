@@ -1,0 +1,2 @@
+CoSeTe
+Atoms(symbols='CoTeSe', pbc=False)

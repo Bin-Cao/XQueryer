@@ -1,0 +1,2 @@
+Al6Fe22Sm12
+Atoms(symbols='Sm12Al6Fe22', pbc=False)

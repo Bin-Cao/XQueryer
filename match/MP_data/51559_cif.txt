@@ -1,0 +1,2 @@
+K5Mo4O16Sm
+Atoms(symbols='K5SmMo4O16', pbc=False)

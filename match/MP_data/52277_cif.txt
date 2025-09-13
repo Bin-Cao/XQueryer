@@ -1,0 +1,2 @@
+FePd2
+Atoms(symbols='FePd2', pbc=False)

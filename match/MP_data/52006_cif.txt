@@ -1,0 +1,2 @@
+AgDy2In
+Atoms(symbols='Dy2InAg', pbc=False)

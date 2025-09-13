@@ -1,0 +1,2 @@
+Ag5Cu2NO15Se4
+Atoms(symbols='Cu2Ag5Se4NO15', pbc=False)

@@ -1,0 +1,2 @@
+Cr3NiP4
+Atoms(symbols='Cr3NiP4', pbc=False)

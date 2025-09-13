@@ -1,0 +1,2 @@
+AgErS2
+Atoms(symbols='ErAgS2', pbc=False)

@@ -1,0 +1,2 @@
+CDy2Fe17N
+Atoms(symbols='Dy2Fe17CN', pbc=False)

@@ -1,0 +1,2 @@
+I10Sb2Se4Sn6
+Atoms(symbols='Sn3SbSe2I5Sn3SbSe2I5', pbc=False)

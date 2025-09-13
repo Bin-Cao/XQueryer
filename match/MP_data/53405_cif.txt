@@ -1,0 +1,2 @@
+In46Se56
+Atoms(symbols='In46Se56', pbc=False)

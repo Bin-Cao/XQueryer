@@ -1,0 +1,2 @@
+Eu3Li7Mo8O32
+Atoms(symbols='Li7Eu3Mo8O32', pbc=False)

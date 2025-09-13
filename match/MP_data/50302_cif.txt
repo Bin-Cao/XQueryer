@@ -1,0 +1,2 @@
+KO5Te
+Atoms(symbols='KTeO5', pbc=False)

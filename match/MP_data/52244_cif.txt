@@ -1,0 +1,2 @@
+HfO15Pb5Ti4
+Atoms(symbols='HfTi4Pb5O15', pbc=False)

@@ -1,0 +1,2 @@
+Al2Hf8Si2
+Atoms(symbols='Hf4AlSiHf4AlSi', pbc=False)

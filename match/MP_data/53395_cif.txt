@@ -1,0 +1,2 @@
+Ce2O20Pr8
+Atoms(symbols='CePr4O10CePr4O10', pbc=False)

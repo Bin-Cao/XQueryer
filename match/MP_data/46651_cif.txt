@@ -1,0 +1,2 @@
+CaCu6HoO16Pb4Sr4
+Atoms(symbols='Sr4CaHoCu6Pb4O16', pbc=False)

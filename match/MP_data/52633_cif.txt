@@ -1,0 +1,2 @@
+FeMoO
+Atoms(symbols='FeMoO', pbc=False)

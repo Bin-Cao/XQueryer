@@ -1,0 +1,2 @@
+Co3Cr8NiS16
+Atoms(symbols='Cr8Co3NiS16', pbc=False)

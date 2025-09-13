@@ -1,0 +1,2 @@
+Fe9Mn9Si6
+Atoms(symbols='Mn3Fe3Si2Mn3Fe3Si2Mn3Fe3Si2', pbc=False)

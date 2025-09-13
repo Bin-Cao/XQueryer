@@ -1,0 +1,2 @@
+Bi32Cu12Rb12Se60
+Atoms(symbols='Bi32Cu12Rb12Se60', pbc=False)

@@ -1,0 +1,2 @@
+DyHo
+Atoms(symbols='DyHo', pbc=False)

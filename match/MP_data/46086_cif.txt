@@ -1,0 +1,2 @@
+GePdSm
+Atoms(symbols='SmGePd', pbc=False)

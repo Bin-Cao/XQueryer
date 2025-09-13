@@ -1,0 +1,2 @@
+Ho32Pb16S64
+Atoms(symbols='Ho32Pb16S64', pbc=False)

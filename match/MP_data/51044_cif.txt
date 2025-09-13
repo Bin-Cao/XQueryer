@@ -1,0 +1,2 @@
+HfMoSb4
+Atoms(symbols='HfSb4Mo', pbc=False)

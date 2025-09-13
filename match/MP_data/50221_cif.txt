@@ -1,0 +1,2 @@
+Mn3O32P8Zn9
+Atoms(symbols='Mn3Zn9P8O32', pbc=False)

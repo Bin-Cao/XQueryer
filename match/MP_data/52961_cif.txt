@@ -1,0 +1,2 @@
+Cr2DyGe6Mn4
+Atoms(symbols='DyMn4Cr2Ge6', pbc=False)

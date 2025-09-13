@@ -1,0 +1,2 @@
+CaLa3Si8
+Atoms(symbols='CaLa3Si8', pbc=False)

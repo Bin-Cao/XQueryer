@@ -1,0 +1,2 @@
+La2O12U4
+Atoms(symbols='LaU2O6LaU2O6', pbc=False)

@@ -1,0 +1,2 @@
+CeGdN2
+Atoms(symbols='CeGdN2', pbc=False)

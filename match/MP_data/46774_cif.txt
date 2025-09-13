@@ -1,0 +1,2 @@
+C8H24Al8CaO44Sr3
+Atoms(symbols='C8H24Al8CaO44Sr3', pbc=False)

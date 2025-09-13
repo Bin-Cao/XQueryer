@@ -1,0 +1,2 @@
+Co80Ga24La8
+Atoms(symbols='Co80Ga24La8', pbc=False)

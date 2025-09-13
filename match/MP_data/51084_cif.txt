@@ -1,0 +1,2 @@
+B72Lu16V20
+Atoms(symbols='B72Lu16V20', pbc=False)

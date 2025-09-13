@@ -1,0 +1,2 @@
+Nd2Pt4Si4
+Atoms(symbols='NdSi2Pt2NdSi2Pt2', pbc=False)

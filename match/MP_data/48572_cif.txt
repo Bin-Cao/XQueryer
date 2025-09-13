@@ -1,0 +1,2 @@
+Fe3MnSi8
+Atoms(symbols='MnFe3Si8', pbc=False)

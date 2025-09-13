@@ -1,0 +1,2 @@
+Al6Ge6Na4O26Rb2
+Atoms(symbols='Rb2Na4Al6Ge6O26', pbc=False)

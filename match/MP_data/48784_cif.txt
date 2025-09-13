@@ -1,0 +1,2 @@
+Co8Cu20Mn2S40Sn10
+Atoms(symbols='Co8Cu20Mn2S40Sn10', pbc=False)

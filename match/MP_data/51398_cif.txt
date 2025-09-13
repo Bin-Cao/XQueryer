@@ -1,0 +1,2 @@
+AgHoTe2
+Atoms(symbols='HoAgTe2', pbc=False)

@@ -1,0 +1,2 @@
+Dy9Fe24Tb3
+Atoms(symbols='TbDy3Fe8TbDy3Fe8TbDy3Fe8', pbc=False)

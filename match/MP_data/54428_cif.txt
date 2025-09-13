@@ -1,0 +1,2 @@
+Na16O84Te20U12
+Atoms(symbols='Na16O84Te20U12', pbc=False)

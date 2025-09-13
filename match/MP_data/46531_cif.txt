@@ -1,0 +1,2 @@
+PtRe
+Atoms(symbols='RePt', pbc=False)

@@ -1,0 +1,2 @@
+Ga80Mo16S2
+Atoms(symbols='Ga80Mo16S2', pbc=False)

@@ -1,0 +1,2 @@
+C40Mn4O40Re4
+Atoms(symbols='C40Mn4O40Re4', pbc=False)

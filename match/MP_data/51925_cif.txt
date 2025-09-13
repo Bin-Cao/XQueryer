@@ -1,0 +1,2 @@
+CCoDy
+Atoms(symbols='DyCoC', pbc=False)

@@ -1,0 +1,2 @@
+Ga11La6NbO28
+Atoms(symbols='La6NbGa11O28', pbc=False)

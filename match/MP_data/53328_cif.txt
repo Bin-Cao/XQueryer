@@ -1,0 +1,2 @@
+Er12Ga34Pt10
+Atoms(symbols='Er6Ga17Pt5Er6Ga17Pt5', pbc=False)

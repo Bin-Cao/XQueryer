@@ -1,0 +1,2 @@
+F36Ga12O
+Atoms(symbols='Ga12OF36', pbc=False)

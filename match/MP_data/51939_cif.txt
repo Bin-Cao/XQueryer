@@ -1,0 +1,2 @@
+CDyNTh
+Atoms(symbols='DyThCN', pbc=False)

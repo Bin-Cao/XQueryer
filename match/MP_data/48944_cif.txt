@@ -1,0 +1,2 @@
+LiSe2Tb
+Atoms(symbols='LiTbSe2', pbc=False)

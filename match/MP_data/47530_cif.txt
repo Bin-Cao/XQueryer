@@ -1,0 +1,2 @@
+Mn6Nd4O28Sb6
+Atoms(symbols='Nd2Mn3Sb3O14Nd2Mn3Sb3O14', pbc=False)

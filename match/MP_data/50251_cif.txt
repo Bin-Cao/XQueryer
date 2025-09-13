@@ -1,0 +1,2 @@
+AgAs2LaZn
+Atoms(symbols='LaZnAgAs2', pbc=False)

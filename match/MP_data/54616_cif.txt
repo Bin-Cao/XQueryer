@@ -1,0 +1,2 @@
+Cr12S9Se9
+Atoms(symbols='Cr4Se3S3Cr4Se3S3Cr4Se3S3', pbc=False)

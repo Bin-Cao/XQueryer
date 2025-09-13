@@ -1,0 +1,2 @@
+As2Co4Sb2
+Atoms(symbols='Co2SbAsCo2SbAs', pbc=False)

@@ -1,0 +1,2 @@
+Fe5Gd2Si8
+Atoms(symbols='Gd2Fe5Si8', pbc=False)

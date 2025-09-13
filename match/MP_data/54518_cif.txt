@@ -1,0 +1,2 @@
+Au2N14O18
+Atoms(symbols='AuN7O9AuN7O9', pbc=False)

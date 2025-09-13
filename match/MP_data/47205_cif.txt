@@ -1,0 +1,2 @@
+Cu4Mn10Nd2O24
+Atoms(symbols='NdMn5Cu2O12NdMn5Cu2O12', pbc=False)

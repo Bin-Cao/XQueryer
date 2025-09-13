@@ -1,0 +1,2 @@
+Hg68
+Atoms(symbols='Hg68', pbc=False)

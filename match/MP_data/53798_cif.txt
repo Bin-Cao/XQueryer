@@ -1,0 +1,2 @@
+CeCo4Cu
+Atoms(symbols='CeCo4Cu', pbc=False)

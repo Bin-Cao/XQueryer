@@ -1,0 +1,2 @@
+Au15Ca6Ge7
+Atoms(symbols='Ca6Ge7Au15', pbc=False)

@@ -1,0 +1,2 @@
+Mo17Ni15P12
+Atoms(symbols='Ni15Mo17P12', pbc=False)

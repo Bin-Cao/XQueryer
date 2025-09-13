@@ -1,0 +1,2 @@
+Ca2EuNi6Zn9
+Atoms(symbols='Ca2EuZn9Ni6', pbc=False)

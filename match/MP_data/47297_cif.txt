@@ -1,0 +1,2 @@
+P3Pd12
+Atoms(symbols='P3Pd12', pbc=False)

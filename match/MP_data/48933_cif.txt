@@ -1,0 +1,2 @@
+ErLiSe2
+Atoms(symbols='LiErSe2', pbc=False)

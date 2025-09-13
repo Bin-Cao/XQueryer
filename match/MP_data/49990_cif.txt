@@ -1,0 +1,2 @@
+CeLaRh4
+Atoms(symbols='LaCeRh4', pbc=False)

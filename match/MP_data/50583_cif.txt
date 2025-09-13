@@ -1,0 +1,2 @@
+Fe4Ga12La16O48
+Atoms(symbols='Fe4Ga12La16O48', pbc=False)

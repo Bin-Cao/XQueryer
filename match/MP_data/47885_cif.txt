@@ -1,0 +1,2 @@
+H4Na4PdPt
+Atoms(symbols='Na4H4PdPt', pbc=False)

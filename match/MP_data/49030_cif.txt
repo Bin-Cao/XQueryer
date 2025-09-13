@@ -1,0 +1,2 @@
+Bi24Ca12O48
+Atoms(symbols='Bi24Ca12O48', pbc=False)

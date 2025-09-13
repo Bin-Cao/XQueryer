@@ -1,0 +1,2 @@
+O32Sb8
+Atoms(symbols='Sb4O16Sb4O16', pbc=False)

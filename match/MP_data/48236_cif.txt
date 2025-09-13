@@ -1,0 +1,2 @@
+Fe18Nb24Si30
+Atoms(symbols='Fe18Nb24Si30', pbc=False)

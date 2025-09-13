@@ -1,0 +1,2 @@
+CaGdS2
+Atoms(symbols='CaGdS2', pbc=False)

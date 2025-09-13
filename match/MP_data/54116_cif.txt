@@ -1,0 +1,2 @@
+CaEr2Te4
+Atoms(symbols='CaEr2Te4', pbc=False)

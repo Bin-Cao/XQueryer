@@ -1,0 +1,2 @@
+Er4Fe29Si5
+Atoms(symbols='Er4Fe29Si5', pbc=False)

@@ -1,0 +1,2 @@
+In2O18P6
+Atoms(symbols='In2P6O18', pbc=False)

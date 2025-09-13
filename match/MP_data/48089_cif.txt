@@ -1,0 +1,2 @@
+MoRu
+Atoms(symbols='MoRu', pbc=False)

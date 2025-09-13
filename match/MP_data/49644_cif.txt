@@ -1,0 +1,2 @@
+As2Mn6O24Zn4
+Atoms(symbols='Mn3Zn2AsO12Mn3Zn2AsO12', pbc=False)

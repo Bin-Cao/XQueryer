@@ -1,0 +1,2 @@
+Cu10Mo8O60Sr20W2
+Atoms(symbols='Cu10Mo8O60Sr20W2', pbc=False)

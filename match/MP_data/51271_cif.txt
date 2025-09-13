@@ -1,0 +1,2 @@
+Cd2Ho2In2
+Atoms(symbols='Ho2Cd2In2', pbc=False)

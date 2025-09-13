@@ -1,0 +1,2 @@
+Gd4O36Ta12
+Atoms(symbols='Gd4Ta12O36', pbc=False)

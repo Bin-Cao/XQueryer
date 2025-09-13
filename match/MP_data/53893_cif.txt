@@ -1,0 +1,2 @@
+B12Co3Re25
+Atoms(symbols='Co3Re25B12', pbc=False)

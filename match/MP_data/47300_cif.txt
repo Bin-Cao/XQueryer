@@ -1,0 +1,2 @@
+Cu2Nd4Rh4Si6
+Atoms(symbols='Nd2CuSi3Rh2Nd2CuSi3Rh2', pbc=False)

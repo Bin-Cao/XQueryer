@@ -1,0 +1,2 @@
+CAs18Mn26O57
+Atoms(symbols='CAs18Mn26O57', pbc=False)

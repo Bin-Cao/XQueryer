@@ -1,0 +1,2 @@
+Pd2SbTe
+Atoms(symbols='SbTePd2', pbc=False)

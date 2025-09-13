@@ -1,0 +1,2 @@
+H28Na3O22V
+Atoms(symbols='Na3VH28O22', pbc=False)

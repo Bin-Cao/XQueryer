@@ -1,0 +1,2 @@
+Cu3MnO12Se4
+Atoms(symbols='MnCu3Se4O12', pbc=False)

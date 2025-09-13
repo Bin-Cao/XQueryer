@@ -1,0 +1,2 @@
+HgPb3
+Atoms(symbols='HgPb3', pbc=False)

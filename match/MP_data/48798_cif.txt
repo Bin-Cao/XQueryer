@@ -1,0 +1,2 @@
+Cr6Mn2Te8
+Atoms(symbols='MnCr3Te4MnCr3Te4', pbc=False)

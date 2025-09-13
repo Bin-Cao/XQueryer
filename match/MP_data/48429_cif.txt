@@ -1,0 +1,2 @@
+Bi9Ca2NaNb8O36
+Atoms(symbols='NaCa2Nb8Bi9O36', pbc=False)

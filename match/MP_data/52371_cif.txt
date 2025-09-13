@@ -1,0 +1,2 @@
+H2I6O19PbPt
+Atoms(symbols='H2PtPbI6O19', pbc=False)

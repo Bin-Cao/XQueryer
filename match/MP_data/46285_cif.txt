@@ -1,0 +1,2 @@
+C4Cr2Fe32Sm4
+Atoms(symbols='Sm2CrFe16C2Sm2CrFe16C2', pbc=False)

@@ -1,0 +1,2 @@
+H4As4Co7CuO20
+Atoms(symbols='Co7CuAs4H4O20', pbc=False)

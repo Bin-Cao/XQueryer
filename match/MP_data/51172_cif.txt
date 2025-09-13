@@ -1,0 +1,2 @@
+GdPd2Pt
+Atoms(symbols='GdPd2Pt', pbc=False)

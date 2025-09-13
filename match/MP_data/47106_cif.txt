@@ -1,0 +1,2 @@
+C6Co3Fe31Sm4
+Atoms(symbols='Sm4Fe31Co3C6', pbc=False)

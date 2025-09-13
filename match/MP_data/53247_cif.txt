@@ -1,0 +1,2 @@
+Al4CeCu2Si
+Atoms(symbols='CeAl4Cu2Si', pbc=False)

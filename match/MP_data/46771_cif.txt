@@ -1,0 +1,2 @@
+PtRe3
+Atoms(symbols='Re3Pt', pbc=False)

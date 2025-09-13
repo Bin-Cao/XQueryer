@@ -1,0 +1,2 @@
+CaMg14O16Si
+Atoms(symbols='CaMg14SiO16', pbc=False)

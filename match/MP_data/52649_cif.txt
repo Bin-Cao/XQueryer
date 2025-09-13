@@ -1,0 +1,2 @@
+As4Cu12S13
+Atoms(symbols='Cu12As4S13', pbc=False)

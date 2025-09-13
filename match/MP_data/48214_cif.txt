@@ -1,0 +1,2 @@
+Ca2Ge12Na4O28
+Atoms(symbols='Na2CaGe6O14Na2CaGe6O14', pbc=False)

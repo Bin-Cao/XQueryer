@@ -1,0 +1,2 @@
+Ba2Nd8O16Sr2
+Atoms(symbols='Ba2Sr2Nd8O16', pbc=False)

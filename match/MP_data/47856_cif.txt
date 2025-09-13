@@ -1,0 +1,2 @@
+Au51Pr14
+Atoms(symbols='Au51Pr14', pbc=False)

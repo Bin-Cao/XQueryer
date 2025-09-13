@@ -1,0 +1,2 @@
+ClF8Os
+Atoms(symbols='OsClF8', pbc=False)

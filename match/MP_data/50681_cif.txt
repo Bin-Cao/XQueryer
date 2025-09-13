@@ -1,0 +1,2 @@
+ClK3O
+Atoms(symbols='K3ClO', pbc=False)

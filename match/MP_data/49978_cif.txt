@@ -1,0 +1,2 @@
+Co3Ir9Mn12Sb12
+Atoms(symbols='Mn4CoSb4Ir3Mn4CoSb4Ir3Mn4CoSb4Ir3', pbc=False)

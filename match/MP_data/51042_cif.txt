@@ -1,0 +1,2 @@
+K2Mo18S18
+Atoms(symbols='K2Mo18S18', pbc=False)

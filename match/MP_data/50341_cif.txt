@@ -1,0 +1,2 @@
+CuLaP2Zn
+Atoms(symbols='LaZnCuP2', pbc=False)

@@ -1,0 +1,2 @@
+Mo10Nb10Si12
+Atoms(symbols='Nb5Si6Mo5Nb5Si6Mo5', pbc=False)

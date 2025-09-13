@@ -1,0 +1,2 @@
+Co3Ni9P4
+Atoms(symbols='Co3Ni9P4', pbc=False)

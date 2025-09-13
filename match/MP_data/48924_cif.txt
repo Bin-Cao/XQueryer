@@ -1,0 +1,2 @@
+Co8Ge12Mn6
+Atoms(symbols='Mn3Co4Ge6Mn3Co4Ge6', pbc=False)

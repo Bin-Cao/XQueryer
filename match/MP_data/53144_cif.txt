@@ -1,0 +1,2 @@
+Br2Cl6Cs4Cu2
+Atoms(symbols='Cs2CuBrCl3Cs2CuBrCl3', pbc=False)

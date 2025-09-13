@@ -1,0 +1,2 @@
+K5NaNi5O28P8
+Atoms(symbols='K5NaNi5P8O28', pbc=False)

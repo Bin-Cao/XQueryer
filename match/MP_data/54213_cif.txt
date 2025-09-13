@@ -1,0 +1,2 @@
+CeCuP2Zn
+Atoms(symbols='CeZnCuP2', pbc=False)

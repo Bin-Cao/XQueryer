@@ -1,0 +1,2 @@
+Co2Li8O12Te2
+Atoms(symbols='Li4CoTeO6Li4CoTeO6', pbc=False)

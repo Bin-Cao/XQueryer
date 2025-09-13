@@ -1,0 +1,2 @@
+CsMg14V
+Atoms(symbols='CsMg14V', pbc=False)

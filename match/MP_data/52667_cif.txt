@@ -1,0 +1,2 @@
+Cr2Fe10Gd
+Atoms(symbols='GdCr2Fe10', pbc=False)

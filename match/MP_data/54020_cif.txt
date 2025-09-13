@@ -1,0 +1,2 @@
+Co3Ge2
+Atoms(symbols='Co3Ge2', pbc=False)

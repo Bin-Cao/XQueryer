@@ -1,0 +1,2 @@
+AlNdSi
+Atoms(symbols='NdAlSi', pbc=False)

@@ -1,0 +1,2 @@
+Bi6Dy18Fe2Mn
+Atoms(symbols='Dy18MnFe2Bi6', pbc=False)

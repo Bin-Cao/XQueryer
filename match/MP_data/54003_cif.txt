@@ -1,0 +1,2 @@
+AuBi3
+Atoms(symbols='Bi3Au', pbc=False)

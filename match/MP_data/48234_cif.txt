@@ -1,0 +1,2 @@
+As16Eu4Na20Ta4
+Atoms(symbols='Na10Eu2Ta2As8Na10Eu2Ta2As8', pbc=False)

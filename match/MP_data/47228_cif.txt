@@ -1,0 +1,2 @@
+FeNd2RuSi2
+Atoms(symbols='Nd2FeSi2Ru', pbc=False)

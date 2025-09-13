@@ -1,0 +1,2 @@
+Gd2O14Sb2Sc2Y2
+Atoms(symbols='Gd2Y2Sc2Sb2O14', pbc=False)

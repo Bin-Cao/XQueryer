@@ -1,0 +1,2 @@
+CuGa3Ho2
+Atoms(symbols='Ho2Ga3Cu', pbc=False)

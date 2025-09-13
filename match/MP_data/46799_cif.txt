@@ -1,0 +1,2 @@
+Cd6Na2O8Rb2
+Atoms(symbols='RbNaCd3O4RbNaCd3O4', pbc=False)

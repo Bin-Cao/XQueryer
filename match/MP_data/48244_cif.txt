@@ -1,0 +1,2 @@
+Na2NiSn
+Atoms(symbols='Na2NiSn', pbc=False)

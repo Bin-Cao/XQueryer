@@ -1,0 +1,2 @@
+LaTe6Tl9
+Atoms(symbols='LaTl9Te6', pbc=False)

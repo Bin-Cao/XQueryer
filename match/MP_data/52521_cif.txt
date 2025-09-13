@@ -1,0 +1,2 @@
+Cu2Ni8O10
+Atoms(symbols='CuNi4O5CuNi4O5', pbc=False)

@@ -1,0 +1,2 @@
+Ce8O20U2
+Atoms(symbols='Ce4UO10Ce4UO10', pbc=False)

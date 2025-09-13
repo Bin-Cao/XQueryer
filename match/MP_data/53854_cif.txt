@@ -1,0 +1,2 @@
+FeNi35S32
+Atoms(symbols='FeNi35S32', pbc=False)

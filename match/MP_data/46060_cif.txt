@@ -1,0 +1,2 @@
+FeS4Ta2
+Atoms(symbols='Ta2FeS4', pbc=False)

@@ -1,0 +1,2 @@
+Mo72Ni48P28
+Atoms(symbols='Mo72Ni48P28', pbc=False)

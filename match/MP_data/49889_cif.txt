@@ -1,0 +1,2 @@
+La16Mg4
+Atoms(symbols='La4MgLa4MgLa4MgLa4Mg', pbc=False)

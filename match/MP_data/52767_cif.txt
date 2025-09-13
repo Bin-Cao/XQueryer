@@ -1,0 +1,2 @@
+CrLa2O6Ti
+Atoms(symbols='La2TiCrO6', pbc=False)

@@ -1,0 +1,2 @@
+In3P4Sc
+Atoms(symbols='ScIn3P4', pbc=False)

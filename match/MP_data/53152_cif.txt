@@ -1,0 +1,2 @@
+Ce2O20Th8
+Atoms(symbols='CeTh4O10CeTh4O10', pbc=False)

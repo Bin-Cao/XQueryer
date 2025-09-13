@@ -1,0 +1,2 @@
+Cl2Cr24K2O56Si16
+Atoms(symbols='Cl2Cr24K2O56Si16', pbc=False)

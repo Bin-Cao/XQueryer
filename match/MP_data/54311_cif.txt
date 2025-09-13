@@ -1,0 +1,2 @@
+B12Ce4Rh18
+Atoms(symbols='Ce2B6Rh9Ce2B6Rh9', pbc=False)

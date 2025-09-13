@@ -1,0 +1,2 @@
+CeCo10La
+Atoms(symbols='LaCeCo10', pbc=False)

@@ -1,0 +1,2 @@
+Co5NiS8
+Atoms(symbols='Co5NiS8', pbc=False)

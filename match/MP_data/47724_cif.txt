@@ -1,0 +1,2 @@
+Al12Fe39Sm6
+Atoms(symbols='Sm2Al4Fe13Sm2Al4Fe13Sm2Al4Fe13', pbc=False)

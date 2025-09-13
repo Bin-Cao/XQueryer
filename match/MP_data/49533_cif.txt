@@ -1,0 +1,2 @@
+AlCo3Lu2
+Atoms(symbols='Lu2AlCo3', pbc=False)

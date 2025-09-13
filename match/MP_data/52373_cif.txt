@@ -1,0 +1,2 @@
+Fe8O48Pb12Te8
+Atoms(symbols='Fe8O48Pb12Te8', pbc=False)

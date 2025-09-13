@@ -1,0 +1,2 @@
+Ge4Ni2Pd2
+Atoms(symbols='Ni2Ge4Pd2', pbc=False)

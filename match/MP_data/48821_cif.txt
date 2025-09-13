@@ -1,0 +1,2 @@
+C2H4Lu2Na2O14P4
+Atoms(symbols='Na2Lu2P4H4C2O14', pbc=False)

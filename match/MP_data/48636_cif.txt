@@ -1,0 +1,2 @@
+Al48Cr2Mn2
+Atoms(symbols='MnAl24CrMnAl24Cr', pbc=False)

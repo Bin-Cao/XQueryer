@@ -1,0 +1,2 @@
+K3Mo12O40Rb5
+Atoms(symbols='K3Rb5Mo12O40', pbc=False)

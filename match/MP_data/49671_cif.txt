@@ -1,0 +1,2 @@
+Ag2La2Nb4O14
+Atoms(symbols='LaNb2AgO7LaNb2AgO7', pbc=False)

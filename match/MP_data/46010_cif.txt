@@ -1,0 +1,2 @@
+Ga20O40Sr6Ti2
+Atoms(symbols='Ga20O40Sr6Ti2', pbc=False)

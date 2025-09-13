@@ -1,0 +1,2 @@
+Co8Cr20Cu2Se40
+Atoms(symbols='Co8Cr20Cu2Se40', pbc=False)

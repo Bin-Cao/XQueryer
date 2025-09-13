@@ -1,0 +1,2 @@
+CePt4Rh
+Atoms(symbols='CePt4Rh', pbc=False)

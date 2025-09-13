@@ -1,0 +1,2 @@
+Al2CoLi3O6
+Atoms(symbols='Li3Al2CoO6', pbc=False)

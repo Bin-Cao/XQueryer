@@ -1,0 +1,2 @@
+Bi16Mn20Rh8
+Atoms(symbols='Mn10Bi8Rh4Mn10Bi8Rh4', pbc=False)

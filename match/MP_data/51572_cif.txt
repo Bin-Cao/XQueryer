@@ -1,0 +1,2 @@
+Co3La6Ni3O18
+Atoms(symbols='La2CoNiO6La2CoNiO6La2CoNiO6', pbc=False)

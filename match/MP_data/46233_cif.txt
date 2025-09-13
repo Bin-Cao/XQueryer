@@ -1,0 +1,2 @@
+Mn2O20Ta6Zn3
+Atoms(symbols='Ta6Mn2Zn3O20', pbc=False)

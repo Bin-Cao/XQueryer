@@ -1,0 +1,2 @@
+C4Er4Fe34
+Atoms(symbols='Er2Fe17C2Er2Fe17C2', pbc=False)

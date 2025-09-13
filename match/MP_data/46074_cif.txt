@@ -1,0 +1,2 @@
+Nd16O36Sr12
+Atoms(symbols='Nd16O36Sr12', pbc=False)

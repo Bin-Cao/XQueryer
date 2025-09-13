@@ -1,0 +1,2 @@
+Cd10O26P6
+Atoms(symbols='Cd10P6O26', pbc=False)

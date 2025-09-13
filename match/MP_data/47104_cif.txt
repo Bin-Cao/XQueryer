@@ -1,0 +1,2 @@
+Mn6Na12O36Si12
+Atoms(symbols='Mn6Na12O36Si12', pbc=False)

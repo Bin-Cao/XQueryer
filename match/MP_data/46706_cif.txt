@@ -1,0 +1,2 @@
+Ca3O14Ru4Sr3
+Atoms(symbols='Sr3Ca3Ru4O14', pbc=False)

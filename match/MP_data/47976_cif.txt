@@ -1,0 +1,2 @@
+Bi7O24PrTi6
+Atoms(symbols='PrTi6Bi7O24', pbc=False)

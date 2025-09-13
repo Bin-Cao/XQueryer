@@ -1,0 +1,2 @@
+H28Na20O72Se16
+Atoms(symbols='H28Na20O72Se16', pbc=False)

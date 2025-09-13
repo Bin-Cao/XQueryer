@@ -1,0 +1,2 @@
+Co8Nb3Si
+Atoms(symbols='Nb3Co8Si', pbc=False)

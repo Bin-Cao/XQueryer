@@ -1,0 +1,2 @@
+Pr20S36
+Atoms(symbols='Pr10S18Pr10S18', pbc=False)

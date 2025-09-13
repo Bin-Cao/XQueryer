@@ -1,0 +1,2 @@
+B8Mg20O40Sn2Ti2
+Atoms(symbols='B8Mg20O40Sn2Ti2', pbc=False)

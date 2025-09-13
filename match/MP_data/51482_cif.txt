@@ -1,0 +1,2 @@
+C2Fe13Ga4Ho2
+Atoms(symbols='Ho2Ga4Fe13C2', pbc=False)

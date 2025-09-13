@@ -1,0 +1,2 @@
+Er24N80O4Si44
+Atoms(symbols='Er24N80O4Si44', pbc=False)

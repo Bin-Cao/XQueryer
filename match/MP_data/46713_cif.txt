@@ -1,0 +1,2 @@
+Cu2NdO9RuSr2
+Atoms(symbols='Sr2NdCu2RuO9', pbc=False)

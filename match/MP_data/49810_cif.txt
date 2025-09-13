@@ -1,0 +1,2 @@
+Bi2FLa2OS4
+Atoms(symbols='La2Bi2S4OF', pbc=False)

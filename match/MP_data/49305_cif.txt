@@ -1,0 +1,2 @@
+Ga8Lu6Mn4
+Atoms(symbols='Lu3Mn2Ga4Lu3Mn2Ga4', pbc=False)

@@ -1,0 +1,2 @@
+Fe20Ho2V4
+Atoms(symbols='HoV2Fe10HoV2Fe10', pbc=False)

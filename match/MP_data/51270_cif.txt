@@ -1,0 +1,2 @@
+Ga3InN4
+Atoms(symbols='InGa3N4', pbc=False)

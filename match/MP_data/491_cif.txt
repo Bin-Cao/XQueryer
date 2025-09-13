@@ -1,0 +1,2 @@
+AsB2P
+Atoms(symbols='B2AsP', pbc=False)

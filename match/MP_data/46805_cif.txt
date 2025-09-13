@@ -1,0 +1,2 @@
+Ga42Ru22Sm16
+Atoms(symbols='Ga42Ru22Sm16', pbc=False)

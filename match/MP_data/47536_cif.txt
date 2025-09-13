@@ -1,0 +1,2 @@
+Nb4O24Te4Tl4
+Atoms(symbols='Nb2Tl2Te2O12Nb2Tl2Te2O12', pbc=False)

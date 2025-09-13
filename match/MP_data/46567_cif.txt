@@ -1,0 +1,2 @@
+PbSe3Sn2
+Atoms(symbols='Sn2PbSe3', pbc=False)

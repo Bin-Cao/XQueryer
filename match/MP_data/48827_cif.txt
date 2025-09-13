@@ -1,0 +1,2 @@
+As6Co3Mn6Rh3
+Atoms(symbols='Mn6Co3As6Rh3', pbc=False)

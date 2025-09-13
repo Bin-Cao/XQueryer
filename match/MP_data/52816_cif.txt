@@ -1,0 +1,2 @@
+Cr10Ni2Sn24
+Atoms(symbols='Cr5NiSn12Cr5NiSn12', pbc=False)

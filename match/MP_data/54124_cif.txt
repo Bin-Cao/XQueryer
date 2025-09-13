@@ -1,0 +1,2 @@
+C25Er15Fe4Ru4
+Atoms(symbols='Er15Fe4Ru4C25', pbc=False)

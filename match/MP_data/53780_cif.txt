@@ -1,0 +1,2 @@
+C3Al16Ce4Ni4
+Atoms(symbols='Ce4Al16Ni4C3', pbc=False)

@@ -1,0 +1,2 @@
+AlMg14O16V
+Atoms(symbols='Mg14AlVO16', pbc=False)

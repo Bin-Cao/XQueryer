@@ -1,0 +1,2 @@
+Hf8O30Pb10Ti2
+Atoms(symbols='Hf8Ti2Pb10O30', pbc=False)

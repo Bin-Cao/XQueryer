@@ -1,0 +1,2 @@
+Mo6O46Pr2Te
+Atoms(symbols='Pr2TeMo6O46', pbc=False)

@@ -1,0 +1,2 @@
+Cr8Dy2Ge12Mn4
+Atoms(symbols='DyMn2Cr4Ge6DyMn2Cr4Ge6', pbc=False)

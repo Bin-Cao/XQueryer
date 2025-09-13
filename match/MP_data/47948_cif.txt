@@ -1,0 +1,2 @@
+GeO16Pb8Si3
+Atoms(symbols='Si3GePb8O16', pbc=False)

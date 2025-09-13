@@ -1,0 +1,2 @@
+BaCuGe
+Atoms(symbols='BaCuGe', pbc=False)

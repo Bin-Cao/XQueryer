@@ -1,0 +1,2 @@
+Cu22In18
+Atoms(symbols='In9Cu11In9Cu11', pbc=False)

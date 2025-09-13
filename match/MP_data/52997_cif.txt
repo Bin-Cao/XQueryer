@@ -1,0 +1,2 @@
+Co2Mo4Re4S16
+Atoms(symbols='CoRe2Mo2S8CoRe2Mo2S8', pbc=False)

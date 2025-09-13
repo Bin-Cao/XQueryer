@@ -1,0 +1,2 @@
+H8Cl2Cu5O10
+Atoms(symbols='Cu5H8Cl2O10', pbc=False)

@@ -1,0 +1,2 @@
+CaCr4Nd3O16
+Atoms(symbols='CaNd3Cr4O16', pbc=False)

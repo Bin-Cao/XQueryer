@@ -1,0 +1,2 @@
+Bi16Cd2Cl20O16
+Atoms(symbols='CdBi8Cl10O8CdBi8Cl10O8', pbc=False)

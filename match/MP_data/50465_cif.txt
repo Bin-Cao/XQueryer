@@ -1,0 +1,2 @@
+H44MgNa4O52V10
+Atoms(symbols='H44MgNa4O52V10', pbc=False)

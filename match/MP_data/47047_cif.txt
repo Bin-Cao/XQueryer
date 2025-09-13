@@ -1,0 +1,2 @@
+NiRu
+Atoms(symbols='NiRu', pbc=False)

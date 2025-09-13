@@ -1,0 +1,2 @@
+Mg6S3Te3
+Atoms(symbols='Mg2TeSMg2TeSMg2TeS', pbc=False)

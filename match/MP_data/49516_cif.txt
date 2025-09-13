@@ -1,0 +1,2 @@
+C4LaNd
+Atoms(symbols='LaNdC4', pbc=False)

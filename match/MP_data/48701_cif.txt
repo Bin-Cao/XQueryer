@@ -1,0 +1,2 @@
+H3B3Cr3Mg3NaO31Si6V3
+Atoms(symbols='NaMg3V3Cr3Si6B3H3O31', pbc=False)

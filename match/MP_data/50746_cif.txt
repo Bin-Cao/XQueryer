@@ -1,0 +1,2 @@
+HfS6Zr
+Atoms(symbols='HfZrS6', pbc=False)

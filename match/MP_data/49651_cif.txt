@@ -1,0 +1,2 @@
+Ir65P52Sm30
+Atoms(symbols='Ir65P52Sm30', pbc=False)

@@ -1,0 +1,2 @@
+B2Eu3Ni7
+Atoms(symbols='Eu3Ni7B2', pbc=False)

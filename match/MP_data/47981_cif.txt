@@ -1,0 +1,2 @@
+Al2Ca2Mg2Na2O24Si8
+Atoms(symbols='NaCaMgAlSi4O12NaCaMgAlSi4O12', pbc=False)

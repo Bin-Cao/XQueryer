@@ -1,0 +1,2 @@
+Fe8K2Rb2S12
+Atoms(symbols='KRbFe4S6KRbFe4S6', pbc=False)

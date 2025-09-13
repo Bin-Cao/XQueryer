@@ -1,0 +1,2 @@
+InSn2Te3
+Atoms(symbols='InSn2Te3', pbc=False)

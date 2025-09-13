@@ -1,0 +1,2 @@
+CCeNU
+Atoms(symbols='CeUCN', pbc=False)

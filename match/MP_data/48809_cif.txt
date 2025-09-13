@@ -1,0 +1,2 @@
+Mo6NO18
+Atoms(symbols='Mo6NO18', pbc=False)

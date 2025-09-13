@@ -1,0 +1,2 @@
+O30Sr10Ti8Zr2
+Atoms(symbols='Sr5ZrTi4O15Sr5ZrTi4O15', pbc=False)

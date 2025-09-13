@@ -1,0 +1,2 @@
+CDy2Fe15NSi2
+Atoms(symbols='Dy2Fe15Si2CN', pbc=False)

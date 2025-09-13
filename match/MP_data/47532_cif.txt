@@ -1,0 +1,2 @@
+Nd4O76Ta28
+Atoms(symbols='Nd4O76Ta28', pbc=False)

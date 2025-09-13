@@ -1,0 +1,2 @@
+H3As4KO12
+Atoms(symbols='KAs4H3O12', pbc=False)

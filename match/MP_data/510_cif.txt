@@ -1,0 +1,2 @@
+H2Er2
+Atoms(symbols='Er2H2', pbc=False)

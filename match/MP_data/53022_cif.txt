@@ -1,0 +1,2 @@
+B8Co8Cr8
+Atoms(symbols='Cr2Co2B2Cr2Co2B2Cr2Co2B2Cr2Co2B2', pbc=False)

@@ -1,0 +1,2 @@
+CeNiSb
+Atoms(symbols='CeNiSb', pbc=False)

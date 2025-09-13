@@ -1,0 +1,2 @@
+La3Mn4O12Pr
+Atoms(symbols='La3PrMn4O12', pbc=False)

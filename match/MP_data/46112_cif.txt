@@ -1,0 +1,2 @@
+Cu10Ga2O32Pb8Sr8Y4
+Atoms(symbols='Cu10Ga2O32Pb8Sr8Y4', pbc=False)

@@ -1,0 +1,2 @@
+CAg4As8K12OSe20
+Atoms(symbols='K12Ag4As8CSe20O', pbc=False)

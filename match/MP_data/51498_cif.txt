@@ -1,0 +1,2 @@
+Hg31K7
+Atoms(symbols='K7Hg31', pbc=False)

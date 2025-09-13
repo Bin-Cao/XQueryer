@@ -1,0 +1,2 @@
+Hg109Sr21
+Atoms(symbols='Hg109Sr21', pbc=False)

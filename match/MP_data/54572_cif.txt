@@ -1,0 +1,2 @@
+CaMn2Te3
+Atoms(symbols='CaMn2Te3', pbc=False)

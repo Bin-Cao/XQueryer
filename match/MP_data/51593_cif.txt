@@ -1,0 +1,2 @@
+Fe2Ho4Mo2O14
+Atoms(symbols='Ho4Fe2Mo2O14', pbc=False)

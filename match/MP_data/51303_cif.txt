@@ -1,0 +1,2 @@
+Cu6La8Mo2O24
+Atoms(symbols='La8Cu6Mo2O24', pbc=False)

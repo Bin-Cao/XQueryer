@@ -1,0 +1,2 @@
+B4Co10Mn2O20
+Atoms(symbols='Mn2Co10B4O20', pbc=False)

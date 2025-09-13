@@ -1,0 +1,2 @@
+CeO8PrSr4
+Atoms(symbols='Sr4CePrO8', pbc=False)

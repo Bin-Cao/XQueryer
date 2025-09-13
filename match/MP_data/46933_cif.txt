@@ -1,0 +1,2 @@
+BrFO24P6Sr10
+Atoms(symbols='Sr10P6BrO24F', pbc=False)

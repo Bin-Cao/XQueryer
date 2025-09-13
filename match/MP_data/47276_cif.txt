@@ -1,0 +1,2 @@
+Al3GaNd2
+Atoms(symbols='Nd2Al3Ga', pbc=False)

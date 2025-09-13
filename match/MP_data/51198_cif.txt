@@ -1,0 +1,2 @@
+Al3CuHo
+Atoms(symbols='HoAl3Cu', pbc=False)

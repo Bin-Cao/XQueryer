@@ -1,0 +1,2 @@
+Cu3N
+Atoms(symbols='Cu3N', pbc=False)

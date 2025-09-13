@@ -1,0 +1,2 @@
+Al16Ce4La4
+Atoms(symbols='LaCeAl4LaCeAl4LaCeAl4LaCeAl4', pbc=False)

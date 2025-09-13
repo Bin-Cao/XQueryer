@@ -1,0 +1,2 @@
+Er6Fe68Nd2
+Atoms(symbols='Er6Fe68Nd2', pbc=False)

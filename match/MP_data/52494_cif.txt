@@ -1,0 +1,2 @@
+H8FeNO10S2
+Atoms(symbols='FeH8S2NO10', pbc=False)

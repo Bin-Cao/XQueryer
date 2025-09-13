@@ -1,0 +1,2 @@
+Al4Fe26Mn4Sm4
+Atoms(symbols='Sm2Mn2Al2Fe13Sm2Mn2Al2Fe13', pbc=False)

@@ -1,0 +1,2 @@
+Ge3Li4O10Si
+Atoms(symbols='Li4SiGe3O10', pbc=False)

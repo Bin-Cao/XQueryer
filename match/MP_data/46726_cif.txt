@@ -1,0 +1,2 @@
+Ga4Mn4S16Sc4
+Atoms(symbols='Sc4Mn4Ga4S16', pbc=False)

@@ -1,0 +1,2 @@
+Co4Cr2Ga6Se16
+Atoms(symbols='CrGa3Co2Se8CrGa3Co2Se8', pbc=False)

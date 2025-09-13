@@ -1,0 +1,2 @@
+EuNaSe2
+Atoms(symbols='NaEuSe2', pbc=False)

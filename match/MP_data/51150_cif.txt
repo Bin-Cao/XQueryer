@@ -1,0 +1,2 @@
+In24Pb4Te40
+Atoms(symbols='In24Pb4Te40', pbc=False)

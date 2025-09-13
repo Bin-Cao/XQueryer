@@ -1,0 +1,2 @@
+BeCaSi
+Atoms(symbols='CaBeSi', pbc=False)

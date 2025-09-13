@@ -1,0 +1,2 @@
+Pd10Sn14
+Atoms(symbols='Sn7Pd5Sn7Pd5', pbc=False)

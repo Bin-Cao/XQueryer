@@ -1,0 +1,2 @@
+Fe16Ga16Ge16
+Atoms(symbols='Ga4Fe4Ge4Ga4Fe4Ge4Ga4Fe4Ge4Ga4Fe4Ge4', pbc=False)

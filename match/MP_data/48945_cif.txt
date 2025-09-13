@@ -1,0 +1,2 @@
+F4Li4O36W12
+Atoms(symbols='Li2W6O18F2Li2W6O18F2', pbc=False)

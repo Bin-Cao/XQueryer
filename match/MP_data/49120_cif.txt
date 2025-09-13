@@ -1,0 +1,2 @@
+LiZn3
+Atoms(symbols='LiZn3', pbc=False)

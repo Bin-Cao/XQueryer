@@ -1,0 +1,2 @@
+Ce3O8Zr
+Atoms(symbols='Ce3ZrO8', pbc=False)

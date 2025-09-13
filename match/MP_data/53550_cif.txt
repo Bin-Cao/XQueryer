@@ -1,0 +1,2 @@
+Co2Ni4Se8
+Atoms(symbols='CoNi2Se4CoNi2Se4', pbc=False)

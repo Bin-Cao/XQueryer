@@ -1,0 +1,2 @@
+LiNdS2
+Atoms(symbols='LiNdS2', pbc=False)

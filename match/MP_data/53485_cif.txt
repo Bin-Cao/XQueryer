@@ -1,0 +1,2 @@
+CCr24P11
+Atoms(symbols='Cr24P11C', pbc=False)

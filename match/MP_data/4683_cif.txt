@@ -1,0 +1,2 @@
+BeNi
+Atoms(symbols='BeNi', pbc=False)

@@ -1,0 +1,2 @@
+As8Ca4Fe3Pt
+Atoms(symbols='Ca4Fe3As8Pt', pbc=False)

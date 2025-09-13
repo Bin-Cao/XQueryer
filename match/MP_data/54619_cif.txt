@@ -1,0 +1,2 @@
+Cu6Ni3S24Sn9
+Atoms(symbols='Cu2NiSn3S8Cu2NiSn3S8Cu2NiSn3S8', pbc=False)

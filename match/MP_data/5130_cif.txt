@@ -1,0 +1,2 @@
+Na4O12Sn2Te2
+Atoms(symbols='Na4Sn2Te2O12', pbc=False)

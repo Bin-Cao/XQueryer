@@ -1,0 +1,2 @@
+MoReSi4
+Atoms(symbols='ReSi4Mo', pbc=False)

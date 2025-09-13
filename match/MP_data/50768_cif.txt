@@ -1,0 +1,2 @@
+MnMo9O45Zn3
+Atoms(symbols='MnZn3Mo9O45', pbc=False)

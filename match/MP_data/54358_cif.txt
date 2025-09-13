@@ -1,0 +1,2 @@
+Be40Ru12
+Atoms(symbols='Be20Ru6Be20Ru6', pbc=False)

@@ -1,0 +1,2 @@
+Cl3K2Na
+Atoms(symbols='K2NaCl3', pbc=False)

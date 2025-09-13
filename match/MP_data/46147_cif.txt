@@ -1,0 +1,2 @@
+O39Pb12Te3Ti9
+Atoms(symbols='O39Pb12Te3Ti9', pbc=False)

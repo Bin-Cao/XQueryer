@@ -1,0 +1,2 @@
+In4O24Sc4
+Atoms(symbols='Sc2In2O12Sc2In2O12', pbc=False)

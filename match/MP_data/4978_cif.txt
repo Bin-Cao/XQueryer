@@ -1,0 +1,2 @@
+GaKMg14O16
+Atoms(symbols='KMg14GaO16', pbc=False)

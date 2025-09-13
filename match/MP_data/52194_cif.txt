@@ -1,0 +1,2 @@
+Cu4Er4Ni4
+Atoms(symbols='Er2Cu2Ni2Er2Cu2Ni2', pbc=False)

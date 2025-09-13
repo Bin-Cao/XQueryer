@@ -1,0 +1,2 @@
+Nb20Nd4O60Sr6
+Atoms(symbols='Nb20Nd4O60Sr6', pbc=False)

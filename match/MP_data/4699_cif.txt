@@ -1,0 +1,2 @@
+AlMg14Y
+Atoms(symbols='YMg14Al', pbc=False)

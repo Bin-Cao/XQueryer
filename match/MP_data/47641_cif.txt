@@ -1,0 +1,2 @@
+Cu19In5Pr4
+Atoms(symbols='Pr4In5Cu19', pbc=False)

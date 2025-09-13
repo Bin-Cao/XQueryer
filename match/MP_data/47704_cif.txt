@@ -1,0 +1,2 @@
+CCuNa5O5
+Atoms(symbols='Na5CuCO5', pbc=False)

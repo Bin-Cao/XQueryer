@@ -1,0 +1,2 @@
+Ca3Si24Sr9
+Atoms(symbols='Sr3CaSi8Sr3CaSi8Sr3CaSi8', pbc=False)

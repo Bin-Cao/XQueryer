@@ -1,0 +1,2 @@
+K2O8Si3Zn
+Atoms(symbols='K2ZnSi3O8', pbc=False)

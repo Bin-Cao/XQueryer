@@ -1,0 +1,2 @@
+Mo2Na2O30V10
+Atoms(symbols='NaV5MoO15NaV5MoO15', pbc=False)

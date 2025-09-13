@@ -1,0 +1,2 @@
+C4La8O20
+Atoms(symbols='La4C2O10La4C2O10', pbc=False)

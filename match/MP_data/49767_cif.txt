@@ -1,0 +1,2 @@
+F2Fe2Li2O8S2
+Atoms(symbols='Li2Fe2S2O8F2', pbc=False)

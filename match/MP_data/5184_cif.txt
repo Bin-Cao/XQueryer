@@ -1,0 +1,2 @@
+Mg14MnO16Si
+Atoms(symbols='Mg14MnSiO16', pbc=False)

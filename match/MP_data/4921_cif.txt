@@ -1,0 +1,2 @@
+Ca6Mg2
+Atoms(symbols='Ca3MgCa3Mg', pbc=False)

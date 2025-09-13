@@ -1,0 +1,2 @@
+As12K8Ni14O48
+Atoms(symbols='As12K8Ni14O48', pbc=False)

@@ -1,0 +1,2 @@
+Co64Hf4Sm8
+Atoms(symbols='Co64Hf4Sm8', pbc=False)

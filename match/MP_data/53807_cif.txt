@@ -1,0 +1,2 @@
+Ca2NiSi3
+Atoms(symbols='Ca2Si3Ni', pbc=False)

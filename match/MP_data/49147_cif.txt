@@ -1,0 +1,2 @@
+K6N10Ni2O20
+Atoms(symbols='K6Ni2N10O20', pbc=False)

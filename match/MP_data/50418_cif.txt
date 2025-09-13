@@ -1,0 +1,2 @@
+Fe16La20Ni4O60
+Atoms(symbols='Fe16La20Ni4O60', pbc=False)

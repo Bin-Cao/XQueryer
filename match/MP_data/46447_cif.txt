@@ -1,0 +1,2 @@
+GaGe4S40V20
+Atoms(symbols='GaGe4S40V20', pbc=False)

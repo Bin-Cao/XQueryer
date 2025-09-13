@@ -1,0 +1,2 @@
+Bi4I20
+Atoms(symbols='Bi4I20', pbc=False)

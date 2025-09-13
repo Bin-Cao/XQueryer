@@ -1,0 +1,2 @@
+Cu9Ga3Mn6
+Atoms(symbols='Mn2GaCu3Mn2GaCu3Mn2GaCu3', pbc=False)

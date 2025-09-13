@@ -1,0 +1,2 @@
+Ce2Ga16Li6
+Atoms(symbols='Li3CeGa8Li3CeGa8', pbc=False)

@@ -1,0 +1,2 @@
+Al6Ir2Nb4
+Atoms(symbols='Nb4Al6Ir2', pbc=False)

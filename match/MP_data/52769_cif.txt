@@ -1,0 +1,2 @@
+K8O40Si12SnZr3
+Atoms(symbols='K8O40Si12SnZr3', pbc=False)

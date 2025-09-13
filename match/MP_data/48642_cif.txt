@@ -1,0 +1,2 @@
+Ge3Mn10Si3
+Atoms(symbols='Mn10Si3Ge3', pbc=False)

@@ -1,0 +1,2 @@
+Bi12In16S40
+Atoms(symbols='Bi12In16S40', pbc=False)

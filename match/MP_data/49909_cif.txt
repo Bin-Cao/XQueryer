@@ -1,0 +1,2 @@
+InLiMo6Se6
+Atoms(symbols='LiInMo6Se6', pbc=False)

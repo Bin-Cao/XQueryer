@@ -1,0 +1,2 @@
+BCr12P3
+Atoms(symbols='Cr12BP3', pbc=False)

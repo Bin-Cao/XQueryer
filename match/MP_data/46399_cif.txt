@@ -1,0 +1,2 @@
+FeSi3Sm2
+Atoms(symbols='Sm2FeSi3', pbc=False)

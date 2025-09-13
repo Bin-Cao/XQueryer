@@ -1,0 +1,2 @@
+Na18Se24Si8Sm2
+Atoms(symbols='Na9SmSi4Se12Na9SmSi4Se12', pbc=False)

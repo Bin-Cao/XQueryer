@@ -1,0 +1,2 @@
+Rh3W
+Atoms(symbols='Rh3W', pbc=False)

@@ -1,0 +1,2 @@
+RhSi
+Atoms(symbols='SiRh', pbc=False)

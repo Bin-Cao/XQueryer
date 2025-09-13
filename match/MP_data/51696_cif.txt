@@ -1,0 +1,2 @@
+Cu3Ga3Se8Si
+Atoms(symbols='Ga3Cu3SiSe8', pbc=False)

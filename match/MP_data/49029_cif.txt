@@ -1,0 +1,2 @@
+Ag2La2Mo4O16
+Atoms(symbols='LaAgMo2O8LaAgMo2O8', pbc=False)

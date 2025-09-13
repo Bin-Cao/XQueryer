@@ -1,0 +1,2 @@
+Nd20S36
+Atoms(symbols='Nd10S18Nd10S18', pbc=False)

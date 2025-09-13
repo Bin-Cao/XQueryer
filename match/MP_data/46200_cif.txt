@@ -1,0 +1,2 @@
+Cl12Mo2O2Te15
+Atoms(symbols='Te15Mo2Cl12O2', pbc=False)

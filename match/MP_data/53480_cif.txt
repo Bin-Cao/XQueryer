@@ -1,0 +1,2 @@
+Co24Cr36
+Atoms(symbols='Cr18Co12Cr18Co12', pbc=False)

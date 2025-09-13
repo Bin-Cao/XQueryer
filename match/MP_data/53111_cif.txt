@@ -1,0 +1,2 @@
+AsCr2Sb
+Atoms(symbols='Cr2SbAs', pbc=False)

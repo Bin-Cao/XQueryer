@@ -1,0 +1,2 @@
+P32Se3Si60Te13
+Atoms(symbols='P32Se3Si60Te13', pbc=False)

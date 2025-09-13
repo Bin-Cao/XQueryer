@@ -1,0 +1,2 @@
+AsLiSe2
+Atoms(symbols='LiAsSe2', pbc=False)

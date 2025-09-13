@@ -1,0 +1,2 @@
+Cr22Ni2S32
+Atoms(symbols='Cr11NiS16Cr11NiS16', pbc=False)

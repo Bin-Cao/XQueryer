@@ -1,0 +1,2 @@
+Cu8In8Mn8
+Atoms(symbols='Mn4In4Cu4Mn4In4Cu4', pbc=False)

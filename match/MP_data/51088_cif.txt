@@ -1,0 +1,2 @@
+Hf10Sc10Si12
+Atoms(symbols='Hf5Sc5Si6Hf5Sc5Si6', pbc=False)

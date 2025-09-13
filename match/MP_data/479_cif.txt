@@ -1,0 +1,2 @@
+CMg7
+Atoms(symbols='Mg7C', pbc=False)

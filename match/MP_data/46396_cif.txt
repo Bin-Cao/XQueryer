@@ -1,0 +1,2 @@
+Se90Tb48
+Atoms(symbols='Se90Tb48', pbc=False)

@@ -1,0 +1,2 @@
+Co4In12
+Atoms(symbols='In6Co2In6Co2', pbc=False)

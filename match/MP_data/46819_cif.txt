@@ -1,0 +1,2 @@
+Ir3La2Mn3O18Sr4
+Atoms(symbols='Sr4La2Mn3Ir3O18', pbc=False)

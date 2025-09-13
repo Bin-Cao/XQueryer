@@ -1,0 +1,2 @@
+Ag68In36
+Atoms(symbols='Ag68In36', pbc=False)

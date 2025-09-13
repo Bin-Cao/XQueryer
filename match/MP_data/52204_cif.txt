@@ -1,0 +1,2 @@
+C4DyEr
+Atoms(symbols='DyErC4', pbc=False)

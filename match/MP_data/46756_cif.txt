@@ -1,0 +1,2 @@
+Fe66Sm8Ti2
+Atoms(symbols='Fe66Sm8Ti2', pbc=False)

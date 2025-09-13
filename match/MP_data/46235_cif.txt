@@ -1,0 +1,2 @@
+Si4Tc16
+Atoms(symbols='SiTc4SiTc4SiTc4SiTc4', pbc=False)

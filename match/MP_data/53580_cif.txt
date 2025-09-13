@@ -1,0 +1,2 @@
+Cd3Cr7In2S16
+Atoms(symbols='Cr7Cd3In2S16', pbc=False)

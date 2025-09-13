@@ -1,0 +1,2 @@
+Nb12O39Pb9
+Atoms(symbols='Nb4Pb3O13Nb4Pb3O13Nb4Pb3O13', pbc=False)

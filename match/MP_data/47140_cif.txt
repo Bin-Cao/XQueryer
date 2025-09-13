@@ -1,0 +1,2 @@
+In4O112P28Sr36
+Atoms(symbols='In4O112P28Sr36', pbc=False)

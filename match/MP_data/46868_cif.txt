@@ -1,0 +1,2 @@
+Co12O50Sr24Zn4
+Atoms(symbols='Co12O50Sr24Zn4', pbc=False)

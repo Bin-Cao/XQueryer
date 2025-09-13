@@ -1,0 +1,2 @@
+Ni24Sn49Tb9
+Atoms(symbols='Ni24Sn49Tb9', pbc=False)

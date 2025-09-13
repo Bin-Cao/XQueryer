@@ -1,0 +1,2 @@
+K2N2O16P4
+Atoms(symbols='KP2NO8KP2NO8', pbc=False)

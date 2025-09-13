@@ -1,0 +1,2 @@
+Mo6Re2
+Atoms(symbols='ReMo3ReMo3', pbc=False)

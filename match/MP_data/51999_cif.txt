@@ -1,0 +1,2 @@
+Co6Cu2Er4
+Atoms(symbols='Er2Co3CuEr2Co3Cu', pbc=False)

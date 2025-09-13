@@ -1,0 +1,2 @@
+C2Ca8O18Tl4
+Atoms(symbols='Ca4Tl2CO9Ca4Tl2CO9', pbc=False)

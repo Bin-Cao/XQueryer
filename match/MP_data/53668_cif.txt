@@ -1,0 +1,2 @@
+CaGaSi
+Atoms(symbols='CaGaSi', pbc=False)

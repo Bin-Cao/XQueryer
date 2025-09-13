@@ -1,0 +1,2 @@
+As2LiNaS4
+Atoms(symbols='NaLiAs2S4', pbc=False)

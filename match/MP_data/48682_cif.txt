@@ -1,0 +1,2 @@
+CoLiO2
+Atoms(symbols='LiCoO2', pbc=False)

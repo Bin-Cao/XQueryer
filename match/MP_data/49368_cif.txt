@@ -1,0 +1,2 @@
+Mn8Nb3Si
+Atoms(symbols='Mn8Nb3Si', pbc=False)

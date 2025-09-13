@@ -1,0 +1,2 @@
+Ga10O61Rb6Se20
+Atoms(symbols='Ga10O61Rb6Se20', pbc=False)

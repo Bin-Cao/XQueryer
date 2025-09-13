@@ -1,0 +1,2 @@
+As4Er20Ga8
+Atoms(symbols='Er10Ga4As2Er10Ga4As2', pbc=False)

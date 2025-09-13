@@ -1,0 +1,2 @@
+As16Na20Nb4Sr4
+Atoms(symbols='Na10Sr2Nb2As8Na10Sr2Nb2As8', pbc=False)

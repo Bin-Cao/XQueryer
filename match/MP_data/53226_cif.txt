@@ -1,0 +1,2 @@
+CuNiPd
+Atoms(symbols='CuNiPd', pbc=False)

@@ -1,0 +1,2 @@
+F16O4Pr12S6
+Atoms(symbols='Pr12S6O4F16', pbc=False)

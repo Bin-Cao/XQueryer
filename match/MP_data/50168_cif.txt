@@ -1,0 +1,2 @@
+As2GaIn
+Atoms(symbols='InGaAs2', pbc=False)

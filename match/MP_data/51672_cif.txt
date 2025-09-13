@@ -1,0 +1,2 @@
+Fe6O24Sb6
+Atoms(symbols='Fe3Sb3O12Fe3Sb3O12', pbc=False)

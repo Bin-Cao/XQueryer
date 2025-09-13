@@ -1,0 +1,2 @@
+Fe4SeTe3
+Atoms(symbols='Fe4Te3Se', pbc=False)

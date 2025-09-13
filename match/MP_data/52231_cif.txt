@@ -1,0 +1,2 @@
+Eu4O36Ta12
+Atoms(symbols='Eu2Ta6O18Eu2Ta6O18', pbc=False)

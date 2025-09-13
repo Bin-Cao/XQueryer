@@ -1,0 +1,2 @@
+H2Al3Fe2KO12Si2
+Atoms(symbols='KAl3Fe2Si2H2O12', pbc=False)

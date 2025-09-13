@@ -1,0 +1,2 @@
+H12Br4N4Ni2
+Atoms(symbols='NiH6Br2N2NiH6Br2N2', pbc=False)

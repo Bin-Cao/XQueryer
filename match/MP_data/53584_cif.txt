@@ -1,0 +1,2 @@
+La2O72P18Ti12
+Atoms(symbols='La2O72P18Ti12', pbc=False)

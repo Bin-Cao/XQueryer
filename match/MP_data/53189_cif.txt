@@ -1,0 +1,2 @@
+In36K16Si56
+Atoms(symbols='In36K16Si56', pbc=False)

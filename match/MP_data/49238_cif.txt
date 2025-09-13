@@ -1,0 +1,2 @@
+Ca2LiN2Ni
+Atoms(symbols='LiCa2NiN2', pbc=False)

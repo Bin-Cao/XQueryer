@@ -1,0 +1,2 @@
+Al12Lu2Mn12
+Atoms(symbols='LuMn6Al6LuMn6Al6', pbc=False)

@@ -1,0 +1,2 @@
+Fe20Sc2Si4
+Atoms(symbols='ScFe10Si2ScFe10Si2', pbc=False)

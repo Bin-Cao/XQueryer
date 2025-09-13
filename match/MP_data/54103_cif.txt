@@ -1,0 +1,2 @@
+BeCo2Ge
+Atoms(symbols='BeCo2Ge', pbc=False)

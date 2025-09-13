@@ -1,0 +1,2 @@
+Cd16Co4S20
+Atoms(symbols='Cd8Co2S10Cd8Co2S10', pbc=False)

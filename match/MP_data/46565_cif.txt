@@ -1,0 +1,2 @@
+AlCu4Pr
+Atoms(symbols='PrAlCu4', pbc=False)

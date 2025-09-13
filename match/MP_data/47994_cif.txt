@@ -1,0 +1,2 @@
+NaO14P4Ru2
+Atoms(symbols='NaP4Ru2O14', pbc=False)

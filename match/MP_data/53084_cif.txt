@@ -1,0 +1,2 @@
+B3Co12
+Atoms(symbols='Co12B3', pbc=False)

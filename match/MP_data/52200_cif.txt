@@ -1,0 +1,2 @@
+AgDySi
+Atoms(symbols='DySiAg', pbc=False)

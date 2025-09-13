@@ -1,0 +1,2 @@
+Cu18Ho6Te18
+Atoms(symbols='Ho2Cu6Te6Ho2Cu6Te6Ho2Cu6Te6', pbc=False)

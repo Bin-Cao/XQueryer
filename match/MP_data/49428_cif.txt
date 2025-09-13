@@ -1,0 +1,2 @@
+C20Ca4Na8O60Pb12
+Atoms(symbols='C20Ca4Na8O60Pb12', pbc=False)

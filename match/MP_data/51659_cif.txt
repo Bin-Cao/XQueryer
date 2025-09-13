@@ -1,0 +1,2 @@
+Cu12La10O8S14
+Atoms(symbols='La10Cu12S14O8', pbc=False)

@@ -1,0 +1,2 @@
+Al2Li10O16Si4
+Atoms(symbols='Li5AlSi2O8Li5AlSi2O8', pbc=False)

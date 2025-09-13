@@ -1,0 +1,2 @@
+Ag3In3Mo6O24
+Atoms(symbols='In3Ag3Mo6O24', pbc=False)

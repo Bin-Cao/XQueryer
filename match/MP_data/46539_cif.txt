@@ -1,0 +1,2 @@
+O53V10Y2
+Atoms(symbols='O53V10Y2', pbc=False)

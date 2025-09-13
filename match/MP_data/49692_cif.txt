@@ -1,0 +1,2 @@
+Bi6La2O16
+Atoms(symbols='LaBi3O8LaBi3O8', pbc=False)

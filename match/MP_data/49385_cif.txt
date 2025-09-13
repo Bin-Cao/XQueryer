@@ -1,0 +1,2 @@
+BiKSe2
+Atoms(symbols='KBiSe2', pbc=False)

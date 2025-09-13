@@ -1,0 +1,2 @@
+Co2Fe4Se8
+Atoms(symbols='Fe2CoSe4Fe2CoSe4', pbc=False)

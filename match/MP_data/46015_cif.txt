@@ -1,0 +1,2 @@
+Co2Ni3Sm
+Atoms(symbols='SmCo2Ni3', pbc=False)

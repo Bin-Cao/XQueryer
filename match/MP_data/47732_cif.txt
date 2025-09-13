@@ -1,0 +1,2 @@
+Na2O20Si4Ti4Y2
+Atoms(symbols='NaYTi2Si2O10NaYTi2Si2O10', pbc=False)

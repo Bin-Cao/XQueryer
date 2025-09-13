@@ -1,0 +1,2 @@
+NaPrS2
+Atoms(symbols='NaPrS2', pbc=False)

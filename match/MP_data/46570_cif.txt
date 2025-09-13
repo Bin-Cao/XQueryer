@@ -1,0 +1,2 @@
+Co34N4Sm4
+Atoms(symbols='Sm2Co17N2Sm2Co17N2', pbc=False)

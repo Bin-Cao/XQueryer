@@ -1,0 +1,2 @@
+Fe4Ni4Sb24
+Atoms(symbols='Fe2Ni2Sb12Fe2Ni2Sb12', pbc=False)

@@ -1,0 +1,2 @@
+CuGeNd
+Atoms(symbols='NdCuGe', pbc=False)

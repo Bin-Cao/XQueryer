@@ -1,0 +1,2 @@
+F8K4Na2Nb2O4
+Atoms(symbols='K2NaNbO2F4K2NaNbO2F4', pbc=False)

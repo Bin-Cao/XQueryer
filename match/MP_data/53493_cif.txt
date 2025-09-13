@@ -1,0 +1,2 @@
+Cd6O20Pb6Si4
+Atoms(symbols='Cd3Si2Pb3O10Cd3Si2Pb3O10', pbc=False)

@@ -1,0 +1,2 @@
+Al2N20Nd6O2Si10
+Atoms(symbols='Nd6Al2Si10N20O2', pbc=False)

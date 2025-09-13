@@ -1,0 +1,2 @@
+As3In4P
+Atoms(symbols='In4As3P', pbc=False)

@@ -1,0 +1,2 @@
+Ca20F2Ge12
+Atoms(symbols='Ca10Ge6FCa10Ge6F', pbc=False)

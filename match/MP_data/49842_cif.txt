@@ -1,0 +1,2 @@
+Ge8Lu4Rh
+Atoms(symbols='Lu4Ge8Rh', pbc=False)

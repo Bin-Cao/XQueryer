@@ -1,0 +1,2 @@
+Al2Ca4P6Pt14
+Atoms(symbols='Ca2AlP3Pt7Ca2AlP3Pt7', pbc=False)

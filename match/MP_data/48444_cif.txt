@@ -1,0 +1,2 @@
+Al2CoMn
+Atoms(symbols='MnAl2Co', pbc=False)

@@ -1,0 +1,2 @@
+Li2O6
+Atoms(symbols='LiO3LiO3', pbc=False)

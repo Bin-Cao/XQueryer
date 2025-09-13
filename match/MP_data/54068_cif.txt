@@ -1,0 +1,2 @@
+CaCuSi
+Atoms(symbols='CaCuSi', pbc=False)

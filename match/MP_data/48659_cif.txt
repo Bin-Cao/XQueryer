@@ -1,0 +1,2 @@
+H7Na5O18Se4
+Atoms(symbols='Na5H7Se4O18', pbc=False)

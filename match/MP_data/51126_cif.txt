@@ -1,0 +1,2 @@
+O32Sn4Te12
+Atoms(symbols='Sn4Te12O32', pbc=False)

@@ -1,0 +1,2 @@
+CaLu2Te4
+Atoms(symbols='CaLu2Te4', pbc=False)

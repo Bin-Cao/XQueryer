@@ -1,0 +1,2 @@
+Co3Pt
+Atoms(symbols='Co3Pt', pbc=False)

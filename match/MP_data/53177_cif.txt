@@ -1,0 +1,2 @@
+CeS2Th
+Atoms(symbols='CeThS2', pbc=False)

@@ -1,0 +1,2 @@
+NaSbTe2
+Atoms(symbols='NaSbTe2', pbc=False)

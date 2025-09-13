@@ -1,0 +1,2 @@
+Ge2Si10W20
+Atoms(symbols='Si5GeW10Si5GeW10', pbc=False)

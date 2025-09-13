@@ -1,0 +1,2 @@
+Cr2Fe8Li10O70P20
+Atoms(symbols='Cr2Fe8Li10O70P20', pbc=False)

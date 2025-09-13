@@ -1,0 +1,2 @@
+Co16Pr4Y4
+Atoms(symbols='PrYCo4PrYCo4PrYCo4PrYCo4', pbc=False)

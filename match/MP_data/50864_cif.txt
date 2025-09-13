@@ -1,0 +1,2 @@
+K6Nb11O30
+Atoms(symbols='K6Nb11O30', pbc=False)

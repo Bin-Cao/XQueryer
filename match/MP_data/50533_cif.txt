@@ -1,0 +1,2 @@
+Fe2Ga6La8O24
+Atoms(symbols='La8Ga6Fe2O24', pbc=False)

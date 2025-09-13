@@ -1,0 +1,2 @@
+Al7DyFe5
+Atoms(symbols='DyAl7Fe5', pbc=False)

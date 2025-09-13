@@ -1,0 +1,2 @@
+C10B20Er8Lu2Ni20
+Atoms(symbols='Er4LuNi10B10C5Er4LuNi10B10C5', pbc=False)

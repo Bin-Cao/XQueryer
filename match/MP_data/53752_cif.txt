@@ -1,0 +1,2 @@
+As2Cd8In2Te8
+Atoms(symbols='Cd4InTe4AsCd4InTe4As', pbc=False)

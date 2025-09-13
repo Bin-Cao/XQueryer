@@ -1,0 +1,2 @@
+Al56Cu16Pr6
+Atoms(symbols='Al56Cu16Pr6', pbc=False)

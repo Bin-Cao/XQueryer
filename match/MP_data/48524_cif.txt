@@ -1,0 +1,2 @@
+Co4Mn4Pd4Sn4
+Atoms(symbols='MnCoSnPdMnCoSnPdMnCoSnPdMnCoSnPd', pbc=False)

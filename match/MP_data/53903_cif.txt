@@ -1,0 +1,2 @@
+Cd2Cu2O14P4
+Atoms(symbols='CdCuP2O7CdCuP2O7', pbc=False)

@@ -1,0 +1,2 @@
+C12Co2Fe2K2N12O
+Atoms(symbols='K2Fe2Co2C12N12O', pbc=False)

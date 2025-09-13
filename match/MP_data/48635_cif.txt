@@ -1,0 +1,2 @@
+Cd2Mn2S4
+Atoms(symbols='MnCdS2MnCdS2', pbc=False)

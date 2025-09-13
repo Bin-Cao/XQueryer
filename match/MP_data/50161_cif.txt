@@ -1,0 +1,2 @@
+FeLa2Si3
+Atoms(symbols='La2FeSi3', pbc=False)

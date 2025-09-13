@@ -1,0 +1,2 @@
+Ga4Te6
+Atoms(symbols='Ga2Te3Ga2Te3', pbc=False)

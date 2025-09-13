@@ -1,0 +1,2 @@
+Cu5Eu2Ni5
+Atoms(symbols='Eu2Cu5Ni5', pbc=False)

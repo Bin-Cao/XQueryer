@@ -1,0 +1,2 @@
+Al2Li2O16Si6
+Atoms(symbols='Li2Al2Si6O16', pbc=False)

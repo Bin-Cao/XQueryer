@@ -1,0 +1,2 @@
+Cs4F24Ge2Na4Sn2
+Atoms(symbols='Cs4Na4Sn2Ge2F24', pbc=False)

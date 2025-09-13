@@ -1,0 +1,2 @@
+Ce2NiRu3
+Atoms(symbols='Ce2NiRu3', pbc=False)

@@ -1,0 +1,2 @@
+Eu2NiSi3
+Atoms(symbols='Eu2Si3Ni', pbc=False)

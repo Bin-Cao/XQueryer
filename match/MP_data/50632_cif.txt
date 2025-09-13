@@ -1,0 +1,2 @@
+In10K2S16
+Atoms(symbols='KIn5S8KIn5S8', pbc=False)

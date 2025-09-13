@@ -1,0 +1,2 @@
+Cl34N20Ta10
+Atoms(symbols='Cl34N20Ta10', pbc=False)

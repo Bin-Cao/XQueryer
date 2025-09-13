@@ -1,0 +1,2 @@
+As2O70P8Pb15Te5Zn15
+Atoms(symbols='As2O70P8Pb15Te5Zn15', pbc=False)

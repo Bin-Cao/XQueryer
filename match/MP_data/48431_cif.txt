@@ -1,0 +1,2 @@
+Co39Fe12Nd3Sm3
+Atoms(symbols='NdSmFe4Co13NdSmFe4Co13NdSmFe4Co13', pbc=False)

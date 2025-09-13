@@ -1,0 +1,2 @@
+Fe6Sb2Sn2
+Atoms(symbols='Fe3SnSbFe3SnSb', pbc=False)

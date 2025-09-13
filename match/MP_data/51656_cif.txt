@@ -1,0 +1,2 @@
+Cl66Nd28
+Atoms(symbols='Cl66Nd28', pbc=False)

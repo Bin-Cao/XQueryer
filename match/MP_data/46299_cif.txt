@@ -1,0 +1,2 @@
+ClCu3O8Pb3Sr3
+Atoms(symbols='Sr3Cu3Pb3ClO8', pbc=False)

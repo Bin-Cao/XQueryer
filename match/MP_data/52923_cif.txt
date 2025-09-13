@@ -1,0 +1,2 @@
+AuCuNi
+Atoms(symbols='CuNiAu', pbc=False)

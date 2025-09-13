@@ -1,0 +1,2 @@
+As5Co6Cu2K2O24V
+Atoms(symbols='K2VCo6Cu2As5O24', pbc=False)

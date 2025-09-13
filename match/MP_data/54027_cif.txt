@@ -1,0 +1,2 @@
+Bi14Ca4
+Atoms(symbols='Ca2Bi7Ca2Bi7', pbc=False)

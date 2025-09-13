@@ -1,0 +1,2 @@
+Ag4K4O4
+Atoms(symbols='KAgOKAgOKAgOKAgO', pbc=False)

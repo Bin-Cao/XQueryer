@@ -1,0 +1,2 @@
+CdMnTe2
+Atoms(symbols='MnCdTe2', pbc=False)

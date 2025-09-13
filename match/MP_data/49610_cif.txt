@@ -1,0 +1,2 @@
+Lu2PdSi3
+Atoms(symbols='Lu2Si3Pd', pbc=False)

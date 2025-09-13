@@ -1,0 +1,2 @@
+Bi4Ga3In9S24
+Atoms(symbols='In9Ga3Bi4S24', pbc=False)

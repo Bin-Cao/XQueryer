@@ -1,0 +1,2 @@
+AlErGa
+Atoms(symbols='ErAlGa', pbc=False)

@@ -1,0 +1,2 @@
+DyErTe2
+Atoms(symbols='DyErTe2', pbc=False)

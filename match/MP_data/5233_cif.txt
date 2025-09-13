@@ -1,0 +1,2 @@
+CMg14NiO16
+Atoms(symbols='Mg14NiCO16', pbc=False)

@@ -1,0 +1,2 @@
+Li14O24Sn8
+Atoms(symbols='Li7Sn4O12Li7Sn4O12', pbc=False)

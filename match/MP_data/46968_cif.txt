@@ -1,0 +1,2 @@
+CoMn3P4
+Atoms(symbols='Mn3CoP4', pbc=False)

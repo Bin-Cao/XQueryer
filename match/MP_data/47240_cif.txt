@@ -1,0 +1,2 @@
+Ga2NdPt3
+Atoms(symbols='NdGa2Pt3', pbc=False)

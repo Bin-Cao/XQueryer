@@ -1,0 +1,2 @@
+Er4O24Se6
+Atoms(symbols='Er2Se3O12Er2Se3O12', pbc=False)

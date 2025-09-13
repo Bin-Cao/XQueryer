@@ -1,0 +1,2 @@
+Li2Mo2O22P4W2
+Atoms(symbols='LiMoP2WO11LiMoP2WO11', pbc=False)

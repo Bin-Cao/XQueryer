@@ -1,0 +1,2 @@
+Al4Fe8Mn4
+Atoms(symbols='MnAlFe2MnAlFe2MnAlFe2MnAlFe2', pbc=False)

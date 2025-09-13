@@ -1,0 +1,2 @@
+CuInMnS4
+Atoms(symbols='MnInCuS4', pbc=False)

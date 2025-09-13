@@ -1,0 +1,2 @@
+Fe19GaN5
+Atoms(symbols='GaFe19N5', pbc=False)

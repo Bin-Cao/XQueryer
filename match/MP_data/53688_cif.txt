@@ -1,0 +1,2 @@
+Al2Ca2Gd2O8
+Atoms(symbols='CaGdAlO4CaGdAlO4', pbc=False)

@@ -1,0 +1,2 @@
+La24N24O16Si8
+Atoms(symbols='La24N24O16Si8', pbc=False)

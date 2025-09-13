@@ -1,0 +1,2 @@
+FeMn3P4
+Atoms(symbols='Mn3FeP4', pbc=False)

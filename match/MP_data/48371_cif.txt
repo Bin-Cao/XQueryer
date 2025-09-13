@@ -1,0 +1,2 @@
+C8Fe4Mn16
+Atoms(symbols='Mn8Fe2C4Mn8Fe2C4', pbc=False)

@@ -1,0 +1,2 @@
+AgLaSi
+Atoms(symbols='LaSiAg', pbc=False)

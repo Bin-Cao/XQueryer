@@ -1,0 +1,2 @@
+CuPrSi
+Atoms(symbols='PrCuSi', pbc=False)

@@ -1,0 +1,2 @@
+Co3Cr
+Atoms(symbols='CrCo3', pbc=False)

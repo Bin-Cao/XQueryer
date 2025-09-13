@@ -1,0 +1,2 @@
+Er12Ge12La8
+Atoms(symbols='La4Er6Ge6La4Er6Ge6', pbc=False)

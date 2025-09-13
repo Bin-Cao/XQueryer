@@ -1,0 +1,2 @@
+B32Ce4Th4
+Atoms(symbols='Ce2Th2B16Ce2Th2B16', pbc=False)

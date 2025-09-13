@@ -1,0 +1,2 @@
+Cr2MnTe4V
+Atoms(symbols='MnVCr2Te4', pbc=False)

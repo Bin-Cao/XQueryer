@@ -1,0 +1,2 @@
+H5KO10S2Zn
+Atoms(symbols='KZnH5S2O10', pbc=False)

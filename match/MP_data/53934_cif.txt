@@ -1,0 +1,2 @@
+H22Ce8
+Atoms(symbols='Ce4H11Ce4H11', pbc=False)

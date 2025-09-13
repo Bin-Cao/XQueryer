@@ -1,0 +1,2 @@
+C8H16Cr2N2O20
+Atoms(symbols='CrH8C4NO10CrH8C4NO10', pbc=False)

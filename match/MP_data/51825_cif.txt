@@ -1,0 +1,2 @@
+Cu2In10Te16
+Atoms(symbols='In5CuTe8In5CuTe8', pbc=False)

@@ -1,0 +1,2 @@
+Fe48Nd6Ti3
+Atoms(symbols='Nd2TiFe16Nd2TiFe16Nd2TiFe16', pbc=False)

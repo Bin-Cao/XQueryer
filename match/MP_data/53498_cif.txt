@@ -1,0 +1,2 @@
+Ga3Pd32Te9
+Atoms(symbols='Ga3Te9Pd32', pbc=False)

@@ -1,0 +1,2 @@
+Bi12K12O38
+Atoms(symbols='Bi12K12O38', pbc=False)

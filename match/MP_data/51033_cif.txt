@@ -1,0 +1,2 @@
+I20Li48N10
+Atoms(symbols='I20Li48N10', pbc=False)

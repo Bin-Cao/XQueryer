@@ -1,0 +1,2 @@
+H6B20Li2O38Sr4
+Atoms(symbols='H6B20Li2O38Sr4', pbc=False)

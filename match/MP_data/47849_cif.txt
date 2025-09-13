@@ -1,0 +1,2 @@
+Nd40Ru6Si18
+Atoms(symbols='Nd40Ru6Si18', pbc=False)

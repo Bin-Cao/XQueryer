@@ -1,0 +1,2 @@
+C48Cr8Na24O136
+Atoms(symbols='C48Cr8Na24O136', pbc=False)

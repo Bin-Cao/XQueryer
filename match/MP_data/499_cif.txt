@@ -1,0 +1,2 @@
+HMgNi
+Atoms(symbols='MgNiH', pbc=False)

@@ -1,0 +1,2 @@
+Hf9O39Pb12Te3
+Atoms(symbols='Hf9O39Pb12Te3', pbc=False)

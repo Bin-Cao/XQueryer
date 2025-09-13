@@ -1,0 +1,2 @@
+B36Na12Se34
+Atoms(symbols='B36Na12Se34', pbc=False)

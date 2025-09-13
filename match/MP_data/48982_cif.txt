@@ -1,0 +1,2 @@
+In3Mn5O12
+Atoms(symbols='Mn5In3O12', pbc=False)

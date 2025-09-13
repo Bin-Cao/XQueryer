@@ -1,0 +1,2 @@
+CuGa3Pr2
+Atoms(symbols='Pr2Ga3Cu', pbc=False)

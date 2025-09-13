@@ -1,0 +1,2 @@
+Be12Mg4Mn8Na6O78Si18Sn6
+Atoms(symbols='Be12Mg4Mn8Na6O78Si18Sn6', pbc=False)

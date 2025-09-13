@@ -1,0 +1,2 @@
+CuRbS3
+Atoms(symbols='RbCuS3', pbc=False)

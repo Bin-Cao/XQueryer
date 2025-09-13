@@ -1,0 +1,2 @@
+O28Sc4Sm8Ta4
+Atoms(symbols='Sm4Sc2Ta2O14Sm4Sc2Ta2O14', pbc=False)

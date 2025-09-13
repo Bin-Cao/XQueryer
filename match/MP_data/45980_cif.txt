@@ -1,0 +1,2 @@
+I4SSb4Se3
+Atoms(symbols='Sb4Se3SI4', pbc=False)

@@ -1,0 +1,2 @@
+CoMn7Sb4
+Atoms(symbols='Mn7CoSb4', pbc=False)

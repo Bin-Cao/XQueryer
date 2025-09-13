@@ -1,0 +1,2 @@
+Fe2Ni2P4S12
+Atoms(symbols='FeNiP2S6FeNiP2S6', pbc=False)

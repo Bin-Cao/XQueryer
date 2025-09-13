@@ -1,0 +1,2 @@
+ErFe4Mn2Sn6
+Atoms(symbols='ErMn2Fe4Sn6', pbc=False)

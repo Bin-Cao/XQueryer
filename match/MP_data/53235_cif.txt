@@ -1,0 +1,2 @@
+Al12Dy3Ho3
+Atoms(symbols='DyHoAl4DyHoAl4DyHoAl4', pbc=False)

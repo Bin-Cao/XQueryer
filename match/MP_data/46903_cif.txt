@@ -1,0 +1,2 @@
+Pb2SSe
+Atoms(symbols='Pb2SeS', pbc=False)

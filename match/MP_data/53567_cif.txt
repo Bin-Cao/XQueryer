@@ -1,0 +1,2 @@
+K9Rb9Se39Sn9Zn12
+Atoms(symbols='K9Rb9Se39Sn9Zn12', pbc=False)

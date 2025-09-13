@@ -1,0 +1,2 @@
+BiNaTe2
+Atoms(symbols='NaBiTe2', pbc=False)

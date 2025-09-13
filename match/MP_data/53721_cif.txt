@@ -1,0 +1,2 @@
+Ce6O16Pr2
+Atoms(symbols='Ce3PrO8Ce3PrO8', pbc=False)

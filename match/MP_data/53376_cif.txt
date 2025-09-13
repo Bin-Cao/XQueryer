@@ -1,0 +1,2 @@
+CeGaO2
+Atoms(symbols='CeGaO2', pbc=False)

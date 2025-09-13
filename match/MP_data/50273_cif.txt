@@ -1,0 +1,2 @@
+K2Li2O8Zn6
+Atoms(symbols='KLiZn3O4KLiZn3O4', pbc=False)

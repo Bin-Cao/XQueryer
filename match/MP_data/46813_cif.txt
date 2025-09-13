@@ -1,0 +1,2 @@
+SeSn3Te2
+Atoms(symbols='Sn3Te2Se', pbc=False)

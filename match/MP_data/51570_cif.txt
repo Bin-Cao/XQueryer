@@ -1,0 +1,2 @@
+BrCuIn2Te3
+Atoms(symbols='In2CuTe3Br', pbc=False)

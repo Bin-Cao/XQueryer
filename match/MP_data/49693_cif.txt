@@ -1,0 +1,2 @@
+Ga20Lu6Ni2
+Atoms(symbols='Lu3Ga10NiLu3Ga10Ni', pbc=False)

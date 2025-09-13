@@ -1,0 +1,2 @@
+Ni2P2S3Se3
+Atoms(symbols='Ni2P2Se3S3', pbc=False)

@@ -1,0 +1,2 @@
+ClGd3K8O34Si12
+Atoms(symbols='K8Gd3Si12ClO34', pbc=False)

@@ -1,0 +1,2 @@
+Ga6La2Pd2
+Atoms(symbols='LaGa3PdLaGa3Pd', pbc=False)

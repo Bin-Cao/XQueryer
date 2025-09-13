@@ -1,0 +1,2 @@
+FeNa8O44Si16Ti3
+Atoms(symbols='FeNa8O44Si16Ti3', pbc=False)

@@ -1,0 +1,2 @@
+BiFe6O26P6
+Atoms(symbols='Fe6BiP6O26', pbc=False)

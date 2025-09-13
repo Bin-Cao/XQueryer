@@ -1,0 +1,2 @@
+Bi4O28Pr4Ru8
+Atoms(symbols='Pr2Bi2Ru4O14Pr2Bi2Ru4O14', pbc=False)

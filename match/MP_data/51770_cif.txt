@@ -1,0 +1,2 @@
+C4B4Fe24Mo24
+Atoms(symbols='Fe12B2Mo12C2Fe12B2Mo12C2', pbc=False)

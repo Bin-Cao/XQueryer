@@ -1,0 +1,2 @@
+Au3IrNb12
+Atoms(symbols='Nb12IrAu3', pbc=False)

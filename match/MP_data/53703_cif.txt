@@ -1,0 +1,2 @@
+Bi12Cs24O2Sn4
+Atoms(symbols='Cs12Sn2Bi6OCs12Sn2Bi6O', pbc=False)

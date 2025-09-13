@@ -1,0 +1,2 @@
+Fe2Nb5Se20V
+Atoms(symbols='Nb5VFe2Se20', pbc=False)

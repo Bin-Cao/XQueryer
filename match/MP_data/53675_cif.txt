@@ -1,0 +1,2 @@
+Cd4Cu2Ga2Te8
+Atoms(symbols='Cd2GaCuTe4Cd2GaCuTe4', pbc=False)

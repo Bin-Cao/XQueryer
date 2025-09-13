@@ -1,0 +1,2 @@
+FeK2Li2Mn3Na4O48Si16Ti4
+Atoms(symbols='FeK2Li2Mn3Na4O48Si16Ti4', pbc=False)

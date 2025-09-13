@@ -1,0 +1,2 @@
+Lu2Na2O12Ti4
+Atoms(symbols='Na2Lu2Ti4O12', pbc=False)

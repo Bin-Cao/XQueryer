@@ -1,0 +1,2 @@
+As10Fe10NaSr4
+Atoms(symbols='NaSr4Fe10As10', pbc=False)

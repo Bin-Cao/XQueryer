@@ -1,0 +1,2 @@
+Ce2O12Pr4
+Atoms(symbols='CePr2O6CePr2O6', pbc=False)

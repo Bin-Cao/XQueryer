@@ -1,0 +1,2 @@
+Cl60K3Nb24
+Atoms(symbols='Cl60K3Nb24', pbc=False)

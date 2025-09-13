@@ -1,0 +1,2 @@
+CeLa4Zn5
+Atoms(symbols='La4CeZn5', pbc=False)

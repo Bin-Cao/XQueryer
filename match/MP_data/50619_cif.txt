@@ -1,0 +1,2 @@
+Ga4Ni24Si8
+Atoms(symbols='Ga4Si8Ni24', pbc=False)

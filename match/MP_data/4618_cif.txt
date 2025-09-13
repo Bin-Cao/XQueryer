@@ -1,0 +1,2 @@
+BaMg6O8V
+Atoms(symbols='BaMg6VO8', pbc=False)

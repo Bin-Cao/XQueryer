@@ -1,0 +1,2 @@
+Cu2I2In4Se6
+Atoms(symbols='In2CuSe3IIn2CuSe3I', pbc=False)

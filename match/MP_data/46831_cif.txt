@@ -1,0 +1,2 @@
+Ni6SbSn
+Atoms(symbols='Ni6SnSb', pbc=False)

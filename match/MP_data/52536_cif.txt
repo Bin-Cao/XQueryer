@@ -1,0 +1,2 @@
+H14Fe2Mo4O22
+Atoms(symbols='Fe2Mo4H14O22', pbc=False)

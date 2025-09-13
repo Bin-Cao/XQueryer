@@ -1,0 +1,2 @@
+Ni2O16Re6
+Atoms(symbols='Re3NiO8Re3NiO8', pbc=False)

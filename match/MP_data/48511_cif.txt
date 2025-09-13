@@ -1,0 +1,2 @@
+Cr2Mn2
+Atoms(symbols='MnCrMnCr', pbc=False)

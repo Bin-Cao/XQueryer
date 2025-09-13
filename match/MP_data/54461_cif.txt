@@ -1,0 +1,2 @@
+Cs12Sb20Se36
+Atoms(symbols='Cs12Sb20Se36', pbc=False)

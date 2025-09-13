@@ -1,0 +1,2 @@
+B24Ce3La
+Atoms(symbols='LaCe3B24', pbc=False)

@@ -1,0 +1,2 @@
+K4O24Te6Ti2
+Atoms(symbols='K2TiTe3O12K2TiTe3O12', pbc=False)

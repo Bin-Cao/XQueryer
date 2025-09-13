@@ -1,0 +1,2 @@
+C16K8O45Ti4
+Atoms(symbols='C16K8O45Ti4', pbc=False)

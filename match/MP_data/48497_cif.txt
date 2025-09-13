@@ -1,0 +1,2 @@
+Na3Nb2O12TbTi2
+Atoms(symbols='Na3TbTi2Nb2O12', pbc=False)

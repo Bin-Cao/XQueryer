@@ -1,0 +1,2 @@
+Al4MgNd5
+Atoms(symbols='Nd5MgAl4', pbc=False)

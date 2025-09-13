@@ -1,0 +1,2 @@
+K2Te12Th4
+Atoms(symbols='KTh2Te6KTh2Te6', pbc=False)

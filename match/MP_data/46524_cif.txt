@@ -1,0 +1,2 @@
+La8Mn4O32Sr8Zn4
+Atoms(symbols='Sr8La8Mn4Zn4O32', pbc=False)

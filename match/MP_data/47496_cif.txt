@@ -1,0 +1,2 @@
+As8F2Fe8Nd8O6
+Atoms(symbols='Nd4Fe4As4O3FNd4Fe4As4O3F', pbc=False)

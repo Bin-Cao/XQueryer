@@ -1,0 +1,2 @@
+Au3In
+Atoms(symbols='InAu3', pbc=False)

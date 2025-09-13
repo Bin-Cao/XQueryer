@@ -1,0 +1,2 @@
+N3Na3O9
+Atoms(symbols='NaNO3NaNO3NaNO3', pbc=False)

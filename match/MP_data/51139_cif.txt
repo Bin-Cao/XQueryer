@@ -1,0 +1,2 @@
+KSe8Ti6
+Atoms(symbols='KTi6Se8', pbc=False)

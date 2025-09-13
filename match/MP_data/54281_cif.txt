@@ -1,0 +1,2 @@
+Bi2F40Sb6
+Atoms(symbols='BiSb3F20BiSb3F20', pbc=False)

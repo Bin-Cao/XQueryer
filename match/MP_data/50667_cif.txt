@@ -1,0 +1,2 @@
+Ag2Cu2Ga2In2Se8
+Atoms(symbols='InGaCuAgSe4InGaCuAgSe4', pbc=False)

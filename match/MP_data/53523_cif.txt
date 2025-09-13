@@ -1,0 +1,2 @@
+CeEr
+Atoms(symbols='CeEr', pbc=False)

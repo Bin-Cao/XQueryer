@@ -1,0 +1,2 @@
+Fe18O24P2
+Atoms(symbols='Fe9PO12Fe9PO12', pbc=False)

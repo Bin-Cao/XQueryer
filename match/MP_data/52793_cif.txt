@@ -1,0 +1,2 @@
+Ga3Ge9Ni12
+Atoms(symbols='GaNi4Ge3GaNi4Ge3GaNi4Ge3', pbc=False)

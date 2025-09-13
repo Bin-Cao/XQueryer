@@ -1,0 +1,2 @@
+As8Ba2Fe8Na2
+Atoms(symbols='BaNaFe4As4BaNaFe4As4', pbc=False)

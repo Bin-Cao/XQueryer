@@ -1,0 +1,2 @@
+Co2NbSn
+Atoms(symbols='NbCo2Sn', pbc=False)

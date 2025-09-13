@@ -1,0 +1,2 @@
+Cr11NiS16
+Atoms(symbols='Cr11NiS16', pbc=False)

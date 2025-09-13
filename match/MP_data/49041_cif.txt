@@ -1,0 +1,2 @@
+Cr2Ga6Mn4S16
+Atoms(symbols='Mn2CrGa3S8Mn2CrGa3S8', pbc=False)

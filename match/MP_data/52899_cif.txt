@@ -1,0 +1,2 @@
+Bi16K4Se26
+Atoms(symbols='K4Bi16Se26', pbc=False)

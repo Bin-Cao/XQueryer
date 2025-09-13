@@ -1,0 +1,2 @@
+Bi4Fe5NdO15
+Atoms(symbols='NdFe5Bi4O15', pbc=False)

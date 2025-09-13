@@ -1,0 +1,2 @@
+GdMo4O16Rb5
+Atoms(symbols='Rb5GdMo4O16', pbc=False)

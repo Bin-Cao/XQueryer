@@ -1,0 +1,2 @@
+CuIn3Se5
+Atoms(symbols='In3CuSe5', pbc=False)

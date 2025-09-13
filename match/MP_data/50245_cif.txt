@@ -1,0 +1,2 @@
+InKMo6Se6
+Atoms(symbols='KInMo6Se6', pbc=False)

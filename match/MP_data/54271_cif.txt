@@ -1,0 +1,2 @@
+Ca4Ga12Nd4O28
+Atoms(symbols='Ca2Nd2Ga6O14Ca2Nd2Ga6O14', pbc=False)

@@ -1,0 +1,2 @@
+CoRe
+Atoms(symbols='CoRe', pbc=False)

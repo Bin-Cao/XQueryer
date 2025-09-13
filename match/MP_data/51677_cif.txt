@@ -1,0 +1,2 @@
+Dy3Gd3Ni6
+Atoms(symbols='Gd3Dy3Ni6', pbc=False)

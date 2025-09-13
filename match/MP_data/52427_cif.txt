@@ -1,0 +1,2 @@
+H9Pd12
+Atoms(symbols='H3Pd4H3Pd4H3Pd4', pbc=False)

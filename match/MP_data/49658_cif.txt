@@ -1,0 +1,2 @@
+C24La8Lu8
+Atoms(symbols='La4Lu4C12La4Lu4C12', pbc=False)

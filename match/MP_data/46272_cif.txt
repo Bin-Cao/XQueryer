@@ -1,0 +1,2 @@
+CoIr3O12Sr4
+Atoms(symbols='Sr4CoIr3O12', pbc=False)

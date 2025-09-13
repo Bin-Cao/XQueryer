@@ -1,0 +1,2 @@
+Co48Sm6Ti3
+Atoms(symbols='Sm2TiCo16Sm2TiCo16Sm2TiCo16', pbc=False)

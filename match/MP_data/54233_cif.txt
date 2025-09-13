@@ -1,0 +1,2 @@
+H30Co2F12N12O4Si2
+Atoms(symbols='H30Co2F12N12O4Si2', pbc=False)

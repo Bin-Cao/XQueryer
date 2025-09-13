@@ -1,0 +1,2 @@
+Mn16Ni8O48Zn12
+Atoms(symbols='Mn16Ni8O48Zn12', pbc=False)

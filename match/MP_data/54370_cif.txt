@@ -1,0 +1,2 @@
+K27Na3Tl39
+Atoms(symbols='K27Na3Tl39', pbc=False)

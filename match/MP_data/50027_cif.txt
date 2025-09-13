@@ -1,0 +1,2 @@
+Cl4La12Se16
+Atoms(symbols='La12Se16Cl4', pbc=False)

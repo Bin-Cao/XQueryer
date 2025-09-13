@@ -1,0 +1,2 @@
+KS4V2
+Atoms(symbols='KV2S4', pbc=False)

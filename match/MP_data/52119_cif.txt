@@ -1,0 +1,2 @@
+Dy4Ho4Mn16
+Atoms(symbols='DyHoMn4DyHoMn4DyHoMn4DyHoMn4', pbc=False)

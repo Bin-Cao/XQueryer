@@ -1,0 +1,2 @@
+Co3Ir
+Atoms(symbols='Co3Ir', pbc=False)

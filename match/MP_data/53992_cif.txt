@@ -1,0 +1,2 @@
+Al4Be16Ni4
+Atoms(symbols='Be4AlNiBe4AlNiBe4AlNiBe4AlNi', pbc=False)

@@ -1,0 +1,2 @@
+Cu2Ga2S2Se2
+Atoms(symbols='Ga2Cu2Se2S2', pbc=False)

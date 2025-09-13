@@ -1,0 +1,2 @@
+Ca2Na2O24Sc2Si8Zn2
+Atoms(symbols='NaCaScZnSi4O12NaCaScZnSi4O12', pbc=False)

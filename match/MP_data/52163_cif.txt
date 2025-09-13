@@ -1,0 +1,2 @@
+H12K12Mn16O80P20
+Atoms(symbols='H12K12Mn16O80P20', pbc=False)

@@ -1,0 +1,2 @@
+La3O16P4Tb
+Atoms(symbols='La3TbP4O16', pbc=False)

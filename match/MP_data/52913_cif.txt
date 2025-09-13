@@ -1,0 +1,2 @@
+Eu4Nb2O14Sc2
+Atoms(symbols='Eu4Sc2Nb2O14', pbc=False)

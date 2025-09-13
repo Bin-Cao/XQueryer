@@ -1,0 +1,2 @@
+Cu3Ge3Li6
+Atoms(symbols='Li2CuGeLi2CuGeLi2CuGe', pbc=False)

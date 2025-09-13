@@ -1,0 +1,2 @@
+Ge6NaNd9O26
+Atoms(symbols='NaNd9Ge6O26', pbc=False)

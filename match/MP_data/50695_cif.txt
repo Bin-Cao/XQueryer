@@ -1,0 +1,2 @@
+Bi7LaO24Ti6
+Atoms(symbols='LaTi6Bi7O24', pbc=False)

@@ -1,0 +1,2 @@
+Nb32P20
+Atoms(symbols='Nb32P20', pbc=False)

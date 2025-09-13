@@ -1,0 +1,2 @@
+Co10La2O30Sr8
+Atoms(symbols='Sr4LaCo5O15Sr4LaCo5O15', pbc=False)

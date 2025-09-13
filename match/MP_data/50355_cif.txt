@@ -1,0 +1,2 @@
+C20Ho8La2
+Atoms(symbols='LaHo4C10LaHo4C10', pbc=False)

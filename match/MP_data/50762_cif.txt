@@ -1,0 +1,2 @@
+Br2I42Nb24
+Atoms(symbols='Br2I42Nb24', pbc=False)

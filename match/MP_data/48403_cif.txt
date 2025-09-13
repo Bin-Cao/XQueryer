@@ -1,0 +1,2 @@
+H3Fe2Mo2NaO10
+Atoms(symbols='NaFe2Mo2H3O10', pbc=False)

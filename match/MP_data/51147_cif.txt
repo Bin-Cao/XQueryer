@@ -1,0 +1,2 @@
+Fe3Ni3Pt2
+Atoms(symbols='Fe3Ni3Pt2', pbc=False)

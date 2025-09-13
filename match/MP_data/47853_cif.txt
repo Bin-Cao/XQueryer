@@ -1,0 +1,2 @@
+H4INaO7
+Atoms(symbols='NaH4IO7', pbc=False)

@@ -1,0 +1,2 @@
+NdTe
+Atoms(symbols='NdTe', pbc=False)

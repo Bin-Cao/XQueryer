@@ -1,0 +1,2 @@
+Ca2Co2O8Pr2
+Atoms(symbols='CaPrCoO4CaPrCoO4', pbc=False)

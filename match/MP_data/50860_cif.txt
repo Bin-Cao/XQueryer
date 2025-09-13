@@ -1,0 +1,2 @@
+Ca2K16Te12
+Atoms(symbols='K8CaTe6K8CaTe6', pbc=False)

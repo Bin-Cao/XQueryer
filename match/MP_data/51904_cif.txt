@@ -1,0 +1,2 @@
+Dy8O28Ti8
+Atoms(symbols='Dy4Ti4O14Dy4Ti4O14', pbc=False)

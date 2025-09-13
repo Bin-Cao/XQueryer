@@ -1,0 +1,2 @@
+Al6Be2La2
+Atoms(symbols='LaBeAl3LaBeAl3', pbc=False)

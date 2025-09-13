@@ -1,0 +1,2 @@
+C8Fe80Ga24La8
+Atoms(symbols='C8Fe80Ga24La8', pbc=False)

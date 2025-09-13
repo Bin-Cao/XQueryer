@@ -1,0 +1,2 @@
+Er32Pb16S64
+Atoms(symbols='Er32Pb16S64', pbc=False)

@@ -1,0 +1,2 @@
+H6LaNi5
+Atoms(symbols='LaNi5H6', pbc=False)

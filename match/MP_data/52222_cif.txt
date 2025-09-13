@@ -1,0 +1,2 @@
+Cl54K3Nb18Y3
+Atoms(symbols='Cl54K3Nb18Y3', pbc=False)

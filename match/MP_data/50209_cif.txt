@@ -1,0 +1,2 @@
+AsIn2P
+Atoms(symbols='In2AsP', pbc=False)

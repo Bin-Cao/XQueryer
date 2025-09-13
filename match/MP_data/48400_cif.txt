@@ -1,0 +1,2 @@
+MgN2Ta
+Atoms(symbols='MgTaN2', pbc=False)

@@ -1,0 +1,2 @@
+CaCo5KNaO24Si8
+Atoms(symbols='KNaCaCo5Si8O24', pbc=False)

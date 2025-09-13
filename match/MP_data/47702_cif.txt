@@ -1,0 +1,2 @@
+Al3GaNb12
+Atoms(symbols='Nb12Al3Ga', pbc=False)

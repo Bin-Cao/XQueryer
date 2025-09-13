@@ -1,0 +1,2 @@
+DyLiSe2
+Atoms(symbols='LiDySe2', pbc=False)

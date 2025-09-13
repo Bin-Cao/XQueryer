@@ -1,0 +1,2 @@
+BeCo2Si
+Atoms(symbols='BeCo2Si', pbc=False)

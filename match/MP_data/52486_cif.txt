@@ -1,0 +1,2 @@
+Mo45O90Pr20
+Atoms(symbols='Mo45O90Pr20', pbc=False)

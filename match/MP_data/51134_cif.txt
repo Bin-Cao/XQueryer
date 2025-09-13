@@ -1,0 +1,2 @@
+Hf4Si4Ta4
+Atoms(symbols='Hf4Ta4Si4', pbc=False)

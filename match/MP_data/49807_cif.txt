@@ -1,0 +1,2 @@
+Ga4LaNd3O12
+Atoms(symbols='LaNd3Ga4O12', pbc=False)
