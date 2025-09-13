@@ -1,0 +1,2 @@
+Ge4In16Nd12
+Atoms(symbols='Nd6In8Ge2Nd6In8Ge2', pbc=False)

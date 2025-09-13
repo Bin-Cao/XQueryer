@@ -1,0 +1,2 @@
+Al6Pd3PtU2
+Atoms(symbols='U2Al6Pd3Pt', pbc=False)

@@ -1,0 +1,2 @@
+AuTe3
+Atoms(symbols='Te3Au', pbc=False)

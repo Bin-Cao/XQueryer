@@ -1,0 +1,2 @@
+Co8O24Sb4Zn6
+Atoms(symbols='Zn6Co8Sb4O24', pbc=False)

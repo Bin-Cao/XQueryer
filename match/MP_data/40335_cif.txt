@@ -1,0 +1,2 @@
+Co12Ga12Ho2
+Atoms(symbols='HoGa6Co6HoGa6Co6', pbc=False)

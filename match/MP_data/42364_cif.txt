@@ -1,0 +1,2 @@
+BiCs3F6
+Atoms(symbols='Cs3BiF6', pbc=False)

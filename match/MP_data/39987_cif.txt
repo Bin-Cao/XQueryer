@@ -1,0 +1,2 @@
+H4Cr4Fe2K2O16
+Atoms(symbols='KCr2FeH2O8KCr2FeH2O8', pbc=False)

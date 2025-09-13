@@ -1,0 +1,2 @@
+Bi20Nb4O60Ti4W4
+Atoms(symbols='Bi20Nb4O60Ti4W4', pbc=False)

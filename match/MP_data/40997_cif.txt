@@ -1,0 +1,2 @@
+Hf18O6Re8
+Atoms(symbols='Hf18Re8O6', pbc=False)

@@ -1,0 +1,2 @@
+B8Re22V2
+Atoms(symbols='VRe11B4VRe11B4', pbc=False)

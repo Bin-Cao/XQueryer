@@ -1,0 +1,2 @@
+S28Si5Y12
+Atoms(symbols='Y12Si5S28', pbc=False)

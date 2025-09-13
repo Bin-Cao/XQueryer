@@ -1,0 +1,2 @@
+H28N9Na3O44S10U2
+Atoms(symbols='H28N9Na3O44S10U2', pbc=False)

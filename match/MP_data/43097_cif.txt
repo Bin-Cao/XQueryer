@@ -1,0 +1,2 @@
+BaNa3O8P2
+Atoms(symbols='BaNa3P2O8', pbc=False)

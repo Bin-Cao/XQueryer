@@ -1,0 +1,2 @@
+GaGeV6
+Atoms(symbols='V6GaGe', pbc=False)

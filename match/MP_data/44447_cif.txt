@@ -1,0 +1,2 @@
+Cu3O14V4Zn
+Atoms(symbols='V4ZnCu3O14', pbc=False)

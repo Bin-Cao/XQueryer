@@ -1,0 +1,2 @@
+NiSi3Sr2
+Atoms(symbols='Sr2Si3Ni', pbc=False)

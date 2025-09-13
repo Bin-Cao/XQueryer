@@ -1,0 +1,2 @@
+CuO14P4Ru2
+Atoms(symbols='CuP4Ru2O14', pbc=False)

@@ -1,0 +1,2 @@
+H20O40Se8U4Zn4
+Atoms(symbols='H20O40Se8U4Zn4', pbc=False)

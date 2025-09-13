@@ -1,0 +1,2 @@
+InSe2Ta
+Atoms(symbols='TaInSe2', pbc=False)

@@ -1,0 +1,2 @@
+Mg6Pd10
+Atoms(symbols='Mg6Pd10', pbc=False)

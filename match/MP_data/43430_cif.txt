@@ -1,0 +1,2 @@
+Ni3P6U3
+Atoms(symbols='U3Ni3P6', pbc=False)

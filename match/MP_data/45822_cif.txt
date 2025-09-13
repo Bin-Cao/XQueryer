@@ -1,0 +1,2 @@
+AlGaSm
+Atoms(symbols='SmAlGa', pbc=False)

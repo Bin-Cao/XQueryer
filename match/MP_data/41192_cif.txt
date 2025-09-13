@@ -1,0 +1,2 @@
+Ag4Dy4O32W8
+Atoms(symbols='Dy2Ag2W4O16Dy2Ag2W4O16', pbc=False)

@@ -1,0 +1,2 @@
+Cd2Th
+Atoms(symbols='ThCd2', pbc=False)

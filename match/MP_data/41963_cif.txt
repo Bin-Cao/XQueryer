@@ -1,0 +1,2 @@
+Er2N2O22Se4
+Atoms(symbols='Er2Se4N2O22', pbc=False)

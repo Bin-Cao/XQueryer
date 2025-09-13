@@ -1,0 +1,2 @@
+CoS4Zn3
+Atoms(symbols='Zn3CoS4', pbc=False)

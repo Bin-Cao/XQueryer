@@ -1,0 +1,2 @@
+Mo3Si12V3
+Atoms(symbols='V3Si12Mo3', pbc=False)

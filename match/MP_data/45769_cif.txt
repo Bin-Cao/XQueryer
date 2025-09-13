@@ -1,0 +1,2 @@
+Co12Ho3Tb3
+Atoms(symbols='TbHoCo4TbHoCo4TbHoCo4', pbc=False)

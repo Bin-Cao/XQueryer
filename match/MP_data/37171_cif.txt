@@ -1,0 +1,2 @@
+Ga36Ir12Tb8
+Atoms(symbols='Tb4Ga18Ir6Tb4Ga18Ir6', pbc=False)

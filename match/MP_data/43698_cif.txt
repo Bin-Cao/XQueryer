@@ -1,0 +1,2 @@
+O12U4Y2
+Atoms(symbols='YU2O6YU2O6', pbc=False)

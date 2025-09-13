@@ -1,0 +1,2 @@
+ScY
+Atoms(symbols='YSc', pbc=False)

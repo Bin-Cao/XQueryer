@@ -1,0 +1,2 @@
+Co12Er2Ga12
+Atoms(symbols='ErGa6Co6ErGa6Co6', pbc=False)

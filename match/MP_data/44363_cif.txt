@@ -1,0 +1,2 @@
+S14Si2Y6Zn
+Atoms(symbols='Y6ZnSi2S14', pbc=False)

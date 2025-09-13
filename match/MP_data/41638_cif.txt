@@ -1,0 +1,2 @@
+Co32Dy12Sn16
+Atoms(symbols='Dy6Co16Sn8Dy6Co16Sn8', pbc=False)

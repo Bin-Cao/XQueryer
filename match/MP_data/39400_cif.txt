@@ -1,0 +1,2 @@
+Fe4Ge4Li8O16
+Atoms(symbols='Li8Fe4Ge4O16', pbc=False)

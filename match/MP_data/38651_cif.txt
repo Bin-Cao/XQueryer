@@ -1,0 +1,2 @@
+Ni2O28Rb4S4
+Atoms(symbols='Rb4Ni2S4O28', pbc=False)

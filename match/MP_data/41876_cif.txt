@@ -1,0 +1,2 @@
+Cs8F20Sb4
+Atoms(symbols='Cs8Sb4F20', pbc=False)

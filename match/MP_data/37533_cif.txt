@@ -1,0 +1,2 @@
+AgEr2Sb3
+Atoms(symbols='Er2AgSb3', pbc=False)

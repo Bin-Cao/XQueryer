@@ -1,0 +1,2 @@
+Ce6Sb10Ti2
+Atoms(symbols='Ce6Ti2Sb10', pbc=False)

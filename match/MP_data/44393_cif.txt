@@ -1,0 +1,2 @@
+Fe2Si6Th4
+Atoms(symbols='Th2FeSi3Th2FeSi3', pbc=False)

@@ -1,0 +1,2 @@
+C18H2Cl14N20
+Atoms(symbols='H2C18N20Cl14', pbc=False)

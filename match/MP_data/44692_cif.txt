@@ -1,0 +1,2 @@
+Al2O8Pr2Sr2
+Atoms(symbols='SrPrAlO4SrPrAlO4', pbc=False)

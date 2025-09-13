@@ -1,0 +1,2 @@
+InTi
+Atoms(symbols='TiIn', pbc=False)

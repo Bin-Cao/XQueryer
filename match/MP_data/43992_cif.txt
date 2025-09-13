@@ -1,0 +1,2 @@
+NOV2
+Atoms(symbols='V2NO', pbc=False)

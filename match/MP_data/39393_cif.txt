@@ -1,0 +1,2 @@
+La4S12Ti4
+Atoms(symbols='La4Ti4S12', pbc=False)

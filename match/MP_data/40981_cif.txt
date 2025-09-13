@@ -1,0 +1,2 @@
+H48In4N12O48S12
+Atoms(symbols='H48In4N12O48S12', pbc=False)

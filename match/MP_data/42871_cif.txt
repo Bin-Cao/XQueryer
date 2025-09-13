@@ -1,0 +1,2 @@
+H6Al14Cu32Zr12
+Atoms(symbols='H6Al14Cu32Zr12', pbc=False)

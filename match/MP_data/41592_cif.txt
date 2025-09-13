@@ -1,0 +1,2 @@
+H32In4O48Rb4S8
+Atoms(symbols='H32In4O48Rb4S8', pbc=False)

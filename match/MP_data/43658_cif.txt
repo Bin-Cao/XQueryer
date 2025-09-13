@@ -1,0 +1,2 @@
+H12AlO12SbZn2
+Atoms(symbols='AlZn2SbH12O12', pbc=False)

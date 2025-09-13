@@ -1,0 +1,2 @@
+Cu2Ge4Ni2U2
+Atoms(symbols='UCuNiGe2UCuNiGe2', pbc=False)

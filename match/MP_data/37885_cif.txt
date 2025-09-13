@@ -1,0 +1,2 @@
+I12Sr2U2
+Atoms(symbols='Sr2U2I12', pbc=False)

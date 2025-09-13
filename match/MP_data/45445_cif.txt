@@ -1,0 +1,2 @@
+As2I2OTe4
+Atoms(symbols='Te4As2I2O', pbc=False)

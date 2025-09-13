@@ -1,0 +1,2 @@
+K4O44Si12Ti4
+Atoms(symbols='K4O44Si12Ti4', pbc=False)

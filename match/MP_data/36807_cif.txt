@@ -1,0 +1,2 @@
+B32Si8Tb20
+Atoms(symbols='Tb10Si4B16Tb10Si4B16', pbc=False)

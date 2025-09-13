@@ -1,0 +1,2 @@
+Ce6Cl36O12Rb18
+Atoms(symbols='Ce6Cl36O12Rb18', pbc=False)

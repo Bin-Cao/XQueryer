@@ -1,0 +1,2 @@
+Co2Eu4O12Ru2
+Atoms(symbols='Eu4Co2Ru2O12', pbc=False)

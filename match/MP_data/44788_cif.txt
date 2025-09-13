@@ -1,0 +1,2 @@
+Ge3Th2
+Atoms(symbols='Th2Ge3', pbc=False)

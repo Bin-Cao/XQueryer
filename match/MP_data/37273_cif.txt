@@ -1,0 +1,2 @@
+F6GeTl2
+Atoms(symbols='Tl2GeF6', pbc=False)

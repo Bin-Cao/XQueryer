@@ -1,0 +1,2 @@
+H2CoK2O10S2
+Atoms(symbols='K2CoH2S2O10', pbc=False)

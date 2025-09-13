@@ -1,0 +1,2 @@
+Cr2Fe22Y2
+Atoms(symbols='YCrFe11YCrFe11', pbc=False)

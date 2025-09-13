@@ -1,0 +1,2 @@
+CuNd2OTe2
+Atoms(symbols='Nd2CuTe2O', pbc=False)

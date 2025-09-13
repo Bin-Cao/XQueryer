@@ -1,0 +1,2 @@
+Cu2N8O6
+Atoms(symbols='Cu2N8O6', pbc=False)

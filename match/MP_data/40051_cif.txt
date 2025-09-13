@@ -1,0 +1,2 @@
+Ga5La3O14Zr
+Atoms(symbols='La3ZrGa5O14', pbc=False)

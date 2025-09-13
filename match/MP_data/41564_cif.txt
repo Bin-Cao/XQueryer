@@ -1,0 +1,2 @@
+In3N3O24S6
+Atoms(symbols='InS2NO8InS2NO8InS2NO8', pbc=False)

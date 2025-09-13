@@ -1,0 +1,2 @@
+Cu3O8Pb2PrSr2
+Atoms(symbols='Sr2PrCu3Pb2O8', pbc=False)

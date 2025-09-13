@@ -1,0 +1,2 @@
+Ge8Ni4Pr12
+Atoms(symbols='Pr12Ni4Ge8', pbc=False)

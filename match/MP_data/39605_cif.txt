@@ -1,0 +1,2 @@
+H6Mg3O3Se
+Atoms(symbols='Mg3H6SeO3', pbc=False)

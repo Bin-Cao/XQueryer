@@ -1,0 +1,2 @@
+H92Fe24O84P16
+Atoms(symbols='H92Fe24O84P16', pbc=False)

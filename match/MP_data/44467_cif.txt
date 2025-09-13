@@ -1,0 +1,2 @@
+Cu8Ni32Si8U4
+Atoms(symbols='UCu2Si2Ni8UCu2Si2Ni8UCu2Si2Ni8UCu2Si2Ni8', pbc=False)

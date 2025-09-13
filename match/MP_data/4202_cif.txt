@@ -1,0 +1,2 @@
+CLiMg6O8
+Atoms(symbols='LiMg6CO8', pbc=False)

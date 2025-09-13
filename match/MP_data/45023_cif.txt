@@ -1,0 +1,2 @@
+As2O4Te
+Atoms(symbols='TeAs2O4', pbc=False)

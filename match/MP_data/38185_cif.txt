@@ -1,0 +1,2 @@
+AlO8RbSe2
+Atoms(symbols='RbAlSe2O8', pbc=False)

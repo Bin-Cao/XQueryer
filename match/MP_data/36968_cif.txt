@@ -1,0 +1,2 @@
+Br22Hg10Tl2
+Atoms(symbols='TlHg5Br11TlHg5Br11', pbc=False)

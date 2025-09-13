@@ -1,0 +1,2 @@
+BrMo8N12O56P9
+Atoms(symbols='BrMo8N12O56P9', pbc=False)

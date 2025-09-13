@@ -1,0 +1,2 @@
+Co4Mg4Tb16
+Atoms(symbols='Tb16Mg4Co4', pbc=False)

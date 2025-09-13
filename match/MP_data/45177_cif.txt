@@ -1,0 +1,2 @@
+CoSe10Ti5
+Atoms(symbols='Ti5CoSe10', pbc=False)

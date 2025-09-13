@@ -1,0 +1,2 @@
+Rh2Ru2Si4U2
+Atoms(symbols='USi2RuRhUSi2RuRh', pbc=False)

@@ -1,0 +1,2 @@
+Ga6Ni9Y3
+Atoms(symbols='Y3Ga6Ni9', pbc=False)

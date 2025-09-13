@@ -1,0 +1,2 @@
+Os3Ta
+Atoms(symbols='TaOs3', pbc=False)

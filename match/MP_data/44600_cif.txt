@@ -1,0 +1,2 @@
+N2O2Sb2Th4
+Atoms(symbols='Th2SbNOTh2SbNO', pbc=False)

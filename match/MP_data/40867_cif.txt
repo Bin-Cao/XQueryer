@@ -1,0 +1,2 @@
+C42H16F30O20Tb2
+Atoms(symbols='C42H16F30O20Tb2', pbc=False)

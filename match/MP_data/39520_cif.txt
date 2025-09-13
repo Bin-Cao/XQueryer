@@ -1,0 +1,2 @@
+In40Nd20Ni20
+Atoms(symbols='In40Nd20Ni20', pbc=False)

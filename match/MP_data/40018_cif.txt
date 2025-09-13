@@ -1,0 +1,2 @@
+H4Al8Fe6K2O24
+Atoms(symbols='KAl4Fe3H2O12KAl4Fe3H2O12', pbc=False)

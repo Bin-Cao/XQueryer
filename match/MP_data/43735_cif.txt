@@ -1,0 +1,2 @@
+In3Pb3Y2
+Atoms(symbols='Y2In3Pb3', pbc=False)

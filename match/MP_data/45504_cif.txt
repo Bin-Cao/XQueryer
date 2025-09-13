@@ -1,0 +1,2 @@
+Ag4O28Ta4W4
+Atoms(symbols='Ta2Ag2W2O14Ta2Ag2W2O14', pbc=False)

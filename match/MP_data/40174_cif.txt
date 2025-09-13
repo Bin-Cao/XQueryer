@@ -1,0 +1,2 @@
+Cr4Ge4Ho4O20
+Atoms(symbols='Ho4Cr4Ge4O20', pbc=False)

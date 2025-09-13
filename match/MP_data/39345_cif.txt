@@ -1,0 +1,2 @@
+Cl36O12Pr6Rb18
+Atoms(symbols='Cl36O12Pr6Rb18', pbc=False)

@@ -1,0 +1,2 @@
+Ni4O12Te4
+Atoms(symbols='Ni4Te4O12', pbc=False)

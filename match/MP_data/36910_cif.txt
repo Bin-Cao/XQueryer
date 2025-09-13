@@ -1,0 +1,2 @@
+O16Si16Th8
+Atoms(symbols='Th4Si8O8Th4Si8O8', pbc=False)

@@ -1,0 +1,2 @@
+H27K6Tc3
+Atoms(symbols='K6Tc3H27', pbc=False)

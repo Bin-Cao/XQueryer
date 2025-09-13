@@ -1,0 +1,2 @@
+Br4O60Re12Sr20
+Atoms(symbols='Br4O60Re12Sr20', pbc=False)

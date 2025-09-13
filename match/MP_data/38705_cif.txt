@@ -1,0 +1,2 @@
+F12In2Na6
+Atoms(symbols='Na6In2F12', pbc=False)

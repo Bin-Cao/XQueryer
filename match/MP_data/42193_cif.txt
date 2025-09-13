@@ -1,0 +1,2 @@
+In12Ni28
+Atoms(symbols='In12Ni28', pbc=False)

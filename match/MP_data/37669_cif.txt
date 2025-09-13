@@ -1,0 +1,2 @@
+F64O10Os2Te14
+Atoms(symbols='F64O10Os2Te14', pbc=False)

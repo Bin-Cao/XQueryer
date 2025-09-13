@@ -1,0 +1,2 @@
+Co54Y9Zr9
+Atoms(symbols='Co54Y9Zr9', pbc=False)

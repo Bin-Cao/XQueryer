@@ -1,0 +1,2 @@
+Ga4In4K2
+Atoms(symbols='KIn2Ga2KIn2Ga2', pbc=False)

@@ -1,0 +1,2 @@
+NiSiSr
+Atoms(symbols='SrSiNi', pbc=False)

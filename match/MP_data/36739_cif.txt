@@ -1,0 +1,2 @@
+F26Tl2U6
+Atoms(symbols='U6Tl2F26', pbc=False)

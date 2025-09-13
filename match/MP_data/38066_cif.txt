@@ -1,0 +1,2 @@
+FeOP2Pr2
+Atoms(symbols='Pr2FeP2O', pbc=False)

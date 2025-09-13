@@ -1,0 +1,2 @@
+Cr5S10V4
+Atoms(symbols='V4Cr5S10', pbc=False)

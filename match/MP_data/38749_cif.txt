@@ -1,0 +1,2 @@
+H8Na4O26Si8Zr2
+Atoms(symbols='Na4Zr2Si8H8O26', pbc=False)

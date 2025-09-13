@@ -1,0 +1,2 @@
+Al24Er48Si8
+Atoms(symbols='Al24Er48Si8', pbc=False)

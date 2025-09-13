@@ -1,0 +1,2 @@
+Ge3Si3V10
+Atoms(symbols='V10Si3Ge3', pbc=False)

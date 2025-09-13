@@ -1,0 +1,2 @@
+Te8V5
+Atoms(symbols='V5Te8', pbc=False)

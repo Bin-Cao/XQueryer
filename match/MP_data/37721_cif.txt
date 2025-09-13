@@ -1,0 +1,2 @@
+Fe14O80P20Rb18
+Atoms(symbols='Fe14O80P20Rb18', pbc=False)

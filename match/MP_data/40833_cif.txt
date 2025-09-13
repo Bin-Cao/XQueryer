@@ -1,0 +1,2 @@
+As2La2NiO
+Atoms(symbols='La2NiAs2O', pbc=False)

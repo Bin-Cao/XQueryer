@@ -1,0 +1,2 @@
+As3Ni3Pr2
+Atoms(symbols='Pr2Ni3As3', pbc=False)

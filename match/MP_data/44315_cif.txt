@@ -1,0 +1,2 @@
+CrSb5Ti10
+Atoms(symbols='Ti10CrSb5', pbc=False)

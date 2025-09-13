@@ -1,0 +1,2 @@
+Gd12In12O36
+Atoms(symbols='Gd6In6O18Gd6In6O18', pbc=False)

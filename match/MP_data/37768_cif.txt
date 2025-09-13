@@ -1,0 +1,2 @@
+As3CuLu2
+Atoms(symbols='Lu2CuAs3', pbc=False)

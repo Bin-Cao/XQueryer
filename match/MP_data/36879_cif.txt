@@ -1,0 +1,2 @@
+H16Al24K2Na6O96Si24
+Atoms(symbols='H16Al24K2Na6O96Si24', pbc=False)

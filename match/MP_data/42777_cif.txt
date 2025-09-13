@@ -1,0 +1,2 @@
+C2TiZr
+Atoms(symbols='ZrTiC2', pbc=False)

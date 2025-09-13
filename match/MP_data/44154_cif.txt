@@ -1,0 +1,2 @@
+Nb2O15Ti2Y4
+Atoms(symbols='Y4Ti2Nb2O15', pbc=False)

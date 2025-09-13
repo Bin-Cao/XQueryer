@@ -1,0 +1,2 @@
+B6Nb2Ni21
+Atoms(symbols='Nb2Ni21B6', pbc=False)

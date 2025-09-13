@@ -1,0 +1,2 @@
+CuGa3U2
+Atoms(symbols='U2Ga3Cu', pbc=False)

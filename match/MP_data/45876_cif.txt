@@ -1,0 +1,2 @@
+O16Sn6
+Atoms(symbols='Sn3O8Sn3O8', pbc=False)

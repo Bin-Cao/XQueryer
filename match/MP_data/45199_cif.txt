@@ -1,0 +1,2 @@
+S3SeTa10
+Atoms(symbols='Ta10SeS3', pbc=False)

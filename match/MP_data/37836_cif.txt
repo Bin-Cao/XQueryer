@@ -1,0 +1,2 @@
+Fe8O18Ta4
+Atoms(symbols='Ta4Fe8O18', pbc=False)

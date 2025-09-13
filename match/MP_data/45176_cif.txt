@@ -1,0 +1,2 @@
+Cr2Fe6U48
+Atoms(symbols='U24CrFe3U24CrFe3', pbc=False)

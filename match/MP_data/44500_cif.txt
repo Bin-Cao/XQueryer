@@ -1,0 +1,2 @@
+PtTc3
+Atoms(symbols='Tc3Pt', pbc=False)

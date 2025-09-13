@@ -1,0 +1,2 @@
+S12Tl2Y6
+Atoms(symbols='Y3TlS6Y3TlS6', pbc=False)

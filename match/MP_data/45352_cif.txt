@@ -1,0 +1,2 @@
+C8H20F6N2Ti
+Atoms(symbols='TiH20C8N2F6', pbc=False)

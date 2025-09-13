@@ -1,0 +1,2 @@
+Mo6Sn2
+Atoms(symbols='SnMo3SnMo3', pbc=False)

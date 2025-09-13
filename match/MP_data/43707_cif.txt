@@ -1,0 +1,2 @@
+CHZr2
+Atoms(symbols='Zr2HC', pbc=False)

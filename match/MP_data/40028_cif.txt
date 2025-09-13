@@ -1,0 +1,2 @@
+KMo2O14P4
+Atoms(symbols='KMo2P4O14', pbc=False)

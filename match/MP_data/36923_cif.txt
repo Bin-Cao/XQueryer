@@ -1,0 +1,2 @@
+Al4Ho4O14Sr2
+Atoms(symbols='SrHo2Al2O7SrHo2Al2O7', pbc=False)

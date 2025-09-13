@@ -1,0 +1,2 @@
+Cu4In4Pr8Se20
+Atoms(symbols='Pr8In4Cu4Se20', pbc=False)

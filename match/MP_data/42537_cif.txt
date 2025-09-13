@@ -1,0 +1,2 @@
+Br8F24N16O40
+Atoms(symbols='Br8F24N16O40', pbc=False)

@@ -1,0 +1,2 @@
+Dy4O32Tl4W8
+Atoms(symbols='Dy2Tl2W4O16Dy2Tl2W4O16', pbc=False)

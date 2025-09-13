@@ -1,0 +1,2 @@
+HoY
+Atoms(symbols='YHo', pbc=False)

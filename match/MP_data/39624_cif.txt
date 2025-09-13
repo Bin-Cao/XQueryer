@@ -1,0 +1,2 @@
+O56P12Pr4
+Atoms(symbols='O56P12Pr4', pbc=False)

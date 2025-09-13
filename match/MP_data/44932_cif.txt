@@ -1,0 +1,2 @@
+Co4Ni6SmTb
+Atoms(symbols='TbSmCo4Ni6', pbc=False)

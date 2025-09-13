@@ -1,0 +1,2 @@
+Lu2Na2O40Re8
+Atoms(symbols='Na2Lu2Re8O40', pbc=False)

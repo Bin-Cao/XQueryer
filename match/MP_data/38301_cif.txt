@@ -1,0 +1,2 @@
+H72N12O68V20
+Atoms(symbols='H72N12O68V20', pbc=False)

@@ -1,0 +1,2 @@
+Ni20P13Pr6
+Atoms(symbols='Pr6Ni20P13', pbc=False)

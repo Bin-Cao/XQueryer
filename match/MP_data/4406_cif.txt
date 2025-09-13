@@ -1,0 +1,2 @@
+N40Na24W16
+Atoms(symbols='N40Na24W16', pbc=False)

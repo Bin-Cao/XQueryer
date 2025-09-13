@@ -1,0 +1,2 @@
+GaGeSr
+Atoms(symbols='SrGaGe', pbc=False)

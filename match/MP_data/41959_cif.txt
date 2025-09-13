@@ -1,0 +1,2 @@
+Ce12Co4Ge8
+Atoms(symbols='Ce12Co4Ge8', pbc=False)

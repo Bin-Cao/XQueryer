@@ -1,0 +1,2 @@
+Cl6Nd6O12Ta2
+Atoms(symbols='Nd6Ta2Cl6O12', pbc=False)

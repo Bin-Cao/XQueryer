@@ -1,0 +1,2 @@
+CAl4N3Ti8
+Atoms(symbols='Ti8Al4CN3', pbc=False)

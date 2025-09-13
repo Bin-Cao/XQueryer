@@ -1,0 +1,2 @@
+Al28Si4Tb48
+Atoms(symbols='Al28Si4Tb48', pbc=False)

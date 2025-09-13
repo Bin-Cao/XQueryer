@@ -1,0 +1,2 @@
+CoRu3Y2
+Atoms(symbols='Y2CoRu3', pbc=False)

@@ -1,0 +1,2 @@
+MgS14Si2Y6
+Atoms(symbols='Y6MgSi2S14', pbc=False)

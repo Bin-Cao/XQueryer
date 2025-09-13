@@ -1,0 +1,2 @@
+Eu4Ho8O16
+Atoms(symbols='Eu4Ho8O16', pbc=False)

@@ -1,0 +1,2 @@
+C24H70Cl16O38Sb2V12
+Atoms(symbols='C24H70Cl16O38Sb2V12', pbc=False)

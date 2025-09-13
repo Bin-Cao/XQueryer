@@ -1,0 +1,2 @@
+Cr16O80Th8
+Atoms(symbols='Cr16O80Th8', pbc=False)

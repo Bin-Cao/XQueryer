@@ -1,0 +1,2 @@
+Cl14Ni12
+Atoms(symbols='Ni12Cl14', pbc=False)

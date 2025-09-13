@@ -1,0 +1,2 @@
+Al4Er2O12Y2
+Atoms(symbols='Y2Er2Al4O12', pbc=False)

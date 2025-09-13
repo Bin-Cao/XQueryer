@@ -1,0 +1,2 @@
+H42B10Ca2Na2O24
+Atoms(symbols='H42B10Ca2Na2O24', pbc=False)

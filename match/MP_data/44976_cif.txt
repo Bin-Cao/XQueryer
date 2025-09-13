@@ -1,0 +1,2 @@
+I12Pb2Th2
+Atoms(symbols='ThPbI6ThPbI6', pbc=False)

@@ -1,0 +1,2 @@
+GeNi16P5
+Atoms(symbols='Ni16GeP5', pbc=False)

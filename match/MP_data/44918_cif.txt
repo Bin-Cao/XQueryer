@@ -1,0 +1,2 @@
+Fe3S18V9
+Atoms(symbols='V3FeS6V3FeS6V3FeS6', pbc=False)

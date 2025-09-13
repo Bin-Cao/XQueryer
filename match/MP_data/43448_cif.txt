@@ -1,0 +1,2 @@
+Au12Br32N12
+Atoms(symbols='Au6Br16N6Au6Br16N6', pbc=False)

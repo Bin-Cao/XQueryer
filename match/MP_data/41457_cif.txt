@@ -1,0 +1,2 @@
+Cs2Gd2Mo4O16
+Atoms(symbols='Cs2Gd2Mo4O16', pbc=False)

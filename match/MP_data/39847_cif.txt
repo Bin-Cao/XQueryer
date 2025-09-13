@@ -1,0 +1,2 @@
+Mn24Mo20Si32
+Atoms(symbols='Mn24Mo20Si32', pbc=False)

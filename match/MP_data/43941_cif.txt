@@ -1,0 +1,2 @@
+P4TiW3
+Atoms(symbols='TiP4W3', pbc=False)

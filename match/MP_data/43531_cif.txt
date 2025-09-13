@@ -1,0 +1,2 @@
+COW2
+Atoms(symbols='W2CO', pbc=False)

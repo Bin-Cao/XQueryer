@@ -1,0 +1,2 @@
+Sb9Se3Ti20
+Atoms(symbols='Ti20Sb9Se3', pbc=False)

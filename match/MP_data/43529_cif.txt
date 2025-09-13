@@ -1,0 +1,2 @@
+H56Co2Cu2O44S4
+Atoms(symbols='H56Co2Cu2O44S4', pbc=False)

@@ -1,0 +1,2 @@
+Pd3Ru3Ta2
+Atoms(symbols='Ta2Pd3Ru3', pbc=False)

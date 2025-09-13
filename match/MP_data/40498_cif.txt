@@ -1,0 +1,2 @@
+Br12K4Ni4O24
+Atoms(symbols='K2Ni2Br6O12K2Ni2Br6O12', pbc=False)

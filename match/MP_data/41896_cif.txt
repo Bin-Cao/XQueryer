@@ -1,0 +1,2 @@
+Cd2Cu4O16S4
+Atoms(symbols='Cd2Cu4S4O16', pbc=False)

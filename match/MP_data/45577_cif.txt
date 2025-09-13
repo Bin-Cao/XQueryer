@@ -1,0 +1,2 @@
+Mg11Ni8Tb17
+Atoms(symbols='Tb17Mg11Ni8', pbc=False)

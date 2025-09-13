@@ -1,0 +1,2 @@
+Co10Fe10Si4U2
+Atoms(symbols='UFe5Co5Si2UFe5Co5Si2', pbc=False)

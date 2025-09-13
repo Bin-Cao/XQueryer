@@ -1,0 +1,2 @@
+CoLaO4Sr
+Atoms(symbols='SrLaCoO4', pbc=False)

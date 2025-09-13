@@ -1,0 +1,2 @@
+F3OU
+Atoms(symbols='UOF3', pbc=False)

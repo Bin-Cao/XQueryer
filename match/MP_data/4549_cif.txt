@@ -1,0 +1,2 @@
+Cr32N64
+Atoms(symbols='Cr32N64', pbc=False)

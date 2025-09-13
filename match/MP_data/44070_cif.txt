@@ -1,0 +1,2 @@
+BiCu2O8V2
+Atoms(symbols='V2Cu2BiO8', pbc=False)

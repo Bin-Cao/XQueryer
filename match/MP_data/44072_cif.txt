@@ -1,0 +1,2 @@
+GeS3Y4
+Atoms(symbols='Y4GeS3', pbc=False)

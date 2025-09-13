@@ -1,0 +1,2 @@
+C4Fe36Ga16La4
+Atoms(symbols='La2Ga8Fe18C2La2Ga8Fe18C2', pbc=False)

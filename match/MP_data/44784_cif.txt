@@ -1,0 +1,2 @@
+Fe5Ni5Si2U
+Atoms(symbols='UFe5Si2Ni5', pbc=False)

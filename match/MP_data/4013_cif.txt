@@ -1,0 +1,2 @@
+Ca8Mg24N32Si8
+Atoms(symbols='Ca8Mg24N32Si8', pbc=False)

@@ -1,0 +1,2 @@
+Al34O76Sr4Ti10
+Atoms(symbols='Al34O76Sr4Ti10', pbc=False)

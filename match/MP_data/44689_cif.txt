@@ -1,0 +1,2 @@
+Ga2Mn3SiTb3
+Atoms(symbols='Tb3Mn3Ga2Si', pbc=False)

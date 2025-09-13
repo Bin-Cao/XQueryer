@@ -1,0 +1,2 @@
+SSeTa
+Atoms(symbols='TaSeS', pbc=False)

@@ -1,0 +1,2 @@
+Ni2O12Pr2Ru2Sr2
+Atoms(symbols='Sr2Pr2Ni2Ru2O12', pbc=False)

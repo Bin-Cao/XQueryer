@@ -1,0 +1,2 @@
+Ge6La10Ni2
+Atoms(symbols='La10Ni2Ge6', pbc=False)

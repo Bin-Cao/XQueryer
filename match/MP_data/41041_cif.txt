@@ -1,0 +1,2 @@
+C16Fe2N12
+Atoms(symbols='Fe2C16N12', pbc=False)

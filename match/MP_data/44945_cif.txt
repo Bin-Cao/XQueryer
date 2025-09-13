@@ -1,0 +1,2 @@
+Al3Si9Ti20
+Atoms(symbols='Ti20Al3Si9', pbc=False)

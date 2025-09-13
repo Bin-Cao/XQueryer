@@ -1,0 +1,2 @@
+Ca6Lu18O36Sr2
+Atoms(symbols='Ca6Lu18O36Sr2', pbc=False)

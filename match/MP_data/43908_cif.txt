@@ -1,0 +1,2 @@
+GeO10Y4
+Atoms(symbols='Y4GeO10', pbc=False)

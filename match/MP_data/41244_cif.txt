@@ -1,0 +1,2 @@
+B28Dy12Mo4
+Atoms(symbols='Dy6B14Mo2Dy6B14Mo2', pbc=False)

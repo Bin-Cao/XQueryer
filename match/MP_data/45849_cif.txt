@@ -1,0 +1,2 @@
+C2H12CoN6O20V4
+Atoms(symbols='V4CoH12C2N6O20', pbc=False)

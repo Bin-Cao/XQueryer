@@ -1,0 +1,2 @@
+Sn2Te12Tl18
+Atoms(symbols='Tl9SnTe6Tl9SnTe6', pbc=False)

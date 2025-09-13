@@ -1,0 +1,2 @@
+K6Mg18O72Si24
+Atoms(symbols='K6Mg18O72Si24', pbc=False)

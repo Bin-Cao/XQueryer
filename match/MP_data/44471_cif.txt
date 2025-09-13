@@ -1,0 +1,2 @@
+Cu2NiO4Ti
+Atoms(symbols='TiCu2NiO4', pbc=False)

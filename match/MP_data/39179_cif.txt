@@ -1,0 +1,2 @@
+K4Nb10O30Sr2
+Atoms(symbols='K4Sr2Nb10O30', pbc=False)

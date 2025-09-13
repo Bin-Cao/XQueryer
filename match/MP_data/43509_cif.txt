@@ -1,0 +1,2 @@
+Fe8Ni2O16Zn2
+Atoms(symbols='ZnFe4NiO8ZnFe4NiO8', pbc=False)

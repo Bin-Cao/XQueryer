@@ -1,0 +1,2 @@
+NOPTh2
+Atoms(symbols='Th2PNO', pbc=False)

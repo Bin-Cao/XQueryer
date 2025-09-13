@@ -1,0 +1,2 @@
+Br6Nd14O36
+Atoms(symbols='Nd14Br6O36', pbc=False)

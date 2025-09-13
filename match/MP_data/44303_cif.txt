@@ -1,0 +1,2 @@
+F5Ge4O29Y14
+Atoms(symbols='Y14Ge4O29F5', pbc=False)

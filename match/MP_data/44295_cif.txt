@@ -1,0 +1,2 @@
+Cu3O4Ti
+Atoms(symbols='TiCu3O4', pbc=False)

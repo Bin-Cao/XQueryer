@@ -1,0 +1,2 @@
+H24Pt4Sr8
+Atoms(symbols='Sr4H12Pt2Sr4H12Pt2', pbc=False)

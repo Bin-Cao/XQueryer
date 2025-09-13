@@ -1,0 +1,2 @@
+Cu18In4Sm2
+Atoms(symbols='Sm2In4Cu18', pbc=False)

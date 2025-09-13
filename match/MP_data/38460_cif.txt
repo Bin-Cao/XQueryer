@@ -1,0 +1,2 @@
+Er8F32Li4Na4
+Atoms(symbols='Na2Li2Er4F16Na2Li2Er4F16', pbc=False)

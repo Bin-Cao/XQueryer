@@ -1,0 +1,2 @@
+H22Ga2O24P4
+Atoms(symbols='Ga2P4H22O24', pbc=False)

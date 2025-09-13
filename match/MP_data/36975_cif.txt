@@ -1,0 +1,2 @@
+K2Mg2O44V10
+Atoms(symbols='K2Mg2V10O44', pbc=False)

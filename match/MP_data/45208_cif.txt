@@ -1,0 +1,2 @@
+Mo9Si6V9
+Atoms(symbols='V3Si2Mo3V3Si2Mo3V3Si2Mo3', pbc=False)

@@ -1,0 +1,2 @@
+Cu2O16Pr2W4
+Atoms(symbols='Pr2Cu2W4O16', pbc=False)

@@ -1,0 +1,2 @@
+Bi4Gd16Ni8Si8
+Atoms(symbols='Gd16Si8Ni8Bi4', pbc=False)

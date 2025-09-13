@@ -1,0 +1,2 @@
+Mn3Ta6V9
+Atoms(symbols='Ta2MnV3Ta2MnV3Ta2MnV3', pbc=False)

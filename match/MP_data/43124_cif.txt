@@ -1,0 +1,2 @@
+C36Br2F26
+Atoms(symbols='C36Br2F26', pbc=False)

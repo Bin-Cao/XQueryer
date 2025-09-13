@@ -1,0 +1,2 @@
+Br2Nd2O
+Atoms(symbols='Nd2Br2O', pbc=False)

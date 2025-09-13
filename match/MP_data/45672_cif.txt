@@ -1,0 +1,2 @@
+EuSrTe2
+Atoms(symbols='SrEuTe2', pbc=False)

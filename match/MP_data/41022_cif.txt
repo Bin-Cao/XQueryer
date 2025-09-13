@@ -1,0 +1,2 @@
+Eu6Ni20P13
+Atoms(symbols='Eu6Ni20P13', pbc=False)

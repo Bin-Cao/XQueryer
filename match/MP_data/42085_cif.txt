@@ -1,0 +1,2 @@
+Au18Ca6Ge4
+Atoms(symbols='Ca6Ge4Au18', pbc=False)

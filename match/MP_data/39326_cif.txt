@@ -1,0 +1,2 @@
+MnNa2O22Si4Ti3
+Atoms(symbols='Na2Ti3MnSi4O22', pbc=False)

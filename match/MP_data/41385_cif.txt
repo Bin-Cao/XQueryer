@@ -1,0 +1,2 @@
+Cu12Pd24Sn12
+Atoms(symbols='Cu12Sn12Pd24', pbc=False)

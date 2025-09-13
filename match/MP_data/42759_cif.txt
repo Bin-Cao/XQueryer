@@ -1,0 +1,2 @@
+As24Pd60
+Atoms(symbols='As24Pd60', pbc=False)

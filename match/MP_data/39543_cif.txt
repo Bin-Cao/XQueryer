@@ -1,0 +1,2 @@
+Cl18Cu2Nb6Tl2
+Atoms(symbols='Nb6Tl2Cu2Cl18', pbc=False)

@@ -1,0 +1,2 @@
+AlGe2Na2
+Atoms(symbols='Na2AlGe2', pbc=False)

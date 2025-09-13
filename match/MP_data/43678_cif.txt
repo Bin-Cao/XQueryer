@@ -1,0 +1,2 @@
+Ru16V4
+Atoms(symbols='VRu4VRu4VRu4VRu4', pbc=False)

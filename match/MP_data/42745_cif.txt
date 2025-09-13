@@ -1,0 +1,2 @@
+Cr6I18
+Atoms(symbols='Cr6I18', pbc=False)

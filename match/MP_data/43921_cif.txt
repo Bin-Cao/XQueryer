@@ -1,0 +1,2 @@
+Fe10Si12V10
+Atoms(symbols='V5Fe5Si6V5Fe5Si6', pbc=False)

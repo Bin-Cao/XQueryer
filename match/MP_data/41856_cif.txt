@@ -1,0 +1,2 @@
+Ca4Cl72Cs4Ta24
+Atoms(symbols='Ca4Cl72Cs4Ta24', pbc=False)

@@ -1,0 +1,2 @@
+H8Fe14O72P16Rb14
+Atoms(symbols='H8Fe14O72P16Rb14', pbc=False)

@@ -1,0 +1,2 @@
+O26P6Sr10
+Atoms(symbols='Sr10P6O26', pbc=False)

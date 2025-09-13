@@ -1,0 +1,2 @@
+Ni12V18
+Atoms(symbols='V18Ni12', pbc=False)

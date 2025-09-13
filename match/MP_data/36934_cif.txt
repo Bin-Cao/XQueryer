@@ -1,0 +1,2 @@
+C12Co2N12O10Y2
+Atoms(symbols='Y2Co2C12N12O10', pbc=False)

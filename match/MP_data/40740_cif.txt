@@ -1,0 +1,2 @@
+H6In4O20P6
+Atoms(symbols='In4P6H6O20', pbc=False)

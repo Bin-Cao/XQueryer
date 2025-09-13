@@ -1,0 +1,2 @@
+CrFeMg6O8
+Atoms(symbols='Mg6CrFeO8', pbc=False)

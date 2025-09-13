@@ -1,0 +1,2 @@
+K4O32Se8Sm4
+Atoms(symbols='K4Sm4Se8O32', pbc=False)

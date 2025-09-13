@@ -1,0 +1,2 @@
+C6O6W4
+Atoms(symbols='W2C3O3W2C3O3', pbc=False)

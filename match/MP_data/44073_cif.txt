@@ -1,0 +1,2 @@
+Bi24Te21
+Atoms(symbols='Bi24Te21', pbc=False)

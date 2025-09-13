@@ -1,0 +1,2 @@
+C72H72B2F40P8Rh2
+Atoms(symbols='C72H72B2F40P8Rh2', pbc=False)

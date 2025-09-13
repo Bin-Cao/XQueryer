@@ -1,0 +1,2 @@
+Mo4Na2Ni4O20
+Atoms(symbols='NaNi2Mo2O10NaNi2Mo2O10', pbc=False)

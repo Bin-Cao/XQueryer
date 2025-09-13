@@ -1,0 +1,2 @@
+As2Ca2N2O22
+Atoms(symbols='Ca2As2N2O22', pbc=False)

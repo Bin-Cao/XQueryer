@@ -1,0 +1,2 @@
+Ga28V24
+Atoms(symbols='V12Ga14V12Ga14', pbc=False)

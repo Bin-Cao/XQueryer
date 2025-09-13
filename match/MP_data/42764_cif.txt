@@ -1,0 +1,2 @@
+Ba12Co4O20
+Atoms(symbols='Ba12Co4O20', pbc=False)

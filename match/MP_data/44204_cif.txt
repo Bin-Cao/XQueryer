@@ -1,0 +1,2 @@
+Cr4F24Ni4Tl4
+Atoms(symbols='Tl2Cr2Ni2F12Tl2Cr2Ni2F12', pbc=False)

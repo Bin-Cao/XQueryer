@@ -1,0 +1,2 @@
+LiNa2S2
+Atoms(symbols='Na2LiS2', pbc=False)

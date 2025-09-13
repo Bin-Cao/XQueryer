@@ -1,0 +1,2 @@
+Cl4Ga12Te12
+Atoms(symbols='Ga12Te12Cl4', pbc=False)

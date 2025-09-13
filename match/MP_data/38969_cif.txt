@@ -1,0 +1,2 @@
+H24Na12O48Si12Y4
+Atoms(symbols='H24Na12O48Si12Y4', pbc=False)

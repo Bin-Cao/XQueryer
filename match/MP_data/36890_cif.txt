@@ -1,0 +1,2 @@
+Al14Si2Y24
+Atoms(symbols='Y24Al14Si2', pbc=False)

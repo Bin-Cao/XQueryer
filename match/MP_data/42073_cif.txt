@@ -1,0 +1,2 @@
+C4Na12O44P4
+Atoms(symbols='C4Na12O44P4', pbc=False)

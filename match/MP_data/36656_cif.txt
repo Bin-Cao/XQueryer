@@ -1,0 +1,2 @@
+Cr4Lu2Si4
+Atoms(symbols='LuCr2Si2LuCr2Si2', pbc=False)

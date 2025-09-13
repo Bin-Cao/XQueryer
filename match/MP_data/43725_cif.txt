@@ -1,0 +1,2 @@
+Co2Zn
+Atoms(symbols='ZnCo2', pbc=False)

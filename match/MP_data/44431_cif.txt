@@ -1,0 +1,2 @@
+AlCo2Ti
+Atoms(symbols='TiAlCo2', pbc=False)

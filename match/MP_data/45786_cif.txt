@@ -1,0 +1,2 @@
+Fe9O18Ti3
+Atoms(symbols='TiFe3O6TiFe3O6TiFe3O6', pbc=False)

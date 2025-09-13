@@ -1,0 +1,2 @@
+H24In2Na2O28Se4
+Atoms(symbols='Na2In2H24Se4O28', pbc=False)

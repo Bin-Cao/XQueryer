@@ -1,0 +1,2 @@
+Dy4Mo4O20
+Atoms(symbols='Dy4Mo4O20', pbc=False)

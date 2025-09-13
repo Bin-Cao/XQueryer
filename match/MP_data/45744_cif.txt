@@ -1,0 +1,2 @@
+Cu2O7Sr2TlY
+Atoms(symbols='Sr2YTlCu2O7', pbc=False)

@@ -1,0 +1,2 @@
+C4Cl12Na4O16S4
+Atoms(symbols='Na4C4S4Cl12O16', pbc=False)

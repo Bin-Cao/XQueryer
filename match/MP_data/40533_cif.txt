@@ -1,0 +1,2 @@
+Ho10In20Pd10
+Atoms(symbols='Ho10In20Pd10', pbc=False)

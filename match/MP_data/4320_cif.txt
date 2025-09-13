@@ -1,0 +1,2 @@
+FeLiMg6O8
+Atoms(symbols='LiMg6FeO8', pbc=False)

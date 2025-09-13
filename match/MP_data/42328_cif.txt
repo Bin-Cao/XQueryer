@@ -1,0 +1,2 @@
+Cs6Na4Tl13
+Atoms(symbols='Cs6Na4Tl13', pbc=False)

@@ -1,0 +1,2 @@
+Cu10Ni10U4
+Atoms(symbols='U2Cu5Ni5U2Cu5Ni5', pbc=False)

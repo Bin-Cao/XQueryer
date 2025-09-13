@@ -1,0 +1,2 @@
+Al2La6Mg2O16Sr2
+Atoms(symbols='SrLa3MgAlO8SrLa3MgAlO8', pbc=False)

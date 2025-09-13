@@ -1,0 +1,2 @@
+Mg6NiO8Sr
+Atoms(symbols='SrMg6NiO8', pbc=False)

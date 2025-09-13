@@ -1,0 +1,2 @@
+KMg6NaO7
+Atoms(symbols='KNaMg6O7', pbc=False)

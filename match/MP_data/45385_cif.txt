@@ -1,0 +1,2 @@
+Cu40Pd10Th2U8
+Atoms(symbols='ThU4Cu20Pd5ThU4Cu20Pd5', pbc=False)

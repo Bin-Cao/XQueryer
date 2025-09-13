@@ -1,0 +1,2 @@
+Fe68Nd2Tb6
+Atoms(symbols='Fe68Nd2Tb6', pbc=False)

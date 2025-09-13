@@ -1,0 +1,2 @@
+Bi2CuOTe2
+Atoms(symbols='CuBi2Te2O', pbc=False)

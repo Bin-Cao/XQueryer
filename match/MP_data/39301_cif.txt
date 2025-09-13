@@ -1,0 +1,2 @@
+Co3LaNi2
+Atoms(symbols='LaCo3Ni2', pbc=False)

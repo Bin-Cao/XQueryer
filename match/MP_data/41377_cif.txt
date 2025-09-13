@@ -1,0 +1,2 @@
+Ge36La60P4
+Atoms(symbols='Ge36La60P4', pbc=False)

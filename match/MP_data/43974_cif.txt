@@ -1,0 +1,2 @@
+As20Zr32
+Atoms(symbols='Zr32As20', pbc=False)

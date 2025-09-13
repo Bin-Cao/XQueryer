@@ -1,0 +1,2 @@
+BiCo5Er12
+Atoms(symbols='Er12Co5Bi', pbc=False)

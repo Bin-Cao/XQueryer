@@ -1,0 +1,2 @@
+CoNiV6
+Atoms(symbols='V6CoNi', pbc=False)

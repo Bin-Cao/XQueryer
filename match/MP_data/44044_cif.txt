@@ -1,0 +1,2 @@
+C12Co2N12Zn3
+Atoms(symbols='Zn3Co2C12N12', pbc=False)

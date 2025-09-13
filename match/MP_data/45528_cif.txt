@@ -1,0 +1,2 @@
+Ca2Si8Sr2
+Atoms(symbols='SrCaSi4SrCaSi4', pbc=False)

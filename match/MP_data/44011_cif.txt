@@ -1,0 +1,2 @@
+C20H36N4O24Zn4
+Atoms(symbols='C20H36N4O24Zn4', pbc=False)

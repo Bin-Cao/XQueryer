@@ -1,0 +1,2 @@
+Mo12Si12Ta8
+Atoms(symbols='Ta4Si6Mo6Ta4Si6Mo6', pbc=False)

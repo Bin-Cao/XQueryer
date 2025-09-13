@@ -1,0 +1,2 @@
+Ce6Fe46Ti12
+Atoms(symbols='Ce6Fe46Ti12', pbc=False)

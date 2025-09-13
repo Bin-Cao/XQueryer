@@ -1,0 +1,2 @@
+Ba2O18Si6Zr2
+Atoms(symbols='Ba2Zr2Si6O18', pbc=False)

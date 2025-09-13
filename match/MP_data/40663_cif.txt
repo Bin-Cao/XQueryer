@@ -1,0 +1,2 @@
+Nd32Rh68Sb56
+Atoms(symbols='Nd32Rh68Sb56', pbc=False)

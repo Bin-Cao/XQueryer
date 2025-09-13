@@ -1,0 +1,2 @@
+Al2Ce2O8Sr2
+Atoms(symbols='SrCeAlO4SrCeAlO4', pbc=False)

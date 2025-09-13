@@ -1,0 +1,2 @@
+Cs3S6Ti3
+Atoms(symbols='CsTiS2CsTiS2CsTiS2', pbc=False)

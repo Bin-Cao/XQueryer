@@ -1,0 +1,2 @@
+C12Er8Rh5
+Atoms(symbols='Er8Rh5C12', pbc=False)

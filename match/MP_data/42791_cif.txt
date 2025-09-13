@@ -1,0 +1,2 @@
+Br16Cl4Cr4N20Pt4
+Atoms(symbols='Cr4Pt4Br16N20Cl4', pbc=False)

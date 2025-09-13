@@ -1,0 +1,2 @@
+ReSe4Ta
+Atoms(symbols='TaReSe4', pbc=False)

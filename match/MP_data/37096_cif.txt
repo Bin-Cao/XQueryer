@@ -1,0 +1,2 @@
+NO8S2V
+Atoms(symbols='VS2NO8', pbc=False)

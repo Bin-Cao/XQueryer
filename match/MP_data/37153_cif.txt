@@ -1,0 +1,2 @@
+Cd12Ni12Y48
+Atoms(symbols='Cd12Ni12Y48', pbc=False)

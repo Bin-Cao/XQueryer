@@ -1,0 +1,2 @@
+Co3Mn2Th
+Atoms(symbols='ThMn2Co3', pbc=False)

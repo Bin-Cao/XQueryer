@@ -1,0 +1,2 @@
+As13Er6Ni20
+Atoms(symbols='Er6Ni20As13', pbc=False)

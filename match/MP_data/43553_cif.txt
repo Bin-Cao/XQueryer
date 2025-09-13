@@ -1,0 +1,2 @@
+AlNO8Se2
+Atoms(symbols='AlSe2NO8', pbc=False)

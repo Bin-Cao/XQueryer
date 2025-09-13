@@ -1,0 +1,2 @@
+H10O16Os4Sr6
+Atoms(symbols='Sr6H10Os4O16', pbc=False)

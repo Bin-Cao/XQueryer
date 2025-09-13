@@ -1,0 +1,2 @@
+Ca2LaMn2O7
+Atoms(symbols='Ca2LaMn2O7', pbc=False)

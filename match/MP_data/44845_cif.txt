@@ -1,0 +1,2 @@
+Mn10O30Y8Zr2
+Atoms(symbols='Y8Zr2Mn10O30', pbc=False)

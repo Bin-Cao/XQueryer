@@ -1,0 +1,2 @@
+CuEu2Ge4O12
+Atoms(symbols='Eu2CuGe4O12', pbc=False)

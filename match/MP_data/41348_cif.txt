@@ -1,0 +1,2 @@
+Cu2Dy10Pb6
+Atoms(symbols='Dy10Cu2Pb6', pbc=False)

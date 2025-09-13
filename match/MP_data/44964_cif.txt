@@ -1,0 +1,2 @@
+CrS2Ti
+Atoms(symbols='TiCrS2', pbc=False)

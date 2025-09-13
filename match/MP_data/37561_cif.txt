@@ -1,0 +1,2 @@
+Mo8O32Sr2U2
+Atoms(symbols='Sr2U2Mo8O32', pbc=False)

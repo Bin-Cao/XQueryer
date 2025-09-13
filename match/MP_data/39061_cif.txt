@@ -1,0 +1,2 @@
+Fe12Pr12Sb36
+Atoms(symbols='Pr12Fe12Sb36', pbc=False)

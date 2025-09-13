@@ -1,0 +1,2 @@
+CeTe
+Atoms(symbols='CeTe', pbc=False)

@@ -1,0 +1,2 @@
+ISTb
+Atoms(symbols='TbSI', pbc=False)

@@ -1,0 +1,2 @@
+F28O16Y20
+Atoms(symbols='F28O16Y20', pbc=False)

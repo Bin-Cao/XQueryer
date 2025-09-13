@@ -1,0 +1,2 @@
+H40Cl24Fe8O20
+Atoms(symbols='H40Cl24Fe8O20', pbc=False)

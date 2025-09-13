@@ -1,0 +1,2 @@
+C4Mn34Th4
+Atoms(symbols='Th2Mn17C2Th2Mn17C2', pbc=False)

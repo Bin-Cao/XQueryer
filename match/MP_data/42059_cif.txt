@@ -1,0 +1,2 @@
+Cl20Cs8Ho4
+Atoms(symbols='Cs8Ho4Cl20', pbc=False)

@@ -1,0 +1,2 @@
+Ge9Sb3Ti20
+Atoms(symbols='Ti20Ge9Sb3', pbc=False)

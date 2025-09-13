@@ -1,0 +1,2 @@
+H60Cl18Cu6O108
+Atoms(symbols='H60Cl18Cu6O108', pbc=False)

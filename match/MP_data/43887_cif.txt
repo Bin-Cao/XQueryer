@@ -1,0 +1,2 @@
+Ni50Y8Zr2
+Atoms(symbols='Y4ZrNi25Y4ZrNi25', pbc=False)

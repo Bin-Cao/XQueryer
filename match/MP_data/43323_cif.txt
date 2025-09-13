@@ -1,0 +1,2 @@
+Ga3Sb3Ti10
+Atoms(symbols='Ti10Ga3Sb3', pbc=False)

@@ -1,0 +1,2 @@
+K16Mn4O16
+Atoms(symbols='K16Mn4O16', pbc=False)

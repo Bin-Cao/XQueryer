@@ -1,0 +1,2 @@
+Ho3N21O45
+Atoms(symbols='Ho3N21O45', pbc=False)

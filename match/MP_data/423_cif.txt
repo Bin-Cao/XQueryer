@@ -1,0 +1,2 @@
+CoMn
+Atoms(symbols='MnCo', pbc=False)

@@ -1,0 +1,2 @@
+Ge4O36Pr12V4
+Atoms(symbols='Pr12V4Ge4O36', pbc=False)

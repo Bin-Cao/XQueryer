@@ -1,0 +1,2 @@
+Al4F4K2Li2O20Si8
+Atoms(symbols='KLiAl2Si4O10F2KLiAl2Si4O10F2', pbc=False)

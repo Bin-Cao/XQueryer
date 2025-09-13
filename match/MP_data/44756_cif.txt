@@ -1,0 +1,2 @@
+As3SbSe8Tl4
+Atoms(symbols='Tl4SbAs3Se8', pbc=False)

@@ -1,0 +1,2 @@
+Cs4O18Ti8
+Atoms(symbols='Cs4Ti8O18', pbc=False)

@@ -1,0 +1,2 @@
+H72Al18Ca9
+Atoms(symbols='H72Al18Ca9', pbc=False)

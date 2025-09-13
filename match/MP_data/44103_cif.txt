@@ -1,0 +1,2 @@
+InPt2Ti
+Atoms(symbols='TiInPt2', pbc=False)

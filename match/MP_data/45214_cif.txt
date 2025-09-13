@@ -1,0 +1,2 @@
+La2Mn2O6Sr2
+Atoms(symbols='SrLaMnO3SrLaMnO3', pbc=False)

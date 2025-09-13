@@ -1,0 +1,2 @@
+AgPd3Zr8
+Atoms(symbols='Zr8AgPd3', pbc=False)

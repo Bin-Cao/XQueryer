@@ -1,0 +1,2 @@
+O18
+Atoms(symbols='O18', pbc=False)

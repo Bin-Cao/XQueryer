@@ -1,0 +1,2 @@
+Dy2F14Hf2
+Atoms(symbols='Dy2Hf2F14', pbc=False)

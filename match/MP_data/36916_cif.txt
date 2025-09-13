@@ -1,0 +1,2 @@
+As18Pb10S36
+Atoms(symbols='As18Pb10S36', pbc=False)

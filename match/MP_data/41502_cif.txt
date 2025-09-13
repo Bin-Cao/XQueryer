@@ -1,0 +1,2 @@
+Co30Dy6Si18
+Atoms(symbols='Dy6Co30Si18', pbc=False)

@@ -1,0 +1,2 @@
+F18S3Sn12
+Atoms(symbols='Sn4SF6Sn4SF6Sn4SF6', pbc=False)

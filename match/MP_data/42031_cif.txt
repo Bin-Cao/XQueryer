@@ -1,0 +1,2 @@
+Cl24Hf4Se4Te28
+Atoms(symbols='Hf4Te28Se4Cl24', pbc=False)

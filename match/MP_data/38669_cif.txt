@@ -1,0 +1,2 @@
+Cd4Nd6O26Si6
+Atoms(symbols='Nd6Cd4Si6O26', pbc=False)

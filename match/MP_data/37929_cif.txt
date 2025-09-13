@@ -1,0 +1,2 @@
+I28Si2Zr12
+Atoms(symbols='Zr12Si2I28', pbc=False)

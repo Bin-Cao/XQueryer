@@ -1,0 +1,2 @@
+Al10Cu14Zr2
+Atoms(symbols='ZrAl5Cu7ZrAl5Cu7', pbc=False)

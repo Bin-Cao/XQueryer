@@ -1,0 +1,2 @@
+Mg2N2O18P6
+Atoms(symbols='Mg2P6N2O18', pbc=False)

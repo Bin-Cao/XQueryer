@@ -1,0 +1,2 @@
+Fe7O44Pb4V17
+Atoms(symbols='Fe7O44Pb4V17', pbc=False)

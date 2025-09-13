@@ -1,0 +1,2 @@
+F18Li3Ni3Ti3
+Atoms(symbols='Li3Ti3Ni3F18', pbc=False)

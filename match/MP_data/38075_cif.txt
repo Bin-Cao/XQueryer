@@ -1,0 +1,2 @@
+Ge18Rh30Sm6
+Atoms(symbols='Sm6Ge18Rh30', pbc=False)

@@ -1,0 +1,2 @@
+Co4I34La20Rb4
+Atoms(symbols='Co4I34La20Rb4', pbc=False)

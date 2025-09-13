@@ -1,0 +1,2 @@
+Gd4K4Mo8O32
+Atoms(symbols='K4Gd4Mo8O32', pbc=False)

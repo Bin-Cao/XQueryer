@@ -1,0 +1,2 @@
+K6Na4Tl13
+Atoms(symbols='K6Na4Tl13', pbc=False)

@@ -1,0 +1,2 @@
+Ge6O18Zn6
+Atoms(symbols='Zn2Ge2O6Zn2Ge2O6Zn2Ge2O6', pbc=False)

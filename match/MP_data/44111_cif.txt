@@ -1,0 +1,2 @@
+Cu3Mo6O24Zn3
+Atoms(symbols='Zn3Cu3Mo6O24', pbc=False)

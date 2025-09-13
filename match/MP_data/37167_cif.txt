@@ -1,0 +1,2 @@
+Bi4Cu4Ho2O16Sr4
+Atoms(symbols='Sr2HoCu2Bi2O8Sr2HoCu2Bi2O8', pbc=False)

@@ -1,0 +1,2 @@
+In3Tl
+Atoms(symbols='TlIn3', pbc=False)

@@ -1,0 +1,2 @@
+B4OsV
+Atoms(symbols='VB4Os', pbc=False)

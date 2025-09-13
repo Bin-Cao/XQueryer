@@ -1,0 +1,2 @@
+Nd8Ni2S14
+Atoms(symbols='Nd8Ni2S14', pbc=False)

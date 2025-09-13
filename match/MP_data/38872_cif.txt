@@ -1,0 +1,2 @@
+FeLi2N
+Atoms(symbols='Li2FeN', pbc=False)

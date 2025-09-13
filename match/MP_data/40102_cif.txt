@@ -1,0 +1,2 @@
+As2FeHo2O
+Atoms(symbols='Ho2FeAs2O', pbc=False)

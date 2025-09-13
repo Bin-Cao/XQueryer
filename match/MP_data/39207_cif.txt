@@ -1,0 +1,2 @@
+Cd4Pr16Pt4
+Atoms(symbols='Pr16Cd4Pt4', pbc=False)

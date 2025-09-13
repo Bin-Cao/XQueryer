@@ -1,0 +1,2 @@
+C2Os
+Atoms(symbols='OsC2', pbc=False)

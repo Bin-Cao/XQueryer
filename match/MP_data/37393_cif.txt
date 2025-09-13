@@ -1,0 +1,2 @@
+Cu4O32Sc4W8
+Atoms(symbols='Sc2Cu2W4O16Sc2Cu2W4O16', pbc=False)

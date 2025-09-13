@@ -1,0 +1,2 @@
+K12P20S72Ti8
+Atoms(symbols='K12P20S72Ti8', pbc=False)

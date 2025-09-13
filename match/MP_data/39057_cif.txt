@@ -1,0 +1,2 @@
+NiO12S2
+Atoms(symbols='NiS2O12', pbc=False)

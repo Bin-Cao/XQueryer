@@ -1,0 +1,2 @@
+Co16K8O64P16
+Atoms(symbols='Co16K8O64P16', pbc=False)

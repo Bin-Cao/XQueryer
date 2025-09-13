@@ -1,0 +1,2 @@
+Cr4Gd4Ge4O20
+Atoms(symbols='Gd4Cr4Ge4O20', pbc=False)

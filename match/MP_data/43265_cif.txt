@@ -1,0 +1,2 @@
+Al2Cr6Zr2
+Atoms(symbols='Zr2Al2Cr6', pbc=False)

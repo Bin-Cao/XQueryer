@@ -1,0 +1,2 @@
+F18Mn3O18Si3
+Atoms(symbols='Mn3Si3O18F18', pbc=False)

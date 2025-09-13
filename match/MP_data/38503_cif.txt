@@ -1,0 +1,2 @@
+F24Na6Pd10
+Atoms(symbols='Na3Pd5F12Na3Pd5F12', pbc=False)

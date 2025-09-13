@@ -1,0 +1,2 @@
+Cd4Ho16Pt4
+Atoms(symbols='Ho16Cd4Pt4', pbc=False)

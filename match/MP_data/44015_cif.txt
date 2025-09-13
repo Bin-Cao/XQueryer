@@ -1,0 +1,2 @@
+Al2Ca22Sb18
+Atoms(symbols='Ca22Al2Sb18', pbc=False)

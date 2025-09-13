@@ -1,0 +1,2 @@
+Cr9Si4Ti3
+Atoms(symbols='Ti3Cr9Si4', pbc=False)

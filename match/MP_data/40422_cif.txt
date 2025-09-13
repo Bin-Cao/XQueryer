@@ -1,0 +1,2 @@
+Eu2Li2Mo4O16
+Atoms(symbols='Li2Eu2Mo4O16', pbc=False)

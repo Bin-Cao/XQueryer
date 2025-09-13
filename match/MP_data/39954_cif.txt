@@ -1,0 +1,2 @@
+H4B20La4O40
+Atoms(symbols='H4B20La4O40', pbc=False)

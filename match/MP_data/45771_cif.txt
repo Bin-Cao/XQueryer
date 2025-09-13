@@ -1,0 +1,2 @@
+Co6Pt6Se64Ta24
+Atoms(symbols='Co6Pt6Se64Ta24', pbc=False)

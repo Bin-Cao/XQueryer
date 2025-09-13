@@ -1,0 +1,2 @@
+Co14Ga6Y20
+Atoms(symbols='Y20Ga6Co14', pbc=False)

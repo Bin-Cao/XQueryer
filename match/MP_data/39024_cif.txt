@@ -1,0 +1,2 @@
+Ir6Li6O12
+Atoms(symbols='Li3Ir3O6Li3Ir3O6', pbc=False)

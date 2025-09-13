@@ -1,0 +1,2 @@
+S4Te2Y4
+Atoms(symbols='Y2TeS2Y2TeS2', pbc=False)

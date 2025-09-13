@@ -1,0 +1,2 @@
+Cu2S3SeSnZn
+Atoms(symbols='ZnCu2SnSeS3', pbc=False)

@@ -1,0 +1,2 @@
+Si20Ta2W8
+Atoms(symbols='TaSi10W4TaSi10W4', pbc=False)

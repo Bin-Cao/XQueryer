@@ -1,0 +1,2 @@
+As2LaNa3O8
+Atoms(symbols='Na3LaAs2O8', pbc=False)

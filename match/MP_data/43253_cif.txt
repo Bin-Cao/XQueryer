@@ -1,0 +1,2 @@
+Mn2O14Sb3Y3
+Atoms(symbols='Y3Mn2Sb3O14', pbc=False)

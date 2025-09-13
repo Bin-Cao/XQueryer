@@ -1,0 +1,2 @@
+Pt20Si4U12
+Atoms(symbols='U6Si2Pt10U6Si2Pt10', pbc=False)

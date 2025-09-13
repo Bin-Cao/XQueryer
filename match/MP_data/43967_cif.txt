@@ -1,0 +1,2 @@
+Co19P12Zr5
+Atoms(symbols='Zr5Co19P12', pbc=False)

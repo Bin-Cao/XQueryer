@@ -1,0 +1,2 @@
+Pd3Pt12U3
+Atoms(symbols='UPdPt4UPdPt4UPdPt4', pbc=False)

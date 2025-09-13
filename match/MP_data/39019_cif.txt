@@ -1,0 +1,2 @@
+Ge4Li4O16Y4
+Atoms(symbols='Li4Y4Ge4O16', pbc=False)

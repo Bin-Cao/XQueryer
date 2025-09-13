@@ -1,0 +1,2 @@
+Al16As4Fe36La24
+Atoms(symbols='Al16As4Fe36La24', pbc=False)

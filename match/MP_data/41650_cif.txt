@@ -1,0 +1,2 @@
+Ca5Ni9P7
+Atoms(symbols='Ca5Ni9P7', pbc=False)

@@ -1,0 +1,2 @@
+Na32O144Te16W28
+Atoms(symbols='Na32O144Te16W28', pbc=False)

@@ -1,0 +1,2 @@
+Al2Cu2Nd6O16Sr2
+Atoms(symbols='SrNd3AlCuO8SrNd3AlCuO8', pbc=False)

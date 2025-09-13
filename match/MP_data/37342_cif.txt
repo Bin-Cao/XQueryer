@@ -1,0 +1,2 @@
+Ni2O12Pt2Sm4
+Atoms(symbols='Sm4Ni2Pt2O12', pbc=False)

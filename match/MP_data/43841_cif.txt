@@ -1,0 +1,2 @@
+Cu2Ni2Si4U2
+Atoms(symbols='UCuSi2NiUCuSi2Ni', pbc=False)

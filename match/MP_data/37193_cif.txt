@@ -1,0 +1,2 @@
+F24N6Ta2
+Atoms(symbols='TaN3F12TaN3F12', pbc=False)

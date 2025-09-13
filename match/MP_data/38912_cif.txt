@@ -1,0 +1,2 @@
+Ni4Pr20Sb8
+Atoms(symbols='Pr20Ni4Sb8', pbc=False)

@@ -1,0 +1,2 @@
+Sb12Y20
+Atoms(symbols='Y20Sb12', pbc=False)

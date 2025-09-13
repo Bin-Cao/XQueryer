@@ -1,0 +1,2 @@
+Be15Fe3
+Atoms(symbols='Be5FeBe5FeBe5Fe', pbc=False)

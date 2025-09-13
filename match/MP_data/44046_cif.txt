@@ -1,0 +1,2 @@
+Ba28Se40Sn12Te12
+Atoms(symbols='Ba28Se40Sn12Te12', pbc=False)

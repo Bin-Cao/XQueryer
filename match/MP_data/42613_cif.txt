@@ -1,0 +1,2 @@
+Be15Nb6Ni8
+Atoms(symbols='Be15Nb6Ni8', pbc=False)

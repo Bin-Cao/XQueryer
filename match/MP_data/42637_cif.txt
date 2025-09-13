@@ -1,0 +1,2 @@
+Cd12Ga20O48
+Atoms(symbols='Cd12Ga20O48', pbc=False)

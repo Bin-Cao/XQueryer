@@ -1,0 +1,2 @@
+Co3Fe3Ga6Zr
+Atoms(symbols='ZrGa6Fe3Co3', pbc=False)

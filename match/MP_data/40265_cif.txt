@@ -1,0 +1,2 @@
+Cl8La2N2O8
+Atoms(symbols='La2N2Cl8O8', pbc=False)

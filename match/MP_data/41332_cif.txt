@@ -1,0 +1,2 @@
+Fe20Ge12O48
+Atoms(symbols='Fe20Ge12O48', pbc=False)

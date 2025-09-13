@@ -1,0 +1,2 @@
+Br20Mn4Rb12
+Atoms(symbols='Rb6Mn2Br10Rb6Mn2Br10', pbc=False)

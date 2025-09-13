@@ -1,0 +1,2 @@
+Ge3Te20U12
+Atoms(symbols='U12Ge3Te20', pbc=False)

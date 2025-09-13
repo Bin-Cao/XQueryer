@@ -1,0 +1,2 @@
+Hg2In6
+Atoms(symbols='In3HgIn3Hg', pbc=False)

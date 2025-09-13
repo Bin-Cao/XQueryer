@@ -1,0 +1,2 @@
+Co24Ho3Tb9
+Atoms(symbols='Tb3HoCo8Tb3HoCo8Tb3HoCo8', pbc=False)

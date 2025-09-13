@@ -1,0 +1,2 @@
+Ba12Cl4O60Re12Sr8
+Atoms(symbols='Ba12Cl4O60Re12Sr8', pbc=False)

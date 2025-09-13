@@ -1,0 +1,2 @@
+Na6O36Si8Sr4Ti6
+Atoms(symbols='Na3Sr2Ti3Si4O18Na3Sr2Ti3Si4O18', pbc=False)

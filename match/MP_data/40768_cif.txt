@@ -1,0 +1,2 @@
+F24O28Re24Se32
+Atoms(symbols='F24O28Re24Se32', pbc=False)

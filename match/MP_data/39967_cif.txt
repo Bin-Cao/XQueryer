@@ -1,0 +1,2 @@
+H22As4Mg5O26
+Atoms(symbols='Mg5As4H22O26', pbc=False)

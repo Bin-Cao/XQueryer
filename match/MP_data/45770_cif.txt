@@ -1,0 +1,2 @@
+B9Li3O27Sr3Y6
+Atoms(symbols='Sr3Li3Y6B9O27', pbc=False)

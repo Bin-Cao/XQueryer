@@ -1,0 +1,2 @@
+Mo32Pt20Si16
+Atoms(symbols='Mo32Pt20Si16', pbc=False)

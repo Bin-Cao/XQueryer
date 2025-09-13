@@ -1,0 +1,2 @@
+Ga16Sn8Ta40
+Atoms(symbols='Ga16Sn8Ta40', pbc=False)

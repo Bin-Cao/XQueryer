@@ -1,0 +1,2 @@
+Co2Nd2O8Sr2
+Atoms(symbols='SrNdCoO4SrNdCoO4', pbc=False)

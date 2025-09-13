@@ -1,0 +1,2 @@
+H12Cl4Co2
+Atoms(symbols='CoH6Cl2CoH6Cl2', pbc=False)

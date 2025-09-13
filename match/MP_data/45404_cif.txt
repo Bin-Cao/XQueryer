@@ -1,0 +1,2 @@
+In2Re4Se16Ta4
+Atoms(symbols='Ta2InRe2Se8Ta2InRe2Se8', pbc=False)

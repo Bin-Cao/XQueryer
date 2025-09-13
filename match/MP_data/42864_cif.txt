@@ -1,0 +1,2 @@
+Cr12Ta3Zr3
+Atoms(symbols='ZrTaCr4ZrTaCr4ZrTaCr4', pbc=False)

@@ -1,0 +1,2 @@
+S8V7
+Atoms(symbols='V7S8', pbc=False)

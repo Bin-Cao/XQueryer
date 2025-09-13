@@ -1,0 +1,2 @@
+Cl2In8S10Tl2
+Atoms(symbols='Tl2In8S10Cl2', pbc=False)

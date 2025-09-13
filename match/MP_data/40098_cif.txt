@@ -1,0 +1,2 @@
+Br16K8Mo4
+Atoms(symbols='K4Mo2Br8K4Mo2Br8', pbc=False)

@@ -1,0 +1,2 @@
+Cu63Li66Si42
+Atoms(symbols='Cu63Li66Si42', pbc=False)

@@ -1,0 +1,2 @@
+Bi36O60Sb3
+Atoms(symbols='Bi36O60Sb3', pbc=False)

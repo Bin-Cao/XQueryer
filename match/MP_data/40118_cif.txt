@@ -1,0 +1,2 @@
+Dy8K4Li4Mo16O64
+Atoms(symbols='Dy8K4Li4Mo16O64', pbc=False)

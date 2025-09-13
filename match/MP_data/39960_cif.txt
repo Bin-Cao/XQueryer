@@ -1,0 +1,2 @@
+La4Mg2O12Sn2
+Atoms(symbols='La4Mg2Sn2O12', pbc=False)

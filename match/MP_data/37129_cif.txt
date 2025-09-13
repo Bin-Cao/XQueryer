@@ -1,0 +1,2 @@
+Cl8Ga8O20Sr12
+Atoms(symbols='Sr12Ga8Cl8O20', pbc=False)

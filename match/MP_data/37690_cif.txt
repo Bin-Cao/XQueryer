@@ -1,0 +1,2 @@
+NO8S2Sc
+Atoms(symbols='ScS2NO8', pbc=False)

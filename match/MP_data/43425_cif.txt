@@ -1,0 +1,2 @@
+Ru3V
+Atoms(symbols='VRu3', pbc=False)

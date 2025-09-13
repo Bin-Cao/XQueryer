@@ -1,0 +1,2 @@
+C42H20F30Nd2O22
+Atoms(symbols='C42H20F30Nd2O22', pbc=False)

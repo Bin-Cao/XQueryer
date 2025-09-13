@@ -1,0 +1,2 @@
+Mg4O18Ta8
+Atoms(symbols='Mg4Ta8O18', pbc=False)

@@ -1,0 +1,2 @@
+I22Mo6Nb4O
+Atoms(symbols='Nb4Mo6I22O', pbc=False)

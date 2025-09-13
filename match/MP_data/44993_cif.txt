@@ -1,0 +1,2 @@
+Cu4O24Ta8
+Atoms(symbols='Ta4Cu2O12Ta4Cu2O12', pbc=False)

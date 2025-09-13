@@ -1,0 +1,2 @@
+Al40Dy4Fe8
+Atoms(symbols='Dy2Al20Fe4Dy2Al20Fe4', pbc=False)

@@ -1,0 +1,2 @@
+Na8O40Si16
+Atoms(symbols='Na8O40Si16', pbc=False)

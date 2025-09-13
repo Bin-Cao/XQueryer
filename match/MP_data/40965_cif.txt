@@ -1,0 +1,2 @@
+NdSb
+Atoms(symbols='NdSb', pbc=False)

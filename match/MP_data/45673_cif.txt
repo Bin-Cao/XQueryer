@@ -1,0 +1,2 @@
+Cu8Tb8Te16
+Atoms(symbols='Tb8Cu8Te16', pbc=False)

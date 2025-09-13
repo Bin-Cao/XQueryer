@@ -1,0 +1,2 @@
+C8H12Mn4N36O4
+Atoms(symbols='C8H12Mn4N36O4', pbc=False)

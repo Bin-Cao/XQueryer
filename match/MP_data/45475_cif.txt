@@ -1,0 +1,2 @@
+AsNOTh2
+Atoms(symbols='Th2AsNO', pbc=False)

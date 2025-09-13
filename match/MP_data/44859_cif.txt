@@ -1,0 +1,2 @@
+Bi2O20Ta2W4
+Atoms(symbols='TaBiW2O10TaBiW2O10', pbc=False)

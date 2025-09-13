@@ -1,0 +1,2 @@
+Mn6Sc4Si2
+Atoms(symbols='Sc4Mn6Si2', pbc=False)

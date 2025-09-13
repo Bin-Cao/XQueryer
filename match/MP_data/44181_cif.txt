@@ -1,0 +1,2 @@
+Se7TeU4
+Atoms(symbols='U4TeSe7', pbc=False)

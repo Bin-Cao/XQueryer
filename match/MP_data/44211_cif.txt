@@ -1,0 +1,2 @@
+BBeTi
+Atoms(symbols='TiBeB', pbc=False)

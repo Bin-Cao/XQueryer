@@ -1,0 +1,2 @@
+F6Sn3Zn
+Atoms(symbols='ZnSn3F6', pbc=False)

@@ -1,0 +1,2 @@
+Mo16Ti4Zr4
+Atoms(symbols='ZrTiMo4ZrTiMo4ZrTiMo4ZrTiMo4', pbc=False)

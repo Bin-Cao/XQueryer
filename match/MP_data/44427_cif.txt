@@ -1,0 +1,2 @@
+Cu3Fe2O6V
+Atoms(symbols='VFe2Cu3O6', pbc=False)

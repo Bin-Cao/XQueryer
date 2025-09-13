@@ -1,0 +1,2 @@
+Er12Rh24Si12
+Atoms(symbols='Er6Si6Rh12Er6Si6Rh12', pbc=False)

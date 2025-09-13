@@ -1,0 +1,2 @@
+S20U10
+Atoms(symbols='U5S10U5S10', pbc=False)

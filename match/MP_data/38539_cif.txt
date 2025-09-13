@@ -1,0 +1,2 @@
+F22Hf4Pr2
+Atoms(symbols='Pr2Hf4F22', pbc=False)

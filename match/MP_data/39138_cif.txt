@@ -1,0 +1,2 @@
+N6O16Se4
+Atoms(symbols='Se4N6O16', pbc=False)

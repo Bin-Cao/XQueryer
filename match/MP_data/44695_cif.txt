@@ -1,0 +1,2 @@
+B100V3
+Atoms(symbols='B100V3', pbc=False)

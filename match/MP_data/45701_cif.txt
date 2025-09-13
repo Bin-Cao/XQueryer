@@ -1,0 +1,2 @@
+Cu2La2O16Ru2Sr6
+Atoms(symbols='Sr3LaCuRuO8Sr3LaCuRuO8', pbc=False)

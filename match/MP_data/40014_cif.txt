@@ -1,0 +1,2 @@
+La6Mg23Si
+Atoms(symbols='La6Mg23Si', pbc=False)

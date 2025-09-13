@@ -1,0 +1,2 @@
+Cu3S24Ta8
+Atoms(symbols='Ta8Cu3S24', pbc=False)

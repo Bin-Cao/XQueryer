@@ -1,0 +1,2 @@
+O12Sc6Te
+Atoms(symbols='Sc6TeO12', pbc=False)

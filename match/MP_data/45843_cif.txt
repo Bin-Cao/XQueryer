@@ -1,0 +1,2 @@
+C8Fe12Ta24V12
+Atoms(symbols='Ta12V6Fe6C4Ta12V6Fe6C4', pbc=False)

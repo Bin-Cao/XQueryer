@@ -1,0 +1,2 @@
+C26Cl24
+Atoms(symbols='C26Cl24', pbc=False)

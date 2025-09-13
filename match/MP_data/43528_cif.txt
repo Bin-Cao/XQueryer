@@ -1,0 +1,2 @@
+ErY
+Atoms(symbols='YEr', pbc=False)

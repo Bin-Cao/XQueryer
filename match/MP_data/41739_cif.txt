@@ -1,0 +1,2 @@
+Ba12Na2Nd2O32Si8
+Atoms(symbols='Ba12Na2Nd2Si8O32', pbc=False)

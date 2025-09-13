@@ -1,0 +1,2 @@
+As4Fe6O16
+Atoms(symbols='Fe3As2O8Fe3As2O8', pbc=False)

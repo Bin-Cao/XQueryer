@@ -1,0 +1,2 @@
+Cu9Se3Te9V3
+Atoms(symbols='VCu3Te3SeVCu3Te3SeVCu3Te3Se', pbc=False)

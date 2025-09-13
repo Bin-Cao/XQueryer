@@ -1,0 +1,2 @@
+Ag4F46Hf8K6
+Atoms(symbols='Ag4F46Hf8K6', pbc=False)

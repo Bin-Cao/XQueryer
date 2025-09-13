@@ -1,0 +1,2 @@
+Te6Zr9
+Atoms(symbols='Zr3Te2Zr3Te2Zr3Te2', pbc=False)

@@ -1,0 +1,2 @@
+C22H66Ge4Si6
+Atoms(symbols='C22H66Ge4Si6', pbc=False)

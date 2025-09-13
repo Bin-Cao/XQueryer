@@ -1,0 +1,2 @@
+GaGeS16V8
+Atoms(symbols='V8GaGeS16', pbc=False)

@@ -1,0 +1,2 @@
+H8Cs4Mo4Na4O16
+Atoms(symbols='Cs4Na4Mo4H8O16', pbc=False)

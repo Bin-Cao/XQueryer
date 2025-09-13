@@ -1,0 +1,2 @@
+Dy8Na24O64P16
+Atoms(symbols='Dy8Na24O64P16', pbc=False)

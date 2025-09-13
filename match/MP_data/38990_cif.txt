@@ -1,0 +1,2 @@
+H2I18Nb12S2
+Atoms(symbols='Nb12H2S2I18', pbc=False)

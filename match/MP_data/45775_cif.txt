@@ -1,0 +1,2 @@
+La8O26Si6Sr2
+Atoms(symbols='Sr2La8Si6O26', pbc=False)

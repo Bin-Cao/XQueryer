@@ -1,0 +1,2 @@
+Co5Sn4Zr18
+Atoms(symbols='Zr18Co5Sn4', pbc=False)

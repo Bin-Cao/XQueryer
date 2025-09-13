@@ -1,0 +1,2 @@
+Hf60Ir36
+Atoms(symbols='Hf60Ir36', pbc=False)

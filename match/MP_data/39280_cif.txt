@@ -1,0 +1,2 @@
+H8Cl16Li8Zn4
+Atoms(symbols='Li8Zn4H8Cl16', pbc=False)

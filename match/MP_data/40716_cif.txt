@@ -1,0 +1,2 @@
+Al8Dy16O36
+Atoms(symbols='Dy16Al8O36', pbc=False)

@@ -1,0 +1,2 @@
+H18As6Cu5NaO34Sb2
+Atoms(symbols='H18As6Cu5NaO34Sb2', pbc=False)

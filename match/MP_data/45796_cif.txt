@@ -1,0 +1,2 @@
+Mn4Nd2O14Sr4
+Atoms(symbols='Sr2NdMn2O7Sr2NdMn2O7', pbc=False)

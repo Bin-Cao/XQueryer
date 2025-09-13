@@ -1,0 +1,2 @@
+Pb57Rh18Sm12
+Atoms(symbols='Pb57Rh18Sm12', pbc=False)

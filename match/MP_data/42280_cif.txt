@@ -1,0 +1,2 @@
+Ce6Ni20P13
+Atoms(symbols='Ce6Ni20P13', pbc=False)

@@ -1,0 +1,2 @@
+HoTb
+Atoms(symbols='TbHo', pbc=False)

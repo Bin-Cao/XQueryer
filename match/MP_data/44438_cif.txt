@@ -1,0 +1,2 @@
+Cu2S12V7
+Atoms(symbols='V7Cu2S12', pbc=False)

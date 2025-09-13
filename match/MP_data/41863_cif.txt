@@ -1,0 +1,2 @@
+Ce2Cu18Mn4
+Atoms(symbols='Ce2Mn4Cu18', pbc=False)

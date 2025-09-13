@@ -1,0 +1,2 @@
+O36P8Ti3Zr
+Atoms(symbols='ZrTi3P8O36', pbc=False)

@@ -1,0 +1,2 @@
+Eu6In6O18
+Atoms(symbols='Eu6In6O18', pbc=False)

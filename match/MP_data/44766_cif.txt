@@ -1,0 +1,2 @@
+FeNi4Th
+Atoms(symbols='ThFeNi4', pbc=False)

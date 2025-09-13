@@ -1,0 +1,2 @@
+Mo4Si12Ti2
+Atoms(symbols='TiSi6Mo2TiSi6Mo2', pbc=False)

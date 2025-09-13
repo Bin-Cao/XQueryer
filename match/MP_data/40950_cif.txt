@@ -1,0 +1,2 @@
+Gd4Mo4O20
+Atoms(symbols='Gd4Mo4O20', pbc=False)

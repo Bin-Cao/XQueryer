@@ -1,0 +1,2 @@
+La3Pd20Si6
+Atoms(symbols='La3Si6Pd20', pbc=False)

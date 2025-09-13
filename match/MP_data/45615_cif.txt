@@ -1,0 +1,2 @@
+O16Sb6Ta2
+Atoms(symbols='Ta2Sb6O16', pbc=False)

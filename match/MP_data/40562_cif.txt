@@ -1,0 +1,2 @@
+H20Al10Mg2Na2O48P8
+Atoms(symbols='H20Al10Mg2Na2O48P8', pbc=False)

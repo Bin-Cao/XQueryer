@@ -1,0 +1,2 @@
+C24N6O60Ti6
+Atoms(symbols='C24N6O60Ti6', pbc=False)

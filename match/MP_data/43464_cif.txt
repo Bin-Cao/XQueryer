@@ -1,0 +1,2 @@
+Ru12Sb4Zn44
+Atoms(symbols='Zn22Sb2Ru6Zn22Sb2Ru6', pbc=False)

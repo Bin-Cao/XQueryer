@@ -1,0 +1,2 @@
+Cr2Si12Ta4
+Atoms(symbols='Ta2CrSi6Ta2CrSi6', pbc=False)

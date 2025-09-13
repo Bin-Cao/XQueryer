@@ -1,0 +1,2 @@
+Os2Se8Ta2
+Atoms(symbols='TaOsSe4TaOsSe4', pbc=False)

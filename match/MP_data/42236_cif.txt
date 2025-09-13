@@ -1,0 +1,2 @@
+Cl44Ho20
+Atoms(symbols='Cl44Ho20', pbc=False)

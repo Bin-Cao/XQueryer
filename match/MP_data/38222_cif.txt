@@ -1,0 +1,2 @@
+Cl28Er8Rb4
+Atoms(symbols='Rb4Er8Cl28', pbc=False)

@@ -1,0 +1,2 @@
+C22Dy14Ru4
+Atoms(symbols='Dy14Ru4C22', pbc=False)

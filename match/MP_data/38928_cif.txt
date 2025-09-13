@@ -1,0 +1,2 @@
+Nd8O32Se8Ta12
+Atoms(symbols='Nd8Ta12Se8O32', pbc=False)

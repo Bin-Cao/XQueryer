@@ -1,0 +1,2 @@
+Mn4N4O8Ta4
+Atoms(symbols='Ta2Mn2N2O4Ta2Mn2N2O4', pbc=False)

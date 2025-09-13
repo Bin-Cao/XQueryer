@@ -1,0 +1,2 @@
+Ho8Na24O64P16
+Atoms(symbols='Ho8Na24O64P16', pbc=False)

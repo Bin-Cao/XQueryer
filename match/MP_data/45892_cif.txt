@@ -1,0 +1,2 @@
+Ag6Fe10O20Se8Sr12
+Atoms(symbols='Sr6Fe5Ag3Se4O10Sr6Fe5Ag3Se4O10', pbc=False)

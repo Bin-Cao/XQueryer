@@ -1,0 +1,2 @@
+C15La12Re5
+Atoms(symbols='La12Re5C15', pbc=False)

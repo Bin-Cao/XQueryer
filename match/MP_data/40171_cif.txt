@@ -1,0 +1,2 @@
+C12In3Na3O30
+Atoms(symbols='Na3In3C12O30', pbc=False)

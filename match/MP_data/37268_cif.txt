@@ -1,0 +1,2 @@
+H88N16O102Tb12
+Atoms(symbols='H88N16O102Tb12', pbc=False)

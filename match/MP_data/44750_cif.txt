@@ -1,0 +1,2 @@
+I8Te2
+Atoms(symbols='TeI4TeI4', pbc=False)

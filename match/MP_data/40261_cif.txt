@@ -1,0 +1,2 @@
+B12Li24O36Sm4
+Atoms(symbols='B12Li24O36Sm4', pbc=False)

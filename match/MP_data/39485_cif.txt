@@ -1,0 +1,2 @@
+C30Lu24Mn10
+Atoms(symbols='C30Lu24Mn10', pbc=False)

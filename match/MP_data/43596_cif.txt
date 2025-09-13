@@ -1,0 +1,2 @@
+C24Th8Y8
+Atoms(symbols='Y4Th4C12Y4Th4C12', pbc=False)

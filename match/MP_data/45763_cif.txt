@@ -1,0 +1,2 @@
+Co9Ta3
+Atoms(symbols='Ta3Co9', pbc=False)

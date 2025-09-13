@@ -1,0 +1,2 @@
+Mo2S16Ta6
+Atoms(symbols='Ta3MoS8Ta3MoS8', pbc=False)

@@ -1,0 +1,2 @@
+H4Al2Cr4K2O16
+Atoms(symbols='KAlCr2H2O8KAlCr2H2O8', pbc=False)

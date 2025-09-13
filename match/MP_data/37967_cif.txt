@@ -1,0 +1,2 @@
+Dy4Ir6Na8O24
+Atoms(symbols='Na4Dy2Ir3O12Na4Dy2Ir3O12', pbc=False)

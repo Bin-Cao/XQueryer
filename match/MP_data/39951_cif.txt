@@ -1,0 +1,2 @@
+Ca4Cl12K4
+Atoms(symbols='K4Ca4Cl12', pbc=False)

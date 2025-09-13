@@ -1,0 +1,2 @@
+C6Cr2S12Ta12
+Atoms(symbols='Ta6CrC3S6Ta6CrC3S6', pbc=False)

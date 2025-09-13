@@ -1,0 +1,2 @@
+Bi8CoFe3Tb24
+Atoms(symbols='Tb24Fe3CoBi8', pbc=False)

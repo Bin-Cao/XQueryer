@@ -1,0 +1,2 @@
+Co18Pb3Sm36
+Atoms(symbols='Sm12Co6PbSm12Co6PbSm12Co6Pb', pbc=False)

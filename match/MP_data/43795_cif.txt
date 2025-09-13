@@ -1,0 +1,2 @@
+B10Ca6Cl4O26W16
+Atoms(symbols='B10Ca6Cl4O26W16', pbc=False)

@@ -1,0 +1,2 @@
+H12Ni4Ti2Zr2
+Atoms(symbols='ZrTiNi2H6ZrTiNi2H6', pbc=False)

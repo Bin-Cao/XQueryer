@@ -1,0 +1,2 @@
+CuP2S6V
+Atoms(symbols='VCuP2S6', pbc=False)

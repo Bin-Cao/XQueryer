@@ -1,0 +1,2 @@
+AsSeU2
+Atoms(symbols='U2AsSe', pbc=False)

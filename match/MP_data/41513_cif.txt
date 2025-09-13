@@ -1,0 +1,2 @@
+Cs2K4La2O16V4
+Atoms(symbols='Cs2K4La2V4O16', pbc=False)

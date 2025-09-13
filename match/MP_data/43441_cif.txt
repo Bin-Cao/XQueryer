@@ -1,0 +1,2 @@
+Co12O8Zr36
+Atoms(symbols='Zr18Co6O4Zr18Co6O4', pbc=False)

@@ -1,0 +1,2 @@
+Te2ThU
+Atoms(symbols='ThUTe2', pbc=False)

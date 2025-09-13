@@ -1,0 +1,2 @@
+Cu4Nd4O12Sr2
+Atoms(symbols='SrNd2Cu2O6SrNd2Cu2O6', pbc=False)

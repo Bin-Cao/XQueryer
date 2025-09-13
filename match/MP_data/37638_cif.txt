@@ -1,0 +1,2 @@
+H14B22Ca2O44Sr2
+Atoms(symbols='H14B22Ca2O44Sr2', pbc=False)

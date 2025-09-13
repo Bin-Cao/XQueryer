@@ -1,0 +1,2 @@
+Mg4Pt4Y16
+Atoms(symbols='Y16Mg4Pt4', pbc=False)

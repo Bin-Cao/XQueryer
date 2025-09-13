@@ -1,0 +1,2 @@
+Ce20Ge4Sb8
+Atoms(symbols='Ce20Ge4Sb8', pbc=False)

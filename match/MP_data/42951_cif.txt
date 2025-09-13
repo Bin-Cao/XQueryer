@@ -1,0 +1,2 @@
+Ba6F24Ti2
+Atoms(symbols='Ba3TiF12Ba3TiF12', pbc=False)

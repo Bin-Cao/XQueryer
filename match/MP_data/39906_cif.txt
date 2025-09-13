@@ -1,0 +1,2 @@
+H28Ge2Na4O14S6
+Atoms(symbols='Na4Ge2H28S6O14', pbc=False)

@@ -1,0 +1,2 @@
+Fe2In6O20Ti4
+Atoms(symbols='Ti4In6Fe2O20', pbc=False)

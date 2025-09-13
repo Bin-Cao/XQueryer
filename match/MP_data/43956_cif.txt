@@ -1,0 +1,2 @@
+BiSeTeTl
+Atoms(symbols='TlBiTeSe', pbc=False)

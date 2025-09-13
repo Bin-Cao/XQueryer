@@ -1,0 +1,2 @@
+C8H40N20Ni2O24
+Atoms(symbols='C8H40N20Ni2O24', pbc=False)

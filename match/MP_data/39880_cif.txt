@@ -1,0 +1,2 @@
+K12O20P4
+Atoms(symbols='K6P2O10K6P2O10', pbc=False)

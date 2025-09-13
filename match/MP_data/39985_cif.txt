@@ -1,0 +1,2 @@
+N32Pd8S32
+Atoms(symbols='N32Pd8S32', pbc=False)

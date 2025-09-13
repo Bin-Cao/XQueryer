@@ -1,0 +1,2 @@
+H2Ca2K2MgO16S4
+Atoms(symbols='K2Ca2MgH2S4O16', pbc=False)

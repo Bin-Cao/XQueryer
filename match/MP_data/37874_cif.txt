@@ -1,0 +1,2 @@
+Mo16Ni8P8
+Atoms(symbols='Ni4Mo8P4Ni4Mo8P4', pbc=False)

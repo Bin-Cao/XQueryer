@@ -1,0 +1,2 @@
+Co6Er7Sn23
+Atoms(symbols='Er7Co6Sn23', pbc=False)

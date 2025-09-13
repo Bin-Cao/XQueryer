@@ -1,0 +1,2 @@
+Al12Cu12Y2
+Atoms(symbols='YAl6Cu6YAl6Cu6', pbc=False)

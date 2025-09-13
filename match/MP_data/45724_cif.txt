@@ -1,0 +1,2 @@
+Ce4O16Sc4Sr4
+Atoms(symbols='Sr2Ce2Sc2O8Sr2Ce2Sc2O8', pbc=False)

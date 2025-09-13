@@ -1,0 +1,2 @@
+Cu2O68P12Pd22
+Atoms(symbols='Cu2O68P12Pd22', pbc=False)

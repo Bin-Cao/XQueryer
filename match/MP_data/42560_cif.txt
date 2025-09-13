@@ -1,0 +1,2 @@
+H4Ca2O30Si12Zr2
+Atoms(symbols='Ca2Zr2Si12H4O30', pbc=False)

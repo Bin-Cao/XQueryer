@@ -1,0 +1,2 @@
+Cu8La2O16Sr6
+Atoms(symbols='Sr6La2Cu8O16', pbc=False)

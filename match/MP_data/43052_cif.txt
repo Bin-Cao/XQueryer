@@ -1,0 +1,2 @@
+GeNi5Zn4
+Atoms(symbols='Zn4Ni5Ge', pbc=False)

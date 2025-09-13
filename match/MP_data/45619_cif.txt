@@ -1,0 +1,2 @@
+Al4La4O14Sr2
+Atoms(symbols='SrLa2Al2O7SrLa2Al2O7', pbc=False)

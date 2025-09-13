@@ -1,0 +1,2 @@
+C32S16
+Atoms(symbols='C32S16', pbc=False)

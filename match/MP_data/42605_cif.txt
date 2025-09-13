@@ -1,0 +1,2 @@
+Br30Ce2Cs4O6Ta12
+Atoms(symbols='Cs4Ce2Ta12Br30O6', pbc=False)

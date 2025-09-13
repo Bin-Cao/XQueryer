@@ -1,0 +1,2 @@
+Bi2Sr2Zn
+Atoms(symbols='Sr2ZnBi2', pbc=False)

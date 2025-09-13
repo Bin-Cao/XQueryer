@@ -1,0 +1,2 @@
+P30Rb2
+Atoms(symbols='Rb2P30', pbc=False)

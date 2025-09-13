@@ -1,0 +1,2 @@
+Br12Li3U3
+Atoms(symbols='Li3U3Br12', pbc=False)

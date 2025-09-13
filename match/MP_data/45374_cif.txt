@@ -1,0 +1,2 @@
+Co2Nd2O12Ru2Sr2
+Atoms(symbols='Sr2Nd2Co2Ru2O12', pbc=False)

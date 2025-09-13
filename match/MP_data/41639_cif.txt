@@ -1,0 +1,2 @@
+Br24Cs12Ir4O4
+Atoms(symbols='Cs12Ir4Br24O4', pbc=False)

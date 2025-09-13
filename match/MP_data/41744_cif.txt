@@ -1,0 +1,2 @@
+Ce2F14Hf2
+Atoms(symbols='Ce2Hf2F14', pbc=False)

@@ -1,0 +1,2 @@
+In4O16Sb4
+Atoms(symbols='In4Sb4O16', pbc=False)

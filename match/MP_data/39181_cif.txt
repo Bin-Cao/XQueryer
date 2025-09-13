@@ -1,0 +1,2 @@
+LaLi2Nb6O18
+Atoms(symbols='Li2LaNb6O18', pbc=False)

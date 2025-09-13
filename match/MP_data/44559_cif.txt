@@ -1,0 +1,2 @@
+As22V40
+Atoms(symbols='As22V40', pbc=False)

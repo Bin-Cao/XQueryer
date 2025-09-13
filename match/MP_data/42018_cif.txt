@@ -1,0 +1,2 @@
+H12Ba4O24S16Te4
+Atoms(symbols='Ba4Te4H12S16O24', pbc=False)

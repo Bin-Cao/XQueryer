@@ -1,0 +1,2 @@
+Mn32Sn20
+Atoms(symbols='Mn32Sn20', pbc=False)

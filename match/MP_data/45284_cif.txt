@@ -1,0 +1,2 @@
+GeSrZn
+Atoms(symbols='SrZnGe', pbc=False)

@@ -1,0 +1,2 @@
+Fe44N2Ti4Y4
+Atoms(symbols='Y2Ti2Fe22NY2Ti2Fe22N', pbc=False)

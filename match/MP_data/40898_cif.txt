@@ -1,0 +1,2 @@
+Dy20Pd8Sb4
+Atoms(symbols='Dy10Sb2Pd4Dy10Sb2Pd4', pbc=False)

@@ -1,0 +1,2 @@
+BTc
+Atoms(symbols='TcB', pbc=False)

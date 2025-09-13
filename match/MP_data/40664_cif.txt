@@ -1,0 +1,2 @@
+Co12Er6Sn10
+Atoms(symbols='Er3Co6Sn5Er3Co6Sn5', pbc=False)

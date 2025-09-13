@@ -1,0 +1,2 @@
+N12Ni2O52Th2
+Atoms(symbols='N12Ni2O52Th2', pbc=False)

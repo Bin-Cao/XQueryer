@@ -1,0 +1,2 @@
+H10In4O24Se6
+Atoms(symbols='In4H10Se6O24', pbc=False)

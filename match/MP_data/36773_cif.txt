@@ -1,0 +1,2 @@
+Zn78Zr10
+Atoms(symbols='Zn78Zr10', pbc=False)

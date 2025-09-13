@@ -1,0 +1,2 @@
+Cu2Er4Ge4O16
+Atoms(symbols='Er4Cu2Ge4O16', pbc=False)

@@ -1,0 +1,2 @@
+AsPU2
+Atoms(symbols='U2AsP', pbc=False)

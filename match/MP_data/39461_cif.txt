@@ -1,0 +1,2 @@
+In2Nd12S24Ti2
+Atoms(symbols='Nd12Ti2In2S24', pbc=False)

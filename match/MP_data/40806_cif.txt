@@ -1,0 +1,2 @@
+F9Fe3N
+Atoms(symbols='Fe3NF9', pbc=False)

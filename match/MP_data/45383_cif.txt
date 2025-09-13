@@ -1,0 +1,2 @@
+Si12Ta3V3
+Atoms(symbols='Ta3V3Si12', pbc=False)

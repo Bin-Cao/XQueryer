@@ -1,0 +1,2 @@
+Co8Dy24Sn4
+Atoms(symbols='Dy12Co4Sn2Dy12Co4Sn2', pbc=False)

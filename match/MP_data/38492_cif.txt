@@ -1,0 +1,2 @@
+As4INaO6
+Atoms(symbols='NaAs4IO6', pbc=False)

@@ -1,0 +1,2 @@
+Er6O32V8Y2
+Atoms(symbols='YEr3V4O16YEr3V4O16', pbc=False)

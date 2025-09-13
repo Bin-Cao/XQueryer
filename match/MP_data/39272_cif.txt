@@ -1,0 +1,2 @@
+Cr8Hf4Si10
+Atoms(symbols='Hf4Cr8Si10', pbc=False)

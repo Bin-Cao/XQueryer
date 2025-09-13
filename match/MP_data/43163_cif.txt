@@ -1,0 +1,2 @@
+Ga24Ge24K24O96
+Atoms(symbols='Ga24Ge24K24O96', pbc=False)

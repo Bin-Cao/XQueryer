@@ -1,0 +1,2 @@
+Co6Nd12Pb
+Atoms(symbols='Nd12Co6Pb', pbc=False)

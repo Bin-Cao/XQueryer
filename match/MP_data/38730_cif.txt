@@ -1,0 +1,2 @@
+B4Br12Pr12
+Atoms(symbols='Pr12B4Br12', pbc=False)

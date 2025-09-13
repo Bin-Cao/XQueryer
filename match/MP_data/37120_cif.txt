@@ -1,0 +1,2 @@
+Nb2O12Sc2Sr4
+Atoms(symbols='Sr4Sc2Nb2O12', pbc=False)

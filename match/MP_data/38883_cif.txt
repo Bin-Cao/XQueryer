@@ -1,0 +1,2 @@
+Na6O36Si12Zr2
+Atoms(symbols='Na3ZrSi6O18Na3ZrSi6O18', pbc=False)

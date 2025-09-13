@@ -1,0 +1,2 @@
+Fe2Ga2V4
+Atoms(symbols='V2GaFeV2GaFe', pbc=False)

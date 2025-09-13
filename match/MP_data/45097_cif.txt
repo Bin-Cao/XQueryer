@@ -1,0 +1,2 @@
+Ag3O35U7V5
+Atoms(symbols='U7V5Ag3O35', pbc=False)

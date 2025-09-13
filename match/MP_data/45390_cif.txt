@@ -1,0 +1,2 @@
+Cr9Ga3Se24V3
+Atoms(symbols='VCr3GaSe8VCr3GaSe8VCr3GaSe8', pbc=False)

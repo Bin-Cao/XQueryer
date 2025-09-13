@@ -1,0 +1,2 @@
+Al44Co24Si24
+Atoms(symbols='Al44Co24Si24', pbc=False)

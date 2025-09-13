@@ -1,0 +1,2 @@
+Dy4Mg2O12Ti2
+Atoms(symbols='Dy4Mg2Ti2O12', pbc=False)

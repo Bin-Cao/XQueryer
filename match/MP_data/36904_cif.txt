@@ -1,0 +1,2 @@
+Co2O12Pt2Sm4
+Atoms(symbols='Sm4Co2Pt2O12', pbc=False)

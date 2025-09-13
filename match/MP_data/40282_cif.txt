@@ -1,0 +1,2 @@
+As12K4Si12
+Atoms(symbols='K4Si12As12', pbc=False)

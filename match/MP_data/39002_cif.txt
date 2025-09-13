@@ -1,0 +1,2 @@
+H2Mg2O24Si6
+Atoms(symbols='Mg2Si6H2O24', pbc=False)

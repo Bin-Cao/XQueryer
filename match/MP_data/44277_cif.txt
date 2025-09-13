@@ -1,0 +1,2 @@
+O14U6
+Atoms(symbols='U3O7U3O7', pbc=False)

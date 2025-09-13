@@ -1,0 +1,2 @@
+B12Er24Li4O56
+Atoms(symbols='B12Er24Li4O56', pbc=False)

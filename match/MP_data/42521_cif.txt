@@ -1,0 +1,2 @@
+Ce12Ni8Si2
+Atoms(symbols='Ce12Si2Ni8', pbc=False)

@@ -1,0 +1,2 @@
+SeTeTi
+Atoms(symbols='TiTeSe', pbc=False)

@@ -1,0 +1,2 @@
+Sb3Si3Tb10
+Atoms(symbols='Tb10Si3Sb3', pbc=False)

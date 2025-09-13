@@ -1,0 +1,2 @@
+Er12Fe2In3
+Atoms(symbols='Er12In3Fe2', pbc=False)

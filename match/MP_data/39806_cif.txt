@@ -1,0 +1,2 @@
+F18In3Li3Zn3
+Atoms(symbols='Li3Zn3In3F18', pbc=False)

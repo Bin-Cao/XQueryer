@@ -1,0 +1,2 @@
+Mg27O81Si18
+Atoms(symbols='Mg27O81Si18', pbc=False)

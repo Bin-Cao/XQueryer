@@ -1,0 +1,2 @@
+Co10UY
+Atoms(symbols='YUCo10', pbc=False)

@@ -1,0 +1,2 @@
+Br16Th8
+Atoms(symbols='Th4Br8Th4Br8', pbc=False)

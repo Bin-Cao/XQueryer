@@ -1,0 +1,2 @@
+OsTc3
+Atoms(symbols='Tc3Os', pbc=False)

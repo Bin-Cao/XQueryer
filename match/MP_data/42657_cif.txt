@@ -1,0 +1,2 @@
+C60Cs4
+Atoms(symbols='C60Cs4', pbc=False)

@@ -1,0 +1,2 @@
+Ni3O18V9
+Atoms(symbols='V3NiO6V3NiO6V3NiO6', pbc=False)

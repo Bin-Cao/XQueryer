@@ -1,0 +1,2 @@
+BiS2Tl
+Atoms(symbols='TlBiS2', pbc=False)

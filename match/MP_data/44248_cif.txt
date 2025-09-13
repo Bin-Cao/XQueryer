@@ -1,0 +1,2 @@
+Al40Er6O96Y18
+Atoms(symbols='Al40Er6O96Y18', pbc=False)

@@ -1,0 +1,2 @@
+Al24Ti16
+Atoms(symbols='Ti8Al12Ti8Al12', pbc=False)

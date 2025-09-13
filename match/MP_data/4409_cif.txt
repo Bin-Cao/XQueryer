@@ -1,0 +1,2 @@
+Mg14NaY
+Atoms(symbols='NaYMg14', pbc=False)

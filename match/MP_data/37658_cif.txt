@@ -1,0 +1,2 @@
+Co32Pr12Sn16
+Atoms(symbols='Pr6Co16Sn8Pr6Co16Sn8', pbc=False)

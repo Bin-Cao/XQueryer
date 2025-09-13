@@ -1,0 +1,2 @@
+H20Ga4Mg4
+Atoms(symbols='Mg4Ga4H20', pbc=False)

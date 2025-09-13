@@ -1,0 +1,2 @@
+Ca10O34Si12W10
+Atoms(symbols='Ca10O34Si12W10', pbc=False)

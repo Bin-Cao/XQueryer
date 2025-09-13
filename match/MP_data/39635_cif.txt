@@ -1,0 +1,2 @@
+C16H24Li4N4O26
+Atoms(symbols='C16H24Li4N4O26', pbc=False)

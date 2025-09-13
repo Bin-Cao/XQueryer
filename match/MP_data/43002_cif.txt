@@ -1,0 +1,2 @@
+Ni4O2Zr12
+Atoms(symbols='Zr6Ni2OZr6Ni2O', pbc=False)

@@ -1,0 +1,2 @@
+Fe9Si12V3
+Atoms(symbols='VFe3Si4VFe3Si4VFe3Si4', pbc=False)

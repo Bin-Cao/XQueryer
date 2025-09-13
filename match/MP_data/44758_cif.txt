@@ -1,0 +1,2 @@
+Se8Ti4V2
+Atoms(symbols='Ti2VSe4Ti2VSe4', pbc=False)

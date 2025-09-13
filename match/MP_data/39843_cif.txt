@@ -1,0 +1,2 @@
+K2LiSe2
+Atoms(symbols='K2LiSe2', pbc=False)

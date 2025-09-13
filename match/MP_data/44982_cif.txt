@@ -1,0 +1,2 @@
+AgCuTb2
+Atoms(symbols='Tb2CuAg', pbc=False)

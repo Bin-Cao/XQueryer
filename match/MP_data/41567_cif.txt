@@ -1,0 +1,2 @@
+Eu4O36S8Tl4
+Atoms(symbols='Eu4Tl4S8O36', pbc=False)

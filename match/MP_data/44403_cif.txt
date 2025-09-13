@@ -1,0 +1,2 @@
+F36O24Y28
+Atoms(symbols='F36O24Y28', pbc=False)

@@ -1,0 +1,2 @@
+Cr4Fe4U4
+Atoms(symbols='U2Cr2Fe2U2Cr2Fe2', pbc=False)

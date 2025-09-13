@@ -1,0 +1,2 @@
+O24Pb8V6
+Atoms(symbols='V6Pb8O24', pbc=False)

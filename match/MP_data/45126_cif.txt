@@ -1,0 +1,2 @@
+Co2La3O12SrTi2
+Atoms(symbols='SrLa3Ti2Co2O12', pbc=False)

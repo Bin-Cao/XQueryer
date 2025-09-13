@@ -1,0 +1,2 @@
+Cl18Pr14S12
+Atoms(symbols='Pr14S12Cl18', pbc=False)

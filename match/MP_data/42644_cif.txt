@@ -1,0 +1,2 @@
+Al4O22Te8
+Atoms(symbols='Al4Te8O22', pbc=False)

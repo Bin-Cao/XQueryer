@@ -1,0 +1,2 @@
+H2Cl8I2O8
+Atoms(symbols='H2I2Cl8O8', pbc=False)

@@ -1,0 +1,2 @@
+Mn8Sc8Si14
+Atoms(symbols='Sc8Mn8Si14', pbc=False)

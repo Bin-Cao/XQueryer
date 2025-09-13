@@ -1,0 +1,2 @@
+Co4Ho6Si14
+Atoms(symbols='Ho3Co2Si7Ho3Co2Si7', pbc=False)

@@ -1,0 +1,2 @@
+As19Lu10Ni28
+Atoms(symbols='Lu10Ni28As19', pbc=False)

@@ -1,0 +1,2 @@
+GaO8Se2Tl
+Atoms(symbols='TlGaSe2O8', pbc=False)

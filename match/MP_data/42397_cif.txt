@@ -1,0 +1,2 @@
+B12Dy3Ga9O36
+Atoms(symbols='DyGa3B4O12DyGa3B4O12DyGa3B4O12', pbc=False)

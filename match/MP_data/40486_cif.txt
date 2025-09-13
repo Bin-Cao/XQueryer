@@ -1,0 +1,2 @@
+Er4Mg2O12Ti2
+Atoms(symbols='Er4Mg2Ti2O12', pbc=False)

@@ -1,0 +1,2 @@
+Ho6N8O33
+Atoms(symbols='Ho6N8O33', pbc=False)

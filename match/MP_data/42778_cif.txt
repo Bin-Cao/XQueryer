@@ -1,0 +1,2 @@
+AlAu2Ti
+Atoms(symbols='TiAlAu2', pbc=False)

@@ -1,0 +1,2 @@
+C14Er8
+Atoms(symbols='Er8C14', pbc=False)

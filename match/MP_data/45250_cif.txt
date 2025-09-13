@@ -1,0 +1,2 @@
+Cr4Fe20Tb2
+Atoms(symbols='TbCr2Fe10TbCr2Fe10', pbc=False)

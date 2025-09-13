@@ -1,0 +1,2 @@
+Co10ThY
+Atoms(symbols='YThCo10', pbc=False)

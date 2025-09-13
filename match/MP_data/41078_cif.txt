@@ -1,0 +1,2 @@
+GaNO8Se2
+Atoms(symbols='GaSe2NO8', pbc=False)

@@ -1,0 +1,2 @@
+Cr3Se6Tl3
+Atoms(symbols='TlCrSe2TlCrSe2TlCrSe2', pbc=False)

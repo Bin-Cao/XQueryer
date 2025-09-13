@@ -1,0 +1,2 @@
+TiZr
+Atoms(symbols='ZrTi', pbc=False)

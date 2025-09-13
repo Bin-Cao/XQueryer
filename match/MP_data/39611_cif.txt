@@ -1,0 +1,2 @@
+Ca4Li32Sn28
+Atoms(symbols='Ca4Li32Sn28', pbc=False)

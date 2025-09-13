@@ -1,0 +1,2 @@
+H6Na4O22P2Te2
+Atoms(symbols='Na4Te2P2H6O22', pbc=False)

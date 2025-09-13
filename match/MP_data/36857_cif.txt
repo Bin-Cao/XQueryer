@@ -1,0 +1,2 @@
+O36P12Sm4
+Atoms(symbols='Sm2P6O18Sm2P6O18', pbc=False)

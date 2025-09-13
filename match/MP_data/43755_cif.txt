@@ -1,0 +1,2 @@
+O3Tl2
+Atoms(symbols='Tl2O3', pbc=False)

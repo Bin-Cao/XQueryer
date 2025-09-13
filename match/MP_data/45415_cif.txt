@@ -1,0 +1,2 @@
+Bi4Nb4O24Pb2Sr2Ti2
+Atoms(symbols='SrTiNb2Bi2PbO12SrTiNb2Bi2PbO12', pbc=False)

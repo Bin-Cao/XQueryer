@@ -1,0 +1,2 @@
+Mo2S4Se4W2
+Atoms(symbols='Mo2W2Se4S4', pbc=False)

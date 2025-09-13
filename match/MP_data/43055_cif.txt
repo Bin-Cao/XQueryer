@@ -1,0 +1,2 @@
+Cl28Cs4Mo12
+Atoms(symbols='Cs4Mo12Cl28', pbc=False)

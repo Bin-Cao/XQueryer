@@ -1,0 +1,2 @@
+C15Ho12Mn5
+Atoms(symbols='Ho12Mn5C15', pbc=False)

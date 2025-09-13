@@ -1,0 +1,2 @@
+BMg6O8Ti
+Atoms(symbols='Mg6TiBO8', pbc=False)

@@ -1,0 +1,2 @@
+O14Ru2Sr6Ti2
+Atoms(symbols='Sr3TiRuO7Sr3TiRuO7', pbc=False)

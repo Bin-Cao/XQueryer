@@ -1,0 +1,2 @@
+MoU7
+Atoms(symbols='U7Mo', pbc=False)

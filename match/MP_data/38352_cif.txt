@@ -1,0 +1,2 @@
+Mo2O8RbSc
+Atoms(symbols='RbScMo2O8', pbc=False)

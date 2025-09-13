@@ -1,0 +1,2 @@
+Fe2O14Sr6Ta2
+Atoms(symbols='Sr3TaFeO7Sr3TaFeO7', pbc=False)

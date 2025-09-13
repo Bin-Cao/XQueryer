@@ -1,0 +1,2 @@
+Gd12Na36O96V24
+Atoms(symbols='Gd12Na36O96V24', pbc=False)

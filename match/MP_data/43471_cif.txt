@@ -1,0 +1,2 @@
+CdGa4S8Zn
+Atoms(symbols='ZnCdGa4S8', pbc=False)

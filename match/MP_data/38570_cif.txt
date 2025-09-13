@@ -1,0 +1,2 @@
+Cl8Ho2Na2
+Atoms(symbols='Na2Ho2Cl8', pbc=False)

@@ -1,0 +1,2 @@
+C2Al2Ta2Ti2
+Atoms(symbols='Ta2Ti2Al2C2', pbc=False)

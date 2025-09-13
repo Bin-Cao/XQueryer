@@ -1,0 +1,2 @@
+B18Ba18Er6O54
+Atoms(symbols='B18Ba18Er6O54', pbc=False)

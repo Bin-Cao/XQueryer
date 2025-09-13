@@ -1,0 +1,2 @@
+Cu4P48Ti68
+Atoms(symbols='Cu4P48Ti68', pbc=False)

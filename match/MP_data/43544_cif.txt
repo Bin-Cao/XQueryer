@@ -1,0 +1,2 @@
+Ga12Ti12Zr8
+Atoms(symbols='Zr4Ti6Ga6Zr4Ti6Ga6', pbc=False)

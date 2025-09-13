@@ -1,0 +1,2 @@
+Cu3Ni9Ta4
+Atoms(symbols='Ta4Cu3Ni9', pbc=False)

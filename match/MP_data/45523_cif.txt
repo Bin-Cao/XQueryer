@@ -1,0 +1,2 @@
+Cu4Mn4O26Pr6Sr6
+Atoms(symbols='Sr3Pr3Mn2Cu2O13Sr3Pr3Mn2Cu2O13', pbc=False)

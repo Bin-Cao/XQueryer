@@ -1,0 +1,2 @@
+F6GaTl
+Atoms(symbols='TlGaF6', pbc=False)

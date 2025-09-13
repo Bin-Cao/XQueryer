@@ -1,0 +1,2 @@
+Er8Na24O64P16
+Atoms(symbols='Er8Na24O64P16', pbc=False)

@@ -1,0 +1,2 @@
+Mo4O20Tb4
+Atoms(symbols='Tb4Mo4O20', pbc=False)

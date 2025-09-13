@@ -1,0 +1,2 @@
+C24O64U12
+Atoms(symbols='C24O64U12', pbc=False)

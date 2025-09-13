@@ -1,0 +1,2 @@
+F22Hf4La2
+Atoms(symbols='La2Hf4F22', pbc=False)

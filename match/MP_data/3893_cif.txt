@@ -1,0 +1,2 @@
+CaMg14Y
+Atoms(symbols='CaYMg14', pbc=False)

@@ -1,0 +1,2 @@
+Mg14TiV
+Atoms(symbols='Mg14TiV', pbc=False)

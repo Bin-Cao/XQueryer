@@ -1,0 +1,2 @@
+Co9Zn51
+Atoms(symbols='Zn51Co9', pbc=False)

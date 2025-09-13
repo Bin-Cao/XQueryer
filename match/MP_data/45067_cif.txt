@@ -1,0 +1,2 @@
+La2Ni2O8Sr2
+Atoms(symbols='SrLaNiO4SrLaNiO4', pbc=False)

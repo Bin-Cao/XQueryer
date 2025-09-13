@@ -1,0 +1,2 @@
+CuF6Pb
+Atoms(symbols='CuPbF6', pbc=False)

@@ -1,0 +1,2 @@
+Ge46Rb8
+Atoms(symbols='Rb8Ge46', pbc=False)

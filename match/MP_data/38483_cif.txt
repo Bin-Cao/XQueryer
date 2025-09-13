@@ -1,0 +1,2 @@
+O19Pr4Re6
+Atoms(symbols='Pr4Re6O19', pbc=False)

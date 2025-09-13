@@ -1,0 +1,2 @@
+Si3Zr5
+Atoms(symbols='Zr5Si3', pbc=False)

@@ -1,0 +1,2 @@
+O30Pb2V12
+Atoms(symbols='V6PbO15V6PbO15', pbc=False)

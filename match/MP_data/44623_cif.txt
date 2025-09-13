@@ -1,0 +1,2 @@
+AlTi3
+Atoms(symbols='Ti3Al', pbc=False)

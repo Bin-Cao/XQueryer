@@ -1,0 +1,2 @@
+Br12Re12Te16
+Atoms(symbols='Re12Te16Br12', pbc=False)

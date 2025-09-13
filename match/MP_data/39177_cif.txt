@@ -1,0 +1,2 @@
+H2Ge10Na8O32Zr4
+Atoms(symbols='Na8Zr4Ge10H2O32', pbc=False)

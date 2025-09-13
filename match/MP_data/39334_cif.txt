@@ -1,0 +1,2 @@
+C24H16F20K4O12
+Atoms(symbols='C24H16F20K4O12', pbc=False)

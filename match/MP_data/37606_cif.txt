@@ -1,0 +1,2 @@
+Br2Er2Se2
+Atoms(symbols='Er2Se2Br2', pbc=False)

@@ -1,0 +1,2 @@
+F24Ti4
+Atoms(symbols='Ti2F12Ti2F12', pbc=False)

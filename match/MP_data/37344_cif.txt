@@ -1,0 +1,2 @@
+CuFSe2Sm2
+Atoms(symbols='Sm2CuSe2F', pbc=False)

@@ -1,0 +1,2 @@
+AgHo2Sb3
+Atoms(symbols='Ho2AgSb3', pbc=False)

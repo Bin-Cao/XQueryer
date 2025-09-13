@@ -1,0 +1,2 @@
+MoTc3
+Atoms(symbols='Tc3Mo', pbc=False)

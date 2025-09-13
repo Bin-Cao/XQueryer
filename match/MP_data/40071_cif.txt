@@ -1,0 +1,2 @@
+I20K4Sm8
+Atoms(symbols='K4Sm8I20', pbc=False)

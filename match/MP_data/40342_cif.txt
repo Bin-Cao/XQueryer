@@ -1,0 +1,2 @@
+F8Mn12Na12O64Si16Ti8
+Atoms(symbols='F8Mn12Na12O64Si16Ti8', pbc=False)

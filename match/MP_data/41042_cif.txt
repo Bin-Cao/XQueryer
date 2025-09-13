@@ -1,0 +1,2 @@
+As28Ge12In8K10
+Atoms(symbols='K5In4Ge6As14K5In4Ge6As14', pbc=False)

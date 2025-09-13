@@ -1,0 +1,2 @@
+CoSi3U2
+Atoms(symbols='U2CoSi3', pbc=False)

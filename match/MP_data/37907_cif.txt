@@ -1,0 +1,2 @@
+Ge2LuMn6Sn4
+Atoms(symbols='LuMn6Sn4Ge2', pbc=False)

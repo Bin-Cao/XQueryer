@@ -1,0 +1,2 @@
+F2Ni2O6Sr4
+Atoms(symbols='Sr2NiO3FSr2NiO3F', pbc=False)

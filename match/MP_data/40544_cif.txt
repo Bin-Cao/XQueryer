@@ -1,0 +1,2 @@
+Cd16Ir28La92
+Atoms(symbols='Cd16Ir28La92', pbc=False)

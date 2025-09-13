@@ -1,0 +1,2 @@
+Cl2O24U10
+Atoms(symbols='U10Cl2O24', pbc=False)

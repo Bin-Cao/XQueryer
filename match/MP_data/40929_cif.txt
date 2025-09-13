@@ -1,0 +1,2 @@
+Hf18Mo8Se2
+Atoms(symbols='Hf18Mo8Se2', pbc=False)

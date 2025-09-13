@@ -1,0 +1,2 @@
+C12H20N14Na2O14
+Atoms(symbols='C12H20N14Na2O14', pbc=False)

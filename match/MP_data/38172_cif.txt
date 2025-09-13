@@ -1,0 +1,2 @@
+I8O32Sb24
+Atoms(symbols='I8O32Sb24', pbc=False)

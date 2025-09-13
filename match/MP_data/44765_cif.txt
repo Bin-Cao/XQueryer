@@ -1,0 +1,2 @@
+Nb4O20Ti4Tl4
+Atoms(symbols='Ti4Nb4Tl4O20', pbc=False)

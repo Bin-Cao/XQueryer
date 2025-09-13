@@ -1,0 +1,2 @@
+Be15Co8Hf6
+Atoms(symbols='Hf6Be15Co8', pbc=False)

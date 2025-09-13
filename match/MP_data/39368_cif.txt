@@ -1,0 +1,2 @@
+KO9Si4
+Atoms(symbols='KSi4O9', pbc=False)

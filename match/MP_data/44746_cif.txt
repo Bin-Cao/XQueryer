@@ -1,0 +1,2 @@
+Mo15P4Zr37
+Atoms(symbols='Zr37Mo15P4', pbc=False)

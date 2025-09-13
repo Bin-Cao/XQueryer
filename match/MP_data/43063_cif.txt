@@ -1,0 +1,2 @@
+BaCa2MgO8Si2
+Atoms(symbols='BaCa2MgSi2O8', pbc=False)

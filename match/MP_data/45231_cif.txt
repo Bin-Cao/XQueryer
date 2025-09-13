@@ -1,0 +1,2 @@
+B4TaV
+Atoms(symbols='TaVB4', pbc=False)

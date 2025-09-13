@@ -1,0 +1,2 @@
+O32U8W4
+Atoms(symbols='U8W4O32', pbc=False)

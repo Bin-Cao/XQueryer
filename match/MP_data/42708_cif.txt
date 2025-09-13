@@ -1,0 +1,2 @@
+Be4Cu2F16O12Tl4
+Atoms(symbols='Be4Tl4Cu2O12F16', pbc=False)

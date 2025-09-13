@@ -1,0 +1,2 @@
+Be2F12K2Y2
+Atoms(symbols='K2Y2Be2F12', pbc=False)

@@ -1,0 +1,2 @@
+S2Se2Te2W3
+Atoms(symbols='Te2W3Se2S2', pbc=False)

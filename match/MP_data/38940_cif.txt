@@ -1,0 +1,2 @@
+Mn6Mo6P7
+Atoms(symbols='Mn6Mo6P7', pbc=False)

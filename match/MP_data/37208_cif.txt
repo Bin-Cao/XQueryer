@@ -1,0 +1,2 @@
+P13Rh20U6
+Atoms(symbols='U6P13Rh20', pbc=False)

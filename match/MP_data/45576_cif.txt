@@ -1,0 +1,2 @@
+Mn7O20Sr7
+Atoms(symbols='Sr7Mn7O20', pbc=False)

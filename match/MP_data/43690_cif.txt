@@ -1,0 +1,2 @@
+CuO12P2Zr
+Atoms(symbols='ZrCuP2O12', pbc=False)

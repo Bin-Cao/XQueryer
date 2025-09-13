@@ -1,0 +1,2 @@
+NbO20Ta3V4
+Atoms(symbols='Ta3NbV4O20', pbc=False)

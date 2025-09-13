@@ -1,0 +1,2 @@
+Bi8Co4Er20
+Atoms(symbols='Er20Co4Bi8', pbc=False)

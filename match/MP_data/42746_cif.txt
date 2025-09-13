@@ -1,0 +1,2 @@
+Al18Cr6Si2
+Atoms(symbols='Al18Cr6Si2', pbc=False)

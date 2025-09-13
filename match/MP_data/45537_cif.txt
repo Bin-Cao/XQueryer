@@ -1,0 +1,2 @@
+O6Se32Ti24
+Atoms(symbols='O6Se32Ti24', pbc=False)

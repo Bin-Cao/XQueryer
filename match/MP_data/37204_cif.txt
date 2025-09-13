@@ -1,0 +1,2 @@
+Cr4Se32Ta16
+Atoms(symbols='Ta8Cr2Se16Ta8Cr2Se16', pbc=False)

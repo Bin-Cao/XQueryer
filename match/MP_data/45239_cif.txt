@@ -1,0 +1,2 @@
+Cr2Mn2O12Tb4
+Atoms(symbols='Tb4Mn2Cr2O12', pbc=False)

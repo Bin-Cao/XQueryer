@@ -1,0 +1,2 @@
+Co4Eu4O12
+Atoms(symbols='Eu4Co4O12', pbc=False)

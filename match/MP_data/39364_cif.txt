@@ -1,0 +1,2 @@
+Pr32Pt68Sb56
+Atoms(symbols='Pr32Pt68Sb56', pbc=False)

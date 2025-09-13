@@ -1,0 +1,2 @@
+K4N20O68Th4
+Atoms(symbols='K4N20O68Th4', pbc=False)

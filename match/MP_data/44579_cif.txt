@@ -1,0 +1,2 @@
+SeTi3
+Atoms(symbols='Ti3Se', pbc=False)

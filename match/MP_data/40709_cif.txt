@@ -1,0 +1,2 @@
+AuNa5O28Te2
+Atoms(symbols='Na5Te2AuO28', pbc=False)

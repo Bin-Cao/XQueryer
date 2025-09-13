@@ -1,0 +1,2 @@
+Rb16Se40Si16
+Atoms(symbols='Rb16Se40Si16', pbc=False)

@@ -1,0 +1,2 @@
+B2Mn6O20Sr8
+Atoms(symbols='Sr8Mn6B2O20', pbc=False)

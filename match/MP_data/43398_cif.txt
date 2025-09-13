@@ -1,0 +1,2 @@
+Ag18Pb36Pd78
+Atoms(symbols='Ag18Pb36Pd78', pbc=False)

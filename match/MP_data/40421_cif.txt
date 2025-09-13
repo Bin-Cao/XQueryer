@@ -1,0 +1,2 @@
+O64Pr4Re12
+Atoms(symbols='O64Pr4Re12', pbc=False)

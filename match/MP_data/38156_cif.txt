@@ -1,0 +1,2 @@
+Ir4Mg4Sm16
+Atoms(symbols='Sm16Mg4Ir4', pbc=False)

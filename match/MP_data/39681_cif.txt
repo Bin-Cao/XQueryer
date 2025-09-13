@@ -1,0 +1,2 @@
+In4K4P8Se24
+Atoms(symbols='K4In4P8Se24', pbc=False)

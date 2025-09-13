@@ -1,0 +1,2 @@
+Br4Cu4S4Te4
+Atoms(symbols='Cu4Te4S4Br4', pbc=False)

@@ -1,0 +1,2 @@
+K36Nd4P16S64
+Atoms(symbols='K36Nd4P16S64', pbc=False)

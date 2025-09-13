@@ -1,0 +1,2 @@
+BBeZr
+Atoms(symbols='ZrBeB', pbc=False)

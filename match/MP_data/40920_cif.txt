@@ -1,0 +1,2 @@
+Al24Eu2O38
+Atoms(symbols='Al24Eu2O38', pbc=False)

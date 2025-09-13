@@ -1,0 +1,2 @@
+NiSi3Th2
+Atoms(symbols='Th2Si3Ni', pbc=False)

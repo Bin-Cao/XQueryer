@@ -1,0 +1,2 @@
+I2Na10O12
+Atoms(symbols='Na5IO6Na5IO6', pbc=False)

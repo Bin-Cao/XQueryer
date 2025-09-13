@@ -1,0 +1,2 @@
+Bi4N2O14Y2
+Atoms(symbols='YBi2NO7YBi2NO7', pbc=False)

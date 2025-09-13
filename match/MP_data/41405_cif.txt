@@ -1,0 +1,2 @@
+K12Li12Mo12O48
+Atoms(symbols='K12Li12Mo12O48', pbc=False)

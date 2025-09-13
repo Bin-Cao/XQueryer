@@ -1,0 +1,2 @@
+B4Mo2Y2
+Atoms(symbols='YB2MoYB2Mo', pbc=False)

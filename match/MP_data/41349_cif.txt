@@ -1,0 +1,2 @@
+Dy8Mo12O48
+Atoms(symbols='Dy8Mo12O48', pbc=False)

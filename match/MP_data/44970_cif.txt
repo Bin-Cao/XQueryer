@@ -1,0 +1,2 @@
+Bi2Fe2O30Pb8Ti8
+Atoms(symbols='Ti4FeBiPb4O15Ti4FeBiPb4O15', pbc=False)

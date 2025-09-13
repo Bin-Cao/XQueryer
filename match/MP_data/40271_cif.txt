@@ -1,0 +1,2 @@
+H6I4In2O16
+Atoms(symbols='In2H6I4O16', pbc=False)

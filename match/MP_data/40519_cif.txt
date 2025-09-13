@@ -1,0 +1,2 @@
+C8K6Mo2N8Na2O4
+Atoms(symbols='K6Na2Mo2C8N8O4', pbc=False)

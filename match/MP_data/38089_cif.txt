@@ -1,0 +1,2 @@
+Br60La4O12Rb8Ta24
+Atoms(symbols='Br60La4O12Rb8Ta24', pbc=False)

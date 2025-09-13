@@ -1,0 +1,2 @@
+Er10In20Pd10
+Atoms(symbols='Er10In20Pd10', pbc=False)

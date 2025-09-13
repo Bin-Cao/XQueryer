@@ -1,0 +1,2 @@
+H96Ni2O80S8V6
+Atoms(symbols='H96Ni2O80S8V6', pbc=False)

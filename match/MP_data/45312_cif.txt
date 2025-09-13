@@ -1,0 +1,2 @@
+CuPt3Tb4
+Atoms(symbols='Tb4CuPt3', pbc=False)

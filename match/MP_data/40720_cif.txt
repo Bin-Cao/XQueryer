@@ -1,0 +1,2 @@
+H4Co3Fe2O20Se6
+Atoms(symbols='Fe2Co3H4Se6O20', pbc=False)

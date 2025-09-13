@@ -1,0 +1,2 @@
+FeKMg14
+Atoms(symbols='KMg14Fe', pbc=False)

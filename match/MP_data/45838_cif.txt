@@ -1,0 +1,2 @@
+O10SrV4
+Atoms(symbols='SrV4O10', pbc=False)

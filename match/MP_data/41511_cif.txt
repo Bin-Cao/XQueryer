@@ -1,0 +1,2 @@
+Ho8O80Se12
+Atoms(symbols='Ho8O80Se12', pbc=False)

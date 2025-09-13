@@ -1,0 +1,2 @@
+O8Pr2Sr2V2
+Atoms(symbols='SrPrVO4SrPrVO4', pbc=False)

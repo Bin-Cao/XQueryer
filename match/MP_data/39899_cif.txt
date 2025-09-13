@@ -1,0 +1,2 @@
+K4Na4O40P8Ti8
+Atoms(symbols='K4Na4O40P8Ti8', pbc=False)

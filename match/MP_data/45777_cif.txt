@@ -1,0 +1,2 @@
+Cu3NbO8Ta
+Atoms(symbols='TaNbCu3O8', pbc=False)

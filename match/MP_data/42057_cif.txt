@@ -1,0 +1,2 @@
+As4Ba2Ge2O16
+Atoms(symbols='BaGeAs2O8BaGeAs2O8', pbc=False)

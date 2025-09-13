@@ -1,0 +1,2 @@
+H3Ag6IO6
+Atoms(symbols='Ag6H3IO6', pbc=False)

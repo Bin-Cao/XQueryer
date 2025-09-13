@@ -1,0 +1,2 @@
+Ni2Si6Sm2
+Atoms(symbols='Sm2Si6Ni2', pbc=False)

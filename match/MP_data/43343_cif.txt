@@ -1,0 +1,2 @@
+B4Ni10O20Zr2
+Atoms(symbols='Zr2Ni10B4O20', pbc=False)

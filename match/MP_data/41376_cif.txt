@@ -1,0 +1,2 @@
+Fe52Mo36
+Atoms(symbols='Fe52Mo36', pbc=False)

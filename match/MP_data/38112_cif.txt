@@ -1,0 +1,2 @@
+Ga3NbO14Si2Sr3
+Atoms(symbols='Sr3NbGa3Si2O14', pbc=False)

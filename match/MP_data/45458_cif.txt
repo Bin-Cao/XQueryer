@@ -1,0 +1,2 @@
+O12Pr2Ru2Sr2Zn2
+Atoms(symbols='Sr2Pr2Zn2Ru2O12', pbc=False)

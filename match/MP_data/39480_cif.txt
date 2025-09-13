@@ -1,0 +1,2 @@
+Bi4La4O24Ti6
+Atoms(symbols='La2Ti3Bi2O12La2Ti3Bi2O12', pbc=False)

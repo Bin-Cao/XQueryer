@@ -1,0 +1,2 @@
+Ga6Ni60P18
+Atoms(symbols='Ga6Ni60P18', pbc=False)

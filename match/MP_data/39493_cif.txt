@@ -1,0 +1,2 @@
+Cd4Ho16Ir4
+Atoms(symbols='Ho16Cd4Ir4', pbc=False)

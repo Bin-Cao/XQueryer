@@ -1,0 +1,2 @@
+O20Rb4Se4V4
+Atoms(symbols='Rb4V4Se4O20', pbc=False)

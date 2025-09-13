@@ -1,0 +1,2 @@
+Ga18Ru6Sm4
+Atoms(symbols='Sm4Ga18Ru6', pbc=False)

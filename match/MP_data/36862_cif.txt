@@ -1,0 +1,2 @@
+I36Pt3Tb21
+Atoms(symbols='Tb7PtI12Tb7PtI12Tb7PtI12', pbc=False)

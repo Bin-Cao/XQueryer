@@ -1,0 +1,2 @@
+As2LiMn
+Atoms(symbols='LiMnAs2', pbc=False)

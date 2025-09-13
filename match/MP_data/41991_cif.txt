@@ -1,0 +1,2 @@
+Cs2In2O20S4
+Atoms(symbols='Cs2In2S4O20', pbc=False)

@@ -1,0 +1,2 @@
+Os17Zr54
+Atoms(symbols='Os17Zr54', pbc=False)

@@ -1,0 +1,2 @@
+H4Co4Mn3O24P6
+Atoms(symbols='Mn3Co4P6H4O24', pbc=False)

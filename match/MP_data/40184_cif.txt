@@ -1,0 +1,2 @@
+Co26Na22O52
+Atoms(symbols='Co26Na22O52', pbc=False)

@@ -1,0 +1,2 @@
+Cr10Ge12V10
+Atoms(symbols='V5Cr5Ge6V5Cr5Ge6', pbc=False)

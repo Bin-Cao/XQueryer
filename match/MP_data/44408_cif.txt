@@ -1,0 +1,2 @@
+Fe40Si8U4
+Atoms(symbols='UFe10Si2UFe10Si2UFe10Si2UFe10Si2', pbc=False)

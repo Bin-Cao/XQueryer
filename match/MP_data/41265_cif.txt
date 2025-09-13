@@ -1,0 +1,2 @@
+K6N18O54Th3
+Atoms(symbols='K6N18O54Th3', pbc=False)

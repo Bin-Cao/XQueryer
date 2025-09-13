@@ -1,0 +1,2 @@
+CuHfMg6O8
+Atoms(symbols='HfMg6CuO8', pbc=False)

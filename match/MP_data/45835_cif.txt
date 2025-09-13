@@ -1,0 +1,2 @@
+N2O6Sr4Ta2
+Atoms(symbols='Sr2TaNO3Sr2TaNO3', pbc=False)

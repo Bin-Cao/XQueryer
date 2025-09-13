@@ -1,0 +1,2 @@
+Ga2La2O8Sr2
+Atoms(symbols='SrLaGaO4SrLaGaO4', pbc=False)

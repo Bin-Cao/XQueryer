@@ -1,0 +1,2 @@
+FeO8Se2Tl
+Atoms(symbols='TlFeSe2O8', pbc=False)

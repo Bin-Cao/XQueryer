@@ -1,0 +1,2 @@
+La8O32Se8Ta12
+Atoms(symbols='La8Ta12Se8O32', pbc=False)

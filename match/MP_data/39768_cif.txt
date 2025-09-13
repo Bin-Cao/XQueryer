@@ -1,0 +1,2 @@
+Cl22Hg10K2
+Atoms(symbols='KHg5Cl11KHg5Cl11', pbc=False)

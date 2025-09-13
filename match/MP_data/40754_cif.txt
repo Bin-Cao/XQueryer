@@ -1,0 +1,2 @@
+Be30Cu16Hf12
+Atoms(symbols='Hf6Be15Cu8Hf6Be15Cu8', pbc=False)

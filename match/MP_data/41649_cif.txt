@@ -1,0 +1,2 @@
+Cs8Ga4Na4P8
+Atoms(symbols='Cs4Na2Ga2P4Cs4Na2Ga2P4', pbc=False)

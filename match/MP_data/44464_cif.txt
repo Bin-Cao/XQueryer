@@ -1,0 +1,2 @@
+Cl6N72P36Zn16
+Atoms(symbols='Cl6N72P36Zn16', pbc=False)

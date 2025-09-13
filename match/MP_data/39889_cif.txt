@@ -1,0 +1,2 @@
+C12H20N12Na2NiO18
+Atoms(symbols='C12H20N12Na2NiO18', pbc=False)

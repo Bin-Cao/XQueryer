@@ -1,0 +1,2 @@
+B4TaTi
+Atoms(symbols='TaTiB4', pbc=False)

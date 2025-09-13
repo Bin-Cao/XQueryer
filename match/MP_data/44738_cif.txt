@@ -1,0 +1,2 @@
+Al4Fe6Th2
+Atoms(symbols='ThAl2Fe3ThAl2Fe3', pbc=False)

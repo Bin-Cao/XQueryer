@@ -1,0 +1,2 @@
+I4O36Tb4
+Atoms(symbols='Tb4I4O36', pbc=False)

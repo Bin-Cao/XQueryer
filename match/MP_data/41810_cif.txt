@@ -1,0 +1,2 @@
+CsMn2O18P6
+Atoms(symbols='CsMn2P6O18', pbc=False)

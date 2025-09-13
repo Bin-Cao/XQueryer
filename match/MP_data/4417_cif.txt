@@ -1,0 +1,2 @@
+CaMg14Zr
+Atoms(symbols='CaMg14Zr', pbc=False)

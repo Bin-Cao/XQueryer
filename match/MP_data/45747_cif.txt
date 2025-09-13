@@ -1,0 +1,2 @@
+AlN7O2Si5Sr
+Atoms(symbols='SrAlSi5N7O2', pbc=False)

@@ -1,0 +1,2 @@
+H4Ca4Cu4O20V4
+Atoms(symbols='Ca4V4Cu4H4O20', pbc=False)

@@ -1,0 +1,2 @@
+Ga4Nd9
+Atoms(symbols='Nd9Ga4', pbc=False)

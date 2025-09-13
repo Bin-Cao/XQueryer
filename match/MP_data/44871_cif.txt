@@ -1,0 +1,2 @@
+Cr12Nb3Ti3
+Atoms(symbols='TiNbCr4TiNbCr4TiNbCr4', pbc=False)

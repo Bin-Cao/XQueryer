@@ -1,0 +1,2 @@
+Ag2Cl26Mo12
+Atoms(symbols='Ag2Mo12Cl26', pbc=False)

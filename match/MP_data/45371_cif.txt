@@ -1,0 +1,2 @@
+Bi6O18Ti3W
+Atoms(symbols='Ti3Bi6WO18', pbc=False)

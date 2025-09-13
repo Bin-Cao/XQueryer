@@ -1,0 +1,2 @@
+Nb8O30Sr6Ti2
+Atoms(symbols='Sr6Ti2Nb8O30', pbc=False)

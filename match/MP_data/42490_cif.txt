@@ -1,0 +1,2 @@
+H18In6Na18O72S18
+Atoms(symbols='H18In6Na18O72S18', pbc=False)

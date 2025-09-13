@@ -1,0 +1,2 @@
+Be4F16N4Ni2O12
+Atoms(symbols='Be4Ni2N4O12F16', pbc=False)

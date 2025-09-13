@@ -1,0 +1,2 @@
+Ag4Eu4Mg4
+Atoms(symbols='Eu4Mg4Ag4', pbc=False)

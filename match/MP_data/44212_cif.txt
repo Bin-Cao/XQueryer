@@ -1,0 +1,2 @@
+CoNiTi2
+Atoms(symbols='Ti2CoNi', pbc=False)

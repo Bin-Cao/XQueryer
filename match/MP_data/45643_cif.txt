@@ -1,0 +1,2 @@
+As3S22Sb10Tl5
+Atoms(symbols='Tl5Sb10As3S22', pbc=False)

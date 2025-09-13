@@ -1,0 +1,2 @@
+Nd2O12Sr4Ta2
+Atoms(symbols='Sr4Nd2Ta2O12', pbc=False)

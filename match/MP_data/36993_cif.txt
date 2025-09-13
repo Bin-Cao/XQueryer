@@ -1,0 +1,2 @@
+N8O32Te4V4
+Atoms(symbols='V4Te4N8O32', pbc=False)

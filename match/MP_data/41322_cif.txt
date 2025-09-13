@@ -1,0 +1,2 @@
+Cu4Er20Pb12
+Atoms(symbols='Er10Cu2Pb6Er10Cu2Pb6', pbc=False)

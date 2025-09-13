@@ -1,0 +1,2 @@
+As4Pr4Te4
+Atoms(symbols='Pr4Te4As4', pbc=False)

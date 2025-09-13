@@ -1,0 +1,2 @@
+B6Ge2Ni21
+Atoms(symbols='Ni21Ge2B6', pbc=False)

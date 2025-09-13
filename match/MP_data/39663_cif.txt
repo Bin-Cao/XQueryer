@@ -1,0 +1,2 @@
+Fe3In2Lu12
+Atoms(symbols='Lu12In2Fe3', pbc=False)

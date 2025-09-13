@@ -1,0 +1,2 @@
+Si28Tb16
+Atoms(symbols='Tb8Si14Tb8Si14', pbc=False)

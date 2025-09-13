@@ -1,0 +1,2 @@
+H96O104V20Y4
+Atoms(symbols='H96O104V20Y4', pbc=False)

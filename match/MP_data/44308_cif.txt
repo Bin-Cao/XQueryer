@@ -1,0 +1,2 @@
+Cr4Si12Ti2
+Atoms(symbols='TiCr2Si6TiCr2Si6', pbc=False)

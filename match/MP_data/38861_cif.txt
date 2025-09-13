@@ -1,0 +1,2 @@
+Pt4V2
+Atoms(symbols='VPt2VPt2', pbc=False)

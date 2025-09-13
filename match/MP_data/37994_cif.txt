@@ -1,0 +1,2 @@
+C12Hg4N12O12Rb4
+Atoms(symbols='Rb4Hg4C12N12O12', pbc=False)

@@ -1,0 +1,2 @@
+Ge2Hf6O16
+Atoms(symbols='Hf3GeO8Hf3GeO8', pbc=False)

@@ -1,0 +1,2 @@
+Fe16Ho6Tb2
+Atoms(symbols='TbHo3Fe8TbHo3Fe8', pbc=False)

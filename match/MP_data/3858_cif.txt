@@ -1,0 +1,2 @@
+LaMg14Ni
+Atoms(symbols='LaMg14Ni', pbc=False)

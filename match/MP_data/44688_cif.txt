@@ -1,0 +1,2 @@
+MoP2Ti
+Atoms(symbols='TiMoP2', pbc=False)

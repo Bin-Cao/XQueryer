@@ -1,0 +1,2 @@
+Ca20Sn12
+Atoms(symbols='Ca10Sn6Ca10Sn6', pbc=False)

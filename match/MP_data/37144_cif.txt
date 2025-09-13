@@ -1,0 +1,2 @@
+O12P4SrTl2
+Atoms(symbols='SrTl2P4O12', pbc=False)

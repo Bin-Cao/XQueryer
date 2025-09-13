@@ -1,0 +1,2 @@
+Cu2O30V12
+Atoms(symbols='V12Cu2O30', pbc=False)

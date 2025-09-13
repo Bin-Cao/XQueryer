@@ -1,0 +1,2 @@
+C2Co34Y4
+Atoms(symbols='Y2Co17CY2Co17C', pbc=False)

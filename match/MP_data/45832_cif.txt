@@ -1,0 +1,2 @@
+Cu36Ga12U6
+Atoms(symbols='U2Ga4Cu12U2Ga4Cu12U2Ga4Cu12', pbc=False)

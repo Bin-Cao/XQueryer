@@ -1,0 +1,2 @@
+OTi2
+Atoms(symbols='Ti2O', pbc=False)

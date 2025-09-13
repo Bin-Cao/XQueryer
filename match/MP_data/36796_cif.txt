@@ -1,0 +1,2 @@
+Cu2P16Ti22
+Atoms(symbols='Ti22Cu2P16', pbc=False)

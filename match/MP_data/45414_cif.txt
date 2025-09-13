@@ -1,0 +1,2 @@
+Sn24Ta16
+Atoms(symbols='Ta4Sn6Ta4Sn6Ta4Sn6Ta4Sn6', pbc=False)

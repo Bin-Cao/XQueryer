@@ -1,0 +1,2 @@
+B8Mo6Ti6
+Atoms(symbols='Ti3B4Mo3Ti3B4Mo3', pbc=False)

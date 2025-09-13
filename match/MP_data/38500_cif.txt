@@ -1,0 +1,2 @@
+Co4F16Na4
+Atoms(symbols='Na4Co4F16', pbc=False)

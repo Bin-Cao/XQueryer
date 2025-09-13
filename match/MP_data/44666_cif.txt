@@ -1,0 +1,2 @@
+H24Cl8Cu15O24Zn
+Atoms(symbols='H24Cl8Cu15O24Zn', pbc=False)

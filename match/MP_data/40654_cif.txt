@@ -1,0 +1,2 @@
+Co8Dy12Si12
+Atoms(symbols='Dy6Co4Si6Dy6Co4Si6', pbc=False)

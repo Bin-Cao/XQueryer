@@ -1,0 +1,2 @@
+O20V5W3
+Atoms(symbols='V5W3O20', pbc=False)

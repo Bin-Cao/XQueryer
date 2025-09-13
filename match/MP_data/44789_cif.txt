@@ -1,0 +1,2 @@
+Ge12Nb10Ti10
+Atoms(symbols='Ti5Nb5Ge6Ti5Nb5Ge6', pbc=False)

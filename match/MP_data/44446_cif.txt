@@ -1,0 +1,2 @@
+Si12Ti4W2
+Atoms(symbols='Ti2Si6WTi2Si6W', pbc=False)

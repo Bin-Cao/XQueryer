@@ -1,0 +1,2 @@
+K12P20S72Sn8
+Atoms(symbols='K12P20S72Sn8', pbc=False)

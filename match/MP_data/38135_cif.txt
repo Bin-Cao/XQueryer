@@ -1,0 +1,2 @@
+H56O40Se8U4
+Atoms(symbols='H56O40Se8U4', pbc=False)

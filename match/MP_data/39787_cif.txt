@@ -1,0 +1,2 @@
+F45Nd3Zr9
+Atoms(symbols='NdZr3F15NdZr3F15NdZr3F15', pbc=False)

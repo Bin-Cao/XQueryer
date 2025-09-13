@@ -1,0 +1,2 @@
+O36P8Sn4
+Atoms(symbols='Sn4P8O36', pbc=False)

@@ -1,0 +1,2 @@
+Lu5O12Re2
+Atoms(symbols='Lu5Re2O12', pbc=False)

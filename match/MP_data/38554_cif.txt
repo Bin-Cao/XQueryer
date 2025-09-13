@@ -1,0 +1,2 @@
+As4Nb18O50
+Atoms(symbols='As4Nb18O50', pbc=False)

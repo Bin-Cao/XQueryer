@@ -1,0 +1,2 @@
+Ce4Na20O24
+Atoms(symbols='Na10Ce2O12Na10Ce2O12', pbc=False)

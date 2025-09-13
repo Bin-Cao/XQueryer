@@ -1,0 +1,2 @@
+H12Ce4Co20
+Atoms(symbols='Ce2Co10H6Ce2Co10H6', pbc=False)

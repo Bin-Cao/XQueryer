@@ -1,0 +1,2 @@
+Nd4Ni24P10
+Atoms(symbols='Nd4Ni24P10', pbc=False)

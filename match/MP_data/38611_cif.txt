@@ -1,0 +1,2 @@
+BiMo2NaO8
+Atoms(symbols='NaBiMo2O8', pbc=False)

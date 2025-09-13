@@ -1,0 +1,2 @@
+As8O36Sr8V4
+Atoms(symbols='Sr4V2As4O18Sr4V2As4O18', pbc=False)

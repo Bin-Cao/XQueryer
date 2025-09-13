@@ -1,0 +1,2 @@
+H28Cr2N6O16
+Atoms(symbols='CrH14N3O8CrH14N3O8', pbc=False)

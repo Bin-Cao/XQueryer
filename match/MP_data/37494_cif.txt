@@ -1,0 +1,2 @@
+O72Ta20Zn28
+Atoms(symbols='O72Ta20Zn28', pbc=False)

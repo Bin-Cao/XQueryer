@@ -1,0 +1,2 @@
+Al3Sn3U2
+Atoms(symbols='U2Al3Sn3', pbc=False)

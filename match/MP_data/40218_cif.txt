@@ -1,0 +1,2 @@
+H6Ag4MnO18P6
+Atoms(symbols='MnAg4P6H6O18', pbc=False)

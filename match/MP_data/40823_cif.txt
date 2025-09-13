@@ -1,0 +1,2 @@
+H4As4Fe4O20Pb2
+Atoms(symbols='Fe2As2H2PbO10Fe2As2H2PbO10', pbc=False)

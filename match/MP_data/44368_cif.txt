@@ -1,0 +1,2 @@
+N2O22V8
+Atoms(symbols='V4NO11V4NO11', pbc=False)

@@ -1,0 +1,2 @@
+CoN
+Atoms(symbols='CoN', pbc=False)

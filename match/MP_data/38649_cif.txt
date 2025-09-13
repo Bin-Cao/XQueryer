@@ -1,0 +1,2 @@
+C62H36B2F46O6S2Si4
+Atoms(symbols='C62H36B2F46O6S2Si4', pbc=False)

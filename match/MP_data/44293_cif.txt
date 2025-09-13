@@ -1,0 +1,2 @@
+CuFeTi2
+Atoms(symbols='Ti2FeCu', pbc=False)

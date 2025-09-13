@@ -1,0 +1,2 @@
+Cu17Zn35
+Atoms(symbols='Zn35Cu17', pbc=False)

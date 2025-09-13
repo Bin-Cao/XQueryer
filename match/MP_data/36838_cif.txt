@@ -1,0 +1,2 @@
+P4Ta4V4
+Atoms(symbols='Ta4V4P4', pbc=False)

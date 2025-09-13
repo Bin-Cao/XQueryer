@@ -1,0 +1,2 @@
+Br12Co4O24Rb4
+Atoms(symbols='Rb2Co2Br6O12Rb2Co2Br6O12', pbc=False)

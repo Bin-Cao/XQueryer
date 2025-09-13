@@ -1,0 +1,2 @@
+Cr2Ti2
+Atoms(symbols='TiCrTiCr', pbc=False)

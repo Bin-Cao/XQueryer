@@ -1,0 +1,2 @@
+Cr2Sb10Zr20
+Atoms(symbols='Zr10CrSb5Zr10CrSb5', pbc=False)

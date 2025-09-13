@@ -1,0 +1,2 @@
+Cl3Pb10S24Sb10
+Atoms(symbols='Sb10Pb10S24Cl3', pbc=False)

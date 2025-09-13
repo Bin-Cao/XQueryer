@@ -1,0 +1,2 @@
+Ag12Ca3Sr9
+Atoms(symbols='Sr9Ca3Ag12', pbc=False)

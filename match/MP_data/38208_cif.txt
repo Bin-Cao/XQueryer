@@ -1,0 +1,2 @@
+Ni2O12Pr4Pt2
+Atoms(symbols='Pr4Ni2Pt2O12', pbc=False)

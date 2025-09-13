@@ -1,0 +1,2 @@
+Ce2Cu8Nd6O36Pb2Sr10
+Atoms(symbols='Ce2Cu8Nd6O36Pb2Sr10', pbc=False)

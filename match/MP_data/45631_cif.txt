@@ -1,0 +1,2 @@
+B9O22U2
+Atoms(symbols='U2B9O22', pbc=False)

@@ -1,0 +1,2 @@
+Co2Cs2I17Pr10
+Atoms(symbols='Cs2Pr10Co2I17', pbc=False)

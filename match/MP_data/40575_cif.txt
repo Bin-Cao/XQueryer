@@ -1,0 +1,2 @@
+Ag4F14In2Ni2
+Atoms(symbols='In2Ni2Ag4F14', pbc=False)

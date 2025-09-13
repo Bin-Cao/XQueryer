@@ -1,0 +1,2 @@
+FeMg14Zr
+Atoms(symbols='Mg14ZrFe', pbc=False)

@@ -1,0 +1,2 @@
+Cu2Pb6Tb10
+Atoms(symbols='Tb10Cu2Pb6', pbc=False)

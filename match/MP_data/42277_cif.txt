@@ -1,0 +1,2 @@
+Al24Ce6Os8
+Atoms(symbols='Ce6Al24Os8', pbc=False)

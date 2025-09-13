@@ -1,0 +1,2 @@
+Cl22La2Sr8
+Atoms(symbols='Sr4LaCl11Sr4LaCl11', pbc=False)

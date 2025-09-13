@@ -1,0 +1,2 @@
+I6Nb20Se80
+Atoms(symbols='I6Nb20Se80', pbc=False)

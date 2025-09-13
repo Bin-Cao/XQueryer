@@ -1,0 +1,2 @@
+C8H24Cu2F18N20Si3
+Atoms(symbols='C8H24Cu2F18N20Si3', pbc=False)

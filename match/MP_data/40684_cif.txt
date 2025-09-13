@@ -1,0 +1,2 @@
+Dy6Fe4Si14
+Atoms(symbols='Dy3Fe2Si7Dy3Fe2Si7', pbc=False)

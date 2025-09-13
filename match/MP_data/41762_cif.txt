@@ -1,0 +1,2 @@
+Cu7O21S2
+Atoms(symbols='Cu7S2O21', pbc=False)

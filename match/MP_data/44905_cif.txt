@@ -1,0 +1,2 @@
+Se12Th7
+Atoms(symbols='Th7Se12', pbc=False)

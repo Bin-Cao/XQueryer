@@ -1,0 +1,2 @@
+BeSiSr
+Atoms(symbols='SrBeSi', pbc=False)

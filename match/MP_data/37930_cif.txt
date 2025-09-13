@@ -1,0 +1,2 @@
+N20Pr4Si12
+Atoms(symbols='Pr4Si12N20', pbc=False)

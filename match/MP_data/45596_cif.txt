@@ -1,0 +1,2 @@
+C2H4Cl6N6Te
+Atoms(symbols='TeH4C2N6Cl6', pbc=False)

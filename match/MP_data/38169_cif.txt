@@ -1,0 +1,2 @@
+O12Rb3Se3
+Atoms(symbols='Rb3Se3O12', pbc=False)

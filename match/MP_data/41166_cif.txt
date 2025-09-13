@@ -1,0 +1,2 @@
+C14Er10Re4
+Atoms(symbols='Er5Re2C7Er5Re2C7', pbc=False)

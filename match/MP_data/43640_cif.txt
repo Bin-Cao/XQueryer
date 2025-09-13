@@ -1,0 +1,2 @@
+Ba8F48Na8Ti8
+Atoms(symbols='Ba8F48Na8Ti8', pbc=False)

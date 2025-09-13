@@ -1,0 +1,2 @@
+As20Ge4Zr12
+Atoms(symbols='Zr12Ge4As20', pbc=False)

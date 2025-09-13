@@ -1,0 +1,2 @@
+Cu12In12Y2
+Atoms(symbols='YIn6Cu6YIn6Cu6', pbc=False)

@@ -1,0 +1,2 @@
+H2Br6N2Sn2
+Atoms(symbols='Sn2H2Br6N2', pbc=False)

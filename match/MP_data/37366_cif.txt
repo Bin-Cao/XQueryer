@@ -1,0 +1,2 @@
+DyO8P2Rb3
+Atoms(symbols='Rb3DyP2O8', pbc=False)

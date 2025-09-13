@@ -1,0 +1,2 @@
+Cl20Nd12O16Ti4
+Atoms(symbols='Nd12Ti4Cl20O16', pbc=False)

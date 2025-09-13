@@ -1,0 +1,2 @@
+Co2Nb2O14Sr6
+Atoms(symbols='Sr3NbCoO7Sr3NbCoO7', pbc=False)

@@ -1,0 +1,2 @@
+Cl52Dy24
+Atoms(symbols='Cl52Dy24', pbc=False)

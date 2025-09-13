@@ -1,0 +1,2 @@
+K2Se4Tl2
+Atoms(symbols='K2Tl2Se4', pbc=False)

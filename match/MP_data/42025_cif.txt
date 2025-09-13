@@ -1,0 +1,2 @@
+Er6MoO12
+Atoms(symbols='Er6MoO12', pbc=False)

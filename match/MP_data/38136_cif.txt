@@ -1,0 +1,2 @@
+Nd4O10Pd4
+Atoms(symbols='Nd4Pd4O10', pbc=False)

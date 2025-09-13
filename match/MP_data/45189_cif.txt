@@ -1,0 +1,2 @@
+MnNiSe2
+Atoms(symbols='MnNiSe2', pbc=False)

@@ -1,0 +1,2 @@
+Co6Sm12Sn
+Atoms(symbols='Sm12Co6Sn', pbc=False)

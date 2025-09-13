@@ -1,0 +1,2 @@
+Cu2Pt2Tb4
+Atoms(symbols='Tb4Cu2Pt2', pbc=False)

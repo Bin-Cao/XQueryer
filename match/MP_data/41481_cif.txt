@@ -1,0 +1,2 @@
+Co16Er6Sn8
+Atoms(symbols='Er6Co16Sn8', pbc=False)

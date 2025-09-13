@@ -1,0 +1,2 @@
+O26Si6Tb10
+Atoms(symbols='Tb10Si6O26', pbc=False)

@@ -1,0 +1,2 @@
+O26Pr10Si6
+Atoms(symbols='Pr10Si6O26', pbc=False)

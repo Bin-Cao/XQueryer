@@ -1,0 +1,2 @@
+Ag9Zn9
+Atoms(symbols='Zn9Ag9', pbc=False)

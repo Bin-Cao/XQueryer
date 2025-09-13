@@ -1,0 +1,2 @@
+As6Bi2Cu12O42
+Atoms(symbols='As6Bi2Cu12O42', pbc=False)

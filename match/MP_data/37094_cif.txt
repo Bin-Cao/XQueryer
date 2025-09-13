@@ -1,0 +1,2 @@
+As6Ru6Ti6
+Atoms(symbols='Ti6As6Ru6', pbc=False)

@@ -1,0 +1,2 @@
+S2ThU
+Atoms(symbols='ThUS2', pbc=False)

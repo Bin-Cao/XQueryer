@@ -1,0 +1,2 @@
+BeGeSr
+Atoms(symbols='SrBeGe', pbc=False)

@@ -1,0 +1,2 @@
+Ag2CdGa2S8Zn3
+Atoms(symbols='Zn3CdGa2Ag2S8', pbc=False)

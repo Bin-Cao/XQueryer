@@ -1,0 +1,2 @@
+O50Ta18V4
+Atoms(symbols='O50Ta18V4', pbc=False)

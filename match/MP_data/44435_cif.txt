@@ -1,0 +1,2 @@
+In10Se16Tl2
+Atoms(symbols='TlIn5Se8TlIn5Se8', pbc=False)

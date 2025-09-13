@@ -1,0 +1,2 @@
+C16Gd4Li4O40
+Atoms(symbols='C16Gd4Li4O40', pbc=False)

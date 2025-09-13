@@ -1,0 +1,2 @@
+Cl2Ho2O
+Atoms(symbols='Ho2Cl2O', pbc=False)

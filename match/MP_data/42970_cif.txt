@@ -1,0 +1,2 @@
+Mo8Zr4
+Atoms(symbols='ZrMo2ZrMo2ZrMo2ZrMo2', pbc=False)

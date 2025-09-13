@@ -1,0 +1,2 @@
+Te4V3
+Atoms(symbols='V3Te4', pbc=False)

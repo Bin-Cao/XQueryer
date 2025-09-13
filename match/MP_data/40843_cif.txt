@@ -1,0 +1,2 @@
+Eu20Li8Sn28
+Atoms(symbols='Li8Eu20Sn28', pbc=False)

@@ -1,0 +1,2 @@
+ThZr3
+Atoms(symbols='ThZr3', pbc=False)

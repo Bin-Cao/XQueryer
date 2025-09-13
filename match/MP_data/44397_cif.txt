@@ -1,0 +1,2 @@
+Ni14Si2U8
+Atoms(symbols='U4SiNi7U4SiNi7', pbc=False)

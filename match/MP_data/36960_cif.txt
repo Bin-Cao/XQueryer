@@ -1,0 +1,2 @@
+Cl12Co2
+Atoms(symbols='CoCl6CoCl6', pbc=False)

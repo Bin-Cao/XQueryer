@@ -1,0 +1,2 @@
+Cr2Ni2O16Pr6Sr2
+Atoms(symbols='SrPr3CrNiO8SrPr3CrNiO8', pbc=False)

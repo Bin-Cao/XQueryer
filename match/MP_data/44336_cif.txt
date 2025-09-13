@@ -1,0 +1,2 @@
+As2TiV
+Atoms(symbols='TiVAs2', pbc=False)

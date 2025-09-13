@@ -1,0 +1,2 @@
+Cl6F31O6SbTe8
+Atoms(symbols='SbTe8Cl6O6F31', pbc=False)

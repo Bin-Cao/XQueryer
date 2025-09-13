@@ -1,0 +1,2 @@
+Ca20Rh4
+Atoms(symbols='Ca20Rh4', pbc=False)

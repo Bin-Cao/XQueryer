@@ -1,0 +1,2 @@
+Al18Fe6Y2
+Atoms(symbols='YAl9Fe3YAl9Fe3', pbc=False)

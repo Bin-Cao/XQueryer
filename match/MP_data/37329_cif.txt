@@ -1,0 +1,2 @@
+F76Pb20Ti12
+Atoms(symbols='F76Pb20Ti12', pbc=False)

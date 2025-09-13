@@ -1,0 +1,2 @@
+C3Fe34Y4
+Atoms(symbols='Y4Fe34C3', pbc=False)

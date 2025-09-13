@@ -1,0 +1,2 @@
+Ce12Pd16Sn24
+Atoms(symbols='Ce12Sn24Pd16', pbc=False)

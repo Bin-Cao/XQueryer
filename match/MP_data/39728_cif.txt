@@ -1,0 +1,2 @@
+Al86Nd12Ta8
+Atoms(symbols='Al86Nd12Ta8', pbc=False)

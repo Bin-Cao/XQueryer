@@ -1,0 +1,2 @@
+Ce12Rb4Te32
+Atoms(symbols='Rb4Ce12Te32', pbc=False)

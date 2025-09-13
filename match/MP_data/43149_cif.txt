@@ -1,0 +1,2 @@
+Al8Cr4Si3
+Atoms(symbols='Al8Cr4Si3', pbc=False)

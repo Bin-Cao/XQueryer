@@ -1,0 +1,2 @@
+Sb3Ti13
+Atoms(symbols='Ti13Sb3', pbc=False)

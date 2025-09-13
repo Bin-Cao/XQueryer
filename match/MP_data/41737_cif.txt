@@ -1,0 +1,2 @@
+Cu12Mo4O36S4
+Atoms(symbols='Cu12Mo4S4O36', pbc=False)

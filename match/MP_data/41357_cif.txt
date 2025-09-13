@@ -1,0 +1,2 @@
+Co6DyGa6
+Atoms(symbols='DyGa6Co6', pbc=False)

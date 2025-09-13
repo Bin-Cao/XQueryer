@@ -1,0 +1,2 @@
+Er4Fe4Ge8O28
+Atoms(symbols='Er2Fe2Ge4O14Er2Fe2Ge4O14', pbc=False)

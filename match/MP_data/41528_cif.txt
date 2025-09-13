@@ -1,0 +1,2 @@
+C4Ho14I24N2
+Atoms(symbols='Ho14C4I24N2', pbc=False)

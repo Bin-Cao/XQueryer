@@ -1,0 +1,2 @@
+Cu2Eu4P6Zn4
+Atoms(symbols='Eu4Zn4Cu2P6', pbc=False)

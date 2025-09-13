@@ -1,0 +1,2 @@
+K16O24Th8
+Atoms(symbols='K8Th4O12K8Th4O12', pbc=False)

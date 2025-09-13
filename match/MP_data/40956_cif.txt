@@ -1,0 +1,2 @@
+Be4Cl60K12Zr24
+Atoms(symbols='Be4Cl60K12Zr24', pbc=False)

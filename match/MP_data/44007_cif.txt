@@ -1,0 +1,2 @@
+Al14Cu4Fe6U2
+Atoms(symbols='UAl7Fe3Cu2UAl7Fe3Cu2', pbc=False)

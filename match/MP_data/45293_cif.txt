@@ -1,0 +1,2 @@
+Al2Nd2O8Sr2
+Atoms(symbols='SrNdAlO4SrNdAlO4', pbc=False)

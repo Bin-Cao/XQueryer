@@ -1,0 +1,2 @@
+C6CaMn3O6
+Atoms(symbols='CaMn3C6O6', pbc=False)

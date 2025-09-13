@@ -1,0 +1,2 @@
+Fe18Sc3Th3
+Atoms(symbols='Th3Sc3Fe18', pbc=False)

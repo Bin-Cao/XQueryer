@@ -1,0 +1,2 @@
+Ag51Y14
+Atoms(symbols='Ag51Y14', pbc=False)

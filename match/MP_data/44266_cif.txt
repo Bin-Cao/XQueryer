@@ -1,0 +1,2 @@
+S8Si2U10
+Atoms(symbols='U5SiS4U5SiS4', pbc=False)

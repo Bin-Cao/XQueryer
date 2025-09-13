@@ -1,0 +1,2 @@
+Ag2Cu8Sr2
+Atoms(symbols='SrCu4AgSrCu4Ag', pbc=False)

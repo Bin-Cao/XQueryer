@@ -1,0 +1,2 @@
+Cr34Si24Ti6
+Atoms(symbols='Cr34Si24Ti6', pbc=False)

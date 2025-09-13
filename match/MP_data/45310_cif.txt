@@ -1,0 +1,2 @@
+Co4Mo2Ta6
+Atoms(symbols='Ta3Co2MoTa3Co2Mo', pbc=False)

@@ -1,0 +1,2 @@
+H2Fe22V2Y2
+Atoms(symbols='YVFe11HYVFe11H', pbc=False)

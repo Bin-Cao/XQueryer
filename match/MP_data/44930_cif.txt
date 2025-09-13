@@ -1,0 +1,2 @@
+CCoTb
+Atoms(symbols='TbCoC', pbc=False)

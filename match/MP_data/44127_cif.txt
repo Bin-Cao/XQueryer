@@ -1,0 +1,2 @@
+Cr3Si12V3
+Atoms(symbols='V3Cr3Si12', pbc=False)

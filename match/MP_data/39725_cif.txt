@@ -1,0 +1,2 @@
+Lu12Pb10
+Atoms(symbols='Lu12Pb10', pbc=False)

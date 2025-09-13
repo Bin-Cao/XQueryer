@@ -1,0 +1,2 @@
+FeMn13O22Si2
+Atoms(symbols='Mn13FeSi2O22', pbc=False)

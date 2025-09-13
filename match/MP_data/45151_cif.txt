@@ -1,0 +1,2 @@
+As4MoTi3
+Atoms(symbols='Ti3MoAs4', pbc=False)

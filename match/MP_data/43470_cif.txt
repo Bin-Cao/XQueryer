@@ -1,0 +1,2 @@
+Co10Fe12Re2Y2
+Atoms(symbols='YFe6Co5ReYFe6Co5Re', pbc=False)

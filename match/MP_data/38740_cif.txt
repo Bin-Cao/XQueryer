@@ -1,0 +1,2 @@
+Ca6NaO18Si4Ti
+Atoms(symbols='NaCa6TiSi4O18', pbc=False)

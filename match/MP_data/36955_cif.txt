@@ -1,0 +1,2 @@
+Co8Sn4Tb24
+Atoms(symbols='Tb12Co4Sn2Tb12Co4Sn2', pbc=False)

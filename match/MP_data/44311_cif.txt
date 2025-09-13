@@ -1,0 +1,2 @@
+Al14Mn10U2
+Atoms(symbols='UMn5Al7UMn5Al7', pbc=False)

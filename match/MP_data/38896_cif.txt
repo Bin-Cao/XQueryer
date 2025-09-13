@@ -1,0 +1,2 @@
+Cr4Lu12S24
+Atoms(symbols='Lu12Cr4S24', pbc=False)

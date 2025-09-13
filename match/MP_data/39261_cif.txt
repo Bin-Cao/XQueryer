@@ -1,0 +1,2 @@
+C24H26Nd4O24
+Atoms(symbols='C24H26Nd4O24', pbc=False)

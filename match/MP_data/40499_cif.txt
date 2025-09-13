@@ -1,0 +1,2 @@
+F20Hf4Tl4
+Atoms(symbols='Hf4Tl4F20', pbc=False)

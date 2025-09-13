@@ -1,0 +1,2 @@
+Ca49Mo12N56O3Sr2
+Atoms(symbols='Ca49Mo12N56O3Sr2', pbc=False)

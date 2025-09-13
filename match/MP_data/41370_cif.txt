@@ -1,0 +1,2 @@
+Cu4Dy8Ge8O32
+Atoms(symbols='Dy4Cu2Ge4O16Dy4Cu2Ge4O16', pbc=False)

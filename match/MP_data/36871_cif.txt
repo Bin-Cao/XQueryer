@@ -1,0 +1,2 @@
+Lu2Te3
+Atoms(symbols='Lu2Te3', pbc=False)

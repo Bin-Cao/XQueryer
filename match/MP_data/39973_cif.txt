@@ -1,0 +1,2 @@
+F20Ga4K8O4
+Atoms(symbols='K4Ga2O2F10K4Ga2O2F10', pbc=False)

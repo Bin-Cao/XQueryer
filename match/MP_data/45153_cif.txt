@@ -1,0 +1,2 @@
+Bi3Fe3O12PbTi
+Atoms(symbols='TiFe3Bi3PbO12', pbc=False)

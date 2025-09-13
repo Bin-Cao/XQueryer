@@ -1,0 +1,2 @@
+O7Si2Tl6
+Atoms(symbols='Tl6Si2O7', pbc=False)

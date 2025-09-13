@@ -1,0 +1,2 @@
+Cu2Ho10Pb6
+Atoms(symbols='Ho10Cu2Pb6', pbc=False)

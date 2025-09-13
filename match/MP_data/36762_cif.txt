@@ -1,0 +1,2 @@
+Cu20Sn4Tb4
+Atoms(symbols='Tb4Cu20Sn4', pbc=False)

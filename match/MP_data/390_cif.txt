@@ -1,0 +1,2 @@
+S2Ti
+Atoms(symbols='TiS2', pbc=False)

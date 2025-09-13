@@ -1,0 +1,2 @@
+Dy8Ga36Rh12
+Atoms(symbols='Dy4Ga18Rh6Dy4Ga18Rh6', pbc=False)

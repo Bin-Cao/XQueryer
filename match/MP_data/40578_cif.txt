@@ -1,0 +1,2 @@
+K2P30
+Atoms(symbols='K2P30', pbc=False)

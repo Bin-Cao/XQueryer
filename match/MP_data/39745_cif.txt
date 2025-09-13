@@ -1,0 +1,2 @@
+Ga6Lu6Ni12
+Atoms(symbols='Lu6Ga6Ni12', pbc=False)

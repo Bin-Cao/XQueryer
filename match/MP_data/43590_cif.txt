@@ -1,0 +1,2 @@
+GePtY
+Atoms(symbols='YGePt', pbc=False)

@@ -1,0 +1,2 @@
+Fe32Mo4Y3
+Atoms(symbols='Y3Fe32Mo4', pbc=False)

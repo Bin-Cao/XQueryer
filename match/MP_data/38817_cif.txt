@@ -1,0 +1,2 @@
+I2Lu2O
+Atoms(symbols='Lu2I2O', pbc=False)

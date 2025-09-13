@@ -1,0 +1,2 @@
+Ge3Pt3Sm2
+Atoms(symbols='Sm2Ge3Pt3', pbc=False)

@@ -1,0 +1,2 @@
+GaGe2S24V12
+Atoms(symbols='V12GaGe2S24', pbc=False)

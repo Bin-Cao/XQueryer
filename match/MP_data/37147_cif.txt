@@ -1,0 +1,2 @@
+N16O68Th4
+Atoms(symbols='N16O68Th4', pbc=False)

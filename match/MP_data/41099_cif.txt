@@ -1,0 +1,2 @@
+H40Al4Mn2O32P4
+Atoms(symbols='H40Al4Mn2O32P4', pbc=False)

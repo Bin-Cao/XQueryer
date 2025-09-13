@@ -1,0 +1,2 @@
+Ta2W2
+Atoms(symbols='TaWTaW', pbc=False)

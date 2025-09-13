@@ -1,0 +1,2 @@
+Mo4S8
+Atoms(symbols='Mo4S8', pbc=False)

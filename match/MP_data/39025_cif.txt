@@ -1,0 +1,2 @@
+ILuS
+Atoms(symbols='LuSI', pbc=False)

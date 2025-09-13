@@ -1,0 +1,2 @@
+Cs4Ho4O32W8
+Atoms(symbols='Cs2Ho2W4O16Cs2Ho2W4O16', pbc=False)

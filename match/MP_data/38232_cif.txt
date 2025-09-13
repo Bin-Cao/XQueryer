@@ -1,0 +1,2 @@
+Cu4Na2O20Se4
+Atoms(symbols='NaCu2Se2O10NaCu2Se2O10', pbc=False)

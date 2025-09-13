@@ -1,0 +1,2 @@
+F38O2Th10
+Atoms(symbols='Th10O2F38', pbc=False)

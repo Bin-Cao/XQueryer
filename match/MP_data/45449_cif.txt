@@ -1,0 +1,2 @@
+Mo2S20Ta8
+Atoms(symbols='Ta4MoS10Ta4MoS10', pbc=False)

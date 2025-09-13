@@ -1,0 +1,2 @@
+H6La2O18P6W2
+Atoms(symbols='La2P6H6W2O18', pbc=False)

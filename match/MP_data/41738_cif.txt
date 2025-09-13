@@ -1,0 +1,2 @@
+As2Cu2O18Pb4S2
+Atoms(symbols='Cu2As2Pb4S2O18', pbc=False)

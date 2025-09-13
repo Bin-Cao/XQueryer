@@ -1,0 +1,2 @@
+Ag4O24P8Tl4
+Atoms(symbols='Tl4Ag4P8O24', pbc=False)

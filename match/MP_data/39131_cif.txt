@@ -1,0 +1,2 @@
+Mn2O7PV
+Atoms(symbols='Mn2VPO7', pbc=False)

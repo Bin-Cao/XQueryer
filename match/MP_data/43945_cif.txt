@@ -1,0 +1,2 @@
+Ni2O16Te6Zn2
+Atoms(symbols='Zn2Ni2Te6O16', pbc=False)

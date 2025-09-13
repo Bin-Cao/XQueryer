@@ -1,0 +1,2 @@
+H6Cr8Li6O32P2
+Atoms(symbols='Li3Cr4PH3O16Li3Cr4PH3O16', pbc=False)

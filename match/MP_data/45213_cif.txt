@@ -1,0 +1,2 @@
+Se4TaW
+Atoms(symbols='TaWSe4', pbc=False)

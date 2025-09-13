@@ -1,0 +1,2 @@
+CaSr
+Atoms(symbols='SrCa', pbc=False)

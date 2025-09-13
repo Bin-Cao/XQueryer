@@ -1,0 +1,2 @@
+C4Er8O28
+Atoms(symbols='Er8C4O28', pbc=False)

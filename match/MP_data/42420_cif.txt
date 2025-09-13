@@ -1,0 +1,2 @@
+Cr12O22
+Atoms(symbols='Cr12O22', pbc=False)

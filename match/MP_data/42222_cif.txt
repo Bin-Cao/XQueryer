@@ -1,0 +1,2 @@
+Cl2Co2O12Se2
+Atoms(symbols='Co2Se2Cl2O12', pbc=False)

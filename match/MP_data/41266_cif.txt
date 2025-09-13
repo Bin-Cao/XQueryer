@@ -1,0 +1,2 @@
+Nd12Pb57Rh18
+Atoms(symbols='Nd12Pb57Rh18', pbc=False)

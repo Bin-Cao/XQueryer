@@ -1,0 +1,2 @@
+F20Ho4K4Li4
+Atoms(symbols='K4Li4Ho4F20', pbc=False)

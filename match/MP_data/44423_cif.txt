@@ -1,0 +1,2 @@
+Os8Si40Y18
+Atoms(symbols='Os8Si40Y18', pbc=False)

@@ -1,0 +1,2 @@
+Rh6Si10Sm4
+Atoms(symbols='Sm4Si10Rh6', pbc=False)

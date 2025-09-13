@@ -1,0 +1,2 @@
+Co5Ni5Y2
+Atoms(symbols='Y2Co5Ni5', pbc=False)

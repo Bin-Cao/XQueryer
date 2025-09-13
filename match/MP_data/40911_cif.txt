@@ -1,0 +1,2 @@
+C6Ag3InN6
+Atoms(symbols='InAg3C6N6', pbc=False)

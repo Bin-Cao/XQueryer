@@ -1,0 +1,2 @@
+Co2Gd2O8Sr2
+Atoms(symbols='SrGdCoO4SrGdCoO4', pbc=False)

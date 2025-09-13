@@ -1,0 +1,2 @@
+O80S12Tb8
+Atoms(symbols='O80S12Tb8', pbc=False)

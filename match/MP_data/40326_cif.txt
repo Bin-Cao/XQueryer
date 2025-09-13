@@ -1,0 +1,2 @@
+Ho8Mn2Si14
+Atoms(symbols='Ho4MnSi7Ho4MnSi7', pbc=False)

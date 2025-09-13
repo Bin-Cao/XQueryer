@@ -1,0 +1,2 @@
+Al16Ce12Co12
+Atoms(symbols='Ce12Al16Co12', pbc=False)

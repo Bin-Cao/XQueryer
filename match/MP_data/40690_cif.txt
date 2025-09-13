@@ -1,0 +1,2 @@
+Dy4Rh4Si4
+Atoms(symbols='Dy4Si4Rh4', pbc=False)

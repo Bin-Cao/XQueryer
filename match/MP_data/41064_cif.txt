@@ -1,0 +1,2 @@
+Cl28K2Mn2Zr12
+Atoms(symbols='K2Zr12Mn2Cl28', pbc=False)

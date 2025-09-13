@@ -1,0 +1,2 @@
+C4H22N22O6
+Atoms(symbols='H22C4N22O6', pbc=False)

@@ -1,0 +1,2 @@
+K40Tl28
+Atoms(symbols='K40Tl28', pbc=False)

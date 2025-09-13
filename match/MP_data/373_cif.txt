@@ -1,0 +1,2 @@
+AsLu
+Atoms(symbols='LuAs', pbc=False)

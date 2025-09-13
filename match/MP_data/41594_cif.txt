@@ -1,0 +1,2 @@
+Al9B12Ho3O36
+Atoms(symbols='HoAl3B4O12HoAl3B4O12HoAl3B4O12', pbc=False)

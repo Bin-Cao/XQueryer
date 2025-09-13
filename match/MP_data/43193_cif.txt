@@ -1,0 +1,2 @@
+N8V20Zr28
+Atoms(symbols='Zr14V10N4Zr14V10N4', pbc=False)

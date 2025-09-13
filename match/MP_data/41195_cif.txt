@@ -1,0 +1,2 @@
+Co36Er4Si16
+Atoms(symbols='Er2Co18Si8Er2Co18Si8', pbc=False)

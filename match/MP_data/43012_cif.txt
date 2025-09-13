@@ -1,0 +1,2 @@
+O6Te2Zn8
+Atoms(symbols='Zn4TeO3Zn4TeO3', pbc=False)

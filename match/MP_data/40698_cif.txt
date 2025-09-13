@@ -1,0 +1,2 @@
+BiCo5Ho12
+Atoms(symbols='Ho12Co5Bi', pbc=False)

@@ -1,0 +1,2 @@
+Ho4Mo8O32Rb4
+Atoms(symbols='Rb4Ho4Mo8O32', pbc=False)

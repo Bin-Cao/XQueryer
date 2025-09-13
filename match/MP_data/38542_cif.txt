@@ -1,0 +1,2 @@
+C15Nd12Os5
+Atoms(symbols='Nd12Os5C15', pbc=False)

@@ -1,0 +1,2 @@
+C54H162Cu4Li2Si24
+Atoms(symbols='C54H162Cu4Li2Si24', pbc=False)

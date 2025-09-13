@@ -1,0 +1,2 @@
+Cu4Nd8O24Sn4
+Atoms(symbols='Nd8Cu4Sn4O24', pbc=False)

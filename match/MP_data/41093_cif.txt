@@ -1,0 +1,2 @@
+C60H36N12Ni
+Atoms(symbols='C60H36N12Ni', pbc=False)

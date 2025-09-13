@@ -1,0 +1,2 @@
+Eu4In24Ni28
+Atoms(symbols='Eu2In12Ni14Eu2In12Ni14', pbc=False)

@@ -1,0 +1,2 @@
+H4Mg12Na4O40Si12
+Atoms(symbols='H4Mg12Na4O40Si12', pbc=False)

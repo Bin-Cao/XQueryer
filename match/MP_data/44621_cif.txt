@@ -1,0 +1,2 @@
+B32Th4U4
+Atoms(symbols='Th2U2B16Th2U2B16', pbc=False)

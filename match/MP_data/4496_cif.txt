@@ -1,0 +1,2 @@
+CdCoMg14
+Atoms(symbols='Mg14CdCo', pbc=False)

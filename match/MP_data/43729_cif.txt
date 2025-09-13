@@ -1,0 +1,2 @@
+Co3Ni2Y
+Atoms(symbols='YCo3Ni2', pbc=False)

@@ -1,0 +1,2 @@
+B28Er4Mo12
+Atoms(symbols='Er4B28Mo12', pbc=False)

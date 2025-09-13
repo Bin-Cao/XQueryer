@@ -1,0 +1,2 @@
+Ge16Mo8Sc12
+Atoms(symbols='Sc12Ge16Mo8', pbc=False)

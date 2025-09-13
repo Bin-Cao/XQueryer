@@ -1,0 +1,2 @@
+Cr8Ge20Ti16
+Atoms(symbols='Ti8Cr4Ge10Ti8Cr4Ge10', pbc=False)

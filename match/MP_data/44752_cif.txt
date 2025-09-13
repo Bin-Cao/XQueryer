@@ -1,0 +1,2 @@
+Co4S12Se8U8
+Atoms(symbols='U4Co2Se4S6U4Co2Se4S6', pbc=False)

@@ -1,0 +1,2 @@
+O36Ta12Ti2Tl4
+Atoms(symbols='Ta6TiTl2O18Ta6TiTl2O18', pbc=False)

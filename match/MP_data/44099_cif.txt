@@ -1,0 +1,2 @@
+Co3CuGe4U2
+Atoms(symbols='U2Co3CuGe4', pbc=False)

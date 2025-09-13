@@ -1,0 +1,2 @@
+Al2Ca2Ce2Fe4O26Si6
+Atoms(symbols='Ca2Ce2Al2Fe4Si6O26', pbc=False)

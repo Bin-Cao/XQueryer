@@ -1,0 +1,2 @@
+Co4S24Ti12
+Atoms(symbols='Ti6Co2S12Ti6Co2S12', pbc=False)

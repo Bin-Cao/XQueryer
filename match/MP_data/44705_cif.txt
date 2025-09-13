@@ -1,0 +1,2 @@
+Co9Si3Y6
+Atoms(symbols='Y2Co3SiY2Co3SiY2Co3Si', pbc=False)

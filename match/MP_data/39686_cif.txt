@@ -1,0 +1,2 @@
+Lu6N42O90
+Atoms(symbols='Lu6N42O90', pbc=False)

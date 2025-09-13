@@ -1,0 +1,2 @@
+Ga16O40Sr6Ti6
+Atoms(symbols='Ga16O40Sr6Ti6', pbc=False)

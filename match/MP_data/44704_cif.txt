@@ -1,0 +1,2 @@
+Co6Ge2Ti4
+Atoms(symbols='Ti2Co3GeTi2Co3Ge', pbc=False)

@@ -1,0 +1,2 @@
+C3Ba18N42Si18
+Atoms(symbols='C3Ba18N42Si18', pbc=False)

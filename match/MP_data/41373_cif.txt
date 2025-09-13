@@ -1,0 +1,2 @@
+Cr8Dy8O40
+Atoms(symbols='Dy8Cr8O40', pbc=False)

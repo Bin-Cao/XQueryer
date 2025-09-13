@@ -1,0 +1,2 @@
+Mo3O18V9
+Atoms(symbols='V3MoO6V3MoO6V3MoO6', pbc=False)

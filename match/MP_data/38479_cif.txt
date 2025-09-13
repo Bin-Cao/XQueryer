@@ -1,0 +1,2 @@
+HMnNd2Si2
+Atoms(symbols='Nd2MnSi2H', pbc=False)

@@ -1,0 +1,2 @@
+Se12Zr8
+Atoms(symbols='Zr4Se6Zr4Se6', pbc=False)

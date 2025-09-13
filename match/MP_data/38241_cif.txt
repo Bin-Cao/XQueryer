@@ -1,0 +1,2 @@
+B2Ni5O10Sb
+Atoms(symbols='Ni5B2SbO10', pbc=False)

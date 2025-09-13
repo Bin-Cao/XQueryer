@@ -1,0 +1,2 @@
+O12Re2Tb5
+Atoms(symbols='Tb5Re2O12', pbc=False)

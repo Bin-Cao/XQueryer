@@ -1,0 +1,2 @@
+LiSiSr
+Atoms(symbols='SrLiSi', pbc=False)

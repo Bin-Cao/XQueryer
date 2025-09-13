@@ -1,0 +1,2 @@
+Bi4O28Sn8Y4
+Atoms(symbols='Y2Sn4Bi2O14Y2Sn4Bi2O14', pbc=False)

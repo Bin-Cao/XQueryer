@@ -1,0 +1,2 @@
+H32As4Co6O32
+Atoms(symbols='H32As4Co6O32', pbc=False)

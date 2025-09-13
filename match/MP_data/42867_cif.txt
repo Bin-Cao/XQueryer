@@ -1,0 +1,2 @@
+Ba4Pt20Si48
+Atoms(symbols='Ba4Pt20Si48', pbc=False)

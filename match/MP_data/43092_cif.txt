@@ -1,0 +1,2 @@
+Ag6As4O28Te2
+Atoms(symbols='Ag6Te2As4O28', pbc=False)

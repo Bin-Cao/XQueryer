@@ -1,0 +1,2 @@
+H4Fe2Mg3O20Se6
+Atoms(symbols='Mg3Fe2H4Se6O20', pbc=False)

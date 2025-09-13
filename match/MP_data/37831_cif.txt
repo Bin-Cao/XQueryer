@@ -1,0 +1,2 @@
+C14I28O4Y32
+Atoms(symbols='C14I28O4Y32', pbc=False)

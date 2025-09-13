@@ -1,0 +1,2 @@
+Ca10Co2Pb6
+Atoms(symbols='Ca10Co2Pb6', pbc=False)

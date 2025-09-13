@@ -1,0 +1,2 @@
+C2O18Sr8Tl4
+Atoms(symbols='Sr4Tl2CO9Sr4Tl2CO9', pbc=False)

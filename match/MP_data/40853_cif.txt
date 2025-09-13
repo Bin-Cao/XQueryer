@@ -1,0 +1,2 @@
+H12Cu2N4O16S4
+Atoms(symbols='Cu2H12S4N4O16', pbc=False)

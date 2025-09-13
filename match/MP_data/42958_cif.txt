@@ -1,0 +1,2 @@
+Br24Ca4O24Zn8
+Atoms(symbols='Ca2Zn4Br12O12Ca2Zn4Br12O12', pbc=False)

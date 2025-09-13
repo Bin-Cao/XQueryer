@@ -1,0 +1,2 @@
+C32F32
+Atoms(symbols='C32F32', pbc=False)

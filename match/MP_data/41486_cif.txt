@@ -1,0 +1,2 @@
+HCe2RuSi2
+Atoms(symbols='Ce2Si2HRu', pbc=False)

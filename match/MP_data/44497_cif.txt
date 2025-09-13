@@ -1,0 +1,2 @@
+O12S20U4Y16
+Atoms(symbols='Y16U4S20O12', pbc=False)

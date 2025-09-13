@@ -1,0 +1,2 @@
+BN2Y
+Atoms(symbols='YBN2', pbc=False)

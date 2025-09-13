@@ -1,0 +1,2 @@
+Au2In6Sr2
+Atoms(symbols='SrIn3AuSrIn3Au', pbc=False)

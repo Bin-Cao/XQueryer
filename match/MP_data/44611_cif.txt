@@ -1,0 +1,2 @@
+AgCuTi4
+Atoms(symbols='Ti4CuAg', pbc=False)

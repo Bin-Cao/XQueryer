@@ -1,0 +1,2 @@
+C18Br6O24Y2
+Atoms(symbols='Y2C18Br6O24', pbc=False)

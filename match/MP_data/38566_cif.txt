@@ -1,0 +1,2 @@
+H24Na8O40S4Te4
+Atoms(symbols='H24Na8O40S4Te4', pbc=False)

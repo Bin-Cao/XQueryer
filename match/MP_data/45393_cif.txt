@@ -1,0 +1,2 @@
+Ga38Pt6Tb12
+Atoms(symbols='Tb6Ga19Pt3Tb6Ga19Pt3', pbc=False)

@@ -1,0 +1,2 @@
+Hg12K8Se16
+Atoms(symbols='K8Hg12Se16', pbc=False)

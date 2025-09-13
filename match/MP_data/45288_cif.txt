@@ -1,0 +1,2 @@
+C2Fe34Tb4
+Atoms(symbols='Tb2Fe17CTb2Fe17C', pbc=False)

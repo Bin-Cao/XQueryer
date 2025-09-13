@@ -1,0 +1,2 @@
+BiTl3
+Atoms(symbols='Tl3Bi', pbc=False)

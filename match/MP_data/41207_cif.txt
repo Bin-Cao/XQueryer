@@ -1,0 +1,2 @@
+Eu8O28Ta8
+Atoms(symbols='Eu4Ta4O14Eu4Ta4O14', pbc=False)

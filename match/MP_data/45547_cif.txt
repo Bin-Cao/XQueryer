@@ -1,0 +1,2 @@
+Os24Ta36
+Atoms(symbols='Ta18Os12Ta18Os12', pbc=False)

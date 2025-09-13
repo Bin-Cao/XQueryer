@@ -1,0 +1,2 @@
+Mo9O72W9Zr9
+Atoms(symbols='Mo9O72W9Zr9', pbc=False)

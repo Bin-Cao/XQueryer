@@ -1,0 +1,2 @@
+Cl20O16Pr12Ti4
+Atoms(symbols='Pr12Ti4Cl20O16', pbc=False)

@@ -1,0 +1,2 @@
+Al38Ta48
+Atoms(symbols='Al38Ta48', pbc=False)

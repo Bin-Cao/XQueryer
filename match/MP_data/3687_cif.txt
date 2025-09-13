@@ -1,0 +1,2 @@
+Ce3Os12P36
+Atoms(symbols='CeP12Os4CeP12Os4CeP12Os4', pbc=False)

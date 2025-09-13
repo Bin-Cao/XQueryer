@@ -1,0 +1,2 @@
+C28K8N16O4
+Atoms(symbols='K8C28N16O4', pbc=False)

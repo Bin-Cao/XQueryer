@@ -1,0 +1,2 @@
+H6Ni3O3S
+Atoms(symbols='Ni3H6SO3', pbc=False)

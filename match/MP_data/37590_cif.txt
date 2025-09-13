@@ -1,0 +1,2 @@
+HF13Sb2
+Atoms(symbols='Sb2HF13', pbc=False)

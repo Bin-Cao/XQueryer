@@ -1,0 +1,2 @@
+Al4Ni6Th2
+Atoms(symbols='ThAl2Ni3ThAl2Ni3', pbc=False)

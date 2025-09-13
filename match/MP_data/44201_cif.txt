@@ -1,0 +1,2 @@
+P4Ti2W2
+Atoms(symbols='TiP2WTiP2W', pbc=False)

@@ -1,0 +1,2 @@
+FeMnO6Ti2
+Atoms(symbols='Ti2MnFeO6', pbc=False)

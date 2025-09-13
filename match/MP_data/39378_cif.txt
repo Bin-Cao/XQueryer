@@ -1,0 +1,2 @@
+CuLa2OTe2
+Atoms(symbols='La2CuTe2O', pbc=False)

@@ -1,0 +1,2 @@
+H4K6O22Si10
+Atoms(symbols='K6Si10H4O22', pbc=False)

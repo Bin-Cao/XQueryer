@@ -1,0 +1,2 @@
+Co6Fe4Th2
+Atoms(symbols='ThFe2Co3ThFe2Co3', pbc=False)

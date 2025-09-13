@@ -1,0 +1,2 @@
+S14U2Y8
+Atoms(symbols='Y4US7Y4US7', pbc=False)

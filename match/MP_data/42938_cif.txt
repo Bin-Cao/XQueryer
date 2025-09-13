@@ -1,0 +1,2 @@
+As4Ti6Zr2
+Atoms(symbols='ZrTi3As2ZrTi3As2', pbc=False)

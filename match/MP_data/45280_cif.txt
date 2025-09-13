@@ -1,0 +1,2 @@
+Cu12In12Tb2
+Atoms(symbols='TbIn6Cu6TbIn6Cu6', pbc=False)

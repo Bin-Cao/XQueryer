@@ -1,0 +1,2 @@
+GaSiSr
+Atoms(symbols='SrGaSi', pbc=False)

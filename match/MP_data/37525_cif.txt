@@ -1,0 +1,2 @@
+OP2Pr2Zn
+Atoms(symbols='Pr2ZnP2O', pbc=False)

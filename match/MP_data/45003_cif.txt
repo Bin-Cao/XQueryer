@@ -1,0 +1,2 @@
+Cu3S24Zr12
+Atoms(symbols='Zr4CuS8Zr4CuS8Zr4CuS8', pbc=False)

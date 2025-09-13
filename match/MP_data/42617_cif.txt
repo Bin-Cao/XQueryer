@@ -1,0 +1,2 @@
+Ga2Ge2Si2V18
+Atoms(symbols='V18Ga2Si2Ge2', pbc=False)

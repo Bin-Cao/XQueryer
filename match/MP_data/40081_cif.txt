@@ -1,0 +1,2 @@
+C6Na2O21Sr3Zr
+Atoms(symbols='Na2Sr3ZrC6O21', pbc=False)

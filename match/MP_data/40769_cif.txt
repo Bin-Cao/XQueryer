@@ -1,0 +1,2 @@
+Br16Co4K8
+Atoms(symbols='K8Co4Br16', pbc=False)

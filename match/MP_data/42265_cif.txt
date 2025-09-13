@@ -1,0 +1,2 @@
+N2ThY
+Atoms(symbols='YThN2', pbc=False)

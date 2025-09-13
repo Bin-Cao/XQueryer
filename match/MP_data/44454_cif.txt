@@ -1,0 +1,2 @@
+OsReTi2
+Atoms(symbols='Ti2ReOs', pbc=False)

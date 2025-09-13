@@ -1,0 +1,2 @@
+O15Pb5Ti3Zr2
+Atoms(symbols='Zr2Ti3Pb5O15', pbc=False)

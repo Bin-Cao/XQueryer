@@ -1,0 +1,2 @@
+Er2O36Si4Ti8Y6
+Atoms(symbols='Y6Er2Ti8Si4O36', pbc=False)

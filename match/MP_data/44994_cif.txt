@@ -1,0 +1,2 @@
+C2N2O8P2U
+Atoms(symbols='UP2C2N2O8', pbc=False)

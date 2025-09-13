@@ -1,0 +1,2 @@
+Au3Cu12Ho3
+Atoms(symbols='HoCu4AuHoCu4AuHoCu4Au', pbc=False)

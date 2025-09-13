@@ -1,0 +1,2 @@
+F60Tb8
+Atoms(symbols='F60Tb8', pbc=False)

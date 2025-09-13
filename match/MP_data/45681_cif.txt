@@ -1,0 +1,2 @@
+Pd12Sn2Te4
+Atoms(symbols='SnTe2Pd6SnTe2Pd6', pbc=False)

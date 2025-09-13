@@ -1,0 +1,2 @@
+Mn3Si12Ti3
+Atoms(symbols='Ti3Mn3Si12', pbc=False)

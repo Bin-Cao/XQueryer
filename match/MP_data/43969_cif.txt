@@ -1,0 +1,2 @@
+Cr3F6Hg
+Atoms(symbols='Cr3HgF6', pbc=False)

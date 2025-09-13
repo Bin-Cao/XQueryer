@@ -1,0 +1,2 @@
+C8Er4K4O24
+Atoms(symbols='K2Er2C4O12K2Er2C4O12', pbc=False)

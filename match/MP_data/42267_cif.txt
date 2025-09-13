@@ -1,0 +1,2 @@
+H8Fe8O40Se12
+Atoms(symbols='H8Fe8O40Se12', pbc=False)

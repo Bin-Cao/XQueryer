@@ -1,0 +1,2 @@
+N2ThU
+Atoms(symbols='ThUN2', pbc=False)

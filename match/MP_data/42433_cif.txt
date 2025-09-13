@@ -1,0 +1,2 @@
+C4H24Cl4Cr4N12O12
+Atoms(symbols='Cr4H24C4N12Cl4O12', pbc=False)

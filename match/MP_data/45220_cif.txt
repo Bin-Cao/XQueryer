@@ -1,0 +1,2 @@
+In6Sr2Zn2
+Atoms(symbols='SrZnIn3SrZnIn3', pbc=False)

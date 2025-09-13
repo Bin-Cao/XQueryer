@@ -1,0 +1,2 @@
+Sn12Ti12Zr8
+Atoms(symbols='Zr4Ti6Sn6Zr4Ti6Sn6', pbc=False)

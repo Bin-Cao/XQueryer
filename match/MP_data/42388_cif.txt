@@ -1,0 +1,2 @@
+CrNO8S2
+Atoms(symbols='CrS2NO8', pbc=False)

@@ -1,0 +1,2 @@
+Bi16Br4O32Ti2W2
+Atoms(symbols='TiBi8WBr2O16TiBi8WBr2O16', pbc=False)

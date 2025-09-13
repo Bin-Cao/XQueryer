@@ -1,0 +1,2 @@
+Br4O8Pb6Te2
+Atoms(symbols='TePb3Br2O4TePb3Br2O4', pbc=False)

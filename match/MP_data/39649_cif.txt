@@ -1,0 +1,2 @@
+K2Mo4O16Pr2
+Atoms(symbols='K2Pr2Mo4O16', pbc=False)

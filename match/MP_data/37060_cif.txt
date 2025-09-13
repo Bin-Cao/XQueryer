@@ -1,0 +1,2 @@
+Cu4Ge8O32Tb8
+Atoms(symbols='Tb4Cu2Ge4O16Tb4Cu2Ge4O16', pbc=False)

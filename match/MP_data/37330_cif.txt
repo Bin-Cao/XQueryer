@@ -1,0 +1,2 @@
+O56V20
+Atoms(symbols='O56V20', pbc=False)

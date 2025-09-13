@@ -1,0 +1,2 @@
+Ca2O24Sr6Ti8
+Atoms(symbols='Sr3CaTi4O12Sr3CaTi4O12', pbc=False)

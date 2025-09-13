@@ -1,0 +1,2 @@
+Mn2N12O52Th2
+Atoms(symbols='Mn2N12O52Th2', pbc=False)

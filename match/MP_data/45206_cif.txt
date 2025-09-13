@@ -1,0 +1,2 @@
+Fe4HoTb
+Atoms(symbols='TbHoFe4', pbc=False)

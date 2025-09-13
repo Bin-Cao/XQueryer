@@ -1,0 +1,2 @@
+N6O24Se6
+Atoms(symbols='Se3N3O12Se3N3O12', pbc=False)

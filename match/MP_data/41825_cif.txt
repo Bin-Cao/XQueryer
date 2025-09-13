@@ -1,0 +1,2 @@
+H4Fe7K2NaO31Si8Ti2
+Atoms(symbols='K2NaTi2Fe7Si8H4O31', pbc=False)

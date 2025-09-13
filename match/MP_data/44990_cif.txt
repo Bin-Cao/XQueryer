@@ -1,0 +1,2 @@
+CuTb2Zn
+Atoms(symbols='Tb2ZnCu', pbc=False)

@@ -1,0 +1,2 @@
+Cl6O16Th2
+Atoms(symbols='Th2Cl6O16', pbc=False)

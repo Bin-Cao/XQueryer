@@ -1,0 +1,2 @@
+BaCaMg14
+Atoms(symbols='BaCaMg14', pbc=False)

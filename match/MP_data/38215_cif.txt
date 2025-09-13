@@ -1,0 +1,2 @@
+Cd4Ni4Sm16
+Atoms(symbols='Sm16Cd4Ni4', pbc=False)

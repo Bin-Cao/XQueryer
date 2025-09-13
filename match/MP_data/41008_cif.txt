@@ -1,0 +1,2 @@
+H4Hg16N4O28P4
+Atoms(symbols='Hg16P4H4N4O28', pbc=False)

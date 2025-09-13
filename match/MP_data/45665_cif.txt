@@ -1,0 +1,2 @@
+O42P4Pb9Si2Te3Zn9
+Atoms(symbols='O42P4Pb9Si2Te3Zn9', pbc=False)

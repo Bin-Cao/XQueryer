@@ -1,0 +1,2 @@
+Er4Mn8O12
+Atoms(symbols='Er4Mn8O12', pbc=False)

@@ -1,0 +1,2 @@
+In2S16Ti10
+Atoms(symbols='Ti5InS8Ti5InS8', pbc=False)

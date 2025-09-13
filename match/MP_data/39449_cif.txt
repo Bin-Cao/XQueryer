@@ -1,0 +1,2 @@
+Ge14La8
+Atoms(symbols='La8Ge14', pbc=False)

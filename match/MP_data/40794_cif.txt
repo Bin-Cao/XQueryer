@@ -1,0 +1,2 @@
+Cs2La2W4
+Atoms(symbols='CsLaW2CsLaW2', pbc=False)

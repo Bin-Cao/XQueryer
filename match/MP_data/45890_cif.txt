@@ -1,0 +1,2 @@
+Co2O14Sr6Ta2
+Atoms(symbols='Sr6Ta2Co2O14', pbc=False)

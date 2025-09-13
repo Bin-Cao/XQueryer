@@ -1,0 +1,2 @@
+Co2I8Tl4
+Atoms(symbols='Tl4Co2I8', pbc=False)

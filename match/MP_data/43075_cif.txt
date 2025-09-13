@@ -1,0 +1,2 @@
+Co4NiZr5
+Atoms(symbols='Zr5Co4Ni', pbc=False)

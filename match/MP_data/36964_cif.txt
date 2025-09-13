@@ -1,0 +1,2 @@
+Cd4O24Ta8
+Atoms(symbols='Ta8Cd4O24', pbc=False)

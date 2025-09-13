@@ -1,0 +1,2 @@
+Hf4N4Se2
+Atoms(symbols='Hf2SeN2Hf2SeN2', pbc=False)

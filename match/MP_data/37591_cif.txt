@@ -1,0 +1,2 @@
+As24Bi18Cl78Hg48
+Atoms(symbols='As24Bi18Cl78Hg48', pbc=False)

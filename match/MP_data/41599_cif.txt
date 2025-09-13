@@ -1,0 +1,2 @@
+Ce8Ga36Rh12
+Atoms(symbols='Ce4Ga18Rh6Ce4Ga18Rh6', pbc=False)

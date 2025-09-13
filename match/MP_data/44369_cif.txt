@@ -1,0 +1,2 @@
+PdSi3U2
+Atoms(symbols='U2Si3Pd', pbc=False)

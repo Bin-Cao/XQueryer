@@ -1,0 +1,2 @@
+Cd8P16
+Atoms(symbols='Cd8P16', pbc=False)

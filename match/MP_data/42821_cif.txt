@@ -1,0 +1,2 @@
+Fe2Ni2Zr8
+Atoms(symbols='Zr4FeNiZr4FeNi', pbc=False)

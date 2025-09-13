@@ -1,0 +1,2 @@
+K4Pb2Sb18Se30
+Atoms(symbols='K4Sb18Pb2Se30', pbc=False)

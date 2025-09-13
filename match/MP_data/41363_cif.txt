@@ -1,0 +1,2 @@
+Cu4Fe2O16S4
+Atoms(symbols='Fe2Cu4S4O16', pbc=False)

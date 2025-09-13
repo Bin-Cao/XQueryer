@@ -1,0 +1,2 @@
+Al8Fe12O36
+Atoms(symbols='Al4Fe6O18Al4Fe6O18', pbc=False)

@@ -1,0 +1,2 @@
+AlCu2Sc
+Atoms(symbols='ScAlCu2', pbc=False)

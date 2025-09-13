@@ -1,0 +1,2 @@
+Mo8SiZr3
+Atoms(symbols='Zr3SiMo8', pbc=False)

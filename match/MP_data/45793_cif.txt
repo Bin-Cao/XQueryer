@@ -1,0 +1,2 @@
+Cl4O12Se4Sr6
+Atoms(symbols='Sr3Se2Cl2O6Sr3Se2Cl2O6', pbc=False)

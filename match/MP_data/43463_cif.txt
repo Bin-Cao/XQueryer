@@ -1,0 +1,2 @@
+C8Ho3Y
+Atoms(symbols='YHo3C8', pbc=False)

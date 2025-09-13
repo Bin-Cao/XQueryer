@@ -1,0 +1,2 @@
+Cr8Lu6O32Y2
+Atoms(symbols='YLu3Cr4O16YLu3Cr4O16', pbc=False)

@@ -1,0 +1,2 @@
+C12Co2N12O10Sm2
+Atoms(symbols='Sm2Co2C12N12O10', pbc=False)

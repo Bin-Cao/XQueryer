@@ -1,0 +1,2 @@
+Ga56V48
+Atoms(symbols='Ga56V48', pbc=False)

@@ -1,0 +1,2 @@
+Mg14SbV
+Atoms(symbols='Mg14VSb', pbc=False)

@@ -1,0 +1,2 @@
+Na20O24Pr4
+Atoms(symbols='Na10Pr2O12Na10Pr2O12', pbc=False)

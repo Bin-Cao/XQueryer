@@ -1,0 +1,2 @@
+Mg6NaO8Si
+Atoms(symbols='NaMg6SiO8', pbc=False)

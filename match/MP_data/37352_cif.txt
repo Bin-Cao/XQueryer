@@ -1,0 +1,2 @@
+Au40Zn24
+Atoms(symbols='Au40Zn24', pbc=False)

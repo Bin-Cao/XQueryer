@@ -1,0 +1,2 @@
+AlGaTb
+Atoms(symbols='TbAlGa', pbc=False)

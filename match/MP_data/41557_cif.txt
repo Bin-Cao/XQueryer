@@ -1,0 +1,2 @@
+K24Mo6O30
+Atoms(symbols='K24Mo6O30', pbc=False)

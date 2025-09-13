@@ -1,0 +1,2 @@
+MoRe2Si8W
+Atoms(symbols='Re2Si8MoW', pbc=False)

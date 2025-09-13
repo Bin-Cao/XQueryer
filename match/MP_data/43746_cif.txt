@@ -1,0 +1,2 @@
+Co2Cu2Si4U2
+Atoms(symbols='UCoCuSi2UCoCuSi2', pbc=False)

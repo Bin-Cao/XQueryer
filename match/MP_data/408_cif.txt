@@ -1,0 +1,2 @@
+CrN
+Atoms(symbols='CrN', pbc=False)

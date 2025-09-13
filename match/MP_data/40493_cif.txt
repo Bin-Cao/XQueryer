@@ -1,0 +1,2 @@
+B24Fe18Ho6O72
+Atoms(symbols='B24Fe18Ho6O72', pbc=False)

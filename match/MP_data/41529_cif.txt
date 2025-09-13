@@ -1,0 +1,2 @@
+B4Cr4Ni8O20
+Atoms(symbols='Cr4Ni8B4O20', pbc=False)

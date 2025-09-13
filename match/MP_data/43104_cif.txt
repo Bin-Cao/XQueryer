@@ -1,0 +1,2 @@
+Al4Si2Zr2
+Atoms(symbols='ZrAl2SiZrAl2Si', pbc=False)

@@ -1,0 +1,2 @@
+Nd12Ni4Sn2
+Atoms(symbols='Nd12Ni4Sn2', pbc=False)

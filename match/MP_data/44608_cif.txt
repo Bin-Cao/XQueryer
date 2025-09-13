@@ -1,0 +1,2 @@
+NiTc
+Atoms(symbols='TcNi', pbc=False)

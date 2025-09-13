@@ -1,0 +1,2 @@
+Gd4Li12N24O72
+Atoms(symbols='Gd4Li12N24O72', pbc=False)

@@ -1,0 +1,2 @@
+Er6Ni20P13
+Atoms(symbols='Er6Ni20P13', pbc=False)

@@ -1,0 +1,2 @@
+InS8V6
+Atoms(symbols='V6InS8', pbc=False)

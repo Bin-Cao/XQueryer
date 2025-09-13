@@ -1,0 +1,2 @@
+Mo2O8Ti2
+Atoms(symbols='TiMoO4TiMoO4', pbc=False)

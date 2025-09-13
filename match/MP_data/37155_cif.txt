@@ -1,0 +1,2 @@
+Dy2Te3
+Atoms(symbols='Dy2Te3', pbc=False)

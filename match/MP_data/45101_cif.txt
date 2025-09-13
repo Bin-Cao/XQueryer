@@ -1,0 +1,2 @@
+MoNi6Ta
+Atoms(symbols='TaNi6Mo', pbc=False)

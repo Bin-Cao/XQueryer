@@ -1,0 +1,2 @@
+H2Cd4Hg4O20Se4
+Atoms(symbols='Cd4Hg4H2Se4O20', pbc=False)

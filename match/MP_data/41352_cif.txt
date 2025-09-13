@@ -1,0 +1,2 @@
+B6Dy10O26
+Atoms(symbols='Dy10B6O26', pbc=False)

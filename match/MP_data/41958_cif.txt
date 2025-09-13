@@ -1,0 +1,2 @@
+As7Ca5Ni9
+Atoms(symbols='Ca5Ni9As7', pbc=False)

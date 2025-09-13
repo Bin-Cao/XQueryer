@@ -1,0 +1,2 @@
+C20H60Cl4O12S10Ti2
+Atoms(symbols='C20H60Cl4O12S10Ti2', pbc=False)

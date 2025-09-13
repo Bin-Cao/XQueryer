@@ -1,0 +1,2 @@
+BiCo5Dy12
+Atoms(symbols='Dy12Co5Bi', pbc=False)

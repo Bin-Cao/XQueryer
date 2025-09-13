@@ -1,0 +1,2 @@
+P2SU3
+Atoms(symbols='U3P2S', pbc=False)

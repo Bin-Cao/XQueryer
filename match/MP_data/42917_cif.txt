@@ -1,0 +1,2 @@
+Co4Ga11Zn
+Atoms(symbols='ZnGa11Co4', pbc=False)

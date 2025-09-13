@@ -1,0 +1,2 @@
+Ge16Li4Lu16
+Atoms(symbols='Li4Lu16Ge16', pbc=False)

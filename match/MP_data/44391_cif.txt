@@ -1,0 +1,2 @@
+Fe9O32P8Zn3
+Atoms(symbols='Zn3Fe9P8O32', pbc=False)

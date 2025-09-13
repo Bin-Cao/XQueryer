@@ -1,0 +1,2 @@
+KLuMo2O8
+Atoms(symbols='KLuMo2O8', pbc=False)

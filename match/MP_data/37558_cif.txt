@@ -1,0 +1,2 @@
+Ca4O18Sr2Te6
+Atoms(symbols='Sr2Ca4Te6O18', pbc=False)

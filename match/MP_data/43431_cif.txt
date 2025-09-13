@@ -1,0 +1,2 @@
+As4O16Pb2
+Atoms(symbols='As4Pb2O16', pbc=False)

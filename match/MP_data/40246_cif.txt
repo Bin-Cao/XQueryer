@@ -1,0 +1,2 @@
+Co8Ho24Sn4
+Atoms(symbols='Ho12Co4Sn2Ho12Co4Sn2', pbc=False)

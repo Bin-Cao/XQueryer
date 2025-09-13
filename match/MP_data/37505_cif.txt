@@ -1,0 +1,2 @@
+Br2O8Pb2Re2
+Atoms(symbols='Re2Pb2Br2O8', pbc=False)

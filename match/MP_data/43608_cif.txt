@@ -1,0 +1,2 @@
+C4Fe68Y8
+Atoms(symbols='C4Fe68Y8', pbc=False)

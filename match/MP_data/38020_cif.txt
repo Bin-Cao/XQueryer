@@ -1,0 +1,2 @@
+Cl52Ga14Sb14Te16
+Atoms(symbols='Cl52Ga14Sb14Te16', pbc=False)

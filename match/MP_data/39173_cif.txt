@@ -1,0 +1,2 @@
+Cd12Cl4N4Na8O56P16
+Atoms(symbols='Cd12Cl4N4Na8O56P16', pbc=False)

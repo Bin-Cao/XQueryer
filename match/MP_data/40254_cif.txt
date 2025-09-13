@@ -1,0 +1,2 @@
+Al16K16Se32
+Atoms(symbols='Al16K16Se32', pbc=False)

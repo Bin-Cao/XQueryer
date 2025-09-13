@@ -1,0 +1,2 @@
+Co6Dy7Sn23
+Atoms(symbols='Dy7Co6Sn23', pbc=False)

@@ -1,0 +1,2 @@
+InNd12Ni6
+Atoms(symbols='Nd12InNi6', pbc=False)

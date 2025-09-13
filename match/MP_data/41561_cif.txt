@@ -1,0 +1,2 @@
+Cs4Mo8Nd4O32
+Atoms(symbols='Cs2Nd2Mo4O16Cs2Nd2Mo4O16', pbc=False)

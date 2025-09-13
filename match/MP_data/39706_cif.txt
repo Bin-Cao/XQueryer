@@ -1,0 +1,2 @@
+Ho4K4Mo8O32
+Atoms(symbols='K2Ho2Mo4O16K2Ho2Mo4O16', pbc=False)

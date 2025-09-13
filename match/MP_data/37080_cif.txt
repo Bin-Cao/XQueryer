@@ -1,0 +1,2 @@
+Mo2Se16Si4Ta20
+Atoms(symbols='Ta20Si4Mo2Se16', pbc=False)

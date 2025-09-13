@@ -1,0 +1,2 @@
+H4CsLiO3SW2
+Atoms(symbols='CsLiH4W2SO3', pbc=False)

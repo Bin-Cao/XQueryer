@@ -1,0 +1,2 @@
+Ru2Ta2
+Atoms(symbols='TaRuTaRu', pbc=False)

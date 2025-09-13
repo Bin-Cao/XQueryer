@@ -1,0 +1,2 @@
+Nd8O20Ru4
+Atoms(symbols='Nd8Ru4O20', pbc=False)

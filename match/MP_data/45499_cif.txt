@@ -1,0 +1,2 @@
+MnO6SrTe
+Atoms(symbols='SrMnTeO6', pbc=False)

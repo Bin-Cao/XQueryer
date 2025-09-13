@@ -1,0 +1,2 @@
+FeLaMg14
+Atoms(symbols='LaMg14Fe', pbc=False)

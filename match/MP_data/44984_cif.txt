@@ -1,0 +1,2 @@
+C2Fe22Tb2Ti2
+Atoms(symbols='TbTiFe11CTbTiFe11C', pbc=False)

@@ -1,0 +1,2 @@
+O62P12Rb12V12
+Atoms(symbols='O62P12Rb12V12', pbc=False)

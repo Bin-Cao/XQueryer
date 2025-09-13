@@ -1,0 +1,2 @@
+Al3B8Ga3O24Y2
+Atoms(symbols='Y2Al3Ga3B8O24', pbc=False)

@@ -1,0 +1,2 @@
+CaCu6Hg2O20Sr6TiY2
+Atoms(symbols='Sr6CaY2TiCu6Hg2O20', pbc=False)

@@ -1,0 +1,2 @@
+Sn2Tc6
+Atoms(symbols='Tc3SnTc3Sn', pbc=False)

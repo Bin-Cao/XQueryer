@@ -1,0 +1,2 @@
+Ge57Rh18Sc12
+Atoms(symbols='Ge57Rh18Sc12', pbc=False)

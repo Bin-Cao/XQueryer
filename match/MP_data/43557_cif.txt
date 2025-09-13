@@ -1,0 +1,2 @@
+Ba8Cl28Dy4
+Atoms(symbols='Ba8Dy4Cl28', pbc=False)

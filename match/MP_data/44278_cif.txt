@@ -1,0 +1,2 @@
+Cu6Ni6Sb16U12
+Atoms(symbols='U6Cu3Ni3Sb8U6Cu3Ni3Sb8', pbc=False)

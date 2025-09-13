@@ -1,0 +1,2 @@
+Fe2Nd2O8Sr2
+Atoms(symbols='SrNdFeO4SrNdFeO4', pbc=False)

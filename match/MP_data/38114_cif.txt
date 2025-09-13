@@ -1,0 +1,2 @@
+B2Nd2Pt8
+Atoms(symbols='Nd2B2Pt8', pbc=False)

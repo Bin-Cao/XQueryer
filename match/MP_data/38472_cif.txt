@@ -1,0 +1,2 @@
+In8Nd10Pt4
+Atoms(symbols='Nd10In8Pt4', pbc=False)

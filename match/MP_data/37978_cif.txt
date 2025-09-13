@@ -1,0 +1,2 @@
+Ga4Ge8O28Pr4
+Atoms(symbols='Pr4Ga4Ge8O28', pbc=False)

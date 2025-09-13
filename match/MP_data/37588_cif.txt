@@ -1,0 +1,2 @@
+Au3Ga3Sr2
+Atoms(symbols='Sr2Ga3Au3', pbc=False)

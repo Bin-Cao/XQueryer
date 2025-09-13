@@ -1,0 +1,2 @@
+Al4Fe4Y4
+Atoms(symbols='Y4Al4Fe4', pbc=False)

@@ -1,0 +1,2 @@
+Cr2Se4V2
+Atoms(symbols='VCrSe2VCrSe2', pbc=False)

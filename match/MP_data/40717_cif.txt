@@ -1,0 +1,2 @@
+Li28Mg32Zn36
+Atoms(symbols='Li28Mg32Zn36', pbc=False)

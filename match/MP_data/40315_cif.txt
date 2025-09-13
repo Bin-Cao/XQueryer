@@ -1,0 +1,2 @@
+GaPd
+Atoms(symbols='GaPd', pbc=False)

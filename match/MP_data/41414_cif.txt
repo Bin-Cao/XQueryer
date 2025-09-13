@@ -1,0 +1,2 @@
+C6F18Ho2O36S6
+Atoms(symbols='C6F18Ho2O36S6', pbc=False)

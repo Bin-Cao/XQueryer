@@ -1,0 +1,2 @@
+Al4Cl16Rb4
+Atoms(symbols='Rb4Al4Cl16', pbc=False)

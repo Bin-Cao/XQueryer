@@ -1,0 +1,2 @@
+As4Co4Ta4
+Atoms(symbols='Ta4Co4As4', pbc=False)

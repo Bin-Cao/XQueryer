@@ -1,0 +1,2 @@
+C4Al4K4O20
+Atoms(symbols='K2Al2C2O10K2Al2C2O10', pbc=False)

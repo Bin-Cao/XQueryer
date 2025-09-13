@@ -1,0 +1,2 @@
+Cr4Fe2N2O20
+Atoms(symbols='Cr2FeNO10Cr2FeNO10', pbc=False)

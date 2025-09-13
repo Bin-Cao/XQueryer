@@ -1,0 +1,2 @@
+Co4In2Y12
+Atoms(symbols='Y12In2Co4', pbc=False)

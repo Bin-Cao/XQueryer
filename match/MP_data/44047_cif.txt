@@ -1,0 +1,2 @@
+Fe3Ga4V9
+Atoms(symbols='V9Ga4Fe3', pbc=False)

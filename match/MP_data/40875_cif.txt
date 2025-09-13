@@ -1,0 +1,2 @@
+Ag2Fe2Mo4O16
+Atoms(symbols='Fe2Ag2Mo4O16', pbc=False)

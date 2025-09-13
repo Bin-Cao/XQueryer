@@ -1,0 +1,2 @@
+Hf2S2Si
+Atoms(symbols='Hf2SiS2', pbc=False)

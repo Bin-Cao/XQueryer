@@ -1,0 +1,2 @@
+HAs4Cl2N2O6
+Atoms(symbols='As4HN2Cl2O6', pbc=False)

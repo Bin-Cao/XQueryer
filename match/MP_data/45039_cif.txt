@@ -1,0 +1,2 @@
+Co8Ta8V8
+Atoms(symbols='Ta4V4Co4Ta4V4Co4', pbc=False)

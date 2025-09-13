@@ -1,0 +1,2 @@
+H16Al4N8Rb8
+Atoms(symbols='Rb8Al4H16N8', pbc=False)

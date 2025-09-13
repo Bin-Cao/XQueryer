@@ -1,0 +1,2 @@
+Cu12O32Se4
+Atoms(symbols='Cu12Se4O32', pbc=False)

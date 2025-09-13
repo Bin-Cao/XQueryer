@@ -1,0 +1,2 @@
+P20Zn14
+Atoms(symbols='Zn14P20', pbc=False)

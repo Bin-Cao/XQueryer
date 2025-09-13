@@ -1,0 +1,2 @@
+OsV
+Atoms(symbols='VOs', pbc=False)

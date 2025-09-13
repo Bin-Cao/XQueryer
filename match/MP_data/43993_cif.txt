@@ -1,0 +1,2 @@
+GaSiV6
+Atoms(symbols='V6GaSi', pbc=False)

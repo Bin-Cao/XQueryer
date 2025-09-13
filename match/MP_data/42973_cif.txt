@@ -1,0 +1,2 @@
+Dy6N8O33
+Atoms(symbols='Dy6N8O33', pbc=False)

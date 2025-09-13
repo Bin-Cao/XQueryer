@@ -1,0 +1,2 @@
+Ba6O10Ti2
+Atoms(symbols='Ba6Ti2O10', pbc=False)

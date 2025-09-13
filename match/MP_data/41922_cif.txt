@@ -1,0 +1,2 @@
+Al24Dy6Os8
+Atoms(symbols='Dy6Al24Os8', pbc=False)

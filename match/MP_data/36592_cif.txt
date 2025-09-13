@@ -1,0 +1,2 @@
+Ag2F40Hg6Zr6
+Atoms(symbols='Zr6Ag2Hg6F40', pbc=False)

@@ -1,0 +1,2 @@
+Nb12O42Ti6
+Atoms(symbols='Ti3Nb6O21Ti3Nb6O21', pbc=False)

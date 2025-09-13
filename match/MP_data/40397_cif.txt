@@ -1,0 +1,2 @@
+Ho4Mn2Ni2O12
+Atoms(symbols='Ho4Mn2Ni2O12', pbc=False)

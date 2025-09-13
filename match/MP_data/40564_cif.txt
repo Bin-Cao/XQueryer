@@ -1,0 +1,2 @@
+B20Ho4Mg4O40
+Atoms(symbols='B20Ho4Mg4O40', pbc=False)

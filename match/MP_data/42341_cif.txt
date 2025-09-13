@@ -1,0 +1,2 @@
+K8Ni12S8
+Atoms(symbols='K8Ni12S8', pbc=False)

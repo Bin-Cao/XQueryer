@@ -1,0 +1,2 @@
+Ag4Mn2Se8Si2
+Atoms(symbols='Mn2Si2Ag4Se8', pbc=False)

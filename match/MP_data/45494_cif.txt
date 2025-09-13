@@ -1,0 +1,2 @@
+CuTe12U4
+Atoms(symbols='U4CuTe12', pbc=False)

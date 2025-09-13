@@ -1,0 +1,2 @@
+Cl48K18O18Tc12
+Atoms(symbols='Cl48K18O18Tc12', pbc=False)

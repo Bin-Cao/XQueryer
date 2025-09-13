@@ -1,0 +1,2 @@
+GaSi3Sr4
+Atoms(symbols='Sr4GaSi3', pbc=False)

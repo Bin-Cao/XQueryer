@@ -1,0 +1,2 @@
+Bi8Fe8O30Sr2Ti2
+Atoms(symbols='SrTiFe4Bi4O15SrTiFe4Bi4O15', pbc=False)

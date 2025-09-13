@@ -1,0 +1,2 @@
+Pd16Pr12Sn24
+Atoms(symbols='Pr12Sn24Pd16', pbc=False)

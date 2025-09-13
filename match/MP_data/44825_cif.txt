@@ -1,0 +1,2 @@
+Al2Co8Tb2
+Atoms(symbols='TbAlCo4TbAlCo4', pbc=False)

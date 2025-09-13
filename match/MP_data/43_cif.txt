@@ -1,0 +1,2 @@
+CLa
+Atoms(symbols='LaC', pbc=False)

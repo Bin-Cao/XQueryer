@@ -1,0 +1,2 @@
+Ga40Sc44
+Atoms(symbols='Ga40Sc44', pbc=False)

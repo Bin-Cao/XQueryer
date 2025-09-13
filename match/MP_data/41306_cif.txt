@@ -1,0 +1,2 @@
+Cu20Er4Sn4
+Atoms(symbols='Er4Cu20Sn4', pbc=False)

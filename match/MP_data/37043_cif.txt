@@ -1,0 +1,2 @@
+Cl24N4Ta4
+Atoms(symbols='Ta2N2Cl12Ta2N2Cl12', pbc=False)

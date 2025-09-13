@@ -1,0 +1,2 @@
+H2Al2Ca2F4Na2O10P2
+Atoms(symbols='Na2Ca2Al2P2H2O10F4', pbc=False)

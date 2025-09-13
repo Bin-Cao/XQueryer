@@ -1,0 +1,2 @@
+Cl2Cr6O24Pb10
+Atoms(symbols='Cr6Pb10Cl2O24', pbc=False)

@@ -1,0 +1,2 @@
+SiTbZn
+Atoms(symbols='TbZnSi', pbc=False)

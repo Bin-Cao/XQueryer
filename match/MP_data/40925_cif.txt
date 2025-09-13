@@ -1,0 +1,2 @@
+Al40Er4Fe8
+Atoms(symbols='Er2Al20Fe4Er2Al20Fe4', pbc=False)

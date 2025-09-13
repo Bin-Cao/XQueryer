@@ -1,0 +1,2 @@
+Al9Co8Ti13
+Atoms(symbols='Ti13Al9Co8', pbc=False)

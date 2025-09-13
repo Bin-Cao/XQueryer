@@ -1,0 +1,2 @@
+O17P4Zr2
+Atoms(symbols='Zr2P4O17', pbc=False)

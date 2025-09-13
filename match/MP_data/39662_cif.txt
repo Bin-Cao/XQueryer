@@ -1,0 +1,2 @@
+CuNa2Te2
+Atoms(symbols='Na2CuTe2', pbc=False)

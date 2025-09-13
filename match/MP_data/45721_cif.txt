@@ -1,0 +1,2 @@
+H9Br13O4Te3
+Atoms(symbols='Te3H9Br13O4', pbc=False)

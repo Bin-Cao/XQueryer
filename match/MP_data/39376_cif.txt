@@ -1,0 +1,2 @@
+C72Bi4O72Ru20
+Atoms(symbols='C72Bi4O72Ru20', pbc=False)

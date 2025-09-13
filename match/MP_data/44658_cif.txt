@@ -1,0 +1,2 @@
+Sb4ThU
+Atoms(symbols='ThUSb4', pbc=False)

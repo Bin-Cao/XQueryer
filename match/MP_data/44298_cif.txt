@@ -1,0 +1,2 @@
+Al3Fe12Zr3
+Atoms(symbols='ZrAlFe4ZrAlFe4ZrAlFe4', pbc=False)

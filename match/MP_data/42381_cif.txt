@@ -1,0 +1,2 @@
+H24Ca2Cl4W12
+Atoms(symbols='CaH12W6Cl2CaH12W6Cl2', pbc=False)

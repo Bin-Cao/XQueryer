@@ -1,0 +1,2 @@
+FeNb2Se10Ta
+Atoms(symbols='TaNb2FeSe10', pbc=False)

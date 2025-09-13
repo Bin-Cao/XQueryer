@@ -1,0 +1,2 @@
+Ge4Na4O4Sb20
+Atoms(symbols='Na2Ge2Sb10O2Na2Ge2Sb10O2', pbc=False)

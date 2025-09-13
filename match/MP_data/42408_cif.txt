@@ -1,0 +1,2 @@
+Ba2CuFTe2
+Atoms(symbols='Ba2CuTe2F', pbc=False)

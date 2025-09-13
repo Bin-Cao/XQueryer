@@ -1,0 +1,2 @@
+O48Y16Zr16
+Atoms(symbols='O48Y16Zr16', pbc=False)

@@ -1,0 +1,2 @@
+Ho2Li2O16S4
+Atoms(symbols='Li2Ho2S4O16', pbc=False)

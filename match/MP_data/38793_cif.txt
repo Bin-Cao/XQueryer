@@ -1,0 +1,2 @@
+Eu4Na6Si4Te12
+Atoms(symbols='Na3Eu2Si2Te6Na3Eu2Si2Te6', pbc=False)

@@ -1,0 +1,2 @@
+GeSiSr
+Atoms(symbols='SrSiGe', pbc=False)

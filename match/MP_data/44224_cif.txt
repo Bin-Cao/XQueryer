@@ -1,0 +1,2 @@
+Cr28S40V2
+Atoms(symbols='Cr28S40V2', pbc=False)

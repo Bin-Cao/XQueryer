@@ -1,0 +1,2 @@
+Fe16Nd4Tb4
+Atoms(symbols='TbNdFe4TbNdFe4TbNdFe4TbNdFe4', pbc=False)

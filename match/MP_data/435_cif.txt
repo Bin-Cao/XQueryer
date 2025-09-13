@@ -1,0 +1,2 @@
+BiPr
+Atoms(symbols='PrBi', pbc=False)

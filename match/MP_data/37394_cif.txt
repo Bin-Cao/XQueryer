@@ -1,0 +1,2 @@
+Ge20Pd12Sm8
+Atoms(symbols='Sm4Ge10Pd6Sm4Ge10Pd6', pbc=False)

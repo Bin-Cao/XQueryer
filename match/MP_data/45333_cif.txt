@@ -1,0 +1,2 @@
+Co3Ge8Nd4
+Atoms(symbols='Nd4Co3Ge8', pbc=False)

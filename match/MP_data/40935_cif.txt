@@ -1,0 +1,2 @@
+Co30Ho6Si18
+Atoms(symbols='Ho6Co30Si18', pbc=False)

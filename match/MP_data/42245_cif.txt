@@ -1,0 +1,2 @@
+AlCu2Zr
+Atoms(symbols='ZrAlCu2', pbc=False)

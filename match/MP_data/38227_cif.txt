@@ -1,0 +1,2 @@
+N2Ni2O20P2
+Atoms(symbols='Ni2P2N2O20', pbc=False)

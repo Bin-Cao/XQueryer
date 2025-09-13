@@ -1,0 +1,2 @@
+FGaMnO5Sr2
+Atoms(symbols='Sr2MnGaO5F', pbc=False)

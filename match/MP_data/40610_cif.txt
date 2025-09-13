@@ -1,0 +1,2 @@
+Nd36Ni18Pb3
+Atoms(symbols='Nd12Ni6PbNd12Ni6PbNd12Ni6Pb', pbc=False)

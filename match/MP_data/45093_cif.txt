@@ -1,0 +1,2 @@
+NO2SrTa
+Atoms(symbols='SrTaNO2', pbc=False)

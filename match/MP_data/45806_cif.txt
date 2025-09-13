@@ -1,0 +1,2 @@
+Hf3O12Sr4Ti
+Atoms(symbols='Sr4Hf3TiO12', pbc=False)

@@ -1,0 +1,2 @@
+Fe2Ni2U24
+Atoms(symbols='U12FeNiU12FeNi', pbc=False)

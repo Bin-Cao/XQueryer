@@ -1,0 +1,2 @@
+Ba3FeGe5O14
+Atoms(symbols='Ba3FeGe5O14', pbc=False)

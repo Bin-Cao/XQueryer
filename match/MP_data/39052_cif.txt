@@ -1,0 +1,2 @@
+Ge12Na8O30Sr2
+Atoms(symbols='Na8Sr2Ge12O30', pbc=False)

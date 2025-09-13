@@ -1,0 +1,2 @@
+Mn3NiO12Y4
+Atoms(symbols='Y4Mn3NiO12', pbc=False)

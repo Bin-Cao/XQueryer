@@ -1,0 +1,2 @@
+Ir12Pr4Si8
+Atoms(symbols='Pr2Si4Ir6Pr2Si4Ir6', pbc=False)

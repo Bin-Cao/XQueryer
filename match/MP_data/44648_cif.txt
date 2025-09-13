@@ -1,0 +1,2 @@
+C64Cl40
+Atoms(symbols='C64Cl40', pbc=False)

@@ -1,0 +1,2 @@
+Na4Ni2O28S4
+Atoms(symbols='Na4Ni2S4O28', pbc=False)

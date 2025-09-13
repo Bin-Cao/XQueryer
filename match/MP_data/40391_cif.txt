@@ -1,0 +1,2 @@
+C8H48F4Ho4O16
+Atoms(symbols='C8H48F4Ho4O16', pbc=False)

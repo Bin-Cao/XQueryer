@@ -1,0 +1,2 @@
+O32Rb12Se8
+Atoms(symbols='Rb6Se4O16Rb6Se4O16', pbc=False)

@@ -1,0 +1,2 @@
+La16Pt34Sb28
+Atoms(symbols='La16Pt34Sb28', pbc=False)

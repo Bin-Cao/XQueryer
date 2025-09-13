@@ -1,0 +1,2 @@
+CoFeO6PrSr
+Atoms(symbols='SrPrFeCoO6', pbc=False)

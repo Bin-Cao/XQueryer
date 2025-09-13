@@ -1,0 +1,2 @@
+Er8Fe46Y4
+Atoms(symbols='Y2Er4Fe23Y2Er4Fe23', pbc=False)

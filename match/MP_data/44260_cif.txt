@@ -1,0 +1,2 @@
+STeTi
+Atoms(symbols='TiTeS', pbc=False)

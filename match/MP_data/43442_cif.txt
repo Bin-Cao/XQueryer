@@ -1,0 +1,2 @@
+Cr2Fe4V2
+Atoms(symbols='VCrFe2VCrFe2', pbc=False)

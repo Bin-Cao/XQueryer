@@ -1,0 +1,2 @@
+B4MoTi
+Atoms(symbols='TiB4Mo', pbc=False)
