@@ -1,0 +1,2 @@
+Os12Sb36Sm3
+Atoms(symbols='SmSb12Os4SmSb12Os4SmSb12Os4', pbc=False)

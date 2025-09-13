@@ -1,0 +1,2 @@
+Cs2F6O18PtS6
+Atoms(symbols='Cs2PtS6O18F6', pbc=False)

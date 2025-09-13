@@ -1,0 +1,2 @@
+HMgO9P
+Atoms(symbols='MgPHO9', pbc=False)

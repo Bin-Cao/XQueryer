@@ -1,0 +1,2 @@
+Bi6O20P4Sr
+Atoms(symbols='SrBi6P4O20', pbc=False)

@@ -1,0 +1,2 @@
+C16N24Zn4
+Atoms(symbols='Zn4C16N24', pbc=False)

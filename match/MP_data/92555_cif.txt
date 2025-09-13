@@ -1,0 +1,2 @@
+Br8O44Sb32
+Atoms(symbols='Br8O44Sb32', pbc=False)

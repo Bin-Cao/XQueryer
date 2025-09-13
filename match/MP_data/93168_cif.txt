@@ -1,0 +1,2 @@
+C18H36Cl4Co2Ga2N2O6P2
+Atoms(symbols='C18H36Cl4Co2Ga2N2O6P2', pbc=False)

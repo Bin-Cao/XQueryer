@@ -1,0 +1,2 @@
+Ba2Pt2Si6
+Atoms(symbols='BaSi3PtBaSi3Pt', pbc=False)

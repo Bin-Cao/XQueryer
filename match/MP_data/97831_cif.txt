@@ -1,0 +1,2 @@
+H3EuPd
+Atoms(symbols='EuH3Pd', pbc=False)

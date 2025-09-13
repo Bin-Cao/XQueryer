@@ -1,0 +1,2 @@
+Er4Te12
+Atoms(symbols='Er2Te6Er2Te6', pbc=False)

@@ -1,0 +1,2 @@
+Ag2K10N4O4
+Atoms(symbols='K10Ag2N4O4', pbc=False)

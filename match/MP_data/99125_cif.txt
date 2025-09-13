@@ -1,0 +1,2 @@
+Cl36In8Ta12
+Atoms(symbols='Ta6In4Cl18Ta6In4Cl18', pbc=False)

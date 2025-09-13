@@ -1,0 +1,2 @@
+Cl4O14Pr4Ta4
+Atoms(symbols='Pr2Ta2Cl2O7Pr2Ta2Cl2O7', pbc=False)

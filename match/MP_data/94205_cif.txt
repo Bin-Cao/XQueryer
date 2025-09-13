@@ -1,0 +1,2 @@
+C6CuFeK2N6
+Atoms(symbols='K2FeCuC6N6', pbc=False)

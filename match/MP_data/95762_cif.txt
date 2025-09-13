@@ -1,0 +1,2 @@
+Al2CdS4
+Atoms(symbols='Al2CdS4', pbc=False)

@@ -1,0 +1,2 @@
+I4S32Si8Tb12
+Atoms(symbols='Tb6Si4S16I2Tb6Si4S16I2', pbc=False)

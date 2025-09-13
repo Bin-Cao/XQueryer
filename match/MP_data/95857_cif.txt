@@ -1,0 +1,2 @@
+H40Al2Cl12O20Ru2
+Atoms(symbols='H40Al2Cl12O20Ru2', pbc=False)

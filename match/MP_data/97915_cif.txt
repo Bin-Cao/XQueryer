@@ -1,0 +1,2 @@
+Ce10Ni2Pb6
+Atoms(symbols='Ce10Ni2Pb6', pbc=False)

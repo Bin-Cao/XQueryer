@@ -1,0 +1,2 @@
+H32O24Pt4
+Atoms(symbols='H16Pt2O12H16Pt2O12', pbc=False)

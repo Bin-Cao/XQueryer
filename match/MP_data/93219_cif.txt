@@ -1,0 +1,2 @@
+C6Au3KN6Ni
+Atoms(symbols='KNiAu3C6N6', pbc=False)

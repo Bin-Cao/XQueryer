@@ -1,0 +1,2 @@
+Ru6Th14
+Atoms(symbols='Th14Ru6', pbc=False)

@@ -1,0 +1,2 @@
+Ho10Si17
+Atoms(symbols='Ho10Si17', pbc=False)

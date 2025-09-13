@@ -1,0 +1,2 @@
+Cs2O38P10Ti6
+Atoms(symbols='CsTi3P5O19CsTi3P5O19', pbc=False)

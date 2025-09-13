@@ -1,0 +1,2 @@
+Cd11I22
+Atoms(symbols='Cd11I22', pbc=False)

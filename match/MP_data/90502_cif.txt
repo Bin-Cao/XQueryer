@@ -1,0 +1,2 @@
+H8La2N2O16S4
+Atoms(symbols='La2H8S4N2O16', pbc=False)

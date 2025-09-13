@@ -1,0 +1,2 @@
+Pd3V
+Atoms(symbols='VPd3', pbc=False)

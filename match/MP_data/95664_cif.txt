@@ -1,0 +1,2 @@
+Hg36I24P20
+Atoms(symbols='Hg36I24P20', pbc=False)

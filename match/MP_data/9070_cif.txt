@@ -1,0 +1,2 @@
+Cl3HgN
+Atoms(symbols='HgNCl3', pbc=False)

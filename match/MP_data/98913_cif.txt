@@ -1,0 +1,2 @@
+Bi14Cs6Se24
+Atoms(symbols='Cs3Bi7Se12Cs3Bi7Se12', pbc=False)

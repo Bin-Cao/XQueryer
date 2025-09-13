@@ -1,0 +1,2 @@
+Mo8Na8O32Zr2
+Atoms(symbols='Na8Zr2Mo8O32', pbc=False)

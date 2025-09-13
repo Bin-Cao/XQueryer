@@ -1,0 +1,2 @@
+Br4La12S32Si8
+Atoms(symbols='La6Si4S16Br2La6Si4S16Br2', pbc=False)

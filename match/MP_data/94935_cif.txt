@@ -1,0 +1,2 @@
+Ag8Cu8O32P8
+Atoms(symbols='Cu8Ag8P8O32', pbc=False)

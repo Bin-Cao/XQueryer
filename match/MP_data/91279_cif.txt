@@ -1,0 +1,2 @@
+As2Cu2O8Tl4
+Atoms(symbols='Tl4Cu2As2O8', pbc=False)

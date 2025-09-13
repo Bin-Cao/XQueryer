@@ -1,0 +1,2 @@
+Mg4O10Zr28
+Atoms(symbols='Mg2Zr14O5Mg2Zr14O5', pbc=False)

@@ -1,0 +1,2 @@
+O19Sm2Zr8
+Atoms(symbols='Sm2Zr8O19', pbc=False)

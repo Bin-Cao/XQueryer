@@ -1,0 +1,2 @@
+Cl28Ga8In4
+Atoms(symbols='In4Ga8Cl28', pbc=False)

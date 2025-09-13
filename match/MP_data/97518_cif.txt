@@ -1,0 +1,2 @@
+C20B6N6
+Atoms(symbols='B6C20N6', pbc=False)

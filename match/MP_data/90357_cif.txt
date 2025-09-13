@@ -1,0 +1,2 @@
+O48Si24
+Atoms(symbols='O48Si24', pbc=False)

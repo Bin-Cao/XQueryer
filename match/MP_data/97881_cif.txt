@@ -1,0 +1,2 @@
+Al4Cl16In4
+Atoms(symbols='Al4In4Cl16', pbc=False)

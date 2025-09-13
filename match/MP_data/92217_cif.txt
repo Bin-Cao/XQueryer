@@ -1,0 +1,2 @@
+I6O26Rb2V4
+Atoms(symbols='Rb2V4I6O26', pbc=False)

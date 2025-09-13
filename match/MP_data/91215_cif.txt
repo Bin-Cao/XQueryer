@@ -1,0 +1,2 @@
+Bi3Mn4NO15
+Atoms(symbols='Mn4Bi3NO15', pbc=False)

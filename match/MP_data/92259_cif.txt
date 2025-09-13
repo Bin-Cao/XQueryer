@@ -1,0 +1,2 @@
+Au4Co4Na16O20
+Atoms(symbols='Na8Co2Au2O10Na8Co2Au2O10', pbc=False)

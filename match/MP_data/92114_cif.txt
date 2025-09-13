@@ -1,0 +1,2 @@
+Li2Mo2O10U
+Atoms(symbols='Li2UMo2O10', pbc=False)

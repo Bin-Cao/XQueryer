@@ -1,0 +1,2 @@
+I12La20Si20
+Atoms(symbols='La10Si10I6La10Si10I6', pbc=False)

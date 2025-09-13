@@ -1,0 +1,2 @@
+Ge4La8O20
+Atoms(symbols='La8Ge4O20', pbc=False)

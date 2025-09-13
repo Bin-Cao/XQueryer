@@ -1,0 +1,2 @@
+Cl16Hg4K8
+Atoms(symbols='K8Hg4Cl16', pbc=False)

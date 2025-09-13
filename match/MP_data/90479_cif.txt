@@ -1,0 +1,2 @@
+Ag8N16Na8O32
+Atoms(symbols='Ag8N16Na8O32', pbc=False)

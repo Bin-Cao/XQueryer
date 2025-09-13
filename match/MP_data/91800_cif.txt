@@ -1,0 +1,2 @@
+Cl6Nd10O20Te4
+Atoms(symbols='Nd5Te2Cl3O10Nd5Te2Cl3O10', pbc=False)

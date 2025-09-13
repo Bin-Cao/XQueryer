@@ -1,0 +1,2 @@
+Ce20Ge8Ni4
+Atoms(symbols='Ce20Ni4Ge8', pbc=False)

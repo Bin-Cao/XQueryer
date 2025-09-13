@@ -1,0 +1,2 @@
+H8O14Ta4
+Atoms(symbols='Ta4H8O14', pbc=False)

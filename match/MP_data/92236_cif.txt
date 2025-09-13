@@ -1,0 +1,2 @@
+Br4Hg2K4N4O24
+Atoms(symbols='K4Hg2Br4N4O24', pbc=False)

@@ -1,0 +1,2 @@
+La20S38
+Atoms(symbols='La20S38', pbc=False)

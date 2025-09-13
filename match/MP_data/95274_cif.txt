@@ -1,0 +1,2 @@
+Ga32Pt16
+Atoms(symbols='Ga32Pt16', pbc=False)

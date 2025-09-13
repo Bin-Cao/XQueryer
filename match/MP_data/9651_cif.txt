@@ -1,0 +1,2 @@
+C10B2
+Atoms(symbols='BC5BC5', pbc=False)

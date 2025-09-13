@@ -1,0 +1,2 @@
+C4H16Br2N2
+Atoms(symbols='H16C4Br2N2', pbc=False)

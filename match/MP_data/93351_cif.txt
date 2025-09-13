@@ -1,0 +1,2 @@
+K6P10Ru2Se20
+Atoms(symbols='K6P10Ru2Se20', pbc=False)

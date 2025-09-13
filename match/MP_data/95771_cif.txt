@@ -1,0 +1,2 @@
+CuGd
+Atoms(symbols='GdCu', pbc=False)

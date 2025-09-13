@@ -1,0 +1,2 @@
+Mg10Tl4
+Atoms(symbols='Mg10Tl4', pbc=False)

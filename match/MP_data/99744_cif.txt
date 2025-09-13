@@ -1,0 +1,2 @@
+Ce16I28N8Na4
+Atoms(symbols='Na4Ce16I28N8', pbc=False)

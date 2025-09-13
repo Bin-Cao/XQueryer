@@ -1,0 +1,2 @@
+Au20Cu20
+Atoms(symbols='Cu10Au10Cu10Au10', pbc=False)

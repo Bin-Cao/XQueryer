@@ -1,0 +1,2 @@
+C27Si27
+Atoms(symbols='Si27C27', pbc=False)

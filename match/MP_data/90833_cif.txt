@@ -1,0 +1,2 @@
+Cl14Mo2O2Se2
+Atoms(symbols='Mo2Se2Cl14O2', pbc=False)

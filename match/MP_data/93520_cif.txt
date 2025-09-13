@@ -1,0 +1,2 @@
+K24Li8O32Si8
+Atoms(symbols='K24Li8O32Si8', pbc=False)

@@ -1,0 +1,2 @@
+H16B6Cr
+Atoms(symbols='CrB6H16', pbc=False)

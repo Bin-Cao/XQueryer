@@ -1,0 +1,2 @@
+Ge2Hf2Te8
+Atoms(symbols='Hf2Ge2Te8', pbc=False)

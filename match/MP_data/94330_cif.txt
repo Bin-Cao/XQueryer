@@ -1,0 +1,2 @@
+C8I4K4N8Pt2
+Atoms(symbols='K4Pt2C8I4N8', pbc=False)

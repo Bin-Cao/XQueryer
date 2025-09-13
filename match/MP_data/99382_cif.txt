@@ -1,0 +1,2 @@
+C4Cl24N36Sb4
+Atoms(symbols='C4Cl24N36Sb4', pbc=False)

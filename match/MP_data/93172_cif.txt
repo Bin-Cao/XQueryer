@@ -1,0 +1,2 @@
+O52Rb8Sb32
+Atoms(symbols='O52Rb8Sb32', pbc=False)

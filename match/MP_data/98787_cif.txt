@@ -1,0 +1,2 @@
+F18S3
+Atoms(symbols='S3F18', pbc=False)

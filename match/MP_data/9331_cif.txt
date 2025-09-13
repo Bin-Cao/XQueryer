@@ -1,0 +1,2 @@
+BaCaO8W4
+Atoms(symbols='BaCaW4O8', pbc=False)

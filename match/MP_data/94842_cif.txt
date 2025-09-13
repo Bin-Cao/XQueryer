@@ -1,0 +1,2 @@
+Au42Ga12
+Atoms(symbols='Ga6Au21Ga6Au21', pbc=False)

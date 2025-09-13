@@ -1,0 +1,2 @@
+H2O4U
+Atoms(symbols='UH2O4', pbc=False)

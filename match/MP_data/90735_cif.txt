@@ -1,0 +1,2 @@
+F32Li4Na4Y8
+Atoms(symbols='Na2Li2Y4F16Na2Li2Y4F16', pbc=False)

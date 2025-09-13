@@ -1,0 +1,2 @@
+H20K12Zn4
+Atoms(symbols='K6Zn2H10K6Zn2H10', pbc=False)

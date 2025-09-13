@@ -1,0 +1,2 @@
+Ag8In4Sm4
+Atoms(symbols='SmInAg2SmInAg2SmInAg2SmInAg2', pbc=False)

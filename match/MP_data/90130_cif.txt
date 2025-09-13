@@ -1,0 +1,2 @@
+Eu4O32Rb4S8
+Atoms(symbols='Rb2Eu2S4O16Rb2Eu2S4O16', pbc=False)

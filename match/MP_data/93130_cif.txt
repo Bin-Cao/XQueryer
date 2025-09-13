@@ -1,0 +1,2 @@
+C32Co8O32Rb8
+Atoms(symbols='C32Co8O32Rb8', pbc=False)

@@ -1,0 +1,2 @@
+H24N8NiO10V2
+Atoms(symbols='V2NiH24N8O10', pbc=False)

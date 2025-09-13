@@ -1,0 +1,2 @@
+C6H18Cl2N4S2Se2
+Atoms(symbols='H18C6Se2S2N4Cl2', pbc=False)

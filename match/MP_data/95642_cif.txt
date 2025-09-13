@@ -1,0 +1,2 @@
+Hg4K4Si8
+Atoms(symbols='KSi2HgKSi2HgKSi2HgKSi2Hg', pbc=False)

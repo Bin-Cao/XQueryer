@@ -1,0 +1,2 @@
+C12Co2K6N12
+Atoms(symbols='K6Co2C12N12', pbc=False)

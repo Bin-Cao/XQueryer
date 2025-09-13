@@ -1,0 +1,2 @@
+NiTi
+Atoms(symbols='TiNi', pbc=False)

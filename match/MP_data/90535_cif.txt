@@ -1,0 +1,2 @@
+H12N10O8Pd
+Atoms(symbols='H12PdN10O8', pbc=False)

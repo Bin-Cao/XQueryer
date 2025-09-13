@@ -1,0 +1,2 @@
+Ni14Pr30Si20
+Atoms(symbols='Ni14Pr30Si20', pbc=False)

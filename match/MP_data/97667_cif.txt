@@ -1,0 +1,2 @@
+Ga36I72
+Atoms(symbols='Ga36I72', pbc=False)

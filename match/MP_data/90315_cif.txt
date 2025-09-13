@@ -1,0 +1,2 @@
+Mn8O36Pb8Si8
+Atoms(symbols='Mn4Si4Pb4O18Mn4Si4Pb4O18', pbc=False)

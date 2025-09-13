@@ -1,0 +1,2 @@
+HSnTi3
+Atoms(symbols='Ti3SnH', pbc=False)

@@ -1,0 +1,2 @@
+Au8Cr2
+Atoms(symbols='CrAu4CrAu4', pbc=False)

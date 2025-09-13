@@ -1,0 +1,2 @@
+BaCu5La4O12
+Atoms(symbols='BaLa4Cu5O12', pbc=False)

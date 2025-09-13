@@ -1,0 +1,2 @@
+Nd8O44Ti16
+Atoms(symbols='Nd8O44Ti16', pbc=False)

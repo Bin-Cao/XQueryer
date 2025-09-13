@@ -1,0 +1,2 @@
+Cu14Te8
+Atoms(symbols='Cu14Te8', pbc=False)

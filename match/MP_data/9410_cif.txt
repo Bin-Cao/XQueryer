@@ -1,0 +1,2 @@
+Ho4
+Atoms(symbols='Ho4', pbc=False)

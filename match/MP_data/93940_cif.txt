@@ -1,0 +1,2 @@
+Cr6Te8
+Atoms(symbols='Cr3Te4Cr3Te4', pbc=False)

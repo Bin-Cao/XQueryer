@@ -1,0 +1,2 @@
+As18Pb14S40
+Atoms(symbols='As18Pb14S40', pbc=False)

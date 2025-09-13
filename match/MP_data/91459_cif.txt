@@ -1,0 +1,2 @@
+Cr3F18Na3
+Atoms(symbols='NaCrF6NaCrF6NaCrF6', pbc=False)

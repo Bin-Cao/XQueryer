@@ -1,0 +1,2 @@
+Ce12Mo4O28
+Atoms(symbols='Ce12Mo4O28', pbc=False)

@@ -1,0 +1,2 @@
+Cr6Ge2N2
+Atoms(symbols='Cr6Ge2N2', pbc=False)

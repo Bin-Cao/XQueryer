@@ -1,0 +1,2 @@
+BaSn5
+Atoms(symbols='BaSn5', pbc=False)

@@ -1,0 +1,2 @@
+HCs
+Atoms(symbols='CsH', pbc=False)

@@ -1,0 +1,2 @@
+La4Se4
+Atoms(symbols='La4Se4', pbc=False)

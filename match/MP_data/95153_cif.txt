@@ -1,0 +1,2 @@
+Cl24Li4W4
+Atoms(symbols='Li4W4Cl24', pbc=False)

@@ -1,0 +1,2 @@
+Co8Ga28Mg12
+Atoms(symbols='Mg6Ga14Co4Mg6Ga14Co4', pbc=False)

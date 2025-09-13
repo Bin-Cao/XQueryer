@@ -1,0 +1,2 @@
+Br6Hg3
+Atoms(symbols='Hg3Br6', pbc=False)

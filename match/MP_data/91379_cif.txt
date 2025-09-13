@@ -1,0 +1,2 @@
+K4O38Si16Zn4
+Atoms(symbols='K4O38Si16Zn4', pbc=False)

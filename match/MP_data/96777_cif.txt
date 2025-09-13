@@ -1,0 +1,2 @@
+I32Na8O96Y8
+Atoms(symbols='I32Na8O96Y8', pbc=False)

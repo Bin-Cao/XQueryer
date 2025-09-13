@@ -1,0 +1,2 @@
+K8P12Se36U4
+Atoms(symbols='K8U4P12Se36', pbc=False)

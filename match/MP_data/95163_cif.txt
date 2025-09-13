@@ -1,0 +1,2 @@
+O16Si4Th4
+Atoms(symbols='Th2Si2O8Th2Si2O8', pbc=False)

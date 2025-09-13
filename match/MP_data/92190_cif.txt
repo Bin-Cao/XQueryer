@@ -1,0 +1,2 @@
+K16S32Zr8
+Atoms(symbols='K16Zr8S32', pbc=False)

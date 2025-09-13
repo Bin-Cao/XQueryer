@@ -1,0 +1,2 @@
+Co36O72Te12
+Atoms(symbols='Co36O72Te12', pbc=False)

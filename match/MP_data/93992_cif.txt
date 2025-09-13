@@ -1,0 +1,2 @@
+As24Er10Ni32Zr6
+Atoms(symbols='As24Er10Ni32Zr6', pbc=False)

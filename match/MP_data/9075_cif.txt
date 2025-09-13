@@ -1,0 +1,2 @@
+Ce2Si10
+Atoms(symbols='CeSi5CeSi5', pbc=False)

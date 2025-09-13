@@ -1,0 +1,2 @@
+C8Co4Pr4
+Atoms(symbols='Pr2Co2C4Pr2Co2C4', pbc=False)

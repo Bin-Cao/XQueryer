@@ -1,0 +1,2 @@
+AgBiCr2O8
+Atoms(symbols='Cr2AgBiO8', pbc=False)

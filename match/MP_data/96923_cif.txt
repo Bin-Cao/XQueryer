@@ -1,0 +1,2 @@
+B4Cs6Li4Na2O12
+Atoms(symbols='Cs6Na2Li4B4O12', pbc=False)

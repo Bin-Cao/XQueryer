@@ -1,0 +1,2 @@
+Co4Nb8Pd2Se24
+Atoms(symbols='Nb4Co2PdSe12Nb4Co2PdSe12', pbc=False)

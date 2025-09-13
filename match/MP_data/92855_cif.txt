@@ -1,0 +1,2 @@
+Al32Co8Pr4
+Atoms(symbols='Pr4Al32Co8', pbc=False)

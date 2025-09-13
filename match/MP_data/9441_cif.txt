@@ -1,0 +1,2 @@
+Au2Ni8Sc2
+Atoms(symbols='ScNi4AuScNi4Au', pbc=False)

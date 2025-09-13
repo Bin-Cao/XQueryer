@@ -1,0 +1,2 @@
+Cr16Sn32
+Atoms(symbols='Cr4Sn8Cr4Sn8Cr4Sn8Cr4Sn8', pbc=False)

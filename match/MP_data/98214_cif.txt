@@ -1,0 +1,2 @@
+Er20Sb12
+Atoms(symbols='Er20Sb12', pbc=False)

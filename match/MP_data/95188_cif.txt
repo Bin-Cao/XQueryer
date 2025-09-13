@@ -1,0 +1,2 @@
+RuTi
+Atoms(symbols='TiRu', pbc=False)

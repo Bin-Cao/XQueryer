@@ -1,0 +1,2 @@
+C6Ag3KMnN6
+Atoms(symbols='KMnAg3C6N6', pbc=False)

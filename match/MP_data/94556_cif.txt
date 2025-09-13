@@ -1,0 +1,2 @@
+Cr3Cu3Se6
+Atoms(symbols='CrCuSe2CrCuSe2CrCuSe2', pbc=False)

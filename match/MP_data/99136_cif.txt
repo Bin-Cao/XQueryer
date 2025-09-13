@@ -1,0 +1,2 @@
+Mn4Te4
+Atoms(symbols='Mn4Te4', pbc=False)

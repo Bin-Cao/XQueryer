@@ -1,0 +1,2 @@
+Ga4I16Tl4
+Atoms(symbols='Tl4Ga4I16', pbc=False)

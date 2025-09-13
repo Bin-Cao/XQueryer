@@ -1,0 +1,2 @@
+Eu4O10Ti4
+Atoms(symbols='Eu4Ti4O10', pbc=False)

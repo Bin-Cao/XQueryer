@@ -1,0 +1,2 @@
+Bi2O10P2Pb2
+Atoms(symbols='Bi2P2Pb2O10', pbc=False)

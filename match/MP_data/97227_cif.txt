@@ -1,0 +1,2 @@
+H12Cl4O20
+Atoms(symbols='H12Cl4O20', pbc=False)

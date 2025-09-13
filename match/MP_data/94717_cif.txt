@@ -1,0 +1,2 @@
+Be4Eu12O20
+Atoms(symbols='Eu12Be4O20', pbc=False)

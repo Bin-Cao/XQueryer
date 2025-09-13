@@ -1,0 +1,2 @@
+C12Cs4N18Na2
+Atoms(symbols='Cs4Na2C12N18', pbc=False)

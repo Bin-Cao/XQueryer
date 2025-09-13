@@ -1,0 +1,2 @@
+C16H8O12Sn4
+Atoms(symbols='Sn4H8C16O12', pbc=False)

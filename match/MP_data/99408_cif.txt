@@ -1,0 +1,2 @@
+F12Nb12O24
+Atoms(symbols='Nb6O12F6Nb6O12F6', pbc=False)

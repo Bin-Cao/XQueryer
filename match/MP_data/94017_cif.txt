@@ -1,0 +1,2 @@
+Cl8NW2
+Atoms(symbols='W2NCl8', pbc=False)

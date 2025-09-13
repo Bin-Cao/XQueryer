@@ -1,0 +1,2 @@
+Co3F18Zr3
+Atoms(symbols='ZrCoF6ZrCoF6ZrCoF6', pbc=False)

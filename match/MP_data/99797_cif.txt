@@ -1,0 +1,2 @@
+Cs18Ge24Zn3
+Atoms(symbols='Cs18Zn3Ge24', pbc=False)

@@ -1,0 +1,2 @@
+Ba20Pb12
+Atoms(symbols='Ba10Pb6Ba10Pb6', pbc=False)

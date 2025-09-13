@@ -1,0 +1,2 @@
+Mg3V
+Atoms(symbols='Mg3V', pbc=False)

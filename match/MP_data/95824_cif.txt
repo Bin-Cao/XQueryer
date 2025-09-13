@@ -1,0 +1,2 @@
+C20Ba12F8La8O60
+Atoms(symbols='C20Ba12F8La8O60', pbc=False)

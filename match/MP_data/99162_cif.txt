@@ -1,0 +1,2 @@
+H18Na6O18Sn3
+Atoms(symbols='Na2SnH6O6Na2SnH6O6Na2SnH6O6', pbc=False)

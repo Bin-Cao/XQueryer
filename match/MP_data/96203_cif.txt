@@ -1,0 +1,2 @@
+In4P12Sr12
+Atoms(symbols='Sr12In4P12', pbc=False)

@@ -1,0 +1,2 @@
+B12Li20Na16O36
+Atoms(symbols='B12Li20Na16O36', pbc=False)

@@ -1,0 +1,2 @@
+As8Ga4W4
+Atoms(symbols='GaAs2WGaAs2WGaAs2WGaAs2W', pbc=False)

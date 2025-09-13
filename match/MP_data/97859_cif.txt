@@ -1,0 +1,2 @@
+Cu2DyIn3
+Atoms(symbols='DyIn3Cu2', pbc=False)

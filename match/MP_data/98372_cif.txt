@@ -1,0 +1,2 @@
+C38O38Os14S2
+Atoms(symbols='C38O38Os14S2', pbc=False)

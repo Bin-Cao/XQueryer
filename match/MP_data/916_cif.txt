@@ -1,0 +1,2 @@
+B2Os3U
+Atoms(symbols='UB2Os3', pbc=False)

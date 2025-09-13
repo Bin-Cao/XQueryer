@@ -1,0 +1,2 @@
+Ho2Ir4Si4
+Atoms(symbols='HoSi2Ir2HoSi2Ir2', pbc=False)

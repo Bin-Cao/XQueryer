@@ -1,0 +1,2 @@
+Cu28S16
+Atoms(symbols='Cu28S16', pbc=False)

@@ -1,0 +1,2 @@
+Ni5Sc
+Atoms(symbols='ScNi5', pbc=False)

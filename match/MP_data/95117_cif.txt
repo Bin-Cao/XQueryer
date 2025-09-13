@@ -1,0 +1,2 @@
+Cd13I26
+Atoms(symbols='Cd13I26', pbc=False)

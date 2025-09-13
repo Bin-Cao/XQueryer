@@ -1,0 +1,2 @@
+Fe10K34O32
+Atoms(symbols='Fe10K34O32', pbc=False)

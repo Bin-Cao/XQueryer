@@ -1,0 +1,2 @@
+H4AgCr2O10Sc
+Atoms(symbols='ScCr2AgH4O10', pbc=False)

@@ -1,0 +1,2 @@
+Cr8K12P12S48
+Atoms(symbols='Cr8K12P12S48', pbc=False)

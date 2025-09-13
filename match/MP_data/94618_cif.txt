@@ -1,0 +1,2 @@
+Cu6I6
+Atoms(symbols='Cu6I6', pbc=False)

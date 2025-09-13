@@ -1,0 +1,2 @@
+In16N14Sr38
+Atoms(symbols='In16N14Sr38', pbc=False)

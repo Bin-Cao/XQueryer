@@ -1,0 +1,2 @@
+H8V16
+Atoms(symbols='V8H4V8H4', pbc=False)

@@ -1,0 +1,2 @@
+Br6La18Sb32
+Atoms(symbols='La18Sb32Br6', pbc=False)

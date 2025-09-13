@@ -1,0 +1,2 @@
+K4Mo4Ru8
+Atoms(symbols='KMoRu2KMoRu2KMoRu2KMoRu2', pbc=False)

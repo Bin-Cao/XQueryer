@@ -1,0 +1,2 @@
+N9O27Rb9
+Atoms(symbols='Rb9N9O27', pbc=False)

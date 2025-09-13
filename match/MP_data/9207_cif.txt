@@ -1,0 +1,2 @@
+Cl4Co2O4
+Atoms(symbols='CoCl2O2CoCl2O2', pbc=False)

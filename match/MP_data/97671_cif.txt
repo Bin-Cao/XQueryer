@@ -1,0 +1,2 @@
+H4Cl4
+Atoms(symbols='H2Cl2H2Cl2', pbc=False)

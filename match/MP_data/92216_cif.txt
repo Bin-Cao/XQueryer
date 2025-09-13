@@ -1,0 +1,2 @@
+C3Li3Na3O9
+Atoms(symbols='Na3Li3C3O9', pbc=False)

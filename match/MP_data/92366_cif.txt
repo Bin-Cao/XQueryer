@@ -1,0 +1,2 @@
+Cs4Ge2O26P8
+Atoms(symbols='Cs4Ge2P8O26', pbc=False)

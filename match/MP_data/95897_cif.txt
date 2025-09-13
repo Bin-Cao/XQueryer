@@ -1,0 +1,2 @@
+C20Ba12Ce8F8O60
+Atoms(symbols='C20Ba12Ce8F8O60', pbc=False)

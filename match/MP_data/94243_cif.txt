@@ -1,0 +1,2 @@
+Cl6ISe6W
+Atoms(symbols='WSe6ICl6', pbc=False)

@@ -1,0 +1,2 @@
+Co16Ge7Hf6
+Atoms(symbols='Hf6Co16Ge7', pbc=False)

@@ -1,0 +1,2 @@
+C4H32B4N4
+Atoms(symbols='B4H32C4N4', pbc=False)

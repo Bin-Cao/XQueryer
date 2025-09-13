@@ -1,0 +1,2 @@
+Br4La4O28Pb24
+Atoms(symbols='La2Pb12Br2O14La2Pb12Br2O14', pbc=False)

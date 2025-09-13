@@ -1,0 +1,2 @@
+Cs14Cu12F38
+Atoms(symbols='Cs14Cu12F38', pbc=False)

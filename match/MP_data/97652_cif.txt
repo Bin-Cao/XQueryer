@@ -1,0 +1,2 @@
+NbO
+Atoms(symbols='NbO', pbc=False)

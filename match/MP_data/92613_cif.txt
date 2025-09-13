@@ -1,0 +1,2 @@
+O76P20Si4V12
+Atoms(symbols='O76P20Si4V12', pbc=False)

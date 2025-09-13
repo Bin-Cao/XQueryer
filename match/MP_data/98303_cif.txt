@@ -1,0 +1,2 @@
+H8Al8Ge4O24
+Atoms(symbols='Al4Ge2H4O12Al4Ge2H4O12', pbc=False)

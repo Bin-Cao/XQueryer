@@ -1,0 +1,2 @@
+Ir4Na4Pb4
+Atoms(symbols='NaIrPbNaIrPbNaIrPbNaIrPb', pbc=False)

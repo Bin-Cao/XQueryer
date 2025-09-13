@@ -1,0 +1,2 @@
+Pd24Se24
+Atoms(symbols='Pd24Se24', pbc=False)

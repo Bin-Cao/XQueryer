@@ -1,0 +1,2 @@
+Na2O12Rb14Zn4
+Atoms(symbols='Rb14Na2Zn4O12', pbc=False)

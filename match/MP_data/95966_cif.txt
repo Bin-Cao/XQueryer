@@ -1,0 +1,2 @@
+Se4Ti18
+Atoms(symbols='Ti18Se4', pbc=False)

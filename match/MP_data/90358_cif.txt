@@ -1,0 +1,2 @@
+Cs6I18O54Zr3
+Atoms(symbols='Cs6I18O54Zr3', pbc=False)

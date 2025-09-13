@@ -1,0 +1,2 @@
+Co8F56Fe8Na16
+Atoms(symbols='Co8F56Fe8Na16', pbc=False)

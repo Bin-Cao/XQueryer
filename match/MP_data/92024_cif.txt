@@ -1,0 +1,2 @@
+F36Li12O18Ta12
+Atoms(symbols='F36Li12O18Ta12', pbc=False)

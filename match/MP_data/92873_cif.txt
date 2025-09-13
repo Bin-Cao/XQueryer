@@ -1,0 +1,2 @@
+Co8Er20Te8
+Atoms(symbols='Er10Co4Te4Er10Co4Te4', pbc=False)

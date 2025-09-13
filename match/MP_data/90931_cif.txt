@@ -1,0 +1,2 @@
+K4O24P8Sr2
+Atoms(symbols='K2SrP4O12K2SrP4O12', pbc=False)

@@ -1,0 +1,2 @@
+Lu6O54P18
+Atoms(symbols='Lu6O54P18', pbc=False)

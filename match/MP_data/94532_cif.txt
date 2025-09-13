@@ -1,0 +1,2 @@
+Ba2O6Ti2
+Atoms(symbols='BaTiO3BaTiO3', pbc=False)

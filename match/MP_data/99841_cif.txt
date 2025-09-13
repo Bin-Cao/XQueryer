@@ -1,0 +1,2 @@
+C24Cu6K18N24
+Atoms(symbols='C24Cu6K18N24', pbc=False)

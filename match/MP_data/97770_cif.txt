@@ -1,0 +1,2 @@
+Fe32Li32O128P32
+Atoms(symbols='Fe32Li32O128P32', pbc=False)

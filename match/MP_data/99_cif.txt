@@ -1,0 +1,2 @@
+CoMo
+Atoms(symbols='CoMo', pbc=False)

@@ -1,0 +1,2 @@
+As8Cu6K4O24
+Atoms(symbols='K2Cu3As4O12K2Cu3As4O12', pbc=False)

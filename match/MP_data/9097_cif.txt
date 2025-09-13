@@ -1,0 +1,2 @@
+Nd2Ni8Si2
+Atoms(symbols='NdSiNi4NdSiNi4', pbc=False)

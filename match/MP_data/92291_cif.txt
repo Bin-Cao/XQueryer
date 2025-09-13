@@ -1,0 +1,2 @@
+C24Br2Co6O24Sn2
+Atoms(symbols='Co6Sn2C24Br2O24', pbc=False)

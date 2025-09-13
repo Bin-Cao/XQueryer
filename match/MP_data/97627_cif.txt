@@ -1,0 +1,2 @@
+H2Ho2O4
+Atoms(symbols='Ho2H2O4', pbc=False)

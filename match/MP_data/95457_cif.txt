@@ -1,0 +1,2 @@
+C16Ba12N32Na8
+Atoms(symbols='C16Ba12N32Na8', pbc=False)

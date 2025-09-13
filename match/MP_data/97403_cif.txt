@@ -1,0 +1,2 @@
+Be4La4Os8
+Atoms(symbols='LaBeOs2LaBeOs2LaBeOs2LaBeOs2', pbc=False)

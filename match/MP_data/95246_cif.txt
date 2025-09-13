@@ -1,0 +1,2 @@
+Br36Nd16
+Atoms(symbols='Nd16Br36', pbc=False)

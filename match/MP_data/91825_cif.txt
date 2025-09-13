@@ -1,0 +1,2 @@
+O24
+Atoms(symbols='O24', pbc=False)

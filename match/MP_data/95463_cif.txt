@@ -1,0 +1,2 @@
+Cl18W3
+Atoms(symbols='WCl6WCl6WCl6', pbc=False)

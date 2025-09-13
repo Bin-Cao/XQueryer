@@ -1,0 +1,2 @@
+B2PrRu3
+Atoms(symbols='PrB2Ru3', pbc=False)

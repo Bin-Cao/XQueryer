@@ -1,0 +1,2 @@
+O26P8Rb4Si2
+Atoms(symbols='Rb4Si2P8O26', pbc=False)

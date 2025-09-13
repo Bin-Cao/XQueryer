@@ -1,0 +1,2 @@
+Cl30Mo6
+Atoms(symbols='Mo6Cl30', pbc=False)

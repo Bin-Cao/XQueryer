@@ -1,0 +1,2 @@
+F48Mg12Sr12
+Atoms(symbols='F48Mg12Sr12', pbc=False)

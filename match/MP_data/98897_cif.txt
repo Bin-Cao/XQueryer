@@ -1,0 +1,2 @@
+B16Fe2Rh36Zn20
+Atoms(symbols='B16Fe2Rh36Zn20', pbc=False)

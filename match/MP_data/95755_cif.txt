@@ -1,0 +1,2 @@
+H24Mg2O20P2Rb2
+Atoms(symbols='Rb2Mg2P2H24O20', pbc=False)

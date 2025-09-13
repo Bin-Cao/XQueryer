@@ -1,0 +1,2 @@
+Cs4N20O60Zr4
+Atoms(symbols='Cs4N20O60Zr4', pbc=False)

@@ -1,0 +1,2 @@
+Bi24Cs28In16
+Atoms(symbols='Bi24Cs28In16', pbc=False)

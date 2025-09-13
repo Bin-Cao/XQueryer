@@ -1,0 +1,2 @@
+Nb6Pd18
+Atoms(symbols='Nb6Pd18', pbc=False)

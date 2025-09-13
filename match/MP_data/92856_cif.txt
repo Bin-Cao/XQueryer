@@ -1,0 +1,2 @@
+Cu6In4O32P8
+Atoms(symbols='In4Cu6P8O32', pbc=False)

@@ -1,0 +1,2 @@
+K20Te12
+Atoms(symbols='K10Te6K10Te6', pbc=False)

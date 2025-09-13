@@ -1,0 +1,2 @@
+Ag2K4S8V2
+Atoms(symbols='K4V2Ag2S8', pbc=False)

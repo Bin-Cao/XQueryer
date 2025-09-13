@@ -1,0 +1,2 @@
+As2Pr2Se2
+Atoms(symbols='Pr2As2Se2', pbc=False)

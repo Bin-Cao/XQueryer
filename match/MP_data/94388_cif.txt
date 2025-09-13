@@ -1,0 +1,2 @@
+I28Nb12O4Te32
+Atoms(symbols='I28Nb12O4Te32', pbc=False)

@@ -1,0 +1,2 @@
+Al4K8Li4P8
+Atoms(symbols='K4Li2Al2P4K4Li2Al2P4', pbc=False)

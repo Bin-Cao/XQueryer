@@ -1,0 +1,2 @@
+C24H24Mo12O48
+Atoms(symbols='C24H24Mo12O48', pbc=False)

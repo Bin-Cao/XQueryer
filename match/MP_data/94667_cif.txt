@@ -1,0 +1,2 @@
+Al68Mo16
+Atoms(symbols='Al68Mo16', pbc=False)

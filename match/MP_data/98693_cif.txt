@@ -1,0 +1,2 @@
+H4Na2O10Se2Zn
+Atoms(symbols='Na2ZnH4Se2O10', pbc=False)

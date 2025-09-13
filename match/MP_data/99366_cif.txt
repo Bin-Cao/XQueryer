@@ -1,0 +1,2 @@
+Ba2Ca2Cu3O10Tl2
+Atoms(symbols='Ba2Ca2Tl2Cu3O10', pbc=False)

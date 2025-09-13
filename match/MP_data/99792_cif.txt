@@ -1,0 +1,2 @@
+Fe15Ge8O36
+Atoms(symbols='Fe15Ge8O36', pbc=False)

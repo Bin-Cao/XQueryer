@@ -1,0 +1,2 @@
+Ge3I18K6O54
+Atoms(symbols='Ge3I18K6O54', pbc=False)

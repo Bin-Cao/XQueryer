@@ -1,0 +1,2 @@
+K4O42V16
+Atoms(symbols='K4O42V16', pbc=False)

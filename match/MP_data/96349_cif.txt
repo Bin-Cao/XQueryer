@@ -1,0 +1,2 @@
+Ba3Nb6O26Si4
+Atoms(symbols='Ba3Nb6Si4O26', pbc=False)

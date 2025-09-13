@@ -1,0 +1,2 @@
+K4Pr12Te32
+Atoms(symbols='K4Pr12Te32', pbc=False)

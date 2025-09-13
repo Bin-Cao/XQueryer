@@ -1,0 +1,2 @@
+H20Co4Zr8
+Atoms(symbols='Zr8Co4H20', pbc=False)

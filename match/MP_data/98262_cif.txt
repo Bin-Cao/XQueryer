@@ -1,0 +1,2 @@
+Eu4K8Se20Si4
+Atoms(symbols='K8Eu4Si4Se20', pbc=False)

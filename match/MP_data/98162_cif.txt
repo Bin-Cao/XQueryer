@@ -1,0 +1,2 @@
+Ge6La11Ni4
+Atoms(symbols='La11Ni4Ge6', pbc=False)

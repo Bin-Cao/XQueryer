@@ -1,0 +1,2 @@
+K2OPb2Si2
+Atoms(symbols='K2Si2Pb2O', pbc=False)

@@ -1,0 +1,2 @@
+I32Te8
+Atoms(symbols='Te8I32', pbc=False)

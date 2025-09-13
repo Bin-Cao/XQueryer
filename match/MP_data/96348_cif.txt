@@ -1,0 +1,2 @@
+In2Sb18Sr22
+Atoms(symbols='Sr22In2Sb18', pbc=False)

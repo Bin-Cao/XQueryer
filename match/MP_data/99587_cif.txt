@@ -1,0 +1,2 @@
+Bi8Cs12O18
+Atoms(symbols='Cs12Bi8O18', pbc=False)

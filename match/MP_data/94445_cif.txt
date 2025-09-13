@@ -1,0 +1,2 @@
+I64Te16
+Atoms(symbols='I64Te16', pbc=False)

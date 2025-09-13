@@ -1,0 +1,2 @@
+H4O8Te2
+Atoms(symbols='Te2H4O8', pbc=False)

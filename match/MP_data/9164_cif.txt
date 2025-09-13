@@ -1,0 +1,2 @@
+Mg6Mo3O18W3
+Atoms(symbols='Mg2MoWO6Mg2MoWO6Mg2MoWO6', pbc=False)

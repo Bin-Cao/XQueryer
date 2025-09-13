@@ -1,0 +1,2 @@
+Ir4P8
+Atoms(symbols='P8Ir4', pbc=False)

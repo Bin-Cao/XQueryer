@@ -1,0 +1,2 @@
+AuPt4U
+Atoms(symbols='UPt4Au', pbc=False)

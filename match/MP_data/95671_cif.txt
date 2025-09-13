@@ -1,0 +1,2 @@
+Ca20Cu20
+Atoms(symbols='Ca20Cu20', pbc=False)

@@ -1,0 +1,2 @@
+C6F12
+Atoms(symbols='C6F12', pbc=False)

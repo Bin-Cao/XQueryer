@@ -1,0 +1,2 @@
+H16Ge4
+Atoms(symbols='Ge2H8Ge2H8', pbc=False)

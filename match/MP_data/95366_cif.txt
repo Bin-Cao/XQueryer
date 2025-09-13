@@ -1,0 +1,2 @@
+I18Re6
+Atoms(symbols='Re6I18', pbc=False)

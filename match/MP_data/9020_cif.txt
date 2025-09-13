@@ -1,0 +1,2 @@
+CMgNi3
+Atoms(symbols='MgNi3C', pbc=False)

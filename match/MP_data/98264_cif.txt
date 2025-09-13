@@ -1,0 +1,2 @@
+C32H32As4Br6Cu6N4O4
+Atoms(symbols='C32H32As4Br6Cu6N4O4', pbc=False)

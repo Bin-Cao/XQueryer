@@ -1,0 +1,2 @@
+As16Br24Hg24Sn4
+Atoms(symbols='As16Br24Hg24Sn4', pbc=False)

@@ -1,0 +1,2 @@
+F2Mo2Nb30O80
+Atoms(symbols='F2Mo2Nb30O80', pbc=False)

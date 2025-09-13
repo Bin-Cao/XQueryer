@@ -1,0 +1,2 @@
+Xe2
+Atoms(symbols='Xe2', pbc=False)

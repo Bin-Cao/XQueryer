@@ -1,0 +1,2 @@
+N24Si18
+Atoms(symbols='Si18N24', pbc=False)

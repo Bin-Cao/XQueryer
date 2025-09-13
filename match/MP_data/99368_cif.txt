@@ -1,0 +1,2 @@
+F4In4O4
+Atoms(symbols='In4O4F4', pbc=False)

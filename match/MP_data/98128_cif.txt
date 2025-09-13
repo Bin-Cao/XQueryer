@@ -1,0 +1,2 @@
+CaF8LiU
+Atoms(symbols='LiCaUF8', pbc=False)

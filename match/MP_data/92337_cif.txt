@@ -1,0 +1,2 @@
+Cl28Mo4O4Se16Zr2
+Atoms(symbols='Zr2Mo4Se16Cl28O4', pbc=False)

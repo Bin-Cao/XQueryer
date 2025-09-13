@@ -1,0 +1,2 @@
+Ga4Rh4Ti4
+Atoms(symbols='TiGaRhTiGaRhTiGaRhTiGaRh', pbc=False)

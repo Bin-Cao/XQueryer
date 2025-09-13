@@ -1,0 +1,2 @@
+C36Si36
+Atoms(symbols='C36Si36', pbc=False)

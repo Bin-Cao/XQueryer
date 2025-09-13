@@ -1,0 +1,2 @@
+I10Nb2
+Atoms(symbols='Nb2I10', pbc=False)

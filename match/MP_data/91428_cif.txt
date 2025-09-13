@@ -1,0 +1,2 @@
+I18Mo3O54Rb6
+Atoms(symbols='I18Mo3O54Rb6', pbc=False)

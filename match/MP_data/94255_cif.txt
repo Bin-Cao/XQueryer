@@ -1,0 +1,2 @@
+C19Si19
+Atoms(symbols='Si19C19', pbc=False)

@@ -1,0 +1,2 @@
+Eu4Pt4Sn4
+Atoms(symbols='Eu4Sn4Pt4', pbc=False)

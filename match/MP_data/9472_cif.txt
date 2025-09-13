@@ -1,0 +1,2 @@
+Cr4Eu4O10
+Atoms(symbols='Eu4Cr4O10', pbc=False)

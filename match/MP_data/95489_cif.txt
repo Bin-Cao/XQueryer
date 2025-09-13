@@ -1,0 +1,2 @@
+C24Ag12K12N24
+Atoms(symbols='C24Ag12K12N24', pbc=False)

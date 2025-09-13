@@ -1,0 +1,2 @@
+Cr6Na8O28U2
+Atoms(symbols='Na8U2Cr6O28', pbc=False)

@@ -1,0 +1,2 @@
+Cl36P4Te4
+Atoms(symbols='Te4P4Cl36', pbc=False)

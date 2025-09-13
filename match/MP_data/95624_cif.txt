@@ -1,0 +1,2 @@
+I20Pb10
+Atoms(symbols='Pb10I20', pbc=False)

@@ -1,0 +1,2 @@
+Cu10Mg16Y10
+Atoms(symbols='Y10Mg16Cu10', pbc=False)

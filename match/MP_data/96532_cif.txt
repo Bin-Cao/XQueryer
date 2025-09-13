@@ -1,0 +1,2 @@
+H16N4O26P8Sn2
+Atoms(symbols='Sn2P8H16N4O26', pbc=False)

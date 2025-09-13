@@ -1,0 +1,2 @@
+Eu3InO
+Atoms(symbols='Eu3InO', pbc=False)

@@ -1,0 +1,2 @@
+P6Rb10Se30Sn2
+Atoms(symbols='Rb10Sn2P6Se30', pbc=False)

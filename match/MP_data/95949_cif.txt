@@ -1,0 +1,2 @@
+Mo8O32Sc4Tl4
+Atoms(symbols='Sc4Tl4Mo8O32', pbc=False)

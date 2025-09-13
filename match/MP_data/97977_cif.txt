@@ -1,0 +1,2 @@
+B6Ni21Sc2
+Atoms(symbols='Sc2Ni21B6', pbc=False)

@@ -1,0 +1,2 @@
+C26Co8Ge2O26
+Atoms(symbols='C26Co8Ge2O26', pbc=False)

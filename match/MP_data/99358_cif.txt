@@ -1,0 +1,2 @@
+Fe3I36Pr21
+Atoms(symbols='Pr7FeI12Pr7FeI12Pr7FeI12', pbc=False)

@@ -1,0 +1,2 @@
+Ba2Bi8O14
+Atoms(symbols='BaBi4O7BaBi4O7', pbc=False)

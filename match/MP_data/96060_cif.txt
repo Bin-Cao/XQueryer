@@ -1,0 +1,2 @@
+Gd4Mo2O24Se6
+Atoms(symbols='Gd4Mo2Se6O24', pbc=False)

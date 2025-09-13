@@ -1,0 +1,2 @@
+In18Pt26
+Atoms(symbols='In9Pt13In9Pt13', pbc=False)

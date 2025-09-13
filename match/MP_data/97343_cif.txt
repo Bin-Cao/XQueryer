@@ -1,0 +1,2 @@
+H8O32V12
+Atoms(symbols='V12H8O32', pbc=False)

@@ -1,0 +1,2 @@
+Cu4Hf6Se16Tl4
+Atoms(symbols='Hf3Tl2Cu2Se8Hf3Tl2Cu2Se8', pbc=False)

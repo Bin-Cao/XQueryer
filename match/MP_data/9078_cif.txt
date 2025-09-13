@@ -1,0 +1,2 @@
+Be20Co4
+Atoms(symbols='Be5CoBe5CoBe5CoBe5Co', pbc=False)

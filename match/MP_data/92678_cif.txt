@@ -1,0 +1,2 @@
+Cs4CuO7Si2
+Atoms(symbols='Cs4CuSi2O7', pbc=False)

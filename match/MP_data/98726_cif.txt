@@ -1,0 +1,2 @@
+F60K24Sb12
+Atoms(symbols='F60K24Sb12', pbc=False)

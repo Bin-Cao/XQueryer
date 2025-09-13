@@ -1,0 +1,2 @@
+CAlGd3
+Atoms(symbols='Gd3AlC', pbc=False)

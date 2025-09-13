@@ -1,0 +1,2 @@
+Al24Ce3Cu8Mn
+Atoms(symbols='Ce3MnAl24Cu8', pbc=False)

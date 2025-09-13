@@ -1,0 +1,2 @@
+Cl2F72O18S2Sb2Te14Xe2
+Atoms(symbols='Cl2F72O18S2Sb2Te14Xe2', pbc=False)

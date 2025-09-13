@@ -1,0 +1,2 @@
+Mo4O16Zr2
+Atoms(symbols='Zr2Mo4O16', pbc=False)

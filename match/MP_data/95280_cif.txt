@@ -1,0 +1,2 @@
+I12K4Tc2
+Atoms(symbols='K4Tc2I12', pbc=False)

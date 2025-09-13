@@ -1,0 +1,2 @@
+Cu9Na6O32P8
+Atoms(symbols='Na6Cu9P8O32', pbc=False)

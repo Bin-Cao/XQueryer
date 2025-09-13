@@ -1,0 +1,2 @@
+Cr4Hg4Ni8
+Atoms(symbols='CrNi2HgCrNi2HgCrNi2HgCrNi2Hg', pbc=False)

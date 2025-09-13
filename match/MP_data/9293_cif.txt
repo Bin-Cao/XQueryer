@@ -1,0 +1,2 @@
+Pt10U2
+Atoms(symbols='UPt5UPt5', pbc=False)

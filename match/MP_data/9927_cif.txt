@@ -1,0 +1,2 @@
+K4Na28O80V32
+Atoms(symbols='K4Na28O80V32', pbc=False)

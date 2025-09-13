@@ -1,0 +1,2 @@
+Ag8Ho6Sn8
+Atoms(symbols='Ho3Ag4Sn4Ho3Ag4Sn4', pbc=False)

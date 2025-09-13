@@ -1,0 +1,2 @@
+Bi16Mo16O72
+Atoms(symbols='Bi16Mo16O72', pbc=False)

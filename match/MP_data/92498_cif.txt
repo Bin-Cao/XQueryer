@@ -1,0 +1,2 @@
+O12Xe4
+Atoms(symbols='Xe4O12', pbc=False)

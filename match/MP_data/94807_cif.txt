@@ -1,0 +1,2 @@
+Bi4Cl4Cu12O32Te8
+Atoms(symbols='Cu12Bi4Te8Cl4O32', pbc=False)

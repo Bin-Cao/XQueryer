@@ -1,0 +1,2 @@
+O10U2
+Atoms(symbols='UO5UO5', pbc=False)

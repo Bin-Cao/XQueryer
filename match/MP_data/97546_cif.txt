@@ -1,0 +1,2 @@
+C16N16Se8
+Atoms(symbols='C16Se8N16', pbc=False)

@@ -1,0 +1,2 @@
+As16K24Nb4Tl4
+Atoms(symbols='K24Nb4Tl4As16', pbc=False)

@@ -1,0 +1,2 @@
+Co4La12
+Atoms(symbols='La12Co4', pbc=False)

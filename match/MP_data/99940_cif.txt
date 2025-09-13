@@ -1,0 +1,2 @@
+As8Br32Ga8Hg22
+Atoms(symbols='As8Br32Ga8Hg22', pbc=False)

@@ -1,0 +1,2 @@
+H48Al4B12
+Atoms(symbols='H48Al4B12', pbc=False)

@@ -1,0 +1,2 @@
+Br3Ce3Ga
+Atoms(symbols='Ce3GaBr3', pbc=False)

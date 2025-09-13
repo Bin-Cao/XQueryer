@@ -1,0 +1,2 @@
+B4O80P20Sr24
+Atoms(symbols='B4O80P20Sr24', pbc=False)

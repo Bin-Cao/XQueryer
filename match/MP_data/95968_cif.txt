@@ -1,0 +1,2 @@
+C6H24Na6O30Y2
+Atoms(symbols='C6H24Na6O30Y2', pbc=False)

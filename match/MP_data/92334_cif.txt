@@ -1,0 +1,2 @@
+As16K8Mo12O80
+Atoms(symbols='As16K8Mo12O80', pbc=False)

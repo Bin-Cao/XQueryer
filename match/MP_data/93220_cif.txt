@@ -1,0 +1,2 @@
+S88
+Atoms(symbols='S88', pbc=False)

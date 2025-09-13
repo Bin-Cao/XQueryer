@@ -1,0 +1,2 @@
+Al44Mo10
+Atoms(symbols='Al44Mo10', pbc=False)

@@ -1,0 +1,2 @@
+Mn78O144Sb6Si12
+Atoms(symbols='Mn78O144Sb6Si12', pbc=False)

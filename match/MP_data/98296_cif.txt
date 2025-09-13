@@ -1,0 +1,2 @@
+H4K2O6P2S2
+Atoms(symbols='KPH2SO3KPH2SO3', pbc=False)

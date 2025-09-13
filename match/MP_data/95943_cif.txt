@@ -1,0 +1,2 @@
+Re50Zr42
+Atoms(symbols='Re50Zr42', pbc=False)

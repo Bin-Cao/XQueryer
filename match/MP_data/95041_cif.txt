@@ -1,0 +1,2 @@
+Cs4Hg4Se10U2
+Atoms(symbols='Cs4U2Hg4Se10', pbc=False)

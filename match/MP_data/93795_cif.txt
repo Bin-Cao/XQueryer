@@ -1,0 +1,2 @@
+Hg3
+Atoms(symbols='Hg3', pbc=False)

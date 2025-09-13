@@ -1,0 +1,2 @@
+Na32Si16Te40
+Atoms(symbols='Na32Si16Te40', pbc=False)

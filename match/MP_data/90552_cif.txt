@@ -1,0 +1,2 @@
+Cu3F18Mo3
+Atoms(symbols='CuMoF6CuMoF6CuMoF6', pbc=False)

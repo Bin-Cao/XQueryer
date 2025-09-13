@@ -1,0 +1,2 @@
+SiU3
+Atoms(symbols='U3Si', pbc=False)

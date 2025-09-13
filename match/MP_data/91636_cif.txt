@@ -1,0 +1,2 @@
+F14K6Ni4
+Atoms(symbols='K3Ni2F7K3Ni2F7', pbc=False)

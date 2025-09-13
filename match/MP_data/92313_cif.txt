@@ -1,0 +1,2 @@
+Mo20Nd12O78
+Atoms(symbols='Mo20Nd12O78', pbc=False)

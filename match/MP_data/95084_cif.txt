@@ -1,0 +1,2 @@
+Ce16In32Ni28
+Atoms(symbols='Ce16In32Ni28', pbc=False)

@@ -1,0 +1,2 @@
+C6Cr21W2
+Atoms(symbols='Cr21W2C6', pbc=False)

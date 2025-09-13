@@ -1,0 +1,2 @@
+Cd17I34
+Atoms(symbols='Cd17I34', pbc=False)

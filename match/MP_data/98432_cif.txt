@@ -1,0 +1,2 @@
+MnO8Re2
+Atoms(symbols='MnRe2O8', pbc=False)

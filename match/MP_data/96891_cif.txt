@@ -1,0 +1,2 @@
+Cs6Mo30Te34
+Atoms(symbols='Cs6Mo30Te34', pbc=False)

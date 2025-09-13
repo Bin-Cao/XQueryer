@@ -1,0 +1,2 @@
+Ge32Na60P4Sn4
+Atoms(symbols='Ge32Na60P4Sn4', pbc=False)

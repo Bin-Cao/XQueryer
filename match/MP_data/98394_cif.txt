@@ -1,0 +1,2 @@
+H4Ba2Co4O18P4
+Atoms(symbols='Ba2Co4P4H4O18', pbc=False)

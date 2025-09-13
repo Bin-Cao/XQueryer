@@ -1,0 +1,2 @@
+Bi2Na10O28P8
+Atoms(symbols='Na10Bi2P8O28', pbc=False)

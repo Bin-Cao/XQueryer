@@ -1,0 +1,2 @@
+Ge8Li24Na8O32
+Atoms(symbols='Ge8Li24Na8O32', pbc=False)

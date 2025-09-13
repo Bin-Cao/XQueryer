@@ -1,0 +1,2 @@
+Ca2O12Sr4W2
+Atoms(symbols='Sr2CaWO6Sr2CaWO6', pbc=False)

@@ -1,0 +1,2 @@
+I12Li4U2
+Atoms(symbols='Li4U2I12', pbc=False)

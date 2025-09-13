@@ -1,0 +1,2 @@
+Ba4K2O30P10
+Atoms(symbols='K2Ba4P10O30', pbc=False)

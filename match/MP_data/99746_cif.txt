@@ -1,0 +1,2 @@
+Ce12O38Th8
+Atoms(symbols='Ce6Th4O19Ce6Th4O19', pbc=False)

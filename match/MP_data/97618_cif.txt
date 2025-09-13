@@ -1,0 +1,2 @@
+BiCe
+Atoms(symbols='CeBi', pbc=False)

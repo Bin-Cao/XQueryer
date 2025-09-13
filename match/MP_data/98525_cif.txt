@@ -1,0 +1,2 @@
+Br10CoGd6
+Atoms(symbols='Gd6CoBr10', pbc=False)

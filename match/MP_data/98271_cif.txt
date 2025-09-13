@@ -1,0 +1,2 @@
+Dy8Ge12Pt36
+Atoms(symbols='Dy4Ge6Pt18Dy4Ge6Pt18', pbc=False)

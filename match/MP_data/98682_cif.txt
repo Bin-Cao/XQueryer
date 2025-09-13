@@ -1,0 +1,2 @@
+Cs20Sb32
+Atoms(symbols='Cs20Sb32', pbc=False)

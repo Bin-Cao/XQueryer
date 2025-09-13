@@ -1,0 +1,2 @@
+Br18Cs6Sn3
+Atoms(symbols='Cs2SnBr6Cs2SnBr6Cs2SnBr6', pbc=False)

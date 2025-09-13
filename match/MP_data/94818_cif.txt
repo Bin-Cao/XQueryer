@@ -1,0 +1,2 @@
+Cd18K28Tl42
+Atoms(symbols='Cd18K28Tl42', pbc=False)

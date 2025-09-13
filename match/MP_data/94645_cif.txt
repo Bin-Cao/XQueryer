@@ -1,0 +1,2 @@
+Cl20Ga4N8Se12
+Atoms(symbols='Ga4Se12N8Cl20', pbc=False)

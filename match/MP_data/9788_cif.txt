@@ -1,0 +1,2 @@
+Ag4Cu16Er4
+Atoms(symbols='ErCu4AgErCu4AgErCu4AgErCu4Ag', pbc=False)

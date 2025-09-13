@@ -1,0 +1,2 @@
+C2AgLi
+Atoms(symbols='LiAgC2', pbc=False)

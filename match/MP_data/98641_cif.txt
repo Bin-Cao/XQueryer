@@ -1,0 +1,2 @@
+C20Fe4Mo2O20Se4
+Atoms(symbols='Fe4Mo2C20Se4O20', pbc=False)

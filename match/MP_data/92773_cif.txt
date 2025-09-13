@@ -1,0 +1,2 @@
+C8K2La2N16Si2
+Atoms(symbols='K2La2Si2C8N16', pbc=False)

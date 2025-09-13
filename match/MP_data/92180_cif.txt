@@ -1,0 +1,2 @@
+F12Mn2Na6
+Atoms(symbols='Na6Mn2F12', pbc=False)

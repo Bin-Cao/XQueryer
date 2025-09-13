@@ -1,0 +1,2 @@
+C18Fe6O18Te4
+Atoms(symbols='Fe6Te4C18O18', pbc=False)

@@ -1,0 +1,2 @@
+Bi2Pb2Se5
+Atoms(symbols='Bi2Pb2Se5', pbc=False)

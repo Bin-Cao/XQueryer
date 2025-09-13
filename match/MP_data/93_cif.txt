@@ -1,0 +1,2 @@
+Hf6
+Atoms(symbols='Hf6', pbc=False)

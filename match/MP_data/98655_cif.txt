@@ -1,0 +1,2 @@
+I18K6Ti6
+Atoms(symbols='K6Ti6I18', pbc=False)

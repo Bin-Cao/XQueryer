@@ -1,0 +1,2 @@
+Si4Te12Tl12
+Atoms(symbols='Tl12Si4Te12', pbc=False)

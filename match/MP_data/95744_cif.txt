@@ -1,0 +1,2 @@
+Gd4
+Atoms(symbols='Gd4', pbc=False)

@@ -1,0 +1,2 @@
+Be9Cl18
+Atoms(symbols='Be9Cl18', pbc=False)

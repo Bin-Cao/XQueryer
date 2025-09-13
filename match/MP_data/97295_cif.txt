@@ -1,0 +1,2 @@
+Hf12K16Te68
+Atoms(symbols='Hf12K16Te68', pbc=False)

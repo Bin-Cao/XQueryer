@@ -1,0 +1,2 @@
+Dy12Ni12Sn24
+Atoms(symbols='Dy12Ni12Sn24', pbc=False)

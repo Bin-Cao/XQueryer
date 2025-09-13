@@ -1,0 +1,2 @@
+Ag2Fe4Mo6O24
+Atoms(symbols='Fe4Ag2Mo6O24', pbc=False)

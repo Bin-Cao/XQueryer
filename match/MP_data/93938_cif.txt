@@ -1,0 +1,2 @@
+C16K10N16Nb2
+Atoms(symbols='K5NbC8N8K5NbC8N8', pbc=False)

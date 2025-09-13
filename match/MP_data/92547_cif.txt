@@ -1,0 +1,2 @@
+C8H28F8Fe2N2O2
+Atoms(symbols='Fe2H28C8N2O2F8', pbc=False)

@@ -1,0 +1,2 @@
+Ba8N20O40Tl4
+Atoms(symbols='Ba8N20O40Tl4', pbc=False)

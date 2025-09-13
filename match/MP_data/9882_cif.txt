@@ -1,0 +1,2 @@
+Cd2Ni8Pr2
+Atoms(symbols='PrCdNi4PrCdNi4', pbc=False)

@@ -1,0 +1,2 @@
+O68U26
+Atoms(symbols='O68U26', pbc=False)

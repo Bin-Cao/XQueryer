@@ -1,0 +1,2 @@
+C4H16N2O14V6
+Atoms(symbols='V6H16C4N2O14', pbc=False)

@@ -1,0 +1,2 @@
+Cd3N42Tl8
+Atoms(symbols='Tl8Cd3N42', pbc=False)

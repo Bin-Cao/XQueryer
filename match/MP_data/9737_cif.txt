@@ -1,0 +1,2 @@
+Ca18N12
+Atoms(symbols='Ca6N4Ca6N4Ca6N4', pbc=False)

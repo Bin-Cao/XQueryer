@@ -1,0 +1,2 @@
+Ho2Pt4Si4
+Atoms(symbols='HoSi2Pt2HoSi2Pt2', pbc=False)

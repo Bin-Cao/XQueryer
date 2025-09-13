@@ -1,0 +1,2 @@
+U6
+Atoms(symbols='U6', pbc=False)

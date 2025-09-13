@@ -1,0 +1,2 @@
+Br30Cs2N12Nb2Pr18
+Atoms(symbols='Br30Cs2N12Nb2Pr18', pbc=False)

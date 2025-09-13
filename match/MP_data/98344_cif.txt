@@ -1,0 +1,2 @@
+B48Mo20U10
+Atoms(symbols='B48Mo20U10', pbc=False)

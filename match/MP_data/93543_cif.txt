@@ -1,0 +1,2 @@
+Co18Si8Sm2
+Atoms(symbols='Sm2Co18Si8', pbc=False)

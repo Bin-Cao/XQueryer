@@ -1,0 +1,2 @@
+Cu21Pd7
+Atoms(symbols='Cu21Pd7', pbc=False)

@@ -1,0 +1,2 @@
+Cd10I20
+Atoms(symbols='Cd10I20', pbc=False)

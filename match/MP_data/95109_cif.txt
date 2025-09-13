@@ -1,0 +1,2 @@
+CuTh2
+Atoms(symbols='Th2Cu', pbc=False)

@@ -1,0 +1,2 @@
+B12Ga9Nd3O36
+Atoms(symbols='NdGa3B4O12NdGa3B4O12NdGa3B4O12', pbc=False)

@@ -1,0 +1,2 @@
+Mo24Nd4O48
+Atoms(symbols='Mo24Nd4O48', pbc=False)

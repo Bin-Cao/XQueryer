@@ -1,0 +1,2 @@
+K16Nb24O68
+Atoms(symbols='K16Nb24O68', pbc=False)

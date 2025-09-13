@@ -1,0 +1,2 @@
+Mn4Os4Tc4
+Atoms(symbols='MnTcOsMnTcOsMnTcOsMnTcOs', pbc=False)

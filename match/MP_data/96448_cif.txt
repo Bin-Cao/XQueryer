@@ -1,0 +1,2 @@
+Eu4F2K10O26Si8
+Atoms(symbols='K10Eu4Si8O26F2', pbc=False)

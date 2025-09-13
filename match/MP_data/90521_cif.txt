@@ -1,0 +1,2 @@
+As16O72Zn32
+Atoms(symbols='As16O72Zn32', pbc=False)

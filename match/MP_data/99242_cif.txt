@@ -1,0 +1,2 @@
+GaTi3
+Atoms(symbols='Ti3Ga', pbc=False)

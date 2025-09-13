@@ -1,0 +1,2 @@
+C16Na16O64Ti4Zr8
+Atoms(symbols='C16Na16O64Ti4Zr8', pbc=False)

@@ -1,0 +1,2 @@
+Fe12O48Te16
+Atoms(symbols='Fe12O48Te16', pbc=False)

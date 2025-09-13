@@ -1,0 +1,2 @@
+Ce20S38
+Atoms(symbols='Ce20S38', pbc=False)

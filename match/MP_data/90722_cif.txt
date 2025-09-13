@@ -1,0 +1,2 @@
+Hg8O12Se4
+Atoms(symbols='Hg8Se4O12', pbc=False)

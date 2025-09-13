@@ -1,0 +1,2 @@
+U12
+Atoms(symbols='U12', pbc=False)

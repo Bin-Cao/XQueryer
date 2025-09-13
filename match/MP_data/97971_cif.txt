@@ -1,0 +1,2 @@
+Al36Co12Nd8
+Atoms(symbols='Nd4Al18Co6Nd4Al18Co6', pbc=False)

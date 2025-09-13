@@ -1,0 +1,2 @@
+K12P12Se36
+Atoms(symbols='K6P6Se18K6P6Se18', pbc=False)

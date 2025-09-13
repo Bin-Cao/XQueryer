@@ -1,0 +1,2 @@
+Co3I36Pr21
+Atoms(symbols='Pr7CoI12Pr7CoI12Pr7CoI12', pbc=False)

@@ -1,0 +1,2 @@
+As4Mg4O14
+Atoms(symbols='Mg2As2O7Mg2As2O7', pbc=False)

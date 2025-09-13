@@ -1,0 +1,2 @@
+Ag2Co6La7O24Sm
+Atoms(symbols='La7SmCo6Ag2O24', pbc=False)

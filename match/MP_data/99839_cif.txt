@@ -1,0 +1,2 @@
+K4Nd12Te32
+Atoms(symbols='K4Nd12Te32', pbc=False)

@@ -1,0 +1,2 @@
+C6Cr21Mo2
+Atoms(symbols='Cr21Mo2C6', pbc=False)

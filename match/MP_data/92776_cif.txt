@@ -1,0 +1,2 @@
+Ba3Cl6
+Atoms(symbols='Ba3Cl6', pbc=False)

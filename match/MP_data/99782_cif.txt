@@ -1,0 +1,2 @@
+Ga12Ru4
+Atoms(symbols='Ga12Ru4', pbc=False)

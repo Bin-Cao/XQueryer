@@ -1,0 +1,2 @@
+C6H6Cl8Fe3N6
+Atoms(symbols='Fe3H6C6N6Cl8', pbc=False)

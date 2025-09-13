@@ -1,0 +1,2 @@
+Mo18O72Th9
+Atoms(symbols='Mo18O72Th9', pbc=False)

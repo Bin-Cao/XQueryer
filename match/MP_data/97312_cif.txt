@@ -1,0 +1,2 @@
+In4La4W4
+Atoms(symbols='LaInWLaInWLaInWLaInW', pbc=False)

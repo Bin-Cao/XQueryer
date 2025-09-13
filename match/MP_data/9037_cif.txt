@@ -1,0 +1,2 @@
+Bi2Er4O4
+Atoms(symbols='Er2BiO2Er2BiO2', pbc=False)

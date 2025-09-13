@@ -1,0 +1,2 @@
+Er9La10S27
+Atoms(symbols='La10Er9S27', pbc=False)

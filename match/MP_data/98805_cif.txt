@@ -1,0 +1,2 @@
+H18F3Na3O18Te3
+Atoms(symbols='NaTeH6O6FNaTeH6O6FNaTeH6O6F', pbc=False)

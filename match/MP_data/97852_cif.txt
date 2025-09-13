@@ -1,0 +1,2 @@
+Ge10Ir6La4
+Atoms(symbols='La4Ge10Ir6', pbc=False)

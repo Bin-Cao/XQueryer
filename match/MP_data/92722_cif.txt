@@ -1,0 +1,2 @@
+O56Si28
+Atoms(symbols='O56Si28', pbc=False)

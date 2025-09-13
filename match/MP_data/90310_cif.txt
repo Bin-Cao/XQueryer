@@ -1,0 +1,2 @@
+C12H18K6O6S12
+Atoms(symbols='K6H18C12S12O6', pbc=False)

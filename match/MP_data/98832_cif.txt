@@ -1,0 +1,2 @@
+As32Cs40In24
+Atoms(symbols='As32Cs40In24', pbc=False)

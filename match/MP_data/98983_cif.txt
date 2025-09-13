@@ -1,0 +1,2 @@
+Cl74Nd2O24P20Sn4
+Atoms(symbols='Cl74Nd2O24P20Sn4', pbc=False)

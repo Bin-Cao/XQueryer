@@ -1,0 +1,2 @@
+Cs2F6GaLi
+Atoms(symbols='Cs2LiGaF6', pbc=False)

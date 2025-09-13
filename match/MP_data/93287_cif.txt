@@ -1,0 +1,2 @@
+As12Cl4O48Pb20
+Atoms(symbols='As12Cl4O48Pb20', pbc=False)

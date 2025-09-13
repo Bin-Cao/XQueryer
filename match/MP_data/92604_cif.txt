@@ -1,0 +1,2 @@
+B28Fe12I4O52
+Atoms(symbols='B28Fe12I4O52', pbc=False)

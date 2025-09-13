@@ -1,0 +1,2 @@
+Cr6Hg3O21
+Atoms(symbols='Cr6Hg3O21', pbc=False)

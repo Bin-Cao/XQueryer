@@ -1,0 +1,2 @@
+Cr6F2O32Pb10Si2Zn
+Atoms(symbols='ZnCr6Si2Pb10O32F2', pbc=False)

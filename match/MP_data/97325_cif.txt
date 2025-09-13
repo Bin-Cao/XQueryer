@@ -1,0 +1,2 @@
+H14Br2O6
+Atoms(symbols='H14Br2O6', pbc=False)

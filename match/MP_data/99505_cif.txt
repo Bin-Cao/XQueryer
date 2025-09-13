@@ -1,0 +1,2 @@
+Br128Se32
+Atoms(symbols='Br128Se32', pbc=False)

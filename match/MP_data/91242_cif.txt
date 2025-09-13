@@ -1,0 +1,2 @@
+O26Sc4Te10
+Atoms(symbols='Sc4Te10O26', pbc=False)

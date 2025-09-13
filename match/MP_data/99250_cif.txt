@@ -1,0 +1,2 @@
+Cr22K6S36
+Atoms(symbols='Cr22K6S36', pbc=False)

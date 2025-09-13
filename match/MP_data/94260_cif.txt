@@ -1,0 +1,2 @@
+C20Al12Zr12
+Atoms(symbols='Zr6Al6C10Zr6Al6C10', pbc=False)

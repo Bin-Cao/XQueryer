@@ -1,0 +1,2 @@
+Au42In18
+Atoms(symbols='In18Au42', pbc=False)

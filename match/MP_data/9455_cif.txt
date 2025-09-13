@@ -1,0 +1,2 @@
+Ce4Ir20
+Atoms(symbols='CeIr5CeIr5CeIr5CeIr5', pbc=False)

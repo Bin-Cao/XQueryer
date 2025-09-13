@@ -1,0 +1,2 @@
+In2Li2Mg2Mo6O24
+Atoms(symbols='Li2Mg2In2Mo6O24', pbc=False)

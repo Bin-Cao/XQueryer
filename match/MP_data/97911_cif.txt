@@ -1,0 +1,2 @@
+H18Li10Pt4
+Atoms(symbols='Li10H18Pt4', pbc=False)

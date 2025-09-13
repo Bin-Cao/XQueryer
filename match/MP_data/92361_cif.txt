@@ -1,0 +1,2 @@
+Ba2F18Ni7
+Atoms(symbols='Ba2Ni7F18', pbc=False)

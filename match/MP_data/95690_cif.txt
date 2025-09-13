@@ -1,0 +1,2 @@
+O34Si17
+Atoms(symbols='Si17O34', pbc=False)

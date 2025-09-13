@@ -1,0 +1,2 @@
+Li16
+Atoms(symbols='Li16', pbc=False)

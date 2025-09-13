@@ -1,0 +1,2 @@
+Br18Na6U3
+Atoms(symbols='Na6U3Br18', pbc=False)

@@ -1,0 +1,2 @@
+Ni8Se4Ta4Te4
+Atoms(symbols='Ta4Ni8Te4Se4', pbc=False)

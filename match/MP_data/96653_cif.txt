@@ -1,0 +1,2 @@
+C12O12PtRe2
+Atoms(symbols='Re2PtC12O12', pbc=False)

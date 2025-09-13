@@ -1,0 +1,2 @@
+F80Mo4O20Te16
+Atoms(symbols='F80Mo4O20Te16', pbc=False)

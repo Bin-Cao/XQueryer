@@ -1,0 +1,2 @@
+H48Co4N4O28P12
+Atoms(symbols='H48Co4N4O28P12', pbc=False)

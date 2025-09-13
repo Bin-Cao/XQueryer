@@ -1,0 +1,2 @@
+Co4Mo8Tl4
+Atoms(symbols='TlCoMo2TlCoMo2TlCoMo2TlCoMo2', pbc=False)

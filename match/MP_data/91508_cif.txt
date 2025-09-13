@@ -1,0 +1,2 @@
+F60O12Te12U2
+Atoms(symbols='F60O12Te12U2', pbc=False)

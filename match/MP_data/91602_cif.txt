@@ -1,0 +1,2 @@
+B16Cu2O32Tb4
+Atoms(symbols='Tb4Cu2B16O32', pbc=False)

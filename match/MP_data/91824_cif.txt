@@ -1,0 +1,2 @@
+Al8K2Na6O32Si8
+Atoms(symbols='K2Na6Al8Si8O32', pbc=False)

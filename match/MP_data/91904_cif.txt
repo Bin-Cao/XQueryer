@@ -1,0 +1,2 @@
+Ga8Nd16O36
+Atoms(symbols='Nd16Ga8O36', pbc=False)

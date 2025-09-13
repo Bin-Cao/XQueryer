@@ -1,0 +1,2 @@
+O24Rb4Si8U2
+Atoms(symbols='Rb4U2Si8O24', pbc=False)

@@ -1,0 +1,2 @@
+Ce48In4Pt28
+Atoms(symbols='Ce48In4Pt28', pbc=False)

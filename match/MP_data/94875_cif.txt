@@ -1,0 +1,2 @@
+C8H26Ga2N4
+Atoms(symbols='Ga2H26C8N4', pbc=False)

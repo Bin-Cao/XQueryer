@@ -1,0 +1,2 @@
+Ga12Rb4S20
+Atoms(symbols='Rb4Ga12S20', pbc=False)

@@ -1,0 +1,2 @@
+Xe3
+Atoms(symbols='Xe3', pbc=False)

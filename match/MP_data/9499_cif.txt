@@ -1,0 +1,2 @@
+N3TaZr2
+Atoms(symbols='Zr2TaN3', pbc=False)

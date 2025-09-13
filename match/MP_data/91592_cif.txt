@@ -1,0 +1,2 @@
+Nd16O96Ti36
+Atoms(symbols='Nd16O96Ti36', pbc=False)

@@ -1,0 +1,2 @@
+Ga12Li12N24Sr12
+Atoms(symbols='Sr6Li6Ga6N12Sr6Li6Ga6N12', pbc=False)

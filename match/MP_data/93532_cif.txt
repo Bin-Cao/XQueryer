@@ -1,0 +1,2 @@
+Co6O48P12Sr12
+Atoms(symbols='Co6O48P12Sr12', pbc=False)

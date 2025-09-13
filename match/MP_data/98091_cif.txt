@@ -1,0 +1,2 @@
+O80P20Rb12Ti12
+Atoms(symbols='O80P20Rb12Ti12', pbc=False)

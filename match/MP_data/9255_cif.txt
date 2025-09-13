@@ -1,0 +1,2 @@
+GdS3Sr2
+Atoms(symbols='Sr2GdS3', pbc=False)

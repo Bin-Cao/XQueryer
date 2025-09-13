@@ -1,0 +1,2 @@
+Cl2Cu6Nd2O16Se4
+Atoms(symbols='Nd2Cu6Se4Cl2O16', pbc=False)

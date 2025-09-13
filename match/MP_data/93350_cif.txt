@@ -1,0 +1,2 @@
+H28Cd2F10Ga2O14
+Atoms(symbols='Cd2Ga2H28O14F10', pbc=False)

@@ -1,0 +1,2 @@
+I16Nb16O4Te36
+Atoms(symbols='I16Nb16O4Te36', pbc=False)

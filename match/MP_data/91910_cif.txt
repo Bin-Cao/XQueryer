@@ -1,0 +1,2 @@
+Cd2Mo6O24Th2
+Atoms(symbols='Th2Cd2Mo6O24', pbc=False)

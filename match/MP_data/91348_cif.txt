@@ -1,0 +1,2 @@
+La8Na24O64V16
+Atoms(symbols='La8Na24O64V16', pbc=False)

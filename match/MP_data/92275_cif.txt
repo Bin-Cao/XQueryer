@@ -1,0 +1,2 @@
+Cr4Si4Sm2
+Atoms(symbols='SmCr2Si2SmCr2Si2', pbc=False)

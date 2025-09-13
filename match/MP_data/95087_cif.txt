@@ -1,0 +1,2 @@
+C6I20La14
+Atoms(symbols='La14C6I20', pbc=False)

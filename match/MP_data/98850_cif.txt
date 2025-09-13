@@ -1,0 +1,2 @@
+Cl15NiZr6
+Atoms(symbols='Zr6NiCl15', pbc=False)

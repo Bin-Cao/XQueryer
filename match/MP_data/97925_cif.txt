@@ -1,0 +1,2 @@
+B16Y4
+Atoms(symbols='Y4B16', pbc=False)

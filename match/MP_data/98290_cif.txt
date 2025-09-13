@@ -1,0 +1,2 @@
+H16Ba2Mg4Ru2
+Atoms(symbols='Ba2Mg4H16Ru2', pbc=False)

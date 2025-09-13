@@ -1,0 +1,2 @@
+Mo4Na16O56S12
+Atoms(symbols='Mo4Na16O56S12', pbc=False)

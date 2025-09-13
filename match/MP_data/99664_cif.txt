@@ -1,0 +1,2 @@
+Fe48N18
+Atoms(symbols='Fe48N18', pbc=False)

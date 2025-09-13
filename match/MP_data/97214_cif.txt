@@ -1,0 +1,2 @@
+Co7In14Zr9
+Atoms(symbols='Zr9In14Co7', pbc=False)

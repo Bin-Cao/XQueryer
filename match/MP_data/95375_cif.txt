@@ -1,0 +1,2 @@
+I32Se36Ta16
+Atoms(symbols='I32Se36Ta16', pbc=False)

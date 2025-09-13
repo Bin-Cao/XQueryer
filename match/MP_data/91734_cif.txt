@@ -1,0 +1,2 @@
+As8S24Tl24
+Atoms(symbols='Tl24As8S24', pbc=False)

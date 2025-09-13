@@ -1,0 +1,2 @@
+Ho24N8Se24
+Atoms(symbols='Ho12Se12N4Ho12Se12N4', pbc=False)

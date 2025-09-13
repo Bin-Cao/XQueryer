@@ -1,0 +1,2 @@
+I32Nb8
+Atoms(symbols='Nb4I16Nb4I16', pbc=False)

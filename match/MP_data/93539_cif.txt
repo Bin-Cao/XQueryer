@@ -1,0 +1,2 @@
+Cl24O40Pb52
+Atoms(symbols='Cl24O40Pb52', pbc=False)

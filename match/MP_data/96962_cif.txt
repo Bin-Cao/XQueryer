@@ -1,0 +1,2 @@
+Ge4In4Re4
+Atoms(symbols='InReGeInReGeInReGeInReGe', pbc=False)

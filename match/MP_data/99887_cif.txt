@@ -1,0 +1,2 @@
+Ho2O19Zr8
+Atoms(symbols='Ho2Zr8O19', pbc=False)

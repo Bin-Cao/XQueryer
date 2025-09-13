@@ -1,0 +1,2 @@
+K12O52Si8U12
+Atoms(symbols='K12O52Si8U12', pbc=False)

@@ -1,0 +1,2 @@
+Er4K8N20O60
+Atoms(symbols='Er4K8N20O60', pbc=False)

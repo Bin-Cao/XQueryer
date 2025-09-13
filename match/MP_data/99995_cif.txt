@@ -1,0 +1,2 @@
+Cr4O14Sr6
+Atoms(symbols='Sr3Cr2O7Sr3Cr2O7', pbc=False)

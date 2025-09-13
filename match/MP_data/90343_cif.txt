@@ -1,0 +1,2 @@
+Nd12S34Si8
+Atoms(symbols='Nd12Si8S34', pbc=False)

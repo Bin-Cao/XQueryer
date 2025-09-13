@@ -1,0 +1,2 @@
+In22Sr6
+Atoms(symbols='Sr3In11Sr3In11', pbc=False)

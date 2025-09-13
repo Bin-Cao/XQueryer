@@ -1,0 +1,2 @@
+Au2I4K10O4
+Atoms(symbols='K10Au2I4O4', pbc=False)

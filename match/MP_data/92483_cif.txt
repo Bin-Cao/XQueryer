@@ -1,0 +1,2 @@
+C20Fe4O20Te4W2
+Atoms(symbols='Fe4Te4W2C20O20', pbc=False)

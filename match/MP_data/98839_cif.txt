@@ -1,0 +1,2 @@
+In40Ni22Tb8
+Atoms(symbols='In40Ni22Tb8', pbc=False)

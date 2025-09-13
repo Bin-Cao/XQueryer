@@ -1,0 +1,2 @@
+O20Pb8Te4
+Atoms(symbols='Te2Pb4O10Te2Pb4O10', pbc=False)

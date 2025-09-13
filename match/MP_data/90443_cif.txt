@@ -1,0 +1,2 @@
+Ba6Na2Nb2O17P2
+Atoms(symbols='Ba6Na2Nb2P2O17', pbc=False)

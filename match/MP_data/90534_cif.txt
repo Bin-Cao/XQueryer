@@ -1,0 +1,2 @@
+As8Cl12F20O4
+Atoms(symbols='As8Cl12O4F20', pbc=False)

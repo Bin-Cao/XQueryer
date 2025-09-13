@@ -1,0 +1,2 @@
+Ce8Pt28Si16
+Atoms(symbols='Ce8Si16Pt28', pbc=False)

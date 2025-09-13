@@ -1,0 +1,2 @@
+Co4Er4O12
+Atoms(symbols='Er4Co4O12', pbc=False)

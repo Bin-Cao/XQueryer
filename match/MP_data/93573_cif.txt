@@ -1,0 +1,2 @@
+Na12Sn4Zn2
+Atoms(symbols='Na6ZnSn2Na6ZnSn2', pbc=False)

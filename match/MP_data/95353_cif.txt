@@ -1,0 +1,2 @@
+Cl36N4W8
+Atoms(symbols='W8N4Cl36', pbc=False)

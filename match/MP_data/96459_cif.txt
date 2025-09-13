@@ -1,0 +1,2 @@
+O32Pr8Se8Ta12
+Atoms(symbols='Pr8Ta12Se8O32', pbc=False)

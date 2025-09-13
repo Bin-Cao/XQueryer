@@ -1,0 +1,2 @@
+As2CdF12N12O6S18
+Atoms(symbols='CdAs2S18N12O6F12', pbc=False)

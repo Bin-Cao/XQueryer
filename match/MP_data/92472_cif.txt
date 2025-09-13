@@ -1,0 +1,2 @@
+O36Si18
+Atoms(symbols='Si18O36', pbc=False)

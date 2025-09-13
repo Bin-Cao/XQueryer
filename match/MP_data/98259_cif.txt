@@ -1,0 +1,2 @@
+Gd2Ru4
+Atoms(symbols='Gd2Ru4', pbc=False)

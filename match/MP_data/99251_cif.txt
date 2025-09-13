@@ -1,0 +1,2 @@
+Bi4O6
+Atoms(symbols='Bi2O3Bi2O3', pbc=False)

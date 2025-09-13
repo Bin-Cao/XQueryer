@@ -1,0 +1,2 @@
+Be20Pd4
+Atoms(symbols='Be5PdBe5PdBe5PdBe5Pd', pbc=False)

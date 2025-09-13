@@ -1,0 +1,2 @@
+Cs12Mo20O100P24
+Atoms(symbols='Cs12Mo20O100P24', pbc=False)

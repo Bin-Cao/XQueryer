@@ -1,0 +1,2 @@
+C20H12O20P4W4
+Atoms(symbols='P4H12W4C20O20', pbc=False)

@@ -1,0 +1,2 @@
+Cl14Nb6O10Rb4
+Atoms(symbols='Rb4Nb6Cl14O10', pbc=False)

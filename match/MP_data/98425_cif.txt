@@ -1,0 +1,2 @@
+H24Cs4Li8N12
+Atoms(symbols='Cs2Li4H12N6Cs2Li4H12N6', pbc=False)

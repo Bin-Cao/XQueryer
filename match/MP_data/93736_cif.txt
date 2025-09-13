@@ -1,0 +1,2 @@
+Gd6Mn2Si6Ti4
+Atoms(symbols='Gd6Ti4Mn2Si6', pbc=False)

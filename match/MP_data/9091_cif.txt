@@ -1,0 +1,2 @@
+C2Co4Pr4Si2
+Atoms(symbols='Pr2Co2SiCPr2Co2SiC', pbc=False)

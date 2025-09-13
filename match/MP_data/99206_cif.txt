@@ -1,0 +1,2 @@
+F96Xe16
+Atoms(symbols='F96Xe16', pbc=False)

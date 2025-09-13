@@ -1,0 +1,2 @@
+Re16Si28
+Atoms(symbols='Re8Si14Re8Si14', pbc=False)

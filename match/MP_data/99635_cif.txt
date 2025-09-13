@@ -1,0 +1,2 @@
+I40Pb4Tl24
+Atoms(symbols='I40Pb4Tl24', pbc=False)

@@ -1,0 +1,2 @@
+Bi4Gd4Ni4
+Atoms(symbols='GdNiBiGdNiBiGdNiBiGdNiBi', pbc=False)

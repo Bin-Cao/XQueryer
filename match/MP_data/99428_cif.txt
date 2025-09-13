@@ -1,0 +1,2 @@
+As10Cs14In6Nb2
+Atoms(symbols='Cs14Nb2In6As10', pbc=False)

@@ -1,0 +1,2 @@
+Cd16K16O64V16
+Atoms(symbols='Cd16K16O64V16', pbc=False)

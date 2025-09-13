@@ -1,0 +1,2 @@
+O32Si16
+Atoms(symbols='Si8O16Si8O16', pbc=False)

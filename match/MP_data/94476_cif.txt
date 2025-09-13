@@ -1,0 +1,2 @@
+C6Mn2N6Ru
+Atoms(symbols='Mn2RuC6N6', pbc=False)

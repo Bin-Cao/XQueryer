@@ -1,0 +1,2 @@
+Co2Mg3Nd4
+Atoms(symbols='Nd4Mg3Co2', pbc=False)

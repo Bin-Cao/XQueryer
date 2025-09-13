@@ -1,0 +1,2 @@
+H16Mg4Sr4
+Atoms(symbols='Sr2Mg2H8Sr2Mg2H8', pbc=False)

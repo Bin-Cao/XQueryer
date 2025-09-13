@@ -1,0 +1,2 @@
+Ga13Nb5
+Atoms(symbols='Nb5Ga13', pbc=False)

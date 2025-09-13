@@ -1,0 +1,2 @@
+F24Ir4
+Atoms(symbols='Ir4F24', pbc=False)

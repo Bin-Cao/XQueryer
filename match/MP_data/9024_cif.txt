@@ -1,0 +1,2 @@
+Al2Ga2O14Sr4Ti4
+Atoms(symbols='Sr4Ti4Al2Ga2O14', pbc=False)

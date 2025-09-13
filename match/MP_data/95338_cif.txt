@@ -1,0 +1,2 @@
+Fe12La3P36
+Atoms(symbols='LaFe4P12LaFe4P12LaFe4P12', pbc=False)

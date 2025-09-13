@@ -1,0 +1,2 @@
+Cl52Na12W12
+Atoms(symbols='Cl52Na12W12', pbc=False)

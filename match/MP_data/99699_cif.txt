@@ -1,0 +1,2 @@
+Fe5O12Ti3
+Atoms(symbols='Ti3Fe5O12', pbc=False)

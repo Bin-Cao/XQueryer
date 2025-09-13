@@ -1,0 +1,2 @@
+H24O20Rb4Te2
+Atoms(symbols='Rb4Te2H24O20', pbc=False)

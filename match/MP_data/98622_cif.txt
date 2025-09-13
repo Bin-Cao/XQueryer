@@ -1,0 +1,2 @@
+P8S26V4
+Atoms(symbols='V4P8S26', pbc=False)

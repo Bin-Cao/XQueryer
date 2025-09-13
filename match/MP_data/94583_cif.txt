@@ -1,0 +1,2 @@
+Co4Hf2Si4
+Atoms(symbols='HfCo2Si2HfCo2Si2', pbc=False)

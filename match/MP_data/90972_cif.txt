@@ -1,0 +1,2 @@
+O24Pr10Ru4
+Atoms(symbols='Pr5Ru2O12Pr5Ru2O12', pbc=False)

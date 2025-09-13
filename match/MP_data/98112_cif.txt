@@ -1,0 +1,2 @@
+Al9B12O36Y3
+Atoms(symbols='YAl3B4O12YAl3B4O12YAl3B4O12', pbc=False)

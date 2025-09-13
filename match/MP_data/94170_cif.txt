@@ -1,0 +1,2 @@
+Al6Pt4
+Atoms(symbols='Al6Pt4', pbc=False)

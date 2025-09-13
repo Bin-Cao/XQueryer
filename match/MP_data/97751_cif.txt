@@ -1,0 +1,2 @@
+C2O2S2
+Atoms(symbols='CSOCSO', pbc=False)

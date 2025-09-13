@@ -1,0 +1,2 @@
+AlKO8S2
+Atoms(symbols='KAlS2O8', pbc=False)

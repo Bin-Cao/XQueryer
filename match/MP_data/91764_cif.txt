@@ -1,0 +1,2 @@
+C6H18Br2N4S4
+Atoms(symbols='H18C6S4Br2N4', pbc=False)

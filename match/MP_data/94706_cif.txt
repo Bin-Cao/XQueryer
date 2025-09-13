@@ -1,0 +1,2 @@
+K20Ta20Te60
+Atoms(symbols='K20Ta20Te60', pbc=False)

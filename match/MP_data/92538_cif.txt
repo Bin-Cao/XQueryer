@@ -1,0 +1,2 @@
+K2O16Ru8
+Atoms(symbols='KRu4O8KRu4O8', pbc=False)

@@ -1,0 +1,2 @@
+BaO56P4W16
+Atoms(symbols='BaO56P4W16', pbc=False)

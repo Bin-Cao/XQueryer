@@ -1,0 +1,2 @@
+Ga16Rb16S32
+Atoms(symbols='Ga16Rb16S32', pbc=False)

@@ -1,0 +1,2 @@
+O42Tl4V16
+Atoms(symbols='O42Tl4V16', pbc=False)

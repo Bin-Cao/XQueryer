@@ -1,0 +1,2 @@
+Mo2Nd4O20Se4
+Atoms(symbols='Nd4Mo2Se4O20', pbc=False)

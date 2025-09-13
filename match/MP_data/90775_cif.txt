@@ -1,0 +1,2 @@
+As4Cu4O16Tl8
+Atoms(symbols='Tl8Cu4As4O16', pbc=False)

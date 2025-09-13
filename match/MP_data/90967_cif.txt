@@ -1,0 +1,2 @@
+H4B12Li4Na4O32Si4
+Atoms(symbols='Na4Li4Si4B12H4O32', pbc=False)

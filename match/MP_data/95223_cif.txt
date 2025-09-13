@@ -1,0 +1,2 @@
+Co14Dy24
+Atoms(symbols='Dy24Co14', pbc=False)

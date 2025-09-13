@@ -1,0 +1,2 @@
+Ni6Ta2
+Atoms(symbols='TaNi3TaNi3', pbc=False)

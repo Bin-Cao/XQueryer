@@ -1,0 +1,2 @@
+EuFeMg2
+Atoms(symbols='EuMg2Fe', pbc=False)

@@ -1,0 +1,2 @@
+Cr6Cs12N30O90
+Atoms(symbols='Cr6Cs12N30O90', pbc=False)

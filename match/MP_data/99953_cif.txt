@@ -1,0 +1,2 @@
+Dy10O25Ti5
+Atoms(symbols='Dy10Ti5O25', pbc=False)

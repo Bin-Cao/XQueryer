@@ -1,0 +1,2 @@
+Mo32O92
+Atoms(symbols='Mo32O92', pbc=False)

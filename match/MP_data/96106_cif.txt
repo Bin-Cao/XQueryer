@@ -1,0 +1,2 @@
+C12H24In4O36
+Atoms(symbols='C12H24In4O36', pbc=False)

@@ -1,0 +1,2 @@
+BiGd
+Atoms(symbols='GdBi', pbc=False)

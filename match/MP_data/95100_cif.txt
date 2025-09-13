@@ -1,0 +1,2 @@
+Cu3Pd
+Atoms(symbols='Cu3Pd', pbc=False)

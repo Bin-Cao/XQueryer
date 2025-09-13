@@ -1,0 +1,2 @@
+Ga16Mg16
+Atoms(symbols='Mg16Ga16', pbc=False)

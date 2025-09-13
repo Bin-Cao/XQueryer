@@ -1,0 +1,2 @@
+F32Zr8
+Atoms(symbols='Zr8F32', pbc=False)

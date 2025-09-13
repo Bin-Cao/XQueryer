@@ -1,0 +1,2 @@
+GeTe
+Atoms(symbols='GeTe', pbc=False)

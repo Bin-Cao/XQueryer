@@ -1,0 +1,2 @@
+Cl15P3
+Atoms(symbols='P3Cl15', pbc=False)

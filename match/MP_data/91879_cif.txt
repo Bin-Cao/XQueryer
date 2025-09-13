@@ -1,0 +1,2 @@
+Ho4K12O36Si12
+Atoms(symbols='Ho4K12O36Si12', pbc=False)

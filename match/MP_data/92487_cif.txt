@@ -1,0 +1,2 @@
+F4O24S4Tc4
+Atoms(symbols='Tc4S4O24F4', pbc=False)

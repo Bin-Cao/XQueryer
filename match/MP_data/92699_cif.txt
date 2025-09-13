@@ -1,0 +1,2 @@
+Cu24Pr4
+Atoms(symbols='Pr4Cu24', pbc=False)

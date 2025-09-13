@@ -1,0 +1,2 @@
+C8H28Br8N4Sn2
+Atoms(symbols='Sn2H28C8Br8N4', pbc=False)

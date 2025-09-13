@@ -1,0 +1,2 @@
+As12F24S16Sb4
+Atoms(symbols='Sb4As12S16F24', pbc=False)

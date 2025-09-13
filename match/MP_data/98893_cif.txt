@@ -1,0 +1,2 @@
+Hg16I32
+Atoms(symbols='Hg16I32', pbc=False)

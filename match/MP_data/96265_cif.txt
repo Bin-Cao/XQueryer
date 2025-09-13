@@ -1,0 +1,2 @@
+C2B4Dy2Ni4
+Atoms(symbols='DyNi2B2CDyNi2B2C', pbc=False)

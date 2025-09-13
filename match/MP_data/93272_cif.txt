@@ -1,0 +1,2 @@
+Cl16Co4N4O12Rb12
+Atoms(symbols='Rb12Co4N4Cl16O12', pbc=False)

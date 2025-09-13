@@ -1,0 +1,2 @@
+Ca16Nb16O56
+Atoms(symbols='Ca16Nb16O56', pbc=False)

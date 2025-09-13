@@ -1,0 +1,2 @@
+Cl2K2N2O4Pd
+Atoms(symbols='K2PdN2Cl2O4', pbc=False)

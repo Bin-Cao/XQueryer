@@ -1,0 +1,2 @@
+In18Nd22Pd8
+Atoms(symbols='Nd11In9Pd4Nd11In9Pd4', pbc=False)

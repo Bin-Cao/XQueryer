@@ -1,0 +1,2 @@
+Re20Si36U20
+Atoms(symbols='Re20Si36U20', pbc=False)

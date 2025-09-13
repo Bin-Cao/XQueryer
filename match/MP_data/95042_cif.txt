@@ -1,0 +1,2 @@
+B12Fe92Nd8
+Atoms(symbols='B12Fe92Nd8', pbc=False)

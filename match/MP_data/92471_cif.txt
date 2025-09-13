@@ -1,0 +1,2 @@
+Ga3Mo12S24
+Atoms(symbols='GaMo4S8GaMo4S8GaMo4S8', pbc=False)

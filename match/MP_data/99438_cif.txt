@@ -1,0 +1,2 @@
+In8Ni4S16
+Atoms(symbols='In4Ni2S8In4Ni2S8', pbc=False)

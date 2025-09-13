@@ -1,0 +1,2 @@
+Nb28O70
+Atoms(symbols='Nb28O70', pbc=False)

@@ -1,0 +1,2 @@
+Ba4Ca4Ru8
+Atoms(symbols='BaCaRu2BaCaRu2BaCaRu2BaCaRu2', pbc=False)

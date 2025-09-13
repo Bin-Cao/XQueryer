@@ -1,0 +1,2 @@
+Au24Te36
+Atoms(symbols='Te36Au24', pbc=False)

@@ -1,0 +1,2 @@
+N72Pb12
+Atoms(symbols='N72Pb12', pbc=False)

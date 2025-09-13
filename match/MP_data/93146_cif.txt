@@ -1,0 +1,2 @@
+Al80Ba42
+Atoms(symbols='Al80Ba42', pbc=False)

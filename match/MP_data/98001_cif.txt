@@ -1,0 +1,2 @@
+GdMn12
+Atoms(symbols='GdMn12', pbc=False)

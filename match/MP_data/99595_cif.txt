@@ -1,0 +1,2 @@
+Cl28O12Re8
+Atoms(symbols='Re8Cl28O12', pbc=False)

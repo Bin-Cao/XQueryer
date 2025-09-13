@@ -1,0 +1,2 @@
+B4Ni4Ta4
+Atoms(symbols='Ta2Ni2B2Ta2Ni2B2', pbc=False)

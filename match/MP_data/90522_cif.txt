@@ -1,0 +1,2 @@
+Ba4Cl2In2O6
+Atoms(symbols='Ba4In2Cl2O6', pbc=False)

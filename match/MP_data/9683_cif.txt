@@ -1,0 +1,2 @@
+Cu16Gd4In4
+Atoms(symbols='GdInCu4GdInCu4GdInCu4GdInCu4', pbc=False)

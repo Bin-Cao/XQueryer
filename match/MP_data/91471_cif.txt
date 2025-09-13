@@ -1,0 +1,2 @@
+O34V18
+Atoms(symbols='V18O34', pbc=False)

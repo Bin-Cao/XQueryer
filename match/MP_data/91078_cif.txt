@@ -1,0 +1,2 @@
+Na6O22P6Th2
+Atoms(symbols='Na6Th2P6O22', pbc=False)

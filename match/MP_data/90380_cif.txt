@@ -1,0 +1,2 @@
+K2Li8Nb2O10
+Atoms(symbols='K2Li8Nb2O10', pbc=False)

@@ -1,0 +1,2 @@
+Cu24Ga64V16
+Atoms(symbols='Cu24Ga64V16', pbc=False)

@@ -1,0 +1,2 @@
+Cl24Eu20O16Si4
+Atoms(symbols='Cl24Eu20O16Si4', pbc=False)

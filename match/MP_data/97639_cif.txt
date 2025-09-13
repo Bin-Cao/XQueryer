@@ -1,0 +1,2 @@
+BF4K
+Atoms(symbols='KBF4', pbc=False)

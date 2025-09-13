@@ -1,0 +1,2 @@
+Er2F8Na2
+Atoms(symbols='Na2Er2F8', pbc=False)

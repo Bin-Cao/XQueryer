@@ -1,0 +1,2 @@
+Cl16Co4Rb8
+Atoms(symbols='Rb8Co4Cl16', pbc=False)

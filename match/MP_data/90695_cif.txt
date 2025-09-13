@@ -1,0 +1,2 @@
+S32
+Atoms(symbols='S32', pbc=False)

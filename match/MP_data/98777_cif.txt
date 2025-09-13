@@ -1,0 +1,2 @@
+Ce16N8Te12
+Atoms(symbols='Ce16Te12N8', pbc=False)

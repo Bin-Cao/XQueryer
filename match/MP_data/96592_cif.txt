@@ -1,0 +1,2 @@
+C4Ce12Cl20
+Atoms(symbols='Ce12C4Cl20', pbc=False)

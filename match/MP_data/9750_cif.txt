@@ -1,0 +1,2 @@
+H2Fe2Ti2
+Atoms(symbols='Ti2Fe2H2', pbc=False)

@@ -1,0 +1,2 @@
+Cl36La2O34P10
+Atoms(symbols='Cl36La2O34P10', pbc=False)

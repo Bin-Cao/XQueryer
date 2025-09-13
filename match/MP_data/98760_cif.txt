@@ -1,0 +1,2 @@
+H16Cu4F32Fe8O8
+Atoms(symbols='H16Cu4F32Fe8O8', pbc=False)

@@ -1,0 +1,2 @@
+Ga2MnSe4
+Atoms(symbols='MnGa2Se4', pbc=False)

@@ -1,0 +1,2 @@
+H3Na3O3
+Atoms(symbols='NaHONaHONaHO', pbc=False)

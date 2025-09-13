@@ -1,0 +1,2 @@
+I36La18Na3Os3
+Atoms(symbols='NaLa6OsI12NaLa6OsI12NaLa6OsI12', pbc=False)

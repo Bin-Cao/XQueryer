@@ -1,0 +1,2 @@
+Cl28K4Mo8O8
+Atoms(symbols='K2Mo4Cl14O4K2Mo4Cl14O4', pbc=False)

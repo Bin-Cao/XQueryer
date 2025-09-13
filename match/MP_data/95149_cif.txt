@@ -1,0 +1,2 @@
+Br28Cs4Nb12S4
+Atoms(symbols='Cs4Nb12S4Br28', pbc=False)

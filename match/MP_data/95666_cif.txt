@@ -1,0 +1,2 @@
+As20Cs8Ga12O72
+Atoms(symbols='As20Cs8Ga12O72', pbc=False)

@@ -1,0 +1,2 @@
+H4KO13P2V2
+Atoms(symbols='KV2P2H4O13', pbc=False)

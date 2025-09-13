@@ -1,0 +1,2 @@
+Cu4K4Se12U4
+Atoms(symbols='K2U2Cu2Se6K2U2Cu2Se6', pbc=False)

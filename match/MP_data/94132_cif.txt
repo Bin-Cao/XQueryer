@@ -1,0 +1,2 @@
+C8Br40La24
+Atoms(symbols='C8Br40La24', pbc=False)

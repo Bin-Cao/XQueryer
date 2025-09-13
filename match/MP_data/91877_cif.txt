@@ -1,0 +1,2 @@
+K4Mo48S56
+Atoms(symbols='K4Mo48S56', pbc=False)

@@ -1,0 +1,2 @@
+Al6Cs2O40P12
+Atoms(symbols='Cs2Al6P12O40', pbc=False)

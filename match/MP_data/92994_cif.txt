@@ -1,0 +1,2 @@
+Ga40
+Atoms(symbols='Ga40', pbc=False)

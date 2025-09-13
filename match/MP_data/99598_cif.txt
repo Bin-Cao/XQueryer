@@ -1,0 +1,2 @@
+LaO20Zr9
+Atoms(symbols='LaZr9O20', pbc=False)

@@ -1,0 +1,2 @@
+Cd9I18
+Atoms(symbols='Cd9I18', pbc=False)

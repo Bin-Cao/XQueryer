@@ -1,0 +1,2 @@
+Ge4O20Sr4Ti4
+Atoms(symbols='Sr4Ti4Ge4O20', pbc=False)

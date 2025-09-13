@@ -1,0 +1,2 @@
+I14Nb6Te2
+Atoms(symbols='Nb3TeI7Nb3TeI7', pbc=False)

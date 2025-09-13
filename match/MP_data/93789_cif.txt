@@ -1,0 +1,2 @@
+Hf8I32
+Atoms(symbols='Hf4I16Hf4I16', pbc=False)

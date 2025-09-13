@@ -1,0 +1,2 @@
+ErZn5
+Atoms(symbols='ErZn5', pbc=False)

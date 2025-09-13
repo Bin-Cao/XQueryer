@@ -1,0 +1,2 @@
+I2Zn
+Atoms(symbols='ZnI2', pbc=False)

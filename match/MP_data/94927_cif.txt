@@ -1,0 +1,2 @@
+C18H54Br2N4P2Si6
+Atoms(symbols='C18H54Br2N4P2Si6', pbc=False)

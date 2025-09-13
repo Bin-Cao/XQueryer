@@ -1,0 +1,2 @@
+La4O18Th6
+Atoms(symbols='La2Th3O9La2Th3O9', pbc=False)

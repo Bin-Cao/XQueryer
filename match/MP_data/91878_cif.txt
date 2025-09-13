@@ -1,0 +1,2 @@
+Ca14Cu2O24Pt4
+Atoms(symbols='Ca7CuPt2O12Ca7CuPt2O12', pbc=False)

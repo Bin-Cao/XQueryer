@@ -1,0 +1,2 @@
+Cs2La2O24P8
+Atoms(symbols='Cs2La2P8O24', pbc=False)

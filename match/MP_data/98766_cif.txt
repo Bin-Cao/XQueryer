@@ -1,0 +1,2 @@
+As12Na36
+Atoms(symbols='Na18As6Na18As6', pbc=False)

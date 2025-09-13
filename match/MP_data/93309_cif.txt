@@ -1,0 +1,2 @@
+Pr8Sc12Si16
+Atoms(symbols='Pr8Sc12Si16', pbc=False)

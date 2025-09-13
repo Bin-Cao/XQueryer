@@ -1,0 +1,2 @@
+C8La2N16Rb2Si2
+Atoms(symbols='RbLaSiC4N8RbLaSiC4N8', pbc=False)

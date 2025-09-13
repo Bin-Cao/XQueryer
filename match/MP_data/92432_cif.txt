@@ -1,0 +1,2 @@
+C18Ba12Cs12O54
+Atoms(symbols='C18Ba12Cs12O54', pbc=False)

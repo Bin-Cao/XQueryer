@@ -1,0 +1,2 @@
+Na16
+Atoms(symbols='Na16', pbc=False)

@@ -1,0 +1,2 @@
+Br24O40Pb52
+Atoms(symbols='Br24O40Pb52', pbc=False)

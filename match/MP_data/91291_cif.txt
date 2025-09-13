@@ -1,0 +1,2 @@
+Cl16K12N4O12Zn4
+Atoms(symbols='K12Zn4N4Cl16O12', pbc=False)

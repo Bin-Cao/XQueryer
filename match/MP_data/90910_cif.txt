@@ -1,0 +1,2 @@
+B3O15P3Sr3
+Atoms(symbols='Sr3B3P3O15', pbc=False)

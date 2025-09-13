@@ -1,0 +1,2 @@
+Ge40In6K8
+Atoms(symbols='K8In6Ge40', pbc=False)

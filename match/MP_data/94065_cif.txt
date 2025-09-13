@@ -1,0 +1,2 @@
+In32Pt14Tb4
+Atoms(symbols='Tb2In16Pt7Tb2In16Pt7', pbc=False)

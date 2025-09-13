@@ -1,0 +1,2 @@
+S34Si8Sm12
+Atoms(symbols='Sm12Si8S34', pbc=False)

@@ -1,0 +1,2 @@
+Cs4I24Ta4
+Atoms(symbols='Cs2Ta2I12Cs2Ta2I12', pbc=False)

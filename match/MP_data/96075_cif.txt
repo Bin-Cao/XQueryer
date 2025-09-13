@@ -1,0 +1,2 @@
+F6K2O2Te2
+Atoms(symbols='K2Te2O2F6', pbc=False)

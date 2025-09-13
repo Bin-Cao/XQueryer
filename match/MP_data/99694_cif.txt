@@ -1,0 +1,2 @@
+C28O26Ru8
+Atoms(symbols='C28O26Ru8', pbc=False)

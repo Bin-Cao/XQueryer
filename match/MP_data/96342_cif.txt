@@ -1,0 +1,2 @@
+C48H24
+Atoms(symbols='C48H24', pbc=False)

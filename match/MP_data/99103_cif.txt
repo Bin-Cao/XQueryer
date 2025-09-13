@@ -1,0 +1,2 @@
+Ce6In14Pt11
+Atoms(symbols='Ce6In14Pt11', pbc=False)

@@ -1,0 +1,2 @@
+Ba8In20P20
+Atoms(symbols='Ba8In20P20', pbc=False)

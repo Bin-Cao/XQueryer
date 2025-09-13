@@ -1,0 +1,2 @@
+Cd4Dy16Rh4
+Atoms(symbols='Dy16Cd4Rh4', pbc=False)

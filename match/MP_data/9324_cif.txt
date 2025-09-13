@@ -1,0 +1,2 @@
+CeNi4Si
+Atoms(symbols='CeSiNi4', pbc=False)

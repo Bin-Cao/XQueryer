@@ -1,0 +1,2 @@
+Ba2La2Ni2O12Ru2
+Atoms(symbols='BaLaNiRuO6BaLaNiRuO6', pbc=False)

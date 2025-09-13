@@ -1,0 +1,2 @@
+Cu4Lu24Te8
+Atoms(symbols='Lu24Cu4Te8', pbc=False)

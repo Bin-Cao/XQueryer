@@ -1,0 +1,2 @@
+CuInPt2
+Atoms(symbols='InCuPt2', pbc=False)

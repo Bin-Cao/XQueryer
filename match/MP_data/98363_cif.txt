@@ -1,0 +1,2 @@
+Fe12Ga12U2
+Atoms(symbols='UGa6Fe6UGa6Fe6', pbc=False)

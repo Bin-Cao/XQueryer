@@ -1,0 +1,2 @@
+H20Al4Sr4
+Atoms(symbols='Sr4Al4H20', pbc=False)

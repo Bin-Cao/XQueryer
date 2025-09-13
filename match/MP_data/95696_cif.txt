@@ -1,0 +1,2 @@
+Co8Y12
+Atoms(symbols='Y12Co8', pbc=False)

@@ -1,0 +1,2 @@
+GeI2
+Atoms(symbols='GeI2', pbc=False)

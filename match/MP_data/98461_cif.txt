@@ -1,0 +1,2 @@
+H14Li2Mg4Ru2
+Atoms(symbols='Li2Mg4H14Ru2', pbc=False)

@@ -1,0 +1,2 @@
+In22Ni12Pr10
+Atoms(symbols='Pr5In11Ni6Pr5In11Ni6', pbc=False)

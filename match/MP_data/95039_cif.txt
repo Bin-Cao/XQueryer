@@ -1,0 +1,2 @@
+K20Na4Se108Ti24
+Atoms(symbols='K20Na4Se108Ti24', pbc=False)

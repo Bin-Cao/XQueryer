@@ -1,0 +1,2 @@
+EuMg2Sb2
+Atoms(symbols='EuMg2Sb2', pbc=False)

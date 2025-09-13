@@ -1,0 +1,2 @@
+H12B4
+Atoms(symbols='B4H12', pbc=False)

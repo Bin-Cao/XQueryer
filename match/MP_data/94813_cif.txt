@@ -1,0 +1,2 @@
+CdEu
+Atoms(symbols='EuCd', pbc=False)

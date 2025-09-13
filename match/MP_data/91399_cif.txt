@@ -1,0 +1,2 @@
+O4Pr40S56
+Atoms(symbols='O4Pr40S56', pbc=False)

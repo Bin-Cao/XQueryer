@@ -1,0 +1,2 @@
+B8Cl10La8
+Atoms(symbols='La4B4Cl5La4B4Cl5', pbc=False)

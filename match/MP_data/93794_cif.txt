@@ -1,0 +1,2 @@
+Ag3Li17Sn6
+Atoms(symbols='Li17Ag3Sn6', pbc=False)

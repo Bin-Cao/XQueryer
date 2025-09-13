@@ -1,0 +1,2 @@
+Cl12K4Te2
+Atoms(symbols='K2TeCl6K2TeCl6', pbc=False)

@@ -1,0 +1,2 @@
+Co12Nd16O40
+Atoms(symbols='Co12Nd16O40', pbc=False)

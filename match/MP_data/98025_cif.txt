@@ -1,0 +1,2 @@
+Sb40Zn52
+Atoms(symbols='Sb40Zn52', pbc=False)

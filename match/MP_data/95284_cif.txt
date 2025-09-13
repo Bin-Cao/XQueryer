@@ -1,0 +1,2 @@
+Ni18Ti18
+Atoms(symbols='Ti9Ni9Ti9Ni9', pbc=False)

@@ -1,0 +1,2 @@
+K16O56S12W4
+Atoms(symbols='K16O56S12W4', pbc=False)

@@ -1,0 +1,2 @@
+Sb20Tb8
+Atoms(symbols='Tb8Sb20', pbc=False)

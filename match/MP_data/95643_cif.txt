@@ -1,0 +1,2 @@
+Au16Cl64Na16
+Atoms(symbols='Au16Cl64Na16', pbc=False)

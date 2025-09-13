@@ -1,0 +1,2 @@
+K4Nb10O30Y2
+Atoms(symbols='K2YNb5O15K2YNb5O15', pbc=False)

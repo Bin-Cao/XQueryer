@@ -1,0 +1,2 @@
+Co16O48Se16
+Atoms(symbols='Co16O48Se16', pbc=False)

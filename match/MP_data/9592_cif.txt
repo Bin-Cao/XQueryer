@@ -1,0 +1,2 @@
+BGe2Ni6
+Atoms(symbols='Ni6Ge2B', pbc=False)

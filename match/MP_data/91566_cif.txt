@@ -1,0 +1,2 @@
+O80S16Ti16
+Atoms(symbols='O80S16Ti16', pbc=False)

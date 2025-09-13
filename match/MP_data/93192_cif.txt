@@ -1,0 +1,2 @@
+B6Ga6K6O21
+Atoms(symbols='K6Ga6B6O21', pbc=False)

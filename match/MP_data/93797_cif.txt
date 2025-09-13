@@ -1,0 +1,2 @@
+Pd6Si3
+Atoms(symbols='Si3Pd6', pbc=False)

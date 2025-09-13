@@ -1,0 +1,2 @@
+Be8K8O36Si12
+Atoms(symbols='Be8K8O36Si12', pbc=False)

@@ -1,0 +1,2 @@
+Lu33Te12
+Atoms(symbols='Lu33Te12', pbc=False)

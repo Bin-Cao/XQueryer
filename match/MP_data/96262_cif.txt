@@ -1,0 +1,2 @@
+C2HgN2S2
+Atoms(symbols='HgC2S2N2', pbc=False)

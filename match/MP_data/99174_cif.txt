@@ -1,0 +1,2 @@
+C9H9La3O18
+Atoms(symbols='LaH3C3O6LaH3C3O6LaH3C3O6', pbc=False)

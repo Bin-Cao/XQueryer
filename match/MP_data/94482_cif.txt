@@ -1,0 +1,2 @@
+Ba2Ni4P8
+Atoms(symbols='BaNi2P4BaNi2P4', pbc=False)

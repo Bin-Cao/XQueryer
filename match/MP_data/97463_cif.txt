@@ -1,0 +1,2 @@
+H4
+Atoms(symbols='H4', pbc=False)

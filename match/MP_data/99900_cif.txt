@@ -1,0 +1,2 @@
+F38Nd2Pb16
+Atoms(symbols='NdPb8F19NdPb8F19', pbc=False)

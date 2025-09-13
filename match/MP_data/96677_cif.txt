@@ -1,0 +1,2 @@
+C16H32Cl8N32Zn4
+Atoms(symbols='C16H32Cl8N32Zn4', pbc=False)

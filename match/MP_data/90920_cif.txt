@@ -1,0 +1,2 @@
+C2H10Ho2O14P2
+Atoms(symbols='Ho2P2H10C2O14', pbc=False)

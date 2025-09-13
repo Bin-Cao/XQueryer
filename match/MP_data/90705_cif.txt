@@ -1,0 +1,2 @@
+F124Li16Na12Th24
+Atoms(symbols='F124Li16Na12Th24', pbc=False)

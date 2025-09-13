@@ -1,0 +1,2 @@
+O2SSm2
+Atoms(symbols='Sm2SO2', pbc=False)

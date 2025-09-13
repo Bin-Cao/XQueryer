@@ -1,0 +1,2 @@
+Bi6Pt3
+Atoms(symbols='Bi6Pt3', pbc=False)

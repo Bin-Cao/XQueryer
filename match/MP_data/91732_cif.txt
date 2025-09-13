@@ -1,0 +1,2 @@
+O72Si36
+Atoms(symbols='O72Si36', pbc=False)

@@ -1,0 +1,2 @@
+Cl2In10Se10
+Atoms(symbols='In10Se10Cl2', pbc=False)

@@ -1,0 +1,2 @@
+Co16Eu2P10
+Atoms(symbols='Eu2Co16P10', pbc=False)

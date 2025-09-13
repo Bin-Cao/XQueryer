@@ -1,0 +1,2 @@
+Au3In3Nd3
+Atoms(symbols='Nd3In3Au3', pbc=False)

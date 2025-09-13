@@ -1,0 +1,2 @@
+Te8Y28
+Atoms(symbols='Y28Te8', pbc=False)

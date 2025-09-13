@@ -1,0 +1,2 @@
+Cs4O30Si12Ti2
+Atoms(symbols='Cs4Ti2Si12O30', pbc=False)

@@ -1,0 +1,2 @@
+H24AlLiMg10
+Atoms(symbols='LiMg10AlH24', pbc=False)

@@ -1,0 +1,2 @@
+Br24Ce16N8
+Atoms(symbols='Ce16Br24N8', pbc=False)

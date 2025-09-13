@@ -1,0 +1,2 @@
+H18Na9O21V3
+Atoms(symbols='Na3VH6O7Na3VH6O7Na3VH6O7', pbc=False)

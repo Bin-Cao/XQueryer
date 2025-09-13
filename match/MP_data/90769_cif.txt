@@ -1,0 +1,2 @@
+F12K12O24Te12
+Atoms(symbols='K12Te12O24F12', pbc=False)

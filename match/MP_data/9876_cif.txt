@@ -1,0 +1,2 @@
+Cu2Mo2N2S8
+Atoms(symbols='CuMoS4NCuMoS4N', pbc=False)

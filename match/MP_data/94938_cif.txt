@@ -1,0 +1,2 @@
+Br10CoPr6
+Atoms(symbols='Pr6CoBr10', pbc=False)

@@ -1,0 +1,2 @@
+OPd
+Atoms(symbols='PdO', pbc=False)

@@ -1,0 +1,2 @@
+Ni18Y6
+Atoms(symbols='Y3Ni9Y3Ni9', pbc=False)

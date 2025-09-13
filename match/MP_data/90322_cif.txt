@@ -1,0 +1,2 @@
+Br24Se34Ta4
+Atoms(symbols='Br24Se34Ta4', pbc=False)

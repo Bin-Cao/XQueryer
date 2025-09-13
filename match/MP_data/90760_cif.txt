@@ -1,0 +1,2 @@
+La4Nb4O24Te4
+Atoms(symbols='La4Nb4Te4O24', pbc=False)

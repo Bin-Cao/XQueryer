@@ -1,0 +1,2 @@
+P84
+Atoms(symbols='P84', pbc=False)

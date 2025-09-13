@@ -1,0 +1,2 @@
+Cl6K4N6O10Os2
+Atoms(symbols='K4Os2N6Cl6O10', pbc=False)

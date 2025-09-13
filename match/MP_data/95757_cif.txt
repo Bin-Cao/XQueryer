@@ -1,0 +1,2 @@
+Ba8Cr16O56
+Atoms(symbols='Ba8Cr16O56', pbc=False)

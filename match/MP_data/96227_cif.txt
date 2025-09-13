@@ -1,0 +1,2 @@
+Pd14Se4
+Atoms(symbols='Pd14Se4', pbc=False)

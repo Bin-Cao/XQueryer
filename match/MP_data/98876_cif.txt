@@ -1,0 +1,2 @@
+Ba22In12O6
+Atoms(symbols='Ba22In12O6', pbc=False)

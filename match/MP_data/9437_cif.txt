@@ -1,0 +1,2 @@
+Co5Th
+Atoms(symbols='ThCo5', pbc=False)

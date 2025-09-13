@@ -1,0 +1,2 @@
+Si12V20
+Atoms(symbols='V10Si6V10Si6', pbc=False)

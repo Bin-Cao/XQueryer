@@ -1,0 +1,2 @@
+O120Rh40Sr48
+Atoms(symbols='O120Rh40Sr48', pbc=False)

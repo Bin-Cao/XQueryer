@@ -1,0 +1,2 @@
+Lu10Ni2Pb6
+Atoms(symbols='Lu10Ni2Pb6', pbc=False)

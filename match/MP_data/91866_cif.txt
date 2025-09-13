@@ -1,0 +1,2 @@
+Al10Na34O32
+Atoms(symbols='Al10Na34O32', pbc=False)

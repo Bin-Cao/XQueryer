@@ -1,0 +1,2 @@
+H12O12Zn6
+Atoms(symbols='Zn6H12O12', pbc=False)

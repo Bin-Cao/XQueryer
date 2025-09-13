@@ -1,0 +1,2 @@
+Co16Si7Zr6
+Atoms(symbols='Zr6Co16Si7', pbc=False)

@@ -1,0 +1,2 @@
+Cs4Na4O12Ti4
+Atoms(symbols='Cs2Na2Ti2O6Cs2Na2Ti2O6', pbc=False)

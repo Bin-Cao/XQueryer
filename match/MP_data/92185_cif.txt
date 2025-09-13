@@ -1,0 +1,2 @@
+Ag36O42Si12
+Atoms(symbols='Ag36O42Si12', pbc=False)

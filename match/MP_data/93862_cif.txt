@@ -1,0 +1,2 @@
+Ir8Te16
+Atoms(symbols='Te16Ir8', pbc=False)

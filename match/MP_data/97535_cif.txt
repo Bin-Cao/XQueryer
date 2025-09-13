@@ -1,0 +1,2 @@
+Br24Co28O48Te16
+Atoms(symbols='Br24Co28O48Te16', pbc=False)

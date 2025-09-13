@@ -1,0 +1,2 @@
+Lu4Mo4Na8O32P4
+Atoms(symbols='Na8Lu4Mo4P4O32', pbc=False)

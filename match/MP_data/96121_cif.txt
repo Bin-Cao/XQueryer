@@ -1,0 +1,2 @@
+Cs4I16In4
+Atoms(symbols='Cs4In4I16', pbc=False)

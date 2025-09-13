@@ -1,0 +1,2 @@
+CaLi2N2
+Atoms(symbols='Li2CaN2', pbc=False)

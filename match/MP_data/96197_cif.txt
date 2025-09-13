@@ -1,0 +1,2 @@
+C20H4N20O4Pt4Tl8
+Atoms(symbols='Tl8H4Pt4C20N20O4', pbc=False)

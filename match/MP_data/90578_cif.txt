@@ -1,0 +1,2 @@
+Cl35F85Sb24
+Atoms(symbols='Cl35F85Sb24', pbc=False)

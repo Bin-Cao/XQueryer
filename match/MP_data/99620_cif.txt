@@ -1,0 +1,2 @@
+C12Bi7Ce21Fe8
+Atoms(symbols='Ce21Fe8Bi7C12', pbc=False)

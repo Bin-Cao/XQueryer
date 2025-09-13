@@ -1,0 +1,2 @@
+Pd26Te6
+Atoms(symbols='Te6Pd26', pbc=False)

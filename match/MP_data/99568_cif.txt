@@ -1,0 +1,2 @@
+C12Co2Cs4N12Na2
+Atoms(symbols='Cs4Na2Co2C12N12', pbc=False)

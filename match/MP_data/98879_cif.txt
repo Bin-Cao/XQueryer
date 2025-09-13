@@ -1,0 +1,2 @@
+Ga8In6Sr22
+Atoms(symbols='Sr22In6Ga8', pbc=False)

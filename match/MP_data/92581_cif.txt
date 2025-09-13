@@ -1,0 +1,2 @@
+C8I16O2Y18
+Atoms(symbols='Y18C8I16O2', pbc=False)

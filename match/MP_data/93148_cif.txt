@@ -1,0 +1,2 @@
+Na18O70V28
+Atoms(symbols='Na18O70V28', pbc=False)

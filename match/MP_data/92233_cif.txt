@@ -1,0 +1,2 @@
+Cu4S16Ti8
+Atoms(symbols='Ti8Cu4S16', pbc=False)

@@ -1,0 +1,2 @@
+Be32Cl64
+Atoms(symbols='Be32Cl64', pbc=False)

@@ -1,0 +1,2 @@
+O40U16
+Atoms(symbols='U16O40', pbc=False)

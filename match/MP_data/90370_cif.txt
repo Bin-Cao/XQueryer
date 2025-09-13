@@ -1,0 +1,2 @@
+C2H10As2F12O2
+Atoms(symbols='As2H10C2O2F12', pbc=False)

@@ -1,0 +1,2 @@
+Ca28Ga11
+Atoms(symbols='Ca28Ga11', pbc=False)

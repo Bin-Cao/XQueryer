@@ -1,0 +1,2 @@
+Ag12In8O48P12
+Atoms(symbols='Ag12In8O48P12', pbc=False)

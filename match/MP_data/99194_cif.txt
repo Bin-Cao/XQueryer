@@ -1,0 +1,2 @@
+Cd33Ce3
+Atoms(symbols='Ce3Cd33', pbc=False)

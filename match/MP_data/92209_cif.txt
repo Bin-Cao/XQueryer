@@ -1,0 +1,2 @@
+K4P4S20Ti4
+Atoms(symbols='K2Ti2P2S10K2Ti2P2S10', pbc=False)

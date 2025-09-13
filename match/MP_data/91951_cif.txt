@@ -1,0 +1,2 @@
+F12Li2Ni2Sr2
+Atoms(symbols='Sr2Li2Ni2F12', pbc=False)

@@ -1,0 +1,2 @@
+Fe24Ge20
+Atoms(symbols='Fe12Ge10Fe12Ge10', pbc=False)

@@ -1,0 +1,2 @@
+Al4Ge8Sr6
+Atoms(symbols='Sr3Al2Ge4Sr3Al2Ge4', pbc=False)

@@ -1,0 +1,2 @@
+Na20P12Si4
+Atoms(symbols='Na20Si4P12', pbc=False)

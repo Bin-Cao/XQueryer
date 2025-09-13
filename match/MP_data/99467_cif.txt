@@ -1,0 +1,2 @@
+Cr2Li18N10
+Atoms(symbols='Li18Cr2N10', pbc=False)

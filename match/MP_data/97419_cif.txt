@@ -1,0 +1,2 @@
+Cl24I4Te12W4
+Atoms(symbols='Te12W4I4Cl24', pbc=False)

@@ -1,0 +1,2 @@
+HAlCaSi
+Atoms(symbols='CaAlSiH', pbc=False)

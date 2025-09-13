@@ -1,0 +1,2 @@
+C4Cl18La10
+Atoms(symbols='La10C4Cl18', pbc=False)

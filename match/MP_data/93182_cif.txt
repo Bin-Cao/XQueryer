@@ -1,0 +1,2 @@
+Ir5Nd
+Atoms(symbols='NdIr5', pbc=False)

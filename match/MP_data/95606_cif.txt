@@ -1,0 +1,2 @@
+Ba28Ca2N12Na42
+Atoms(symbols='Ba28Ca2N12Na42', pbc=False)

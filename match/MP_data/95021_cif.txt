@@ -1,0 +1,2 @@
+HAlBaSi
+Atoms(symbols='BaAlSiH', pbc=False)

@@ -1,0 +1,2 @@
+C20O20Os6S2
+Atoms(symbols='Os6C20S2O20', pbc=False)

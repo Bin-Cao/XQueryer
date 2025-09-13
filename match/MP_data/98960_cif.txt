@@ -1,0 +1,2 @@
+Cl2Fe5O18Te6
+Atoms(symbols='Fe5Te6Cl2O18', pbc=False)

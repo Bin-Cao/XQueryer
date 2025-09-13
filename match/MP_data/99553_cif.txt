@@ -1,0 +1,2 @@
+HO6W2
+Atoms(symbols='HW2O6', pbc=False)

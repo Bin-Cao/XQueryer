@@ -1,0 +1,2 @@
+Cl60Cs8O12Ta24U4
+Atoms(symbols='Cl60Cs8O12Ta24U4', pbc=False)

@@ -1,0 +1,2 @@
+CdPr
+Atoms(symbols='PrCd', pbc=False)

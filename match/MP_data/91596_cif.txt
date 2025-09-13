@@ -1,0 +1,2 @@
+Gd4O56P20
+Atoms(symbols='Gd4O56P20', pbc=False)

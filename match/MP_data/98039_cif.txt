@@ -1,0 +1,2 @@
+O6Si3
+Atoms(symbols='Si3O6', pbc=False)

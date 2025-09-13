@@ -1,0 +1,2 @@
+Ge44La24
+Atoms(symbols='Ge44La24', pbc=False)

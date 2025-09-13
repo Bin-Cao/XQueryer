@@ -1,0 +1,2 @@
+In44Nd12Pt26
+Atoms(symbols='In44Nd12Pt26', pbc=False)

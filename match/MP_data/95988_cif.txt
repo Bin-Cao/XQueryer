@@ -1,0 +1,2 @@
+Cs2Te10Ti2U2
+Atoms(symbols='Cs2U2Ti2Te10', pbc=False)

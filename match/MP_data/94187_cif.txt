@@ -1,0 +1,2 @@
+Ba4Cl2P14
+Atoms(symbols='Ba4P14Cl2', pbc=False)

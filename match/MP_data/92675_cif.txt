@@ -1,0 +1,2 @@
+Co6O28P8Pb2
+Atoms(symbols='Co6P8Pb2O28', pbc=False)

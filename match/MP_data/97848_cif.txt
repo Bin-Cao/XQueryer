@@ -1,0 +1,2 @@
+Ga6Gd2Mn
+Atoms(symbols='Gd2MnGa6', pbc=False)

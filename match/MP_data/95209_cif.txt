@@ -1,0 +1,2 @@
+InSiTe3
+Atoms(symbols='InSiTe3', pbc=False)

@@ -1,0 +1,2 @@
+Cd12K18Se39Sn9
+Atoms(symbols='Cd12K18Se39Sn9', pbc=False)

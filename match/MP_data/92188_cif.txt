@@ -1,0 +1,2 @@
+K16O80Pt8S20
+Atoms(symbols='K16O80Pt8S20', pbc=False)

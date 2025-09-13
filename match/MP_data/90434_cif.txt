@@ -1,0 +1,2 @@
+Ba24K16Sb32
+Atoms(symbols='Ba24K16Sb32', pbc=False)

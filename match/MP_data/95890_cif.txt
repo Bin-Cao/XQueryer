@@ -1,0 +1,2 @@
+Au4Bi8O20
+Atoms(symbols='Bi8Au4O20', pbc=False)

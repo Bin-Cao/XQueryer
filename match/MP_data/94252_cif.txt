@@ -1,0 +1,2 @@
+CuF4K2
+Atoms(symbols='K2CuF4', pbc=False)

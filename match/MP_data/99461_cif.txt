@@ -1,0 +1,2 @@
+Bi2Cu6I2O16Se4
+Atoms(symbols='Cu6Bi2Se4I2O16', pbc=False)

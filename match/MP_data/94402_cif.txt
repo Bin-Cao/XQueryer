@@ -1,0 +1,2 @@
+B16Ir19Mg10
+Atoms(symbols='Mg10B16Ir19', pbc=False)

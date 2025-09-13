@@ -1,0 +1,2 @@
+Cu10O36Te6Zn8
+Atoms(symbols='Zn8Cu10Te6O36', pbc=False)

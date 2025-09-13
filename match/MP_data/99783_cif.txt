@@ -1,0 +1,2 @@
+F10NaNi4
+Atoms(symbols='NaNi4F10', pbc=False)

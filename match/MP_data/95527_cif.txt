@@ -1,0 +1,2 @@
+Ba10Eu16O42Zn8
+Atoms(symbols='Ba10Eu16O42Zn8', pbc=False)

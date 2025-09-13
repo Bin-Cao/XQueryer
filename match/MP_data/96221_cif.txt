@@ -1,0 +1,2 @@
+As5BO20Pb6
+Atoms(symbols='BAs5Pb6O20', pbc=False)

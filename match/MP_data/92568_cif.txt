@@ -1,0 +1,2 @@
+Cs2O14Te2U3
+Atoms(symbols='Cs2U3Te2O14', pbc=False)

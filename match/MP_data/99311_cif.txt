@@ -1,0 +1,2 @@
+C32Fe8O40S4
+Atoms(symbols='C32Fe8O40S4', pbc=False)

@@ -1,0 +1,2 @@
+Cs8N48Na40W16
+Atoms(symbols='Cs8N48Na40W16', pbc=False)

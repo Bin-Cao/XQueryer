@@ -1,0 +1,2 @@
+Ni6O8
+Atoms(symbols='Ni6O8', pbc=False)

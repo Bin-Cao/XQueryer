@@ -1,0 +1,2 @@
+As3F18Tl3
+Atoms(symbols='TlAsF6TlAsF6TlAsF6', pbc=False)

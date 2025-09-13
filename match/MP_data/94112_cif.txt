@@ -1,0 +1,2 @@
+As4Co4Eu2
+Atoms(symbols='EuCo2As2EuCo2As2', pbc=False)

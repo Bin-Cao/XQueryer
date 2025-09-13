@@ -1,0 +1,2 @@
+AuI4KO12
+Atoms(symbols='KAuI4O12', pbc=False)

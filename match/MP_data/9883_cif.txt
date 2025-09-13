@@ -1,0 +1,2 @@
+Cd2Ho2Ni8
+Atoms(symbols='HoCdNi4HoCdNi4', pbc=False)

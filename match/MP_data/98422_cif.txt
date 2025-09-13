@@ -1,0 +1,2 @@
+Dy10Ni2Pb6
+Atoms(symbols='Dy10Ni2Pb6', pbc=False)

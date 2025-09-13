@@ -1,0 +1,2 @@
+Cr2Fe2La3O12Sm
+Atoms(symbols='La3SmCr2Fe2O12', pbc=False)

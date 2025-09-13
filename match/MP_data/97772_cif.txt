@@ -1,0 +1,2 @@
+C16H44Ag2Mo8N6O30
+Atoms(symbols='C16H44Ag2Mo8N6O30', pbc=False)

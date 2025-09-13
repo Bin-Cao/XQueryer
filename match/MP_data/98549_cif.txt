@@ -1,0 +1,2 @@
+Ba3MgO9Ta2
+Atoms(symbols='Ba3MgTa2O9', pbc=False)

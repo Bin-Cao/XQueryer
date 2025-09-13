@@ -1,0 +1,2 @@
+Ge12Ho8Pt36
+Atoms(symbols='Ho4Ge6Pt18Ho4Ge6Pt18', pbc=False)

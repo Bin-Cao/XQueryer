@@ -1,0 +1,2 @@
+H2Cl2
+Atoms(symbols='HClHCl', pbc=False)

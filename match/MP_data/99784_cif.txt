@@ -1,0 +1,2 @@
+Gd10O28Ru4
+Atoms(symbols='Gd5Ru2O14Gd5Ru2O14', pbc=False)

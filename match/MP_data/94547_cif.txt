@@ -1,0 +1,2 @@
+Bi2Cu2P4Se12
+Atoms(symbols='Cu2Bi2P4Se12', pbc=False)

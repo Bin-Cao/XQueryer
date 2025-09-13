@@ -1,0 +1,2 @@
+Hg8I16
+Atoms(symbols='Hg8I16', pbc=False)

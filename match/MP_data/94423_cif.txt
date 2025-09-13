@@ -1,0 +1,2 @@
+C18La14Os8
+Atoms(symbols='La7Os4C9La7Os4C9', pbc=False)

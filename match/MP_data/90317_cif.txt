@@ -1,0 +1,2 @@
+Cu6O18Si6
+Atoms(symbols='Cu6Si6O18', pbc=False)

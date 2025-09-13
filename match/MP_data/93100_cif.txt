@@ -1,0 +1,2 @@
+Br18K6Ti6
+Atoms(symbols='K6Ti6Br18', pbc=False)

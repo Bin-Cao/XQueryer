@@ -1,0 +1,2 @@
+Cs16P8Se36
+Atoms(symbols='Cs8P4Se18Cs8P4Se18', pbc=False)

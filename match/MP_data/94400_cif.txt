@@ -1,0 +1,2 @@
+Pt5Sr
+Atoms(symbols='SrPt5', pbc=False)

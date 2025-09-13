@@ -1,0 +1,2 @@
+Na4O38Ti18
+Atoms(symbols='Na2Ti9O19Na2Ti9O19', pbc=False)

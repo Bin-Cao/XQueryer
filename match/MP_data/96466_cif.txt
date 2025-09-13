@@ -1,0 +1,2 @@
+As88Cs24
+Atoms(symbols='As88Cs24', pbc=False)

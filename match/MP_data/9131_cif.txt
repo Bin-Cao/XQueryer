@@ -1,0 +1,2 @@
+KNO2
+Atoms(symbols='KNO2', pbc=False)

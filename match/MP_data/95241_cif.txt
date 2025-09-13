@@ -1,0 +1,2 @@
+Ce4Mn4Ni16
+Atoms(symbols='CeMnNi4CeMnNi4CeMnNi4CeMnNi4', pbc=False)

@@ -1,0 +1,2 @@
+Dy8
+Atoms(symbols='Dy8', pbc=False)

@@ -1,0 +1,2 @@
+C9N12
+Atoms(symbols='C3N4C3N4C3N4', pbc=False)

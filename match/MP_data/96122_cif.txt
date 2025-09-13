@@ -1,0 +1,2 @@
+Gd12Ge12O42
+Atoms(symbols='Gd12Ge12O42', pbc=False)

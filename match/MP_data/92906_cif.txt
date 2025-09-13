@@ -1,0 +1,2 @@
+B28Br4Co12O52
+Atoms(symbols='B28Br4Co12O52', pbc=False)

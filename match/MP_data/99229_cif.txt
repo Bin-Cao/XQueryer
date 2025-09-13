@@ -1,0 +1,2 @@
+Co4Mg4Pr16
+Atoms(symbols='Pr16Mg4Co4', pbc=False)

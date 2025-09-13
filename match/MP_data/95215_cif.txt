@@ -1,0 +1,2 @@
+Cr12Cs4O32
+Atoms(symbols='Cs4Cr12O32', pbc=False)

@@ -1,0 +1,2 @@
+Cd24I48
+Atoms(symbols='Cd24I48', pbc=False)

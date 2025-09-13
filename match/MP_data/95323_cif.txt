@@ -1,0 +1,2 @@
+B8Ni14O32U2
+Atoms(symbols='U2Ni14B8O32', pbc=False)

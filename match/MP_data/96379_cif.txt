@@ -1,0 +1,2 @@
+C8H6Cs2O28U4
+Atoms(symbols='Cs2U4H6C8O28', pbc=False)

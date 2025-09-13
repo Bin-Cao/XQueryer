@@ -1,0 +1,2 @@
+NaNiO2
+Atoms(symbols='NaNiO2', pbc=False)

@@ -1,0 +1,2 @@
+C10Br6Cr2O10P2
+Atoms(symbols='Cr2P2C10Br6O10', pbc=False)

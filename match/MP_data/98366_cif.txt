@@ -1,0 +1,2 @@
+H8BaFeMg2
+Atoms(symbols='BaMg2FeH8', pbc=False)

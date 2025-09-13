@@ -1,0 +1,2 @@
+I16U4
+Atoms(symbols='U2I8U2I8', pbc=False)

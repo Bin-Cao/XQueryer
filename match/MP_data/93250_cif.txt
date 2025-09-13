@@ -1,0 +1,2 @@
+Al10Mo2
+Atoms(symbols='Al10Mo2', pbc=False)

@@ -1,0 +1,2 @@
+C8H12Gd2N2O18
+Atoms(symbols='Gd2H12C8N2O18', pbc=False)

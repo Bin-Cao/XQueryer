@@ -1,0 +1,2 @@
+C6Al4Th4
+Atoms(symbols='Th4Al4C6', pbc=False)

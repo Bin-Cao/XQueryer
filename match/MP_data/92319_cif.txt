@@ -1,0 +1,2 @@
+Na2O16Pr2Se4
+Atoms(symbols='Na2Pr2Se4O16', pbc=False)

@@ -1,0 +1,2 @@
+C28Cl18La28
+Atoms(symbols='C28Cl18La28', pbc=False)

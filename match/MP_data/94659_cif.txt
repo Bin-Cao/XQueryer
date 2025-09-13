@@ -1,0 +1,2 @@
+Fe5Si3U
+Atoms(symbols='UFe5Si3', pbc=False)

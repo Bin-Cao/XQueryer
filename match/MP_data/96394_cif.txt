@@ -1,0 +1,2 @@
+Fe4Ga4S10
+Atoms(symbols='Ga4Fe4S10', pbc=False)

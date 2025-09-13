@@ -1,0 +1,2 @@
+Br16Ce40Ga20
+Atoms(symbols='Br16Ce40Ga20', pbc=False)

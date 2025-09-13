@@ -1,0 +1,2 @@
+Hg16Mo16O56
+Atoms(symbols='Hg16Mo16O56', pbc=False)

@@ -1,0 +1,2 @@
+Ca2Co5Cu3O24Sr6
+Atoms(symbols='Sr6Ca2Co5Cu3O24', pbc=False)

@@ -1,0 +1,2 @@
+I16O4Te36Ti16
+Atoms(symbols='I16O4Te36Ti16', pbc=False)

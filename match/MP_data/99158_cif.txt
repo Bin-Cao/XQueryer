@@ -1,0 +1,2 @@
+K8Pt4S60
+Atoms(symbols='K8Pt4S60', pbc=False)

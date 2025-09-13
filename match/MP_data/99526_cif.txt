@@ -1,0 +1,2 @@
+Ag18N6O18Se6
+Atoms(symbols='Ag6Se2N2O6Ag6Se2N2O6Ag6Se2N2O6', pbc=False)

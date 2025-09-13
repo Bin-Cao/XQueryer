@@ -1,0 +1,2 @@
+Cl56Nb24O16Ti8
+Atoms(symbols='Cl56Nb24O16Ti8', pbc=False)

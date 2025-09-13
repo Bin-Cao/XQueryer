@@ -1,0 +1,2 @@
+Cu2Sn2U2
+Atoms(symbols='U2Cu2Sn2', pbc=False)

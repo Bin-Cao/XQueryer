@@ -1,0 +1,2 @@
+Ga10NiPr3
+Atoms(symbols='Pr3Ga10Ni', pbc=False)

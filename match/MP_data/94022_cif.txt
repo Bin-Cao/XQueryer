@@ -1,0 +1,2 @@
+C3Cs12O12
+Atoms(symbols='Cs4CO4Cs4CO4Cs4CO4', pbc=False)

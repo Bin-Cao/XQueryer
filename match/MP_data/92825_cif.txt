@@ -1,0 +1,2 @@
+C16Co4Na4O16
+Atoms(symbols='Na4Co4C16O16', pbc=False)

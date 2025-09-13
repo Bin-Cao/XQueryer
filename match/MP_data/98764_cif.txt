@@ -1,0 +1,2 @@
+H14Mg6Re2
+Atoms(symbols='Mg6Re2H14', pbc=False)

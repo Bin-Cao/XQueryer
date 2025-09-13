@@ -1,0 +1,2 @@
+As19Pb4S68Sb21Tl8
+Atoms(symbols='As19Pb4S68Sb21Tl8', pbc=False)

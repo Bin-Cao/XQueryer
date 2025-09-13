@@ -1,0 +1,2 @@
+La12Mo18O72
+Atoms(symbols='La12Mo18O72', pbc=False)

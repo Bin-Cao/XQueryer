@@ -1,0 +1,2 @@
+H14Ca4Mg3
+Atoms(symbols='Ca4Mg3H14', pbc=False)

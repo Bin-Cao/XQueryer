@@ -1,0 +1,2 @@
+Cu12Mg3Nd3
+Atoms(symbols='NdMgCu4NdMgCu4NdMgCu4', pbc=False)

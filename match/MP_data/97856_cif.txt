@@ -1,0 +1,2 @@
+H16O16Tl16
+Atoms(symbols='Tl8H8O8Tl8H8O8', pbc=False)

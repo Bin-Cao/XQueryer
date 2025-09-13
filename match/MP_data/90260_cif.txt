@@ -1,0 +1,2 @@
+O48Se16V8
+Atoms(symbols='O48Se16V8', pbc=False)

@@ -1,0 +1,2 @@
+Be4F48Li24Zr4
+Atoms(symbols='Be4F48Li24Zr4', pbc=False)

@@ -1,0 +1,2 @@
+Al14Ce14Pd14
+Atoms(symbols='Ce14Al14Pd14', pbc=False)

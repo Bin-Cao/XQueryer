@@ -1,0 +1,2 @@
+I12O36Sm4
+Atoms(symbols='Sm4I12O36', pbc=False)

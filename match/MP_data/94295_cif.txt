@@ -1,0 +1,2 @@
+Pt58Zn98
+Atoms(symbols='Pt58Zn98', pbc=False)

@@ -1,0 +1,2 @@
+B52Na24O90
+Atoms(symbols='B52Na24O90', pbc=False)

@@ -1,0 +1,2 @@
+Pb16Y20
+Atoms(symbols='Y20Pb16', pbc=False)

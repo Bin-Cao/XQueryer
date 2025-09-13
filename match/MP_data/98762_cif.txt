@@ -1,0 +1,2 @@
+BaO18V13
+Atoms(symbols='BaV13O18', pbc=False)

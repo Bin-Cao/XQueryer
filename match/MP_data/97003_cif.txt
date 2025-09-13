@@ -1,0 +1,2 @@
+H2O4Sc2
+Atoms(symbols='Sc2H2O4', pbc=False)

@@ -1,0 +1,2 @@
+Al6Co2Er4
+Atoms(symbols='Er4Al6Co2', pbc=False)

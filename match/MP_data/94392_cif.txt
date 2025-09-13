@@ -1,0 +1,2 @@
+C9Lu6N18
+Atoms(symbols='Lu2C3N6Lu2C3N6Lu2C3N6', pbc=False)

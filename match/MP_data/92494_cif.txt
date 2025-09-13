@@ -1,0 +1,2 @@
+Cl32Nb4O4P4
+Atoms(symbols='Nb4P4Cl32O4', pbc=False)

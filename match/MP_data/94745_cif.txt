@@ -1,0 +1,2 @@
+Pt21Ti7
+Atoms(symbols='Ti7Pt21', pbc=False)

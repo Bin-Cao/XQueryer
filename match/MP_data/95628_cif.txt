@@ -1,0 +1,2 @@
+Co20Y32
+Atoms(symbols='Y32Co20', pbc=False)

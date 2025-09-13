@@ -1,0 +1,2 @@
+La8O60Si8Ti18
+Atoms(symbols='La8O60Si8Ti18', pbc=False)

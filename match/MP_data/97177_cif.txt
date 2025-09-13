@@ -1,0 +1,2 @@
+H3BrO
+Atoms(symbols='H3BrO', pbc=False)

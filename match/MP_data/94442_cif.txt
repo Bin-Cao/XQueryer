@@ -1,0 +1,2 @@
+H56F16Ni4O36U4
+Atoms(symbols='H56F16Ni4O36U4', pbc=False)

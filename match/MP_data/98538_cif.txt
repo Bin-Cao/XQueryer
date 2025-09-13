@@ -1,0 +1,2 @@
+H16Eu4Mg4
+Atoms(symbols='Eu2Mg2H8Eu2Mg2H8', pbc=False)

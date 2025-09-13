@@ -1,0 +1,2 @@
+As16In8Na8O56
+Atoms(symbols='As16In8Na8O56', pbc=False)

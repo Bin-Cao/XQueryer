@@ -1,0 +1,2 @@
+Ce4In16Pd4
+Atoms(symbols='Ce2In8Pd2Ce2In8Pd2', pbc=False)

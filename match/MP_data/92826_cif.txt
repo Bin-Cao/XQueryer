@@ -1,0 +1,2 @@
+Sc8
+Atoms(symbols='Sc8', pbc=False)

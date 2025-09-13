@@ -1,0 +1,2 @@
+F4K2Mg4Na2O20Si8
+Atoms(symbols='KNaMg2Si4O10F2KNaMg2Si4O10F2', pbc=False)

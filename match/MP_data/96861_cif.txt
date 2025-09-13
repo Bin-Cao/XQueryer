@@ -1,0 +1,2 @@
+Br24In8Th4
+Atoms(symbols='Th2In4Br12Th2In4Br12', pbc=False)

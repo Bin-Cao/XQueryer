@@ -1,0 +1,2 @@
+Cl18Ti6
+Atoms(symbols='Ti6Cl18', pbc=False)

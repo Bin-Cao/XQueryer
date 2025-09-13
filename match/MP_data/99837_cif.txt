@@ -1,0 +1,2 @@
+Pb20Sc24
+Atoms(symbols='Sc12Pb10Sc12Pb10', pbc=False)

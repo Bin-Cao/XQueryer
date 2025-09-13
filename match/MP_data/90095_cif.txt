@@ -1,0 +1,2 @@
+Al8O2Si12Sr20
+Atoms(symbols='Sr10Al4Si6OSr10Al4Si6O', pbc=False)

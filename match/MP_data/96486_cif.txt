@@ -1,0 +1,2 @@
+Cs20P12Si4
+Atoms(symbols='Cs20Si4P12', pbc=False)

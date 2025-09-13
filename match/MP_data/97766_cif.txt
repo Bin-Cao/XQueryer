@@ -1,0 +1,2 @@
+Cu4S14U6
+Atoms(symbols='U6Cu4S14', pbc=False)

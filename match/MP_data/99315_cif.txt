@@ -1,0 +1,2 @@
+CoK2O6Se2
+Atoms(symbols='K2CoSe2O6', pbc=False)

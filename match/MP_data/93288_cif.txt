@@ -1,0 +1,2 @@
+As16Ga12K12
+Atoms(symbols='K12Ga12As16', pbc=False)

@@ -1,0 +1,2 @@
+C4B26Li2
+Atoms(symbols='Li2B26C4', pbc=False)

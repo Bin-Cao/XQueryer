@@ -1,0 +1,2 @@
+Br12Cu8Rb4
+Atoms(symbols='Rb2Cu4Br6Rb2Cu4Br6', pbc=False)

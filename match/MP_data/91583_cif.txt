@@ -1,0 +1,2 @@
+Ba6Na2Nd6O40Si12
+Atoms(symbols='Ba6Na2Nd6O40Si12', pbc=False)

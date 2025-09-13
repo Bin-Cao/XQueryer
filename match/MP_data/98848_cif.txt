@@ -1,0 +1,2 @@
+As4Eu4K4S12
+Atoms(symbols='K4Eu4As4S12', pbc=False)

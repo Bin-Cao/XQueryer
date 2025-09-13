@@ -1,0 +1,2 @@
+F8Ge8Ho12Li4O32
+Atoms(symbols='F8Ge8Ho12Li4O32', pbc=False)

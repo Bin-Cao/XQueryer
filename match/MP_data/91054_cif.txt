@@ -1,0 +1,2 @@
+Fe10Na4O40Si12Ti2
+Atoms(symbols='Fe10Na4O40Si12Ti2', pbc=False)

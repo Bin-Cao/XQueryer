@@ -1,0 +1,2 @@
+F4Ga4O16Sr12
+Atoms(symbols='Sr6Ga2O8F2Sr6Ga2O8F2', pbc=False)

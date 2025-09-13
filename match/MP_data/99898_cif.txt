@@ -1,0 +1,2 @@
+Cl12Cs4Pb4
+Atoms(symbols='Cs2Pb2Cl6Cs2Pb2Cl6', pbc=False)

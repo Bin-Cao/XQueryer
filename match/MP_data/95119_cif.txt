@@ -1,0 +1,2 @@
+CeGa6Pd
+Atoms(symbols='CeGa6Pd', pbc=False)

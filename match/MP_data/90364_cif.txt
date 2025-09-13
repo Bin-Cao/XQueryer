@@ -1,0 +1,2 @@
+Ge9O33Pb15
+Atoms(symbols='Ge9Pb15O33', pbc=False)

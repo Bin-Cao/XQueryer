@@ -1,0 +1,2 @@
+Ho2Ni8Si2
+Atoms(symbols='HoSiNi4HoSiNi4', pbc=False)

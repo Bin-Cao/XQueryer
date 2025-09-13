@@ -1,0 +1,2 @@
+Na2Nb6O32Te8
+Atoms(symbols='Na2Nb6Te8O32', pbc=False)

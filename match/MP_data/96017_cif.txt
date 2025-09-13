@@ -1,0 +1,2 @@
+Cd12Na8O40Si12
+Atoms(symbols='Cd12Na8O40Si12', pbc=False)

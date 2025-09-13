@@ -1,0 +1,2 @@
+Ce8O21U2
+Atoms(symbols='Ce8U2O21', pbc=False)

@@ -1,0 +1,2 @@
+C4H14Gd2O16S2
+Atoms(symbols='Gd2H14C4S2O16', pbc=False)

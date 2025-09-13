@@ -1,0 +1,2 @@
+FeI2
+Atoms(symbols='FeI2', pbc=False)

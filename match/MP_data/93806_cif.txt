@@ -1,0 +1,2 @@
+C16Cl12Co4O16Si4
+Atoms(symbols='Co4Si4C16Cl12O16', pbc=False)

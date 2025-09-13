@@ -1,0 +1,2 @@
+C18Si18
+Atoms(symbols='Si18C18', pbc=False)

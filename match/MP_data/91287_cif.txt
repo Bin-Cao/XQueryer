@@ -1,0 +1,2 @@
+Li2O20P4U3
+Atoms(symbols='Li2U3P4O20', pbc=False)

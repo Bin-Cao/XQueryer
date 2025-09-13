@@ -1,0 +1,2 @@
+Ag4La4Re8
+Atoms(symbols='LaRe2AgLaRe2AgLaRe2AgLaRe2Ag', pbc=False)

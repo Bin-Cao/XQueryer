@@ -1,0 +1,2 @@
+CsMg3
+Atoms(symbols='CsMg3', pbc=False)

@@ -1,0 +1,2 @@
+K10
+Atoms(symbols='K10', pbc=False)

@@ -1,0 +1,2 @@
+Ni32O120P32Tl16
+Atoms(symbols='Ni32O120P32Tl16', pbc=False)

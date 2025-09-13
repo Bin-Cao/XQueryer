@@ -1,0 +1,2 @@
+In18Ni26
+Atoms(symbols='In9Ni13In9Ni13', pbc=False)

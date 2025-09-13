@@ -1,0 +1,2 @@
+Cd16I32
+Atoms(symbols='Cd16I32', pbc=False)

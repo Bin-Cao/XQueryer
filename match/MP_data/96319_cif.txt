@@ -1,0 +1,2 @@
+Au12Cs36O24
+Atoms(symbols='Au12Cs36O24', pbc=False)

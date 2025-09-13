@@ -1,0 +1,2 @@
+C20Fe4N24O4Pb4
+Atoms(symbols='Fe4Pb4C20N24O4', pbc=False)

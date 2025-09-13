@@ -1,0 +1,2 @@
+Al2O8P2
+Atoms(symbols='AlPO4AlPO4', pbc=False)

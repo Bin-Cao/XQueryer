@@ -1,0 +1,2 @@
+Cs6Ga18
+Atoms(symbols='Cs3Ga9Cs3Ga9', pbc=False)

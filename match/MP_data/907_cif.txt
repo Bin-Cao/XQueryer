@@ -1,0 +1,2 @@
+Co2Cr2Fe2Ni2
+Atoms(symbols='Cr2Fe2Co2Ni2', pbc=False)

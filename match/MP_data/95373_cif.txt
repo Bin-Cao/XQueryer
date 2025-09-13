@@ -1,0 +1,2 @@
+Cl14N4Sb2Se6
+Atoms(symbols='Sb2Se6N4Cl14', pbc=False)

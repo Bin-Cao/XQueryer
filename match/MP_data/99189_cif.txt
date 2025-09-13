@@ -1,0 +1,2 @@
+C20Fe4N24O4Tl8
+Atoms(symbols='Tl4Fe2C10N12O2Tl4Fe2C10N12O2', pbc=False)

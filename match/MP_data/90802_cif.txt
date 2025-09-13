@@ -1,0 +1,2 @@
+N4Na20O16W4
+Atoms(symbols='Na10W2N2O8Na10W2N2O8', pbc=False)

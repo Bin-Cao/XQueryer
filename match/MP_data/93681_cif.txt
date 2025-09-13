@@ -1,0 +1,2 @@
+H8Be2Na4
+Atoms(symbols='Na4Be2H8', pbc=False)

@@ -1,0 +1,2 @@
+CuO7Rb4Si2
+Atoms(symbols='Rb4CuSi2O7', pbc=False)

@@ -1,0 +1,2 @@
+Br32Tc8
+Atoms(symbols='Tc8Br32', pbc=False)

@@ -1,0 +1,2 @@
+Cl2Cs2Mn4O14V4
+Atoms(symbols='Cs2Mn4V4Cl2O14', pbc=False)

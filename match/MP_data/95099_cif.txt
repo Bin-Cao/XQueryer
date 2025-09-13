@@ -1,0 +1,2 @@
+Cl12Hf2Hg6Se4
+Atoms(symbols='Hf2Hg6Se4Cl12', pbc=False)

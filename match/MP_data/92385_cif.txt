@@ -1,0 +1,2 @@
+O28Pt2Si4Sr16
+Atoms(symbols='Sr8Si2PtO14Sr8Si2PtO14', pbc=False)

@@ -1,0 +1,2 @@
+BF22K3Na4Si3
+Atoms(symbols='K3Na4Si3BF22', pbc=False)

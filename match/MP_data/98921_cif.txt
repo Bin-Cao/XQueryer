@@ -1,0 +1,2 @@
+Cl4F32Nb4
+Atoms(symbols='Nb4Cl4F32', pbc=False)

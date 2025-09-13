@@ -1,0 +1,2 @@
+Br8S9Ta4
+Atoms(symbols='Ta4S9Br8', pbc=False)

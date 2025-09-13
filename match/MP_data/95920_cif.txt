@@ -1,0 +1,2 @@
+Cu36Nd4Sn16
+Atoms(symbols='Nd2Cu18Sn8Nd2Cu18Sn8', pbc=False)

@@ -1,0 +1,2 @@
+Ag12S24Sb8Tl12
+Atoms(symbols='Tl12Ag12Sb8S24', pbc=False)

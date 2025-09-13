@@ -1,0 +1,2 @@
+Br8Mn8Sb8Se16
+Atoms(symbols='Mn8Sb8Se16Br8', pbc=False)

@@ -1,0 +1,2 @@
+O28Si14
+Atoms(symbols='Si14O28', pbc=False)

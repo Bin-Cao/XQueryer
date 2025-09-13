@@ -1,0 +1,2 @@
+C4F44Hg2O4Sb8
+Atoms(symbols='C4F44Hg2O4Sb8', pbc=False)

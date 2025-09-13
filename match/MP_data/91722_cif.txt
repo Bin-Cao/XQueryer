@@ -1,0 +1,2 @@
+Ba3O23Si4Ta6
+Atoms(symbols='Ba3Ta6Si4O23', pbc=False)

@@ -1,0 +1,2 @@
+DyFe5
+Atoms(symbols='DyFe5', pbc=False)

@@ -1,0 +1,2 @@
+PPtSm
+Atoms(symbols='SmPPt', pbc=False)

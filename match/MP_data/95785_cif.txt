@@ -1,0 +1,2 @@
+Fe13Ge3
+Atoms(symbols='Fe13Ge3', pbc=False)

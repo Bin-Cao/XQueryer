@@ -1,0 +1,2 @@
+Ag4Cr4Ti4
+Atoms(symbols='TiCrAgTiCrAgTiCrAgTiCrAg', pbc=False)

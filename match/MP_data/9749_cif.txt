@@ -1,0 +1,2 @@
+Cl6Re
+Atoms(symbols='ReCl6', pbc=False)

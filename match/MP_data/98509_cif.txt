@@ -1,0 +1,2 @@
+CuGaPt2
+Atoms(symbols='GaCuPt2', pbc=False)

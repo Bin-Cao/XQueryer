@@ -1,0 +1,2 @@
+O23Rb6Si10
+Atoms(symbols='Rb6Si10O23', pbc=False)

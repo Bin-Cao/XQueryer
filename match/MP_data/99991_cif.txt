@@ -1,0 +1,2 @@
+O19Th8Y2
+Atoms(symbols='Y2Th8O19', pbc=False)

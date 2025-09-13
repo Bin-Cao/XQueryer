@@ -1,0 +1,2 @@
+Cu22K6Te32
+Atoms(symbols='K6Cu22Te32', pbc=False)

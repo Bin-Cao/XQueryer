@@ -1,0 +1,2 @@
+C18Bi2Ir6O18
+Atoms(symbols='Bi2Ir6C18O18', pbc=False)

@@ -1,0 +1,2 @@
+La14Ni32
+Atoms(symbols='La7Ni16La7Ni16', pbc=False)

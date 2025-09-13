@@ -1,0 +1,2 @@
+C2H2N2
+Atoms(symbols='HCNHCN', pbc=False)

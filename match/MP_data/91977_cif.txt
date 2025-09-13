@@ -1,0 +1,2 @@
+I4O20Rb2U3
+Atoms(symbols='Rb2U3I4O20', pbc=False)

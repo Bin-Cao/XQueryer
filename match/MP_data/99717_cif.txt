@@ -1,0 +1,2 @@
+C4Ga4N20Sr16
+Atoms(symbols='Sr16Ga4C4N20', pbc=False)

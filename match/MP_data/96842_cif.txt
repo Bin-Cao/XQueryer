@@ -1,0 +1,2 @@
+K26N38Na4W14
+Atoms(symbols='K26N38Na4W14', pbc=False)

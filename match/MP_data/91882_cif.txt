@@ -1,0 +1,2 @@
+Bi4Li16O20Pd2
+Atoms(symbols='Li8Bi2PdO10Li8Bi2PdO10', pbc=False)

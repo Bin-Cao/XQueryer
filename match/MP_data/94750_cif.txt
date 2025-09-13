@@ -1,0 +1,2 @@
+Rb52
+Atoms(symbols='Rb52', pbc=False)

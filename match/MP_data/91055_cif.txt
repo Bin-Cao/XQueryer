@@ -1,0 +1,2 @@
+Cl3Cu9S9Te3
+Atoms(symbols='Cu3TeS3ClCu3TeS3ClCu3TeS3Cl', pbc=False)

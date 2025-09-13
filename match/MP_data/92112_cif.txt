@@ -1,0 +1,2 @@
+F68Hg4Sb12Xe4
+Atoms(symbols='F68Hg4Sb12Xe4', pbc=False)

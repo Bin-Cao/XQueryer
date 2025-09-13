@@ -1,0 +1,2 @@
+Ca6Na4O32Si12
+Atoms(symbols='Na4Ca6Si12O32', pbc=False)

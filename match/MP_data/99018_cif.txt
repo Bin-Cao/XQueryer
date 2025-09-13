@@ -1,0 +1,2 @@
+Pb20S68Sb32
+Atoms(symbols='Pb20S68Sb32', pbc=False)

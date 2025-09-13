@@ -1,0 +1,2 @@
+Na4O20Rb4Si8
+Atoms(symbols='Rb4Na4Si8O20', pbc=False)

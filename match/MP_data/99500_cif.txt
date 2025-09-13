@@ -1,0 +1,2 @@
+Fe2Hf2Mo12O48Rb10
+Atoms(symbols='Fe2Hf2Mo12O48Rb10', pbc=False)

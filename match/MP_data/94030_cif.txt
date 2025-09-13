@@ -1,0 +1,2 @@
+C4Hg2N4Se4
+Atoms(symbols='Hg2C4Se4N4', pbc=False)

@@ -1,0 +1,2 @@
+Al26La32
+Atoms(symbols='La16Al13La16Al13', pbc=False)

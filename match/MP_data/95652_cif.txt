@@ -1,0 +1,2 @@
+C40Cl26La40
+Atoms(symbols='C40Cl26La40', pbc=False)

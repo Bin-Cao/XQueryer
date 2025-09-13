@@ -1,0 +1,2 @@
+Br4Nd12S32Si8
+Atoms(symbols='Nd6Si4S16Br2Nd6Si4S16Br2', pbc=False)

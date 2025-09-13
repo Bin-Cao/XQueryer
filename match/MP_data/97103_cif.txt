@@ -1,0 +1,2 @@
+F12K12O16Ti4
+Atoms(symbols='K6Ti2O8F6K6Ti2O8F6', pbc=False)

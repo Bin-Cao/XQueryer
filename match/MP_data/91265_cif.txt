@@ -1,0 +1,2 @@
+K12O54Si18Ti6
+Atoms(symbols='K12O54Si18Ti6', pbc=False)

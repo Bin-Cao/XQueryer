@@ -1,0 +1,2 @@
+Na4Ni4Ta4
+Atoms(symbols='NaTaNiNaTaNiNaTaNiNaTaNi', pbc=False)

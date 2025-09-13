@@ -1,0 +1,2 @@
+Cr4Fe4Zr4
+Atoms(symbols='ZrCrFeZrCrFeZrCrFeZrCrFe', pbc=False)

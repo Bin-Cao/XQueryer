@@ -1,0 +1,2 @@
+H22Al4O26P6
+Atoms(symbols='Al4P6H22O26', pbc=False)

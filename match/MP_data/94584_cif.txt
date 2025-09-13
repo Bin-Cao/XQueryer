@@ -1,0 +1,2 @@
+C39Si39
+Atoms(symbols='C39Si39', pbc=False)

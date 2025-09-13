@@ -1,0 +1,2 @@
+ClNa9O16P4Zr
+Atoms(symbols='Na9ZrP4ClO16', pbc=False)

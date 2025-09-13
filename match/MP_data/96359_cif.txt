@@ -1,0 +1,2 @@
+CuO10U3
+Atoms(symbols='U3CuO10', pbc=False)

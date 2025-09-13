@@ -1,0 +1,2 @@
+Cd15I30
+Atoms(symbols='Cd15I30', pbc=False)

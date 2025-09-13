@@ -1,0 +1,2 @@
+Cl20O24Si8Y12
+Atoms(symbols='Cl20O24Si8Y12', pbc=False)

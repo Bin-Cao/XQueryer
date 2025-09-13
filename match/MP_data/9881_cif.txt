@@ -1,0 +1,2 @@
+C4O8
+Atoms(symbols='C2O4C2O4', pbc=False)

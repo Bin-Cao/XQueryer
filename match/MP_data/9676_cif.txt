@@ -1,0 +1,2 @@
+CaS16Ti8
+Atoms(symbols='CaTi8S16', pbc=False)

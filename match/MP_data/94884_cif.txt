@@ -1,0 +1,2 @@
+C2CuRb
+Atoms(symbols='RbCuC2', pbc=False)

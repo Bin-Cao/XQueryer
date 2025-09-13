@@ -1,0 +1,2 @@
+Cu5FeS4
+Atoms(symbols='FeCu5S4', pbc=False)

@@ -1,0 +1,2 @@
+Ge24Nd24O84
+Atoms(symbols='Ge24Nd24O84', pbc=False)

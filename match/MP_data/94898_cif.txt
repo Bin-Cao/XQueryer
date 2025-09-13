@@ -1,0 +1,2 @@
+Cs44O12
+Atoms(symbols='Cs44O12', pbc=False)

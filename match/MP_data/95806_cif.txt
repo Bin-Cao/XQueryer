@@ -1,0 +1,2 @@
+Cd4Co4La16
+Atoms(symbols='La16Cd4Co4', pbc=False)

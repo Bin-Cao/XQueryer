@@ -1,0 +1,2 @@
+La5MnO16Os3
+Atoms(symbols='La5MnOs3O16', pbc=False)

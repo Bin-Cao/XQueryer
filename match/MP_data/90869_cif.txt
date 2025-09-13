@@ -1,0 +1,2 @@
+As4Ga2K2O14
+Atoms(symbols='K2Ga2As4O14', pbc=False)

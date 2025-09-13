@@ -1,0 +1,2 @@
+K10Na6Nb12O48W4
+Atoms(symbols='K10Na6Nb12O48W4', pbc=False)

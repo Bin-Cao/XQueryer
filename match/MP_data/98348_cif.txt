@@ -1,0 +1,2 @@
+In40Pd20Pr20
+Atoms(symbols='In40Pd20Pr20', pbc=False)

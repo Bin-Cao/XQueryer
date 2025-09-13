@@ -1,0 +1,2 @@
+Cu6La6Mg24
+Atoms(symbols='La3Mg12Cu3La3Mg12Cu3', pbc=False)

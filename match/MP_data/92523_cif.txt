@@ -1,0 +1,2 @@
+Br18O8Pb16Tl2
+Atoms(symbols='Tl2Pb16Br18O8', pbc=False)

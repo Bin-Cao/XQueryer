@@ -1,0 +1,2 @@
+C2Cs8O8
+Atoms(symbols='Cs4CO4Cs4CO4', pbc=False)

@@ -1,0 +1,2 @@
+K12Lu4O36Si12
+Atoms(symbols='K12Lu4O36Si12', pbc=False)

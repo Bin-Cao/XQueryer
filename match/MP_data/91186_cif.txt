@@ -1,0 +1,2 @@
+Ni2O20Te4V4
+Atoms(symbols='V4Ni2Te4O20', pbc=False)

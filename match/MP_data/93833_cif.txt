@@ -1,0 +1,2 @@
+I14Pb7
+Atoms(symbols='Pb7I14', pbc=False)

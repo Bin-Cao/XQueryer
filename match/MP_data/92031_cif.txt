@@ -1,0 +1,2 @@
+Er4O26Te10
+Atoms(symbols='Er4Te10O26', pbc=False)

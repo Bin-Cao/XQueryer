@@ -1,0 +1,2 @@
+InSc3
+Atoms(symbols='Sc3In', pbc=False)

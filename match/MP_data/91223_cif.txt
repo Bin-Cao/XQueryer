@@ -1,0 +1,2 @@
+Ce3K6N18O54
+Atoms(symbols='Ce3K6N18O54', pbc=False)

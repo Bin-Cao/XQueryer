@@ -1,0 +1,2 @@
+I2La2P
+Atoms(symbols='La2PI2', pbc=False)

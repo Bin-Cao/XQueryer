@@ -1,0 +1,2 @@
+Cr4Hg12O32Pb8
+Atoms(symbols='Cr4Hg12Pb8O32', pbc=False)

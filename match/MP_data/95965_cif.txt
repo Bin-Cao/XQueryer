@@ -1,0 +1,2 @@
+K2Mn12O48P14
+Atoms(symbols='K2Mn12O48P14', pbc=False)

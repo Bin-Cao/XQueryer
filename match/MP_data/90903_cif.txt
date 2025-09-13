@@ -1,0 +1,2 @@
+Cu4Mo8O32Sb4
+Atoms(symbols='Cu2Sb2Mo4O16Cu2Sb2Mo4O16', pbc=False)

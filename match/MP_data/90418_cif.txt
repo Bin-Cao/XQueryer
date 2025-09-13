@@ -1,0 +1,2 @@
+Cu3Ge5K2O14
+Atoms(symbols='K2Cu3Ge5O14', pbc=False)

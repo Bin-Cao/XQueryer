@@ -1,0 +1,2 @@
+Pd3Tl
+Atoms(symbols='TlPd3', pbc=False)

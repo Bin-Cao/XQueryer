@@ -1,0 +1,2 @@
+HAlLa2Ni9
+Atoms(symbols='La2AlNi9H', pbc=False)

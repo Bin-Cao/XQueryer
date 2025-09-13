@@ -1,0 +1,2 @@
+H4Cu4K2O20Se4
+Atoms(symbols='KCu2H2Se2O10KCu2H2Se2O10', pbc=False)

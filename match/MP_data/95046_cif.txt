@@ -1,0 +1,2 @@
+Ge22Ni36Sc12
+Atoms(symbols='Ge22Ni36Sc12', pbc=False)

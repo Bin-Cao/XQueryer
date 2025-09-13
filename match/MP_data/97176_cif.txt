@@ -1,0 +1,2 @@
+Co4Ge8Re4
+Atoms(symbols='CoReGe2CoReGe2CoReGe2CoReGe2', pbc=False)

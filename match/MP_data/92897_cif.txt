@@ -1,0 +1,2 @@
+K16Mo12O48Zr2
+Atoms(symbols='K16Mo12O48Zr2', pbc=False)

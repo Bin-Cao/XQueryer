@@ -1,0 +1,2 @@
+Se6Tl3Y3
+Atoms(symbols='YTlSe2YTlSe2YTlSe2', pbc=False)

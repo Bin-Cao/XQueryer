@@ -1,0 +1,2 @@
+Be2F8K2Li2
+Atoms(symbols='K2Li2Be2F8', pbc=False)

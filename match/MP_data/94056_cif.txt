@@ -1,0 +1,2 @@
+Pd68Se22
+Atoms(symbols='Pd68Se22', pbc=False)

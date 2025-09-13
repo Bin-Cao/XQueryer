@@ -1,0 +1,2 @@
+H10F8In2N2O2
+Atoms(symbols='In2H10N2O2F8', pbc=False)

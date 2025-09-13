@@ -1,0 +1,2 @@
+Er12La12S36
+Atoms(symbols='La12Er12S36', pbc=False)

@@ -1,0 +1,2 @@
+H20Al4Ca4
+Atoms(symbols='Ca4Al4H20', pbc=False)

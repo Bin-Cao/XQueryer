@@ -1,0 +1,2 @@
+As4Cl2Nd10O20
+Atoms(symbols='Nd5As2ClO10Nd5As2ClO10', pbc=False)

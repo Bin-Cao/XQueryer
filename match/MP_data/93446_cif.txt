@@ -1,0 +1,2 @@
+In2Si2Te6
+Atoms(symbols='In2Si2Te6', pbc=False)

@@ -1,0 +1,2 @@
+H2Nd2O4
+Atoms(symbols='Nd2H2O4', pbc=False)

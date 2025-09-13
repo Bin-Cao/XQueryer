@@ -1,0 +1,2 @@
+In8Mn4W4
+Atoms(symbols='MnIn2WMnIn2WMnIn2WMnIn2W', pbc=False)

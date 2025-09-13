@@ -1,0 +1,2 @@
+Fe2La10O34Ti8
+Atoms(symbols='La10Ti8Fe2O34', pbc=False)

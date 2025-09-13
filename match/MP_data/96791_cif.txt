@@ -1,0 +1,2 @@
+H3CsO2
+Atoms(symbols='CsH3O2', pbc=False)

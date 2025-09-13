@@ -1,0 +1,2 @@
+Fe4Gd4O12
+Atoms(symbols='Gd4Fe4O12', pbc=False)

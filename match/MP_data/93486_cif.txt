@@ -1,0 +1,2 @@
+Be24W2
+Atoms(symbols='Be12WBe12W', pbc=False)

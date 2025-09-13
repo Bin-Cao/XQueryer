@@ -1,0 +1,2 @@
+Cs2Cu4Sc6Te12
+Atoms(symbols='CsSc3Cu2Te6CsSc3Cu2Te6', pbc=False)

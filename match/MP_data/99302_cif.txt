@@ -1,0 +1,2 @@
+C9H9Ce3O18
+Atoms(symbols='CeH3C3O6CeH3C3O6CeH3C3O6', pbc=False)

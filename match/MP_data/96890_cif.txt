@@ -1,0 +1,2 @@
+Fe4Mo4Ni4
+Atoms(symbols='FeNiMoFeNiMoFeNiMoFeNiMo', pbc=False)

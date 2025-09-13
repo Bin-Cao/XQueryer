@@ -1,0 +1,2 @@
+F6NiSn
+Atoms(symbols='NiSnF6', pbc=False)

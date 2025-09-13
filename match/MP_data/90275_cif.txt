@@ -1,0 +1,2 @@
+C12H8Nb2O30Rb6
+Atoms(symbols='Rb6Nb2H8C12O30', pbc=False)

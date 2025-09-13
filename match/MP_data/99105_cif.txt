@@ -1,0 +1,2 @@
+Cu4O24Pt4Sr12
+Atoms(symbols='Sr6Cu2Pt2O12Sr6Cu2Pt2O12', pbc=False)

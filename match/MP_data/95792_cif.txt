@@ -1,0 +1,2 @@
+Cu2O2Pr2S2
+Atoms(symbols='Pr2Cu2S2O2', pbc=False)

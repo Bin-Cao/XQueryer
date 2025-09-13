@@ -1,0 +1,2 @@
+H2Al2O4
+Atoms(symbols='Al2H2O4', pbc=False)

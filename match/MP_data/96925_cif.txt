@@ -1,0 +1,2 @@
+B4O2
+Atoms(symbols='B4O2', pbc=False)

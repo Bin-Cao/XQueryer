@@ -1,0 +1,2 @@
+K12Nd4O68Si28
+Atoms(symbols='K12Nd4O68Si28', pbc=False)

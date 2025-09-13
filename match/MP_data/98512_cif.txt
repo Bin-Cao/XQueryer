@@ -1,0 +1,2 @@
+HMgNa3O8P2
+Atoms(symbols='Na3MgP2HO8', pbc=False)

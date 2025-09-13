@@ -1,0 +1,2 @@
+As2F10N8S8
+Atoms(symbols='As2S8N8F10', pbc=False)

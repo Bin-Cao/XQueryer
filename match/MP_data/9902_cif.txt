@@ -1,0 +1,2 @@
+In3Li3Se6
+Atoms(symbols='LiInSe2LiInSe2LiInSe2', pbc=False)

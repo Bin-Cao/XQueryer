@@ -1,0 +1,2 @@
+As9Bi6F65O20S10Se4
+Atoms(symbols='As9Bi6F65O20S10Se4', pbc=False)

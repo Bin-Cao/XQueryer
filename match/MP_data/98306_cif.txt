@@ -1,0 +1,2 @@
+Ge8K16O32Zn8
+Atoms(symbols='Ge8K16O32Zn8', pbc=False)

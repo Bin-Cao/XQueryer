@@ -1,0 +1,2 @@
+As6Ba2Cu7O24
+Atoms(symbols='Ba2Cu7As6O24', pbc=False)

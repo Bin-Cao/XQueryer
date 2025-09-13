@@ -1,0 +1,2 @@
+Cr2La6O24Sm2V6
+Atoms(symbols='La6Sm2V6Cr2O24', pbc=False)

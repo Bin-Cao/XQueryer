@@ -1,0 +1,2 @@
+Bi32Br32Ga8
+Atoms(symbols='Bi32Br32Ga8', pbc=False)

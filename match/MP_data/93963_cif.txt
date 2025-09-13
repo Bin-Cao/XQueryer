@@ -1,0 +1,2 @@
+La16O96Ti36
+Atoms(symbols='La16O96Ti36', pbc=False)

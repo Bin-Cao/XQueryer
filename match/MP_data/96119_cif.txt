@@ -1,0 +1,2 @@
+Cr4In8S16
+Atoms(symbols='Cr2In4S8Cr2In4S8', pbc=False)

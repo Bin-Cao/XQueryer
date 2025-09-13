@@ -1,0 +1,2 @@
+In3Pt2
+Atoms(symbols='In3Pt2', pbc=False)

@@ -1,0 +1,2 @@
+Fe26Ge2Pr12
+Atoms(symbols='Pr12Fe26Ge2', pbc=False)

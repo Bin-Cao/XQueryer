@@ -1,0 +1,2 @@
+Pt3Rb2S4
+Atoms(symbols='Rb2Pt3S4', pbc=False)

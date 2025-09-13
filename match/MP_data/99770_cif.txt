@@ -1,0 +1,2 @@
+Gd6Se8
+Atoms(symbols='Gd6Se8', pbc=False)

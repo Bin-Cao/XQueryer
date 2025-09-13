@@ -1,0 +1,2 @@
+Cl36Co12Tl12
+Atoms(symbols='Tl6Co6Cl18Tl6Co6Cl18', pbc=False)

@@ -1,0 +1,2 @@
+Pa4Pt20
+Atoms(symbols='PaPt5PaPt5PaPt5PaPt5', pbc=False)

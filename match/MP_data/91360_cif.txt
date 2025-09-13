@@ -1,0 +1,2 @@
+F28Ga6Na10
+Atoms(symbols='Na10Ga6F28', pbc=False)

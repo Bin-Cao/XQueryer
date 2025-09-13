@@ -1,0 +1,2 @@
+PbSe2Ta
+Atoms(symbols='TaPbSe2', pbc=False)

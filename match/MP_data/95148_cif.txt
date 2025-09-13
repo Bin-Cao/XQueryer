@@ -1,0 +1,2 @@
+Cl18Rb2W6
+Atoms(symbols='Rb2W6Cl18', pbc=False)

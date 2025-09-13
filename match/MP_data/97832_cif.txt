@@ -1,0 +1,2 @@
+Cl12N4O4V2
+Atoms(symbols='V2N4Cl12O4', pbc=False)

@@ -1,0 +1,2 @@
+CoI2
+Atoms(symbols='CoI2', pbc=False)

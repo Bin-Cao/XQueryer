@@ -1,0 +1,2 @@
+CaHo2Se4
+Atoms(symbols='CaHo2Se4', pbc=False)

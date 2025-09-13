@@ -1,0 +1,2 @@
+EuPd3
+Atoms(symbols='EuPd3', pbc=False)

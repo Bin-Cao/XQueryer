@@ -1,0 +1,2 @@
+Cs6O16Ta2
+Atoms(symbols='Cs3TaO8Cs3TaO8', pbc=False)

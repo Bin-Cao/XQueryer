@@ -1,0 +1,2 @@
+Br24Li48N8
+Atoms(symbols='Br24Li48N8', pbc=False)

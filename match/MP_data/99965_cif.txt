@@ -1,0 +1,2 @@
+Nd4O14Zr4
+Atoms(symbols='Nd4Zr4O14', pbc=False)

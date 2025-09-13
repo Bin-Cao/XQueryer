@@ -1,0 +1,2 @@
+I36La12O108
+Atoms(symbols='I36La12O108', pbc=False)

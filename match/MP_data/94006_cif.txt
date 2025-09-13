@@ -1,0 +1,2 @@
+Mg3Ni2Tb2
+Atoms(symbols='Tb2Mg3Ni2', pbc=False)

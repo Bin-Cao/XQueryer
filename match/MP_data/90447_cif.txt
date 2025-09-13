@@ -1,0 +1,2 @@
+Pd12S4
+Atoms(symbols='Pd6S2Pd6S2', pbc=False)

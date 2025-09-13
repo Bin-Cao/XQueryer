@@ -1,0 +1,2 @@
+F18Sn2Tl10
+Atoms(symbols='Tl10Sn2F18', pbc=False)

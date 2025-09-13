@@ -1,0 +1,2 @@
+Cl8N2Re2
+Atoms(symbols='ReNCl4ReNCl4', pbc=False)

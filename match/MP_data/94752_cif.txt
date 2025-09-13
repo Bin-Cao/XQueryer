@@ -1,0 +1,2 @@
+Mo12N48Sr36
+Atoms(symbols='Mo12N48Sr36', pbc=False)

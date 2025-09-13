@@ -1,0 +1,2 @@
+Cl16Ir2K6Sn2
+Atoms(symbols='K6Sn2Ir2Cl16', pbc=False)

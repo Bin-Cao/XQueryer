@@ -1,0 +1,2 @@
+Al6La10Ni4
+Atoms(symbols='La10Al6Ni4', pbc=False)

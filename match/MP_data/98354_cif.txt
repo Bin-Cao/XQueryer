@@ -1,0 +1,2 @@
+Ga13Mn13
+Atoms(symbols='Mn13Ga13', pbc=False)

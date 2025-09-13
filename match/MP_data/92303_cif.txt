@@ -1,0 +1,2 @@
+As2Bi2O8
+Atoms(symbols='Bi2As2O8', pbc=False)

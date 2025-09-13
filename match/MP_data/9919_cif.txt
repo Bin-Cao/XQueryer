@@ -1,0 +1,2 @@
+H2Ca2Ni10
+Atoms(symbols='CaNi5HCaNi5H', pbc=False)

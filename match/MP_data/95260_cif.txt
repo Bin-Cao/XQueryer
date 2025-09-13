@@ -1,0 +1,2 @@
+C12Mn2O12Pt
+Atoms(symbols='Mn2PtC12O12', pbc=False)

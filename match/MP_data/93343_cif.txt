@@ -1,0 +1,2 @@
+C24K12N36
+Atoms(symbols='C24K12N36', pbc=False)

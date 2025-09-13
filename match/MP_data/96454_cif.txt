@@ -1,0 +1,2 @@
+I10Ni2Pr8
+Atoms(symbols='Pr8Ni2I10', pbc=False)

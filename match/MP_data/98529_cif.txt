@@ -1,0 +1,2 @@
+Mo18Se22
+Atoms(symbols='Mo18Se22', pbc=False)

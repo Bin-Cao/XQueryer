@@ -1,0 +1,2 @@
+Ca3Ge6
+Atoms(symbols='CaGe2CaGe2CaGe2', pbc=False)

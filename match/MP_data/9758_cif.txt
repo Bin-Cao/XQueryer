@@ -1,0 +1,2 @@
+Br12Si4
+Atoms(symbols='Si2Br6Si2Br6', pbc=False)

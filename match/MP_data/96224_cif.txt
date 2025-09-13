@@ -1,0 +1,2 @@
+F88Hg16Ta16
+Atoms(symbols='F88Hg16Ta16', pbc=False)

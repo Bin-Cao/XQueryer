@@ -1,0 +1,2 @@
+C14H42Mn2N2S6
+Atoms(symbols='C14H42Mn2N2S6', pbc=False)

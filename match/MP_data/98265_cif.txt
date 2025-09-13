@@ -1,0 +1,2 @@
+H2O2Rb2
+Atoms(symbols='Rb2H2O2', pbc=False)

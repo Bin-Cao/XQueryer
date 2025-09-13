@@ -1,0 +1,2 @@
+GdRh5
+Atoms(symbols='GdRh5', pbc=False)

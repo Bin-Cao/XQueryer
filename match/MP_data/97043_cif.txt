@@ -1,0 +1,2 @@
+H8O18Re4
+Atoms(symbols='Re4H8O18', pbc=False)

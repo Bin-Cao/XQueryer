@@ -1,0 +1,2 @@
+C21Si21
+Atoms(symbols='Si21C21', pbc=False)

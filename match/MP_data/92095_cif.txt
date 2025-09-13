@@ -1,0 +1,2 @@
+Cd16O60Te12V8
+Atoms(symbols='Cd16O60Te12V8', pbc=False)

@@ -1,0 +1,2 @@
+C40Cr4Fe8O40Se16
+Atoms(symbols='C40Cr4Fe8O40Se16', pbc=False)

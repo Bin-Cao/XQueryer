@@ -1,0 +1,2 @@
+Co60Si38U12
+Atoms(symbols='Co60Si38U12', pbc=False)

@@ -1,0 +1,2 @@
+N9O27Tl9
+Atoms(symbols='Tl9N9O27', pbc=False)

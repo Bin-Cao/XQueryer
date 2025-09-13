@@ -1,0 +1,2 @@
+Eu4O56P20
+Atoms(symbols='Eu4O56P20', pbc=False)

@@ -1,0 +1,2 @@
+O72Pr40
+Atoms(symbols='O72Pr40', pbc=False)

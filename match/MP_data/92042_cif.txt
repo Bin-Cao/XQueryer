@@ -1,0 +1,2 @@
+C8H16Mg2N12O8
+Atoms(symbols='Mg2H16C8N12O8', pbc=False)

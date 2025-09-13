@@ -1,0 +1,2 @@
+Cl28O4S4Ta4
+Atoms(symbols='Ta4S4Cl28O4', pbc=False)

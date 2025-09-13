@@ -1,0 +1,2 @@
+C8Br36Dy20
+Atoms(symbols='C8Br36Dy20', pbc=False)

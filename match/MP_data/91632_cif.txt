@@ -1,0 +1,2 @@
+K4O40P12Th4
+Atoms(symbols='K4Th4P12O40', pbc=False)

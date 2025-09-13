@@ -1,0 +1,2 @@
+CuF11NaZr2
+Atoms(symbols='NaZr2CuF11', pbc=False)

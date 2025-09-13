@@ -1,0 +1,2 @@
+In16Rb16S32
+Atoms(symbols='In16Rb16S32', pbc=False)

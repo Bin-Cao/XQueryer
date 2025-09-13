@@ -1,0 +1,2 @@
+C8H48Ni2O28P4
+Atoms(symbols='C8H48Ni2O28P4', pbc=False)

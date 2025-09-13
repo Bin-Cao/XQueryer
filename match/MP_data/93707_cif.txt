@@ -1,0 +1,2 @@
+Cu4P4Se12Tl4
+Atoms(symbols='Tl4Cu4P4Se12', pbc=False)

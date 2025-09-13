@@ -1,0 +1,2 @@
+C2H20N16O4Pt2
+Atoms(symbols='H20Pt2C2N16O4', pbc=False)

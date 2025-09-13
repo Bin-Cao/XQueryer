@@ -1,0 +1,2 @@
+Ge4Nd16O32
+Atoms(symbols='Nd16Ge4O32', pbc=False)

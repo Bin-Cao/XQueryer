@@ -1,0 +1,2 @@
+Cd4Os8P4
+Atoms(symbols='CdPOs2CdPOs2CdPOs2CdPOs2', pbc=False)

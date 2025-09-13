@@ -1,0 +1,2 @@
+B8Ge12K8O40
+Atoms(symbols='B8Ge12K8O40', pbc=False)

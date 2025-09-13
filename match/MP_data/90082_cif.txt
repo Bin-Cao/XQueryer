@@ -1,0 +1,2 @@
+Mo20O60Tl6
+Atoms(symbols='Mo20O60Tl6', pbc=False)

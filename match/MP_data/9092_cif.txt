@@ -1,0 +1,2 @@
+Bi2O4Sm4
+Atoms(symbols='Sm2BiO2Sm2BiO2', pbc=False)

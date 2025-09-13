@@ -1,0 +1,2 @@
+O14Te6Tl4
+Atoms(symbols='Tl4Te6O14', pbc=False)

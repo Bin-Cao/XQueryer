@@ -1,0 +1,2 @@
+Cu3O18Se6Tl2
+Atoms(symbols='Tl2Cu3Se6O18', pbc=False)

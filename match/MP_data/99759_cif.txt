@@ -1,0 +1,2 @@
+CrFe2Se4
+Atoms(symbols='CrFe2Se4', pbc=False)

@@ -1,0 +1,2 @@
+Fe2GaTi
+Atoms(symbols='TiGaFe2', pbc=False)

@@ -1,0 +1,2 @@
+S104
+Atoms(symbols='S104', pbc=False)

@@ -1,0 +1,2 @@
+O8Se16Sm14V2
+Atoms(symbols='Sm14V2Se16O8', pbc=False)

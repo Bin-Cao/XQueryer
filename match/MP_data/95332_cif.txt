@@ -1,0 +1,2 @@
+Ga10Mn10Ni20
+Atoms(symbols='Mn5Ga5Ni10Mn5Ga5Ni10', pbc=False)

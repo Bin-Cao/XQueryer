@@ -1,0 +1,2 @@
+Cs44O12Rb28
+Atoms(symbols='Cs44O12Rb28', pbc=False)

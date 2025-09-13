@@ -1,0 +1,2 @@
+Cs4IrO4
+Atoms(symbols='Cs4IrO4', pbc=False)

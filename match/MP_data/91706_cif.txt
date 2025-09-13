@@ -1,0 +1,2 @@
+Cl8Nd8O32Ti12
+Atoms(symbols='Nd8Ti12Cl8O32', pbc=False)

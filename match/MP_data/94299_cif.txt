@@ -1,0 +1,2 @@
+U4Zn34
+Atoms(symbols='U4Zn34', pbc=False)

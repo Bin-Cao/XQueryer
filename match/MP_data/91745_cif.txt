@@ -1,0 +1,2 @@
+Br16Cu16O48Sb32
+Atoms(symbols='Br16Cu16O48Sb32', pbc=False)

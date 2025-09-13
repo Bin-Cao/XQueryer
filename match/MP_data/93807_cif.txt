@@ -1,0 +1,2 @@
+Al45V7
+Atoms(symbols='Al45V7', pbc=False)

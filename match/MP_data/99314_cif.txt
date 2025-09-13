@@ -1,0 +1,2 @@
+As12K20Pb12
+Atoms(symbols='K20As12Pb12', pbc=False)

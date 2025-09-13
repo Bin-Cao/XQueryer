@@ -1,0 +1,2 @@
+Cs14F30Ni8
+Atoms(symbols='Cs14Ni8F30', pbc=False)

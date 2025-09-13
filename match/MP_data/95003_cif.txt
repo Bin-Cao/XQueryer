@@ -1,0 +1,2 @@
+I36La18Os3Sr3
+Atoms(symbols='SrLa6OsI12SrLa6OsI12SrLa6OsI12', pbc=False)

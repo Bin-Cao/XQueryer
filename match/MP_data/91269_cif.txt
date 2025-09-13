@@ -1,0 +1,2 @@
+C74F42
+Atoms(symbols='C74F42', pbc=False)

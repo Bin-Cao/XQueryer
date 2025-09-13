@@ -1,0 +1,2 @@
+F64O16Re16
+Atoms(symbols='F64O16Re16', pbc=False)

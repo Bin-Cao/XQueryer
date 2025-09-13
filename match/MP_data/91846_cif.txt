@@ -1,0 +1,2 @@
+Fe4Mn3O24V6
+Atoms(symbols='Mn3V6Fe4O24', pbc=False)

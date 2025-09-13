@@ -1,0 +1,2 @@
+Ba10P18
+Atoms(symbols='Ba10P18', pbc=False)

@@ -1,0 +1,2 @@
+Eu10F2O24Si6
+Atoms(symbols='Eu10Si6O24F2', pbc=False)

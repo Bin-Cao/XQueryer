@@ -1,0 +1,2 @@
+Se64
+Atoms(symbols='Se64', pbc=False)

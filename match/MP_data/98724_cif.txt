@@ -1,0 +1,2 @@
+Fe8Ga8O24
+Atoms(symbols='Ga8Fe8O24', pbc=False)

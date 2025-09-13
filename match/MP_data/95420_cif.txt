@@ -1,0 +1,2 @@
+C22H34N2Si2
+Atoms(symbols='Si2H34C22N2', pbc=False)

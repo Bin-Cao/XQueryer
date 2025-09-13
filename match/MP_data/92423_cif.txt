@@ -1,0 +1,2 @@
+F40Ta8
+Atoms(symbols='Ta4F20Ta4F20', pbc=False)

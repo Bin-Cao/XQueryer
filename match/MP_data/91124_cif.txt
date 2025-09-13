@@ -1,0 +1,2 @@
+Ga8Mo4O40Te8
+Atoms(symbols='Ga8Te8Mo4O40', pbc=False)

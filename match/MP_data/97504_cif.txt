@@ -1,0 +1,2 @@
+Br4Cu4Ir4
+Atoms(symbols='CuIrBrCuIrBrCuIrBrCuIrBr', pbc=False)

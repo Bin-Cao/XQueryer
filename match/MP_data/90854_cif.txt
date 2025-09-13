@@ -1,0 +1,2 @@
+K6Mo4O21U2
+Atoms(symbols='K6U2Mo4O21', pbc=False)

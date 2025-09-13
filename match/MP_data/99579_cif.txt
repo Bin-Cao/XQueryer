@@ -1,0 +1,2 @@
+C40Fe12O40S4
+Atoms(symbols='C40Fe12O40S4', pbc=False)
