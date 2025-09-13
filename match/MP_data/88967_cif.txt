@@ -1,0 +1,2 @@
+Bi8Cd4Ge4O24
+Atoms(symbols='Cd4Ge4Bi8O24', pbc=False)

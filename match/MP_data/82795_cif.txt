@@ -1,0 +1,2 @@
+Cu4Hf4Hg8
+Atoms(symbols='HfCuHg2HfCuHg2HfCuHg2HfCuHg2', pbc=False)

@@ -1,0 +1,2 @@
+F116Sb28
+Atoms(symbols='F116Sb28', pbc=False)

@@ -1,0 +1,2 @@
+Ir9Te24
+Atoms(symbols='Te24Ir9', pbc=False)

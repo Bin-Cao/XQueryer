@@ -1,0 +1,2 @@
+As6Ga6O24
+Atoms(symbols='Ga3As3O12Ga3As3O12', pbc=False)

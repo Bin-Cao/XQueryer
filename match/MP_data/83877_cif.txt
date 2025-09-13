@@ -1,0 +1,2 @@
+Ba15O27Pt6
+Atoms(symbols='Ba15Pt6O27', pbc=False)

@@ -1,0 +1,2 @@
+K4O21Te2U5
+Atoms(symbols='K4U5Te2O21', pbc=False)

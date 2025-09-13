@@ -1,0 +1,2 @@
+Ag4Na12O8
+Atoms(symbols='Na6Ag2O4Na6Ag2O4', pbc=False)

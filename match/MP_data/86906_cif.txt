@@ -1,0 +1,2 @@
+Li17Nb18O54
+Atoms(symbols='Li17Nb18O54', pbc=False)

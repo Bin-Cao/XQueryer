@@ -1,0 +1,2 @@
+Br16Cl4Sr10
+Atoms(symbols='Sr10Br16Cl4', pbc=False)

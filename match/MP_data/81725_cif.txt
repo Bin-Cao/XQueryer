@@ -1,0 +1,2 @@
+Cl14Fe2Se2
+Atoms(symbols='Fe2Se2Cl14', pbc=False)

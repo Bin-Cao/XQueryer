@@ -1,0 +1,2 @@
+Gd8O8Se8Ti2
+Atoms(symbols='Gd4TiSe4O4Gd4TiSe4O4', pbc=False)

@@ -1,0 +1,2 @@
+As4Na2O14Sc2
+Atoms(symbols='NaScAs2O7NaScAs2O7', pbc=False)

@@ -1,0 +1,2 @@
+Mg8N24Ta16
+Atoms(symbols='Mg4Ta8N12Mg4Ta8N12', pbc=False)

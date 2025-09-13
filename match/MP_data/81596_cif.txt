@@ -1,0 +1,2 @@
+Cl8O24Pb4
+Atoms(symbols='Pb2Cl4O12Pb2Cl4O12', pbc=False)

@@ -1,0 +1,2 @@
+HSeY
+Atoms(symbols='YHSe', pbc=False)

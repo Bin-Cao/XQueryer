@@ -1,0 +1,2 @@
+Ta30
+Atoms(symbols='Ta30', pbc=False)

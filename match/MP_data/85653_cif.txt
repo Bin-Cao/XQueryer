@@ -1,0 +1,2 @@
+La5Te8Tl
+Atoms(symbols='La5TlTe8', pbc=False)

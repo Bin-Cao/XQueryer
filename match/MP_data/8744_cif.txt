@@ -1,0 +1,2 @@
+OSn
+Atoms(symbols='SnO', pbc=False)

@@ -1,0 +1,2 @@
+Na8Nb18O78P12
+Atoms(symbols='Na8Nb18O78P12', pbc=False)

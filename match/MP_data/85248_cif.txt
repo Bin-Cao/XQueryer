@@ -1,0 +1,2 @@
+Na8O24Ta8
+Atoms(symbols='Na4Ta4O12Na4Ta4O12', pbc=False)

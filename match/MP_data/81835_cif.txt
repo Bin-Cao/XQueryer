@@ -1,0 +1,2 @@
+Mg8Na6Nb16O144S21Si15
+Atoms(symbols='Mg8Na6Nb16O144S21Si15', pbc=False)

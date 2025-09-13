@@ -1,0 +1,2 @@
+Co14Ho24
+Atoms(symbols='Ho24Co14', pbc=False)

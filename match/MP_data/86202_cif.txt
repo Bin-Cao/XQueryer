@@ -1,0 +1,2 @@
+Co8K16O32Si8
+Atoms(symbols='Co8K16O32Si8', pbc=False)

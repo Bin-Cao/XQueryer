@@ -1,0 +1,2 @@
+C4Cl20Sc14
+Atoms(symbols='Sc7C2Cl10Sc7C2Cl10', pbc=False)

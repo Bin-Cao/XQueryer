@@ -1,0 +1,2 @@
+Fe18Ho6
+Atoms(symbols='Ho3Fe9Ho3Fe9', pbc=False)

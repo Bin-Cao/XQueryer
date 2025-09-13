@@ -1,0 +1,2 @@
+Cd2O8U2
+Atoms(symbols='UCdO4UCdO4', pbc=False)

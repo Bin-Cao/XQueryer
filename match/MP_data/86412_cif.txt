@@ -1,0 +1,2 @@
+Pr16Te24
+Atoms(symbols='Pr16Te24', pbc=False)

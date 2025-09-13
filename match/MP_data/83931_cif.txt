@@ -1,0 +1,2 @@
+Cd2Ga4Se8
+Atoms(symbols='CdGa2Se4CdGa2Se4', pbc=False)

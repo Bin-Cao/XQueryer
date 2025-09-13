@@ -1,0 +1,2 @@
+Nd2Os2Si6
+Atoms(symbols='NdSi3OsNdSi3Os', pbc=False)

@@ -1,0 +1,2 @@
+Cl16O8
+Atoms(symbols='Cl8O4Cl8O4', pbc=False)

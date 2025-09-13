@@ -1,0 +1,2 @@
+HoMo6S8
+Atoms(symbols='HoMo6S8', pbc=False)

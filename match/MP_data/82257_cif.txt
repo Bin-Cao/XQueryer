@@ -1,0 +1,2 @@
+O50P4W14
+Atoms(symbols='O50P4W14', pbc=False)

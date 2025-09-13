@@ -1,0 +1,2 @@
+Al3Mo12S24
+Atoms(symbols='AlMo4S8AlMo4S8AlMo4S8', pbc=False)

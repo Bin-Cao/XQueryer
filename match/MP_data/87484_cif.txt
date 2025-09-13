@@ -1,0 +1,2 @@
+B6Co21Re2
+Atoms(symbols='Co21Re2B6', pbc=False)

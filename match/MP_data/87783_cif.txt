@@ -1,0 +1,2 @@
+As44K12
+Atoms(symbols='K12As44', pbc=False)

@@ -1,0 +1,2 @@
+C6S16
+Atoms(symbols='C6S16', pbc=False)

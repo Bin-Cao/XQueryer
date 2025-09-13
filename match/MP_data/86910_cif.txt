@@ -1,0 +1,2 @@
+Nb2O8Y2
+Atoms(symbols='Y2Nb2O8', pbc=False)

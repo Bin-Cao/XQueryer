@@ -1,0 +1,2 @@
+B36Na16Se36
+Atoms(symbols='B36Na16Se36', pbc=False)

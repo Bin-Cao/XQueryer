@@ -1,0 +1,2 @@
+F4La4O4
+Atoms(symbols='LaOFLaOFLaOFLaOF', pbc=False)

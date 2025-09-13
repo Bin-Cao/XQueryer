@@ -1,0 +1,2 @@
+O16Sr2Te6
+Atoms(symbols='Sr2Te6O16', pbc=False)

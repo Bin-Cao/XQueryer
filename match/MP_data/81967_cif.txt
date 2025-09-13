@@ -1,0 +1,2 @@
+NdRh3Si2
+Atoms(symbols='NdSi2Rh3', pbc=False)

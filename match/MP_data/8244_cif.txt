@@ -1,0 +1,2 @@
+ClO
+Atoms(symbols='ClO', pbc=False)

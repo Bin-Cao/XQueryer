@@ -1,0 +1,2 @@
+Co30Si18U6
+Atoms(symbols='U6Co30Si18', pbc=False)

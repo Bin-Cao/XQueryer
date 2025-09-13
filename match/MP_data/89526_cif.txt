@@ -1,0 +1,2 @@
+As4F32Mg2Xe4
+Atoms(symbols='Mg2As4Xe4F32', pbc=False)

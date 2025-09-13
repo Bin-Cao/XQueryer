@@ -1,0 +1,2 @@
+C16Br24La24
+Atoms(symbols='C16Br24La24', pbc=False)

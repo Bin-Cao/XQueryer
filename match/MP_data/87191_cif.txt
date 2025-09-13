@@ -1,0 +1,2 @@
+Br32Ti14
+Atoms(symbols='Ti14Br32', pbc=False)

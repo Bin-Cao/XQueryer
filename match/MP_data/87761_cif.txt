@@ -1,0 +1,2 @@
+BiCoO3
+Atoms(symbols='CoBiO3', pbc=False)

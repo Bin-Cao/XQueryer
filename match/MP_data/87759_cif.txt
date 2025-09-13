@@ -1,0 +1,2 @@
+Nd8O8Se6
+Atoms(symbols='Nd4Se3O4Nd4Se3O4', pbc=False)

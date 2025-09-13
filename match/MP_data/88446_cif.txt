@@ -1,0 +1,2 @@
+Ga6Te6
+Atoms(symbols='Ga6Te6', pbc=False)

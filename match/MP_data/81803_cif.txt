@@ -1,0 +1,2 @@
+Hf6Te4
+Atoms(symbols='Hf3Te2Hf3Te2', pbc=False)

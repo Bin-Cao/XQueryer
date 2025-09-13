@@ -1,0 +1,2 @@
+Br56Ta24
+Atoms(symbols='Br56Ta24', pbc=False)

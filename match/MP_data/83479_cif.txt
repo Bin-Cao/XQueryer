@@ -1,0 +1,2 @@
+Be52Dy4
+Atoms(symbols='Dy2Be26Dy2Be26', pbc=False)

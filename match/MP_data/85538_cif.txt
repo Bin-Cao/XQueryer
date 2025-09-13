@@ -1,0 +1,2 @@
+Au4K4Se20
+Atoms(symbols='K4Au4Se20', pbc=False)

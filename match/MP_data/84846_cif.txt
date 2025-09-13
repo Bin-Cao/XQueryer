@@ -1,0 +1,2 @@
+Ag2Se16Sm10
+Atoms(symbols='Sm5AgSe8Sm5AgSe8', pbc=False)

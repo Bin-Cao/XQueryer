@@ -1,0 +1,2 @@
+Cl6F24Na90O120S30
+Atoms(symbols='Cl6F24Na90O120S30', pbc=False)

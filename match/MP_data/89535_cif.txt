@@ -1,0 +1,2 @@
+Mn15O72S18Sr3
+Atoms(symbols='Mn15O72S18Sr3', pbc=False)

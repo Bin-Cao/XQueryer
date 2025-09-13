@@ -1,0 +1,2 @@
+As2CoZr6
+Atoms(symbols='Zr6CoAs2', pbc=False)

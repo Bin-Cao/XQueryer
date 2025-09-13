@@ -1,0 +1,2 @@
+H44B36N16
+Atoms(symbols='H44B36N16', pbc=False)

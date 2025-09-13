@@ -1,0 +1,2 @@
+Al46Ni12Y8
+Atoms(symbols='Al46Ni12Y8', pbc=False)

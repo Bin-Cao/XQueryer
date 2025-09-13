@@ -1,0 +1,2 @@
+O10Ti9
+Atoms(symbols='Ti9O10', pbc=False)

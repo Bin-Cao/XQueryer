@@ -1,0 +1,2 @@
+B6Co19Pr5
+Atoms(symbols='Pr5Co19B6', pbc=False)

@@ -1,0 +1,2 @@
+Co2O8Se2
+Atoms(symbols='Co2Se2O8', pbc=False)

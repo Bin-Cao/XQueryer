@@ -1,0 +1,2 @@
+C12Fe2N12Na2Rb4
+Atoms(symbols='Rb4Na2Fe2C12N12', pbc=False)

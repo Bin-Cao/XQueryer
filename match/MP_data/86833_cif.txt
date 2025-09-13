@@ -1,0 +1,2 @@
+O36Ti16Tl8
+Atoms(symbols='Ti8Tl4O18Ti8Tl4O18', pbc=False)

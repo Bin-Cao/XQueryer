@@ -1,0 +1,2 @@
+Cl15CoZr6
+Atoms(symbols='Zr6CoCl15', pbc=False)

@@ -1,0 +1,2 @@
+H9Cl3O3
+Atoms(symbols='H3ClOH3ClOH3ClO', pbc=False)

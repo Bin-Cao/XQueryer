@@ -1,0 +1,2 @@
+Co2O8Re2
+Atoms(symbols='CoReO4CoReO4', pbc=False)

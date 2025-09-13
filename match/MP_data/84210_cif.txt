@@ -1,0 +1,2 @@
+I5Ta2
+Atoms(symbols='Ta2I5', pbc=False)

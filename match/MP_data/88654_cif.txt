@@ -1,0 +1,2 @@
+Mo2O23P4Si4
+Atoms(symbols='Si4Mo2P4O23', pbc=False)

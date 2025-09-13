@@ -1,0 +1,2 @@
+Er12F4O40Si12
+Atoms(symbols='Er12F4O40Si12', pbc=False)

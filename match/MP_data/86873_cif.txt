@@ -1,0 +1,2 @@
+Cl96Li40Mg28
+Atoms(symbols='Cl96Li40Mg28', pbc=False)

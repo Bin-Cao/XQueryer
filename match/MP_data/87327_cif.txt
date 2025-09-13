@@ -1,0 +1,2 @@
+O16Pr8Si4Te4
+Atoms(symbols='Pr8Si4Te4O16', pbc=False)

@@ -1,0 +1,2 @@
+Cr9O27Sr12
+Atoms(symbols='Sr12Cr9O27', pbc=False)

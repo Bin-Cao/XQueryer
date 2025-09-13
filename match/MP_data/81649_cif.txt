@@ -1,0 +1,2 @@
+In4O14Si4
+Atoms(symbols='In2Si2O7In2Si2O7', pbc=False)

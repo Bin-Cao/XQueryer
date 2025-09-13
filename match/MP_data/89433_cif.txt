@@ -1,0 +1,2 @@
+Ag24Ge24O60
+Atoms(symbols='Ag24Ge24O60', pbc=False)

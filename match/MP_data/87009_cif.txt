@@ -1,0 +1,2 @@
+H40Cs8O24
+Atoms(symbols='H40Cs8O24', pbc=False)

@@ -1,0 +1,2 @@
+Ga18Ge36Ni78
+Atoms(symbols='Ga18Ge36Ni78', pbc=False)

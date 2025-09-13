@@ -1,0 +1,2 @@
+I4Mo4O24Rb4
+Atoms(symbols='Rb4Mo4I4O24', pbc=False)

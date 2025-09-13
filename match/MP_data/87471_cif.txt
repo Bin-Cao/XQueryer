@@ -1,0 +1,2 @@
+Mn20O40Ti10
+Atoms(symbols='Mn20O40Ti10', pbc=False)

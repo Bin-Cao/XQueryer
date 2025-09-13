@@ -1,0 +1,2 @@
+H4Nd2Ni2Sn2
+Atoms(symbols='Nd2Ni2Sn2H4', pbc=False)

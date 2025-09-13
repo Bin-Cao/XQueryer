@@ -1,0 +1,2 @@
+K20Mg2Mo14O54
+Atoms(symbols='K20Mg2Mo14O54', pbc=False)

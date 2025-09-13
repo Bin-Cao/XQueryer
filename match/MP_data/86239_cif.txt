@@ -1,0 +1,2 @@
+Nd4O56P20
+Atoms(symbols='Nd4O56P20', pbc=False)

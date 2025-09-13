@@ -1,0 +1,2 @@
+Cs8O19Ta6
+Atoms(symbols='Cs8Ta6O19', pbc=False)

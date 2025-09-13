@@ -1,0 +1,2 @@
+Cr20Mg16O72Te12
+Atoms(symbols='Cr20Mg16O72Te12', pbc=False)

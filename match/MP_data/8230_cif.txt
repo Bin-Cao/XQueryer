@@ -1,0 +1,2 @@
+As8Ca6Co6O32
+Atoms(symbols='Ca6Co6As8O32', pbc=False)

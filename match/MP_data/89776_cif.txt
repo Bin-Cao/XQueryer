@@ -1,0 +1,2 @@
+C6Ca4Na4O18
+Atoms(symbols='Na2Ca2C3O9Na2Ca2C3O9', pbc=False)

@@ -1,0 +1,2 @@
+F16O20Tc8
+Atoms(symbols='Tc8O20F16', pbc=False)

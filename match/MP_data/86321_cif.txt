@@ -1,0 +1,2 @@
+Ba5Mg18Si13
+Atoms(symbols='Ba5Mg18Si13', pbc=False)

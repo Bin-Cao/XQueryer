@@ -1,0 +1,2 @@
+Ag21N3O33
+Atoms(symbols='Ag7NO11Ag7NO11Ag7NO11', pbc=False)

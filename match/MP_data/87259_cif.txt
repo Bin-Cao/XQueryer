@@ -1,0 +1,2 @@
+Cs6In18
+Atoms(symbols='Cs3In9Cs3In9', pbc=False)

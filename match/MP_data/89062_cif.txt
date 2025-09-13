@@ -1,0 +1,2 @@
+Bi4Ca2Nb4O18
+Atoms(symbols='CaNb2Bi2O9CaNb2Bi2O9', pbc=False)

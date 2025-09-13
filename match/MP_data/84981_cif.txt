@@ -1,0 +1,2 @@
+Mn4S32Ta16
+Atoms(symbols='Ta8Mn2S16Ta8Mn2S16', pbc=False)

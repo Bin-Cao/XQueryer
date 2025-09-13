@@ -1,0 +1,2 @@
+H4Mn8O16
+Atoms(symbols='Mn8H4O16', pbc=False)

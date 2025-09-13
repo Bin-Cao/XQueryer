@@ -1,0 +1,2 @@
+Mg16O32Si8
+Atoms(symbols='Mg8Si4O16Mg8Si4O16', pbc=False)

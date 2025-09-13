@@ -1,0 +1,2 @@
+Bi40Sr44
+Atoms(symbols='Bi40Sr44', pbc=False)

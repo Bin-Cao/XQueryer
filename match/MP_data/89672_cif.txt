@@ -1,0 +1,2 @@
+Cr8S32Y16
+Atoms(symbols='Y16Cr8S32', pbc=False)

@@ -1,0 +1,2 @@
+Cs8Ga4Li12O16
+Atoms(symbols='Cs4Li6Ga2O8Cs4Li6Ga2O8', pbc=False)

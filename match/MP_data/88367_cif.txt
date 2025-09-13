@@ -1,0 +1,2 @@
+CsCu3O2
+Atoms(symbols='CsCu3O2', pbc=False)

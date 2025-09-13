@@ -1,0 +1,2 @@
+F48Hf12
+Atoms(symbols='Hf6F24Hf6F24', pbc=False)

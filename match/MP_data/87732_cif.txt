@@ -1,0 +1,2 @@
+Hg6O20Se6
+Atoms(symbols='Hg6Se6O20', pbc=False)

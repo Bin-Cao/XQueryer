@@ -1,0 +1,2 @@
+As36Co12
+Atoms(symbols='Co4As12Co4As12Co4As12', pbc=False)

@@ -1,0 +1,2 @@
+As12Mg34O64
+Atoms(symbols='As12Mg34O64', pbc=False)

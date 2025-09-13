@@ -1,0 +1,2 @@
+O40Sr2Ti22
+Atoms(symbols='O40Sr2Ti22', pbc=False)

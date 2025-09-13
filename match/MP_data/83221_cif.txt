@@ -1,0 +1,2 @@
+I12K4Re2
+Atoms(symbols='K4Re2I12', pbc=False)

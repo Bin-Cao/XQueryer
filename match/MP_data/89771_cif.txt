@@ -1,0 +1,2 @@
+Bi4Ca2O18Ta4
+Atoms(symbols='CaTa2Bi2O9CaTa2Bi2O9', pbc=False)

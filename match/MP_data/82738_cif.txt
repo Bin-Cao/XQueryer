@@ -1,0 +1,2 @@
+C28H16O4
+Atoms(symbols='H16C28O4', pbc=False)

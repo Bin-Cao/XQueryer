@@ -1,0 +1,2 @@
+F93Na21Zr18
+Atoms(symbols='F93Na21Zr18', pbc=False)

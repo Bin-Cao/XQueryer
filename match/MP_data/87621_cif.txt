@@ -1,0 +1,2 @@
+Dy12Mn12O36
+Atoms(symbols='Dy6Mn6O18Dy6Mn6O18', pbc=False)

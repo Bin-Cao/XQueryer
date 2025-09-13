@@ -1,0 +1,2 @@
+CO4Rb4
+Atoms(symbols='Rb4CO4', pbc=False)

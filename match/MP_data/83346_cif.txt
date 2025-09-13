@@ -1,0 +1,2 @@
+B3La3Pt6
+Atoms(symbols='La3B3Pt6', pbc=False)

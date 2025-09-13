@@ -1,0 +1,2 @@
+Cl24Na6Ti9
+Atoms(symbols='Na2Ti3Cl8Na2Ti3Cl8Na2Ti3Cl8', pbc=False)

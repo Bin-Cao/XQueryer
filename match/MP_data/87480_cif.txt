@@ -1,0 +1,2 @@
+S50Ta27
+Atoms(symbols='S50Ta27', pbc=False)

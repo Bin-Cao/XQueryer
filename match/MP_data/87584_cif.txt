@@ -1,0 +1,2 @@
+Ir8Lu10Si20
+Atoms(symbols='Lu10Si20Ir8', pbc=False)

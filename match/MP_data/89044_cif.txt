@@ -1,0 +1,2 @@
+In12S14
+Atoms(symbols='In12S14', pbc=False)

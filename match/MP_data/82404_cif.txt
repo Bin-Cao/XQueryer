@@ -1,0 +1,2 @@
+F20N12W4
+Atoms(symbols='W4N12F20', pbc=False)

@@ -1,0 +1,2 @@
+Co18V6
+Atoms(symbols='V6Co18', pbc=False)

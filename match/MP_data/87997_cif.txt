@@ -1,0 +1,2 @@
+F8Mn2Na2
+Atoms(symbols='Na2Mn2F8', pbc=False)

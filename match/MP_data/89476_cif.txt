@@ -1,0 +1,2 @@
+Ga9O2S13Tl3
+Atoms(symbols='Tl3Ga9S13O2', pbc=False)

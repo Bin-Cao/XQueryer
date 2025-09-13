@@ -1,0 +1,2 @@
+Ge12Ir3
+Atoms(symbols='Ge12Ir3', pbc=False)

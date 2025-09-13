@@ -1,0 +1,2 @@
+O53Y6Zr22
+Atoms(symbols='O53Y6Zr22', pbc=False)

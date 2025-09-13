@@ -1,0 +1,2 @@
+S18Y12
+Atoms(symbols='Y12S18', pbc=False)

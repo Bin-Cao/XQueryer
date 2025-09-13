@@ -1,0 +1,2 @@
+Ag16O32Rb48
+Atoms(symbols='Ag16O32Rb48', pbc=False)

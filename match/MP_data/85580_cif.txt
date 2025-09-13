@@ -1,0 +1,2 @@
+F20O4Os4
+Atoms(symbols='Os4O4F20', pbc=False)

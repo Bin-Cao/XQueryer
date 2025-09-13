@@ -1,0 +1,2 @@
+Hg19Rb5
+Atoms(symbols='Rb5Hg19', pbc=False)

@@ -1,0 +1,2 @@
+H24Co2K4O28S4
+Atoms(symbols='H24Co2K4O28S4', pbc=False)

@@ -1,0 +1,2 @@
+O8Tl6V2
+Atoms(symbols='Tl3VO4Tl3VO4', pbc=False)

@@ -1,0 +1,2 @@
+C2Cl16Sc10
+Atoms(symbols='Sc5CCl8Sc5CCl8', pbc=False)

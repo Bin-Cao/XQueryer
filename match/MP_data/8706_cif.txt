@@ -1,0 +1,2 @@
+Ni2Ti2
+Atoms(symbols='Ti2Ni2', pbc=False)

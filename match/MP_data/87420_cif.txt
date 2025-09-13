@@ -1,0 +1,2 @@
+Ag72Te44Tl16
+Atoms(symbols='Ag72Te44Tl16', pbc=False)

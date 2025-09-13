@@ -1,0 +1,2 @@
+ClCsIK
+Atoms(symbols='CsKICl', pbc=False)

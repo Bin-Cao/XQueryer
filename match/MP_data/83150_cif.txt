@@ -1,0 +1,2 @@
+Ca20Ga24O56
+Atoms(symbols='Ca20Ga24O56', pbc=False)

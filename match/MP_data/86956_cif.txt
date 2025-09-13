@@ -1,0 +1,2 @@
+Ca16Fe4Mg10O96Si32
+Atoms(symbols='Ca16Fe4Mg10O96Si32', pbc=False)

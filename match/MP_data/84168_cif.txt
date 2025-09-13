@@ -1,0 +1,2 @@
+Pt12Tl8
+Atoms(symbols='Tl8Pt12', pbc=False)

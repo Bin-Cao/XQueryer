@@ -1,0 +1,2 @@
+N26Nb32
+Atoms(symbols='Nb16N13Nb16N13', pbc=False)

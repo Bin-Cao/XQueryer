@@ -1,0 +1,2 @@
+Ba32N38Nb10
+Atoms(symbols='Ba32N38Nb10', pbc=False)

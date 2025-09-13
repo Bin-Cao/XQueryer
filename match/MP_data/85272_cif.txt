@@ -1,0 +1,2 @@
+In10Sb9Te
+Atoms(symbols='In10Sb9Te', pbc=False)

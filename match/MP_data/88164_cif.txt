@@ -1,0 +1,2 @@
+B32Na8O52
+Atoms(symbols='B32Na8O52', pbc=False)

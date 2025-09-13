@@ -1,0 +1,2 @@
+Ag16O24Ti8
+Atoms(symbols='Ti4Ag8O12Ti4Ag8O12', pbc=False)

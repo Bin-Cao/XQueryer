@@ -1,0 +1,2 @@
+Dy24Se44
+Atoms(symbols='Dy24Se44', pbc=False)

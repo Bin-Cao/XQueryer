@@ -1,0 +1,2 @@
+Al51Ca4Cr7
+Atoms(symbols='Al51Ca4Cr7', pbc=False)

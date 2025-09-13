@@ -1,0 +1,2 @@
+Gd4K4O48P16
+Atoms(symbols='Gd4K4O48P16', pbc=False)

@@ -1,0 +1,2 @@
+As2Cl2Co4O8
+Atoms(symbols='Co4As2Cl2O8', pbc=False)

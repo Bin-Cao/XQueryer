@@ -1,0 +1,2 @@
+Cu2Pr6S14Si2
+Atoms(symbols='Pr6Cu2Si2S14', pbc=False)

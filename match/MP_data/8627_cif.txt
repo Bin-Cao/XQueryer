@@ -1,0 +1,2 @@
+BrP
+Atoms(symbols='PBr', pbc=False)

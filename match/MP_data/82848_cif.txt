@@ -1,0 +1,2 @@
+Fe4Hf20Te12
+Atoms(symbols='Hf20Fe4Te12', pbc=False)

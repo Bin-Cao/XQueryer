@@ -1,0 +1,2 @@
+Be3Cl2Na8O24Si9
+Atoms(symbols='Na8Be3Si9Cl2O24', pbc=False)

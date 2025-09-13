@@ -1,0 +1,2 @@
+Ga10Na2O24Ti4
+Atoms(symbols='Na2Ti4Ga10O24', pbc=False)

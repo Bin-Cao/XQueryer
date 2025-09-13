@@ -1,0 +1,2 @@
+Pr32S48
+Atoms(symbols='Pr32S48', pbc=False)

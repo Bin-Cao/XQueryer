@@ -1,0 +1,2 @@
+Lu2O8S10U8
+Atoms(symbols='LuU4S5O4LuU4S5O4', pbc=False)

@@ -1,0 +1,2 @@
+Gd4Na4O8
+Atoms(symbols='Na2Gd2O4Na2Gd2O4', pbc=False)

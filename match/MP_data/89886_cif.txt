@@ -1,0 +1,2 @@
+C2H10Nd2O14P2
+Atoms(symbols='Nd2P2H10C2O14', pbc=False)

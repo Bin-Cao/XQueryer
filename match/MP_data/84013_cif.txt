@@ -1,0 +1,2 @@
+Si76Te32
+Atoms(symbols='Si76Te32', pbc=False)

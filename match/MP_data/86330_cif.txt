@@ -1,0 +1,2 @@
+H4N4S36
+Atoms(symbols='H4S36N4', pbc=False)

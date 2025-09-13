@@ -1,0 +1,2 @@
+H4Mo4Na4O20Zn4
+Atoms(symbols='Na4Zn4Mo4H4O20', pbc=False)

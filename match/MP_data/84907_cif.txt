@@ -1,0 +1,2 @@
+Ba2Co2Mn2O10Y2
+Atoms(symbols='Ba2Y2Mn2Co2O10', pbc=False)

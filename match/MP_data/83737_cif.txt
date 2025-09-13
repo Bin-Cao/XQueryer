@@ -1,0 +1,2 @@
+Ga32Sc48
+Atoms(symbols='Ga32Sc48', pbc=False)

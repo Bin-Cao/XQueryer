@@ -1,0 +1,2 @@
+Ho32O80Ti16
+Atoms(symbols='Ho32O80Ti16', pbc=False)

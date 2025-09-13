@@ -1,0 +1,2 @@
+Ag4Al12Br4Na12O48Si12
+Atoms(symbols='Ag4Al12Br4Na12O48Si12', pbc=False)

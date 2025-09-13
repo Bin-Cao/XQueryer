@@ -1,0 +1,2 @@
+Cs4F16Li12
+Atoms(symbols='Cs2Li6F8Cs2Li6F8', pbc=False)

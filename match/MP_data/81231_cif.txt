@@ -1,0 +1,2 @@
+Br20K8Pr4
+Atoms(symbols='K8Pr4Br20', pbc=False)

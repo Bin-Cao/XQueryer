@@ -1,0 +1,2 @@
+Co17Nd2
+Atoms(symbols='Nd2Co17', pbc=False)

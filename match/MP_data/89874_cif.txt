@@ -1,0 +1,2 @@
+S36Zn36
+Atoms(symbols='S36Zn36', pbc=False)

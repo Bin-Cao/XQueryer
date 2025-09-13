@@ -1,0 +1,2 @@
+Dy8O48W12
+Atoms(symbols='Dy8O48W12', pbc=False)

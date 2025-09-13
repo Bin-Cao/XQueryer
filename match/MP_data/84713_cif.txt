@@ -1,0 +1,2 @@
+F6K2Ti
+Atoms(symbols='K2TiF6', pbc=False)

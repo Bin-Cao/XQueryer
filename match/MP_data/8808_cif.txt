@@ -1,0 +1,2 @@
+C2AuCs
+Atoms(symbols='CsAuC2', pbc=False)

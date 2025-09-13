@@ -1,0 +1,2 @@
+Dy6I24K10
+Atoms(symbols='K5Dy3I12K5Dy3I12', pbc=False)

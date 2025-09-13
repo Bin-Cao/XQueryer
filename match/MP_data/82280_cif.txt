@@ -1,0 +1,2 @@
+O44P4W12
+Atoms(symbols='P4W12O44', pbc=False)

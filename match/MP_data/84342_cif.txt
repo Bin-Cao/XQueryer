@@ -1,0 +1,2 @@
+Bi2Er10Pt4
+Atoms(symbols='Er10Bi2Pt4', pbc=False)

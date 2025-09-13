@@ -1,0 +1,2 @@
+O112Sm32Zr32
+Atoms(symbols='O112Sm32Zr32', pbc=False)

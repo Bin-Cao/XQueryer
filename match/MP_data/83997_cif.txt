@@ -1,0 +1,2 @@
+Hg9O18S3
+Atoms(symbols='Hg9S3O18', pbc=False)

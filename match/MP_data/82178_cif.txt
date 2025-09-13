@@ -1,0 +1,2 @@
+Cl14Nb6Te2
+Atoms(symbols='Nb6Te2Cl14', pbc=False)

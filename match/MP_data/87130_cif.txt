@@ -1,0 +1,2 @@
+HgSr
+Atoms(symbols='SrHg', pbc=False)

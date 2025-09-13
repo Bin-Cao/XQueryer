@@ -1,0 +1,2 @@
+Eu24Mo40O156
+Atoms(symbols='Eu24Mo40O156', pbc=False)

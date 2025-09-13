@@ -1,0 +1,2 @@
+Ag4O14W4
+Atoms(symbols='Ag4W4O14', pbc=False)

@@ -1,0 +1,2 @@
+Cu8P16Si2
+Atoms(symbols='Cu8Si2P16', pbc=False)

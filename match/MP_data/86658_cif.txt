@@ -1,0 +1,2 @@
+Dy22S32
+Atoms(symbols='Dy22S32', pbc=False)

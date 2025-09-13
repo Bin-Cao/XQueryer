@@ -1,0 +1,2 @@
+F30MoO6Te6
+Atoms(symbols='Te6MoO6F30', pbc=False)

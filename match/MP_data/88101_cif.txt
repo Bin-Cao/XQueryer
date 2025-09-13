@@ -1,0 +1,2 @@
+Gd8O20Si4
+Atoms(symbols='Gd8Si4O20', pbc=False)

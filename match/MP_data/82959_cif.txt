@@ -1,0 +1,2 @@
+Ag2Ho2Pb2
+Atoms(symbols='Ho2Ag2Pb2', pbc=False)

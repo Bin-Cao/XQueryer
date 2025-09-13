@@ -1,0 +1,2 @@
+C16Na8O32Sn4
+Atoms(symbols='Na4Sn2C8O16Na4Sn2C8O16', pbc=False)

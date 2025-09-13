@@ -1,0 +1,2 @@
+Au8V4
+Atoms(symbols='V2Au4V2Au4', pbc=False)

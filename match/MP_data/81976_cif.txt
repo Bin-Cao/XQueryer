@@ -1,0 +1,2 @@
+Rb2Te12
+Atoms(symbols='Rb2Te12', pbc=False)

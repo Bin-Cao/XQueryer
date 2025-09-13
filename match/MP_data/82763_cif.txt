@@ -1,0 +1,2 @@
+V4Zn5
+Atoms(symbols='V4Zn5', pbc=False)

@@ -1,0 +1,2 @@
+F15Nb6
+Atoms(symbols='Nb6F15', pbc=False)

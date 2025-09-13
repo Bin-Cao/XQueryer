@@ -1,0 +1,2 @@
+B16Ru22
+Atoms(symbols='B16Ru22', pbc=False)

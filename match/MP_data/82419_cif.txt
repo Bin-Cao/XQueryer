@@ -1,0 +1,2 @@
+As20K24Sn12
+Atoms(symbols='K24Sn12As20', pbc=False)

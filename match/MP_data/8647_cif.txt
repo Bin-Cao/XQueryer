@@ -1,0 +1,2 @@
+AsCeNi
+Atoms(symbols='CeNiAs', pbc=False)

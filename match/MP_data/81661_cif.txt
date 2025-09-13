@@ -1,0 +1,2 @@
+F86Sb22
+Atoms(symbols='F86Sb22', pbc=False)

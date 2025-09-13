@@ -1,0 +1,2 @@
+Ga8Mg4O16
+Atoms(symbols='Mg2Ga4O8Mg2Ga4O8', pbc=False)

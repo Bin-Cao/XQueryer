@@ -1,0 +1,2 @@
+Co15O24Sb3
+Atoms(symbols='Co5SbO8Co5SbO8Co5SbO8', pbc=False)

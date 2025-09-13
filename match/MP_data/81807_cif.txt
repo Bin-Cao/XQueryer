@@ -1,0 +1,2 @@
+Re32Sc20Si48
+Atoms(symbols='Re32Sc20Si48', pbc=False)

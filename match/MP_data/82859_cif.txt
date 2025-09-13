@@ -1,0 +1,2 @@
+FeTi
+Atoms(symbols='TiFe', pbc=False)

@@ -1,0 +1,2 @@
+H2Ni2O4
+Atoms(symbols='NiHO2NiHO2', pbc=False)

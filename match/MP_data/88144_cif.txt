@@ -1,0 +1,2 @@
+Al2As4Li2O14
+Atoms(symbols='LiAlAs2O7LiAlAs2O7', pbc=False)

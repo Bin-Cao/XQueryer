@@ -1,0 +1,2 @@
+Be12N18O57
+Atoms(symbols='Be12N18O57', pbc=False)

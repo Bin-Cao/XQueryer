@@ -1,0 +1,2 @@
+Hg10O20Re4
+Atoms(symbols='Re4Hg10O20', pbc=False)

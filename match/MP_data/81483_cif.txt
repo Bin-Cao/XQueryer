@@ -1,0 +1,2 @@
+Na16Sn4Te16
+Atoms(symbols='Na16Sn4Te16', pbc=False)

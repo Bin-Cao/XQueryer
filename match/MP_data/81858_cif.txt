@@ -1,0 +1,2 @@
+Ca18Ga24O54
+Atoms(symbols='Ca18Ga24O54', pbc=False)

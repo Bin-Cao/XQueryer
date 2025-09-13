@@ -1,0 +1,2 @@
+Ir4O28Pr12
+Atoms(symbols='Pr6Ir2O14Pr6Ir2O14', pbc=False)

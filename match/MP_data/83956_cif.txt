@@ -1,0 +1,2 @@
+Li44S22
+Atoms(symbols='Li44S22', pbc=False)

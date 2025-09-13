@@ -1,0 +1,2 @@
+Hf21Mg3Na18O144P36
+Atoms(symbols='Hf21Mg3Na18O144P36', pbc=False)

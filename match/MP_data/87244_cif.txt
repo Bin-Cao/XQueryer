@@ -1,0 +1,2 @@
+Li24O28Zr8
+Atoms(symbols='Li12Zr4O14Li12Zr4O14', pbc=False)

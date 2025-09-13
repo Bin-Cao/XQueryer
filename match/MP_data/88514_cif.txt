@@ -1,0 +1,2 @@
+In6Na14Se16
+Atoms(symbols='Na14In6Se16', pbc=False)

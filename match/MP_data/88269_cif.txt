@@ -1,0 +1,2 @@
+Se10Ta5
+Atoms(symbols='Ta5Se10', pbc=False)

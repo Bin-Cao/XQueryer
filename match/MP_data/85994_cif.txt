@@ -1,0 +1,2 @@
+Dy4In32Pt14
+Atoms(symbols='Dy2In16Pt7Dy2In16Pt7', pbc=False)

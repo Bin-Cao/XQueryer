@@ -1,0 +1,2 @@
+As2CaO6
+Atoms(symbols='CaAs2O6', pbc=False)

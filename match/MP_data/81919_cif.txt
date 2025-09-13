@@ -1,0 +1,2 @@
+Cr6P4U
+Atoms(symbols='UCr6P4', pbc=False)

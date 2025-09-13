@@ -1,0 +1,2 @@
+Au2K2Te2
+Atoms(symbols='K2Te2Au2', pbc=False)

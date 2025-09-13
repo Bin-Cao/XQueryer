@@ -1,0 +1,2 @@
+C2H10O14P2Pr2
+Atoms(symbols='Pr2P2H10C2O14', pbc=False)

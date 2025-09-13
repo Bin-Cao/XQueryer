@@ -1,0 +1,2 @@
+Li15O18Re3
+Atoms(symbols='Li15Re3O18', pbc=False)

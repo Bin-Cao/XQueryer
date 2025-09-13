@@ -1,0 +1,2 @@
+Ge8Te24Tl16
+Atoms(symbols='Tl16Ge8Te24', pbc=False)

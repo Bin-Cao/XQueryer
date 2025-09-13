@@ -1,0 +1,2 @@
+Al6Ce6O18
+Atoms(symbols='Ce2Al2O6Ce2Al2O6Ce2Al2O6', pbc=False)

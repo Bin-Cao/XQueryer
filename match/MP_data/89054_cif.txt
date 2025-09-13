@@ -1,0 +1,2 @@
+Lu6Na18O42Si12
+Atoms(symbols='Lu6Na18O42Si12', pbc=False)

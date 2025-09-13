@@ -1,0 +1,2 @@
+C4H5Na3O8
+Atoms(symbols='Na3H5C4O8', pbc=False)

@@ -1,0 +1,2 @@
+F18Na6Ti3
+Atoms(symbols='Na6Ti3F18', pbc=False)

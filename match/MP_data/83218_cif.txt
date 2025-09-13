@@ -1,0 +1,2 @@
+Ga6Ta10
+Atoms(symbols='Ta10Ga6', pbc=False)

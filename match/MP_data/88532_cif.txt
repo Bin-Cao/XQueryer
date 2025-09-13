@@ -1,0 +1,2 @@
+H12O18Rb2S2V2
+Atoms(symbols='Rb2V2H12S2O18', pbc=False)

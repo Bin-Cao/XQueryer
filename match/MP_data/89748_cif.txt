@@ -1,0 +1,2 @@
+MnS
+Atoms(symbols='MnS', pbc=False)

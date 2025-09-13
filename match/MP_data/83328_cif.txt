@@ -1,0 +1,2 @@
+Pt20Ti12
+Atoms(symbols='Ti6Pt10Ti6Pt10', pbc=False)

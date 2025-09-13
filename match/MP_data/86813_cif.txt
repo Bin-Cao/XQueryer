@@ -1,0 +1,2 @@
+Fe18Ga24
+Atoms(symbols='Ga12Fe9Ga12Fe9', pbc=False)

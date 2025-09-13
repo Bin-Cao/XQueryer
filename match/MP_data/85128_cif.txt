@@ -1,0 +1,2 @@
+Ho4Se4
+Atoms(symbols='HoSeHoSeHoSeHoSe', pbc=False)

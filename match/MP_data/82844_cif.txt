@@ -1,0 +1,2 @@
+AuRb
+Atoms(symbols='RbAu', pbc=False)

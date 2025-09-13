@@ -1,0 +1,2 @@
+Li24O18Sn3
+Atoms(symbols='Li8SnO6Li8SnO6Li8SnO6', pbc=False)

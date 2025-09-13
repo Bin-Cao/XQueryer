@@ -1,0 +1,2 @@
+Br12Ca2Th2
+Atoms(symbols='Ca2Th2Br12', pbc=False)

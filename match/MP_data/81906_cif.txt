@@ -1,0 +1,2 @@
+Al9Br36Nd3
+Atoms(symbols='Nd3Al9Br36', pbc=False)

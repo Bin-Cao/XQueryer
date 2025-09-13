@@ -1,0 +1,2 @@
+YZn5
+Atoms(symbols='YZn5', pbc=False)

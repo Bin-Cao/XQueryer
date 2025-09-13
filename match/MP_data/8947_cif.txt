@@ -1,0 +1,2 @@
+La2Os2Si6
+Atoms(symbols='LaSi3OsLaSi3Os', pbc=False)

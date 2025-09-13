@@ -1,0 +1,2 @@
+Cu8O32P8Tl8
+Atoms(symbols='Tl4Cu4P4O16Tl4Cu4P4O16', pbc=False)

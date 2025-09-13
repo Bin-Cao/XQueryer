@@ -1,0 +1,2 @@
+Ca2Li2O12Pr2Te2
+Atoms(symbols='Li2Ca2Pr2Te2O12', pbc=False)

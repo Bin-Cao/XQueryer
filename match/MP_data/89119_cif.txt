@@ -1,0 +1,2 @@
+F9O12P3Sn9
+Atoms(symbols='Sn3PO4F3Sn3PO4F3Sn3PO4F3', pbc=False)

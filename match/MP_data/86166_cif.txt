@@ -1,0 +1,2 @@
+O20Pb12Se4
+Atoms(symbols='Pb6Se2O10Pb6Se2O10', pbc=False)

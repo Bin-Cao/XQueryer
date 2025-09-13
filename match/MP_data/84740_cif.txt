@@ -1,0 +1,2 @@
+C2K4O3
+Atoms(symbols='K4C2O3', pbc=False)

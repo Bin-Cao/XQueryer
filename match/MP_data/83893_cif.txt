@@ -1,0 +1,2 @@
+Cl6Nd2O24
+Atoms(symbols='Nd2Cl6O24', pbc=False)

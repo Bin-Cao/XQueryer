@@ -1,0 +1,2 @@
+Cu8O8Pb4
+Atoms(symbols='Cu4Pb2O4Cu4Pb2O4', pbc=False)

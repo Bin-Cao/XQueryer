@@ -1,0 +1,2 @@
+Dy12Fe2Te4
+Atoms(symbols='Dy6FeTe2Dy6FeTe2', pbc=False)

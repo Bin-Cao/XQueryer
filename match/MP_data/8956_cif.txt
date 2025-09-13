@@ -1,0 +1,2 @@
+O16S4
+Atoms(symbols='SO4SO4SO4SO4', pbc=False)

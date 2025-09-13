@@ -1,0 +1,2 @@
+Er2Ni12P7
+Atoms(symbols='Er2Ni12P7', pbc=False)

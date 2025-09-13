@@ -1,0 +1,2 @@
+Er8I10
+Atoms(symbols='Er4I5Er4I5', pbc=False)

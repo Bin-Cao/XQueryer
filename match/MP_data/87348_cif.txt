@@ -1,0 +1,2 @@
+B56Li40S104
+Atoms(symbols='B56Li40S104', pbc=False)

@@ -1,0 +1,2 @@
+F4Kr2
+Atoms(symbols='KrF2KrF2', pbc=False)

@@ -1,0 +1,2 @@
+Lu4Ni2Sn12
+Atoms(symbols='Lu2NiSn6Lu2NiSn6', pbc=False)

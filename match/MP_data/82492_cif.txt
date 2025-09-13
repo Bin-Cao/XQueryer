@@ -1,0 +1,2 @@
+IrY
+Atoms(symbols='YIr', pbc=False)

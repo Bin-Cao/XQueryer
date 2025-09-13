@@ -1,0 +1,2 @@
+H44Cl12O20Sn2
+Atoms(symbols='H44Cl12O20Sn2', pbc=False)

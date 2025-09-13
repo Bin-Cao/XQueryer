@@ -1,0 +1,2 @@
+C15V18
+Atoms(symbols='V18C15', pbc=False)

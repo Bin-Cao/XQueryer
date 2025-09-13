@@ -1,0 +1,2 @@
+As10Ba2Ni18
+Atoms(symbols='Ba2Ni18As10', pbc=False)

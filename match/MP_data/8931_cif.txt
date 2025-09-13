@@ -1,0 +1,2 @@
+O14Sn4Sr4Y4
+Atoms(symbols='Sr4Y4Sn4O14', pbc=False)

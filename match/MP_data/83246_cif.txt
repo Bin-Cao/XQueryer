@@ -1,0 +1,2 @@
+O14Sr6Ti4
+Atoms(symbols='Sr3Ti2O7Sr3Ti2O7', pbc=False)

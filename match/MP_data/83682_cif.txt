@@ -1,0 +1,2 @@
+Hf16Ru24Si32
+Atoms(symbols='Hf16Ru24Si32', pbc=False)

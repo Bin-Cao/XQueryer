@@ -1,0 +1,2 @@
+Hg12Na8S16
+Atoms(symbols='Na8Hg12S16', pbc=False)

@@ -1,0 +1,2 @@
+H4In2O10P2
+Atoms(symbols='In2P2H4O10', pbc=False)

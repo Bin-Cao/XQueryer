@@ -1,0 +1,2 @@
+Cr3IrN
+Atoms(symbols='Cr3IrN', pbc=False)

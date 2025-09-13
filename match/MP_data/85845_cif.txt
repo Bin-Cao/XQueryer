@@ -1,0 +1,2 @@
+Cu3Fe15O24
+Atoms(symbols='Fe5CuO8Fe5CuO8Fe5CuO8', pbc=False)

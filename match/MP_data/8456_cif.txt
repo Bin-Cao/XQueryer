@@ -1,0 +1,2 @@
+SbTh
+Atoms(symbols='ThSb', pbc=False)

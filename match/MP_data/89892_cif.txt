@@ -1,0 +1,2 @@
+Ba4O60P20Zn6
+Atoms(symbols='Ba4O60P20Zn6', pbc=False)

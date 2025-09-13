@@ -1,0 +1,2 @@
+Ag10O12Pb4
+Atoms(symbols='Ag5Pb2O6Ag5Pb2O6', pbc=False)

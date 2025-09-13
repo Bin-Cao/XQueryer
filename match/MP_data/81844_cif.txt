@@ -1,0 +1,2 @@
+B12O20Tl4
+Atoms(symbols='Tl4B12O20', pbc=False)

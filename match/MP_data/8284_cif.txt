@@ -1,0 +1,2 @@
+O
+Atoms(symbols='O', pbc=False)

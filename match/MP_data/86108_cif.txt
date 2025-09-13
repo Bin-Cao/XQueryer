@@ -1,0 +1,2 @@
+Li10O12Re2
+Atoms(symbols='Li5ReO6Li5ReO6', pbc=False)

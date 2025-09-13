@@ -1,0 +1,2 @@
+Li14Sn6
+Atoms(symbols='Li14Sn6', pbc=False)

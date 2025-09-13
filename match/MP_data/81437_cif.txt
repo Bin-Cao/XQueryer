@@ -1,0 +1,2 @@
+In8O36Te12
+Atoms(symbols='In8Te12O36', pbc=False)

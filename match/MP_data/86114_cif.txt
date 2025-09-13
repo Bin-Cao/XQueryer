@@ -1,0 +1,2 @@
+Co4Pd2Se24Ta8
+Atoms(symbols='Ta4Co2PdSe12Ta4Co2PdSe12', pbc=False)

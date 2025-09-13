@@ -1,0 +1,2 @@
+F18N18S18
+Atoms(symbols='S6N6F6S6N6F6S6N6F6', pbc=False)

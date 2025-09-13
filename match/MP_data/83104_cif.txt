@@ -1,0 +1,2 @@
+Au4Ho8
+Atoms(symbols='Ho8Au4', pbc=False)

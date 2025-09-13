@@ -1,0 +1,2 @@
+Mo60N64
+Atoms(symbols='Mo60N64', pbc=False)

@@ -1,0 +1,2 @@
+O52P8Te16
+Atoms(symbols='O52P8Te16', pbc=False)

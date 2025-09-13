@@ -1,0 +1,2 @@
+Li21O18Ta3
+Atoms(symbols='Li7TaO6Li7TaO6Li7TaO6', pbc=False)

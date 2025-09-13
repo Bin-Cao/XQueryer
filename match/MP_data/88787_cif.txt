@@ -1,0 +1,2 @@
+Lu2O16Rb2S4
+Atoms(symbols='Rb2Lu2S4O16', pbc=False)

@@ -1,0 +1,2 @@
+Al36Cr4Mg6
+Atoms(symbols='Mg6Al36Cr4', pbc=False)

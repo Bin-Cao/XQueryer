@@ -1,0 +1,2 @@
+Ir5Th
+Atoms(symbols='ThIr5', pbc=False)

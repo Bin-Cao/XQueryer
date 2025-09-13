@@ -1,0 +1,2 @@
+Cl18Mn6Na6
+Atoms(symbols='Na2Mn2Cl6Na2Mn2Cl6Na2Mn2Cl6', pbc=False)

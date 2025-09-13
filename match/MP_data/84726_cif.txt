@@ -1,0 +1,2 @@
+Ce10Na2S16
+Atoms(symbols='NaCe5S8NaCe5S8', pbc=False)

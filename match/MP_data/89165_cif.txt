@@ -1,0 +1,2 @@
+Cl4Dy4O12Ti4
+Atoms(symbols='Dy2Ti2Cl2O6Dy2Ti2Cl2O6', pbc=False)

@@ -1,0 +1,2 @@
+B28Cr4Ho12
+Atoms(symbols='Ho6Cr2B14Ho6Cr2B14', pbc=False)

@@ -1,0 +1,2 @@
+S32Tb22
+Atoms(symbols='Tb22S32', pbc=False)

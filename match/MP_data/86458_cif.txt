@@ -1,0 +1,2 @@
+In16Na40Te48
+Atoms(symbols='In16Na40Te48', pbc=False)

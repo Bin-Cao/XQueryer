@@ -1,0 +1,2 @@
+C3O12Rb12
+Atoms(symbols='Rb4CO4Rb4CO4Rb4CO4', pbc=False)

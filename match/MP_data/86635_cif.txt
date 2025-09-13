@@ -1,0 +1,2 @@
+B48O6
+Atoms(symbols='B48O6', pbc=False)

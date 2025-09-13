@@ -1,0 +1,2 @@
+Cu8O24Se8
+Atoms(symbols='Cu8Se8O24', pbc=False)

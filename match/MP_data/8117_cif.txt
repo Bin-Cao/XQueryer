@@ -1,0 +1,2 @@
+Co4O32P8Sr4Zn4
+Atoms(symbols='Sr4Zn4Co4P8O32', pbc=False)

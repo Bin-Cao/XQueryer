@@ -1,0 +1,2 @@
+CaCuO2
+Atoms(symbols='CaCuO2', pbc=False)

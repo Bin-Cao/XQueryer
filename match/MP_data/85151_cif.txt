@@ -1,0 +1,2 @@
+Al40Ce2Cr4
+Atoms(symbols='Ce2Al40Cr4', pbc=False)

@@ -1,0 +1,2 @@
+As12Cs4O32
+Atoms(symbols='Cs2As6O16Cs2As6O16', pbc=False)

@@ -1,0 +1,2 @@
+Gd12O32Re4
+Atoms(symbols='Gd12Re4O32', pbc=False)

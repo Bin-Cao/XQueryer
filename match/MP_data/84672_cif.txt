@@ -1,0 +1,2 @@
+Na8O12Pt4
+Atoms(symbols='Na4Pt2O6Na4Pt2O6', pbc=False)

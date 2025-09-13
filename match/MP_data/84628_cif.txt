@@ -1,0 +1,2 @@
+Cu12Ga42Li26
+Atoms(symbols='Cu12Ga42Li26', pbc=False)

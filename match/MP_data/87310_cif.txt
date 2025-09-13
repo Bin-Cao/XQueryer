@@ -1,0 +1,2 @@
+Ce6O51Y26
+Atoms(symbols='Ce6O51Y26', pbc=False)

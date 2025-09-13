@@ -1,0 +1,2 @@
+Ge16Se32
+Atoms(symbols='Ge16Se32', pbc=False)

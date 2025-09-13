@@ -1,0 +1,2 @@
+Ca
+Atoms(symbols='Ca', pbc=False)

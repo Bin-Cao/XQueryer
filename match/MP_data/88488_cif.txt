@@ -1,0 +1,2 @@
+Ge8K8S20
+Atoms(symbols='K8Ge8S20', pbc=False)

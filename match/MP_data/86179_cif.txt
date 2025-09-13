@@ -1,0 +1,2 @@
+Au10Cs14O4
+Atoms(symbols='Cs7Au5O2Cs7Au5O2', pbc=False)

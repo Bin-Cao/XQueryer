@@ -1,0 +1,2 @@
+K6Mo20O60
+Atoms(symbols='K6Mo20O60', pbc=False)

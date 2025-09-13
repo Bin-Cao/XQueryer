@@ -1,0 +1,2 @@
+Au12Sn12Sr12
+Atoms(symbols='Sr12Sn12Au12', pbc=False)

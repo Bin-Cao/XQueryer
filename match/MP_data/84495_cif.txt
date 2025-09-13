@@ -1,0 +1,2 @@
+B20F24
+Atoms(symbols='B20F24', pbc=False)

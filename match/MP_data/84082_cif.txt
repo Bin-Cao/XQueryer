@@ -1,0 +1,2 @@
+Cu4Si4Y2
+Atoms(symbols='YCu2Si2YCu2Si2', pbc=False)

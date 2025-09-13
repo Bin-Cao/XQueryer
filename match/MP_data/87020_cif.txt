@@ -1,0 +1,2 @@
+I12Nb4Te4
+Atoms(symbols='Nb4Te4I12', pbc=False)

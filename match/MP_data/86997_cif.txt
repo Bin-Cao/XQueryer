@@ -1,0 +1,2 @@
+Ca18F40Pr2
+Atoms(symbols='Ca18Pr2F40', pbc=False)

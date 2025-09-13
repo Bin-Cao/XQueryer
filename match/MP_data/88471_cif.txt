@@ -1,0 +1,2 @@
+Mg4O32Si8Sr12
+Atoms(symbols='Sr6Mg2Si4O16Sr6Mg2Si4O16', pbc=False)

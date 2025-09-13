@@ -1,0 +1,2 @@
+Ac4F4O4
+Atoms(symbols='AcOFAcOFAcOFAcOF', pbc=False)

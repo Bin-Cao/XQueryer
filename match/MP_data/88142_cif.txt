@@ -1,0 +1,2 @@
+O28P16
+Atoms(symbols='P16O28', pbc=False)

@@ -1,0 +1,2 @@
+Cu2K2Na2O20Si8
+Atoms(symbols='K2Na2Cu2Si8O20', pbc=False)

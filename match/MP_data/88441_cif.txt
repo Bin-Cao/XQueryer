@@ -1,0 +1,2 @@
+CN2O2Y2
+Atoms(symbols='Y2CN2O2', pbc=False)

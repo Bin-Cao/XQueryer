@@ -1,0 +1,2 @@
+Na2Sn10
+Atoms(symbols='Na2Sn10', pbc=False)

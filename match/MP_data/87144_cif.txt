@@ -1,0 +1,2 @@
+Na22O42Ti20
+Atoms(symbols='Na22O42Ti20', pbc=False)

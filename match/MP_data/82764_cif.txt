@@ -1,0 +1,2 @@
+Cu32K16Te44
+Atoms(symbols='Cu32K16Te44', pbc=False)

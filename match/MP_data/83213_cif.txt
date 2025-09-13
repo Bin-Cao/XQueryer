@@ -1,0 +1,2 @@
+Cd2Mg6
+Atoms(symbols='Mg6Cd2', pbc=False)

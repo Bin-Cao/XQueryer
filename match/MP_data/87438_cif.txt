@@ -1,0 +1,2 @@
+Al44O68Sr2
+Atoms(symbols='Al44O68Sr2', pbc=False)

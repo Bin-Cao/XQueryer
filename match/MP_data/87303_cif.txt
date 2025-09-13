@@ -1,0 +1,2 @@
+I24Th8
+Atoms(symbols='Th8I24', pbc=False)

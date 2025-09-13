@@ -1,0 +1,2 @@
+Li28O32Rb4Si8
+Atoms(symbols='Li28O32Rb4Si8', pbc=False)

@@ -1,0 +1,2 @@
+As8Hg24O32
+Atoms(symbols='As8Hg24O32', pbc=False)

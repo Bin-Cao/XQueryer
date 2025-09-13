@@ -1,0 +1,2 @@
+Ho3In3Ni3
+Atoms(symbols='Ho3In3Ni3', pbc=False)

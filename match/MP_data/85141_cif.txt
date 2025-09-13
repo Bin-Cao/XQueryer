@@ -1,0 +1,2 @@
+O28Re2Y14
+Atoms(symbols='Y14Re2O28', pbc=False)

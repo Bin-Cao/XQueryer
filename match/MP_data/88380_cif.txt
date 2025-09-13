@@ -1,0 +1,2 @@
+La18O10Sb10
+Atoms(symbols='La18Sb10O10', pbc=False)

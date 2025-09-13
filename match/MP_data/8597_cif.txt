@@ -1,0 +1,2 @@
+As4Co4Fe4V4
+Atoms(symbols='VFeCoAsVFeCoAsVFeCoAsVFeCoAs', pbc=False)

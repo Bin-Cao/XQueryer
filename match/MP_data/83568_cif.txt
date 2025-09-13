@@ -1,0 +1,2 @@
+Cl12Na6Y2
+Atoms(symbols='Na6Y2Cl12', pbc=False)

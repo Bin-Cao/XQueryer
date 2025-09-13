@@ -1,0 +1,2 @@
+BeO4S
+Atoms(symbols='BeSO4', pbc=False)

@@ -1,0 +1,2 @@
+H4O2
+Atoms(symbols='H4O2', pbc=False)

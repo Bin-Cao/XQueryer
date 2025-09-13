@@ -1,0 +1,2 @@
+Sb16Zr28
+Atoms(symbols='Zr28Sb16', pbc=False)

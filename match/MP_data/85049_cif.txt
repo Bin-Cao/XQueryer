@@ -1,0 +1,2 @@
+Ir8Se62U24
+Atoms(symbols='Ir8Se62U24', pbc=False)

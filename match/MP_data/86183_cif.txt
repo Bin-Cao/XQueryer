@@ -1,0 +1,2 @@
+Na16O32Se8
+Atoms(symbols='Na4Se2O8Na4Se2O8Na4Se2O8Na4Se2O8', pbc=False)

@@ -1,0 +1,2 @@
+Cl36Pr15
+Atoms(symbols='Pr15Cl36', pbc=False)

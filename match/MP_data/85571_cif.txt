@@ -1,0 +1,2 @@
+F24Mo4Na4
+Atoms(symbols='NaMoF6NaMoF6NaMoF6NaMoF6', pbc=False)

@@ -1,0 +1,2 @@
+AsBaLi
+Atoms(symbols='BaLiAs', pbc=False)

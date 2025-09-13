@@ -1,0 +1,2 @@
+Mo8O12Sn2
+Atoms(symbols='Sn2Mo8O12', pbc=False)

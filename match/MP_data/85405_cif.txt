@@ -1,0 +1,2 @@
+F20K8Na4O4V4
+Atoms(symbols='K8Na4V4O4F20', pbc=False)

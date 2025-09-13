@@ -1,0 +1,2 @@
+RuSi
+Atoms(symbols='SiRu', pbc=False)

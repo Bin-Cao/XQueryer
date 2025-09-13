@@ -1,0 +1,2 @@
+Na16O64S16Zn8
+Atoms(symbols='Na16O64S16Zn8', pbc=False)

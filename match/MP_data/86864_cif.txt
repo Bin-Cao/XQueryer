@@ -1,0 +1,2 @@
+Nb6O48Sc22
+Atoms(symbols='Nb6O48Sc22', pbc=False)

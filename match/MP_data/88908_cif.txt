@@ -1,0 +1,2 @@
+Se26Ta13
+Atoms(symbols='Ta13Se26', pbc=False)

@@ -1,0 +1,2 @@
+Br12Hg18Te12
+Atoms(symbols='Hg6Te4Br4Hg6Te4Br4Hg6Te4Br4', pbc=False)

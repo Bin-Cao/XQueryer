@@ -1,0 +1,2 @@
+Al16Br16La20
+Atoms(symbols='La10Al8Br8La10Al8Br8', pbc=False)

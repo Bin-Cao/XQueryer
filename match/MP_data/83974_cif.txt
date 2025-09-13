@@ -1,0 +1,2 @@
+Nb8O24Sn4
+Atoms(symbols='Nb4Sn2O12Nb4Sn2O12', pbc=False)

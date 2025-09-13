@@ -1,0 +1,2 @@
+As12Pb27S45
+Atoms(symbols='As12Pb27S45', pbc=False)

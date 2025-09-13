@@ -1,0 +1,2 @@
+AgNd5Se8
+Atoms(symbols='Nd5AgSe8', pbc=False)

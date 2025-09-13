@@ -1,0 +1,2 @@
+O4V2
+Atoms(symbols='V2O4', pbc=False)

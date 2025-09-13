@@ -1,0 +1,2 @@
+Mo16Nd8O64Tl4
+Atoms(symbols='Mo16Nd8O64Tl4', pbc=False)

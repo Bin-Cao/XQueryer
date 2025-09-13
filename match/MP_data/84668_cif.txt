@@ -1,0 +1,2 @@
+Mn12O32Ta8
+Atoms(symbols='Ta8Mn12O32', pbc=False)

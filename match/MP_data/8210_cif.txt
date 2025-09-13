@@ -1,0 +1,2 @@
+Ni20O72Te12
+Atoms(symbols='Ni20O72Te12', pbc=False)

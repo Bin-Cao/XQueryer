@@ -1,0 +1,2 @@
+Bi4Cl16Te14
+Atoms(symbols='Bi4Te14Cl16', pbc=False)

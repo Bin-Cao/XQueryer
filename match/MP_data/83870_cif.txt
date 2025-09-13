@@ -1,0 +1,2 @@
+C4Cu4N8
+Atoms(symbols='Cu2C2N4Cu2C2N4', pbc=False)

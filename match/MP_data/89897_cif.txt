@@ -1,0 +1,2 @@
+Cl2Cu2F20
+Atoms(symbols='Cu2Cl2F20', pbc=False)

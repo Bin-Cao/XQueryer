@@ -1,0 +1,2 @@
+Mn6Na5Nd11O48Ti10
+Atoms(symbols='Mn6Na5Nd11O48Ti10', pbc=False)

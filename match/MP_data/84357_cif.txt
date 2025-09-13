@@ -1,0 +1,2 @@
+Rh6Se16
+Atoms(symbols='Rh6Se16', pbc=False)

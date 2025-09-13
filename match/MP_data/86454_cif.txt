@@ -1,0 +1,2 @@
+Cu9Fe3Nd3O36Ti9
+Atoms(symbols='NdTi3FeCu3O12NdTi3FeCu3O12NdTi3FeCu3O12', pbc=False)

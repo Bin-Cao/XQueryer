@@ -1,0 +1,2 @@
+O16Se4Sr4
+Atoms(symbols='Sr4Se4O16', pbc=False)

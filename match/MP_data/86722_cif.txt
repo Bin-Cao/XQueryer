@@ -1,0 +1,2 @@
+H18K6O18Sn3
+Atoms(symbols='K2SnH6O6K2SnH6O6K2SnH6O6', pbc=False)

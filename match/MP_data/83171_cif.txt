@@ -1,0 +1,2 @@
+Ag2Th
+Atoms(symbols='ThAg2', pbc=False)

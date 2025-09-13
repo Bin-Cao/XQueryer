@@ -1,0 +1,2 @@
+F64Sn24Ti4
+Atoms(symbols='F64Sn24Ti4', pbc=False)

@@ -1,0 +1,2 @@
+Ag9O24P6
+Atoms(symbols='Ag3P2O8Ag3P2O8Ag3P2O8', pbc=False)

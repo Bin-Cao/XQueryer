@@ -1,0 +1,2 @@
+K4O44U14
+Atoms(symbols='K4O44U14', pbc=False)

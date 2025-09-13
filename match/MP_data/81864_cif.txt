@@ -1,0 +1,2 @@
+Ba6O22Te8
+Atoms(symbols='Ba6Te8O22', pbc=False)

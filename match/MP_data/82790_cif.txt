@@ -1,0 +1,2 @@
+Ni16Sn4Zr4
+Atoms(symbols='ZrNi4SnZrNi4SnZrNi4SnZrNi4Sn', pbc=False)

@@ -1,0 +1,2 @@
+C24Mg4N24Na16S24
+Atoms(symbols='C24Mg4N24Na16S24', pbc=False)

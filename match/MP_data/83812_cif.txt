@@ -1,0 +1,2 @@
+Na5O44W14
+Atoms(symbols='Na5O44W14', pbc=False)

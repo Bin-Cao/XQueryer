@@ -1,0 +1,2 @@
+Au2Na10Se24
+Atoms(symbols='Na10Au2Se24', pbc=False)

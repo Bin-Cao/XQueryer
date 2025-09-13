@@ -1,0 +1,2 @@
+Rh8Sn26Th6
+Atoms(symbols='Th6Sn26Rh8', pbc=False)

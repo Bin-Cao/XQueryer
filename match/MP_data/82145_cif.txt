@@ -1,0 +1,2 @@
+Al8Sb24Sr20
+Atoms(symbols='Sr20Al8Sb24', pbc=False)

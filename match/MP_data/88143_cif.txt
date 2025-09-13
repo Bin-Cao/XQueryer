@@ -1,0 +1,2 @@
+In8O36Pb8Si8
+Atoms(symbols='In8Si8Pb8O36', pbc=False)

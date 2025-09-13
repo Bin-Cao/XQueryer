@@ -1,0 +1,2 @@
+Ru24Si32Zr16
+Atoms(symbols='Ru24Si32Zr16', pbc=False)

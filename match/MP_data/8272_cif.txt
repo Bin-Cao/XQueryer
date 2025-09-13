@@ -1,0 +1,2 @@
+Ca2Ho2O12Sb4
+Atoms(symbols='Ca2Ho2Sb4O12', pbc=False)

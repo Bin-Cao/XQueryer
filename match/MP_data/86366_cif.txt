@@ -1,0 +1,2 @@
+Er8Si16Ti12
+Atoms(symbols='Er8Ti12Si16', pbc=False)

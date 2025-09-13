@@ -1,0 +1,2 @@
+Ba3Fe3NbO14Si2
+Atoms(symbols='Ba3NbFe3Si2O14', pbc=False)

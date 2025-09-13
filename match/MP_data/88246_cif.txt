@@ -1,0 +1,2 @@
+I20Mo6Te20
+Atoms(symbols='Te20Mo6I20', pbc=False)

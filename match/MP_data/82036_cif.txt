@@ -1,0 +1,2 @@
+Cl16Cu2Ga4
+Atoms(symbols='Ga4Cu2Cl16', pbc=False)

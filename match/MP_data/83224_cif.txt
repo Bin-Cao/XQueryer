@@ -1,0 +1,2 @@
+C12Mo8Pr8
+Atoms(symbols='Pr8Mo8C12', pbc=False)

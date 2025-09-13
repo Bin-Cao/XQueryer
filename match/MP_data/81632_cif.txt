@@ -1,0 +1,2 @@
+P6Pd45
+Atoms(symbols='P2Pd15P2Pd15P2Pd15', pbc=False)

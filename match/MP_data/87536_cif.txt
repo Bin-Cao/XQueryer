@@ -1,0 +1,2 @@
+La16Mn14O48
+Atoms(symbols='La16Mn14O48', pbc=False)

@@ -1,0 +1,2 @@
+As24La8Si8
+Atoms(symbols='La8Si8As24', pbc=False)

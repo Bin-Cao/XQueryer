@@ -1,0 +1,2 @@
+Na24Te24
+Atoms(symbols='Na24Te24', pbc=False)

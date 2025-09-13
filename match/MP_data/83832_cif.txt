@@ -1,0 +1,2 @@
+Ce4F4O4
+Atoms(symbols='CeOFCeOFCeOFCeOF', pbc=False)

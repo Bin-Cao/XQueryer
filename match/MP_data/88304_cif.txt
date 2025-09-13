@@ -1,0 +1,2 @@
+Er2O8Ta2
+Atoms(symbols='Er2Ta2O8', pbc=False)

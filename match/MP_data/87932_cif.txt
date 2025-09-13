@@ -1,0 +1,2 @@
+La4N8O4Ta4
+Atoms(symbols='La2Ta2N4O2La2Ta2N4O2', pbc=False)

@@ -1,0 +1,2 @@
+Co4Na14O12Rb2
+Atoms(symbols='RbNa7Co2O6RbNa7Co2O6', pbc=False)

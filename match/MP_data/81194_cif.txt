@@ -1,0 +1,2 @@
+Na54Nb30O216Si54Zn6
+Atoms(symbols='Na54Nb30O216Si54Zn6', pbc=False)

@@ -1,0 +1,2 @@
+F24O4Sn16
+Atoms(symbols='Sn16O4F24', pbc=False)

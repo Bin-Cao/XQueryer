@@ -1,0 +1,2 @@
+H3K3S3
+Atoms(symbols='KHSKHSKHS', pbc=False)

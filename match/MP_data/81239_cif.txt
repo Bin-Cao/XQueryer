@@ -1,0 +1,2 @@
+Cu2F12Pt2
+Atoms(symbols='Cu2Pt2F12', pbc=False)

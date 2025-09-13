@@ -1,0 +1,2 @@
+Br8O2W2
+Atoms(symbols='WBr4OWBr4O', pbc=False)

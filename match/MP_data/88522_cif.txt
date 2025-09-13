@@ -1,0 +1,2 @@
+Ho5Mo36S48
+Atoms(symbols='Ho5Mo36S48', pbc=False)

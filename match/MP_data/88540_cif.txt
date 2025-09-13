@@ -1,0 +1,2 @@
+IKNiO6
+Atoms(symbols='KNiIO6', pbc=False)

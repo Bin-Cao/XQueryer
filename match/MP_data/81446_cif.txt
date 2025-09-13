@@ -1,0 +1,2 @@
+S6U3
+Atoms(symbols='U3S6', pbc=False)

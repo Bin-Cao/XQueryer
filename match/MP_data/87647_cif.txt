@@ -1,0 +1,2 @@
+C24O24W4
+Atoms(symbols='W4C24O24', pbc=False)

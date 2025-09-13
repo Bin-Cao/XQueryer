@@ -1,0 +1,2 @@
+Cu5Nd5O13
+Atoms(symbols='Nd5Cu5O13', pbc=False)

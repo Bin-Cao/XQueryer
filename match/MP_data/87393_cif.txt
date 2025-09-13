@@ -1,0 +1,2 @@
+N54Sb6
+Atoms(symbols='Sb2N18Sb2N18Sb2N18', pbc=False)

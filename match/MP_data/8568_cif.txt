@@ -1,0 +1,2 @@
+Co4O8
+Atoms(symbols='CoO2CoO2CoO2CoO2', pbc=False)

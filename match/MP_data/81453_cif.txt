@@ -1,0 +1,2 @@
+Cu20K8Te20
+Atoms(symbols='K4Cu10Te10K4Cu10Te10', pbc=False)

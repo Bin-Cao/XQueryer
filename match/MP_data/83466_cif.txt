@@ -1,0 +1,2 @@
+Dy10Ru4
+Atoms(symbols='Dy10Ru4', pbc=False)

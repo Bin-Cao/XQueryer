@@ -1,0 +1,2 @@
+Au8Na32Tl8
+Atoms(symbols='Na8Tl2Au2Na8Tl2Au2Na8Tl2Au2Na8Tl2Au2', pbc=False)

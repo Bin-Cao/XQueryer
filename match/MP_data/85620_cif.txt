@@ -1,0 +1,2 @@
+F24Hg8Ni8O4
+Atoms(symbols='Ni4Hg4O2F12Ni4Hg4O2F12', pbc=False)

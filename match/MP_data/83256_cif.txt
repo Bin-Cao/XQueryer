@@ -1,0 +1,2 @@
+H44B20
+Atoms(symbols='H44B20', pbc=False)

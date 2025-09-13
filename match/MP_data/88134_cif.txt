@@ -1,0 +1,2 @@
+Ta4Te6
+Atoms(symbols='Ta4Te6', pbc=False)

@@ -1,0 +1,2 @@
+Gd6O24Sb10
+Atoms(symbols='Gd6Sb10O24', pbc=False)

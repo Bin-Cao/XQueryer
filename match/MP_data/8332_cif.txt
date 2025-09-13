@@ -1,0 +1,2 @@
+CsS
+Atoms(symbols='CsS', pbc=False)

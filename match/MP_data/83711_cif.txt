@@ -1,0 +1,2 @@
+Cl6Ga2
+Atoms(symbols='Ga2Cl6', pbc=False)

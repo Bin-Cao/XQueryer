@@ -1,0 +1,2 @@
+K6O16Ta2
+Atoms(symbols='K3TaO8K3TaO8', pbc=False)

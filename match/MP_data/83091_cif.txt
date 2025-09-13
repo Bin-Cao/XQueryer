@@ -1,0 +1,2 @@
+RuSc
+Atoms(symbols='ScRu', pbc=False)

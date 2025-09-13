@@ -1,0 +1,2 @@
+H21Y10
+Atoms(symbols='Y10H21', pbc=False)

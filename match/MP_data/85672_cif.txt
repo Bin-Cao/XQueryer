@@ -1,0 +1,2 @@
+La12Ni6O25
+Atoms(symbols='La12Ni6O25', pbc=False)

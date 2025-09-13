@@ -1,0 +1,2 @@
+Ga4Gd12O24
+Atoms(symbols='Gd6Ga2O12Gd6Ga2O12', pbc=False)

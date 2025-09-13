@@ -1,0 +1,2 @@
+Ag32Ba4S20
+Atoms(symbols='Ba4Ag32S20', pbc=False)

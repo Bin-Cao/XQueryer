@@ -1,0 +1,2 @@
+Mn16O56
+Atoms(symbols='Mn16O56', pbc=False)

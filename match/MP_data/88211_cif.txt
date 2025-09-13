@@ -1,0 +1,2 @@
+Sc32Te12
+Atoms(symbols='Sc32Te12', pbc=False)

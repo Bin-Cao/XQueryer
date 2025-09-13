@@ -1,0 +1,2 @@
+Hg3Na9
+Atoms(symbols='Na3HgNa3HgNa3Hg', pbc=False)

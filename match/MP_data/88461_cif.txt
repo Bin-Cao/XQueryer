@@ -1,0 +1,2 @@
+Ag2N2O6
+Atoms(symbols='Ag2N2O6', pbc=False)

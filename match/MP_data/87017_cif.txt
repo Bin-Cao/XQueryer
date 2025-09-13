@@ -1,0 +1,2 @@
+Cu16O96Ta32
+Atoms(symbols='Cu16O96Ta32', pbc=False)

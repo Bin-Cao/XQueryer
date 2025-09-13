@@ -1,0 +1,2 @@
+Ge2O14P4
+Atoms(symbols='Ge2P4O14', pbc=False)

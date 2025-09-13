@@ -1,0 +1,2 @@
+Ag25Bi3O18
+Atoms(symbols='Ag25Bi3O18', pbc=False)

@@ -1,0 +1,2 @@
+Ag6F28Hf4
+Atoms(symbols='Hf2Ag3F14Hf2Ag3F14', pbc=False)

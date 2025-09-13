@@ -1,0 +1,2 @@
+Co2Mo2O12Sr4
+Atoms(symbols='Sr4Co2Mo2O12', pbc=False)

@@ -1,0 +1,2 @@
+S72
+Atoms(symbols='S72', pbc=False)

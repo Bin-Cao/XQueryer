@@ -1,0 +1,2 @@
+Co5O8Ru
+Atoms(symbols='Co5RuO8', pbc=False)

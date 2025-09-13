@@ -1,0 +1,2 @@
+C38H68
+Atoms(symbols='C38H68', pbc=False)

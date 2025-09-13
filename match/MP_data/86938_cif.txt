@@ -1,0 +1,2 @@
+Al22GdO34
+Atoms(symbols='GdAl22O34', pbc=False)

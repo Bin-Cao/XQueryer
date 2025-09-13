@@ -1,0 +1,2 @@
+H40B16
+Atoms(symbols='B16H40', pbc=False)

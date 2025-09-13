@@ -1,0 +1,2 @@
+O36U3Y18
+Atoms(symbols='Y6UO12Y6UO12Y6UO12', pbc=False)

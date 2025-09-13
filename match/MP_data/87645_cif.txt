@@ -1,0 +1,2 @@
+Cu2O12S4Tl4
+Atoms(symbols='Tl2CuS2O6Tl2CuS2O6', pbc=False)

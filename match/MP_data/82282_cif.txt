@@ -1,0 +1,2 @@
+Cl12OsTe2
+Atoms(symbols='Te2OsCl12', pbc=False)

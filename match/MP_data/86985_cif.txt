@@ -1,0 +1,2 @@
+Ce14O55Y18
+Atoms(symbols='Ce14O55Y18', pbc=False)

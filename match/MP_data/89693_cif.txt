@@ -1,0 +1,2 @@
+F6MnPt
+Atoms(symbols='MnPtF6', pbc=False)

@@ -1,0 +1,2 @@
+Br60W12
+Atoms(symbols='Br60W12', pbc=False)

@@ -1,0 +1,2 @@
+Cu4K4O36Ta12
+Atoms(symbols='K4Ta12Cu4O36', pbc=False)

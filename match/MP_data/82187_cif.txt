@@ -1,0 +1,2 @@
+Hg2O6V2
+Atoms(symbols='V2Hg2O6', pbc=False)

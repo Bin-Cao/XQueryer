@@ -1,0 +1,2 @@
+Fe2O4
+Atoms(symbols='FeO2FeO2', pbc=False)

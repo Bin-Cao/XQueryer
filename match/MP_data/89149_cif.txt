@@ -1,0 +1,2 @@
+Ag6In2O16P4
+Atoms(symbols='InAg3P2O8InAg3P2O8', pbc=False)

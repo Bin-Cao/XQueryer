@@ -1,0 +1,2 @@
+Cr12P7
+Atoms(symbols='Cr12P7', pbc=False)

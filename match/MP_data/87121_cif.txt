@@ -1,0 +1,2 @@
+N8O56S12
+Atoms(symbols='N8O56S12', pbc=False)

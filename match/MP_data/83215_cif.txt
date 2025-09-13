@@ -1,0 +1,2 @@
+Bi4K8O10
+Atoms(symbols='K8Bi4O10', pbc=False)

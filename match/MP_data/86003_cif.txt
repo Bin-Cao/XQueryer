@@ -1,0 +1,2 @@
+Na6Nb6O18
+Atoms(symbols='Na2Nb2O6Na2Nb2O6Na2Nb2O6', pbc=False)

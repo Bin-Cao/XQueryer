@@ -1,0 +1,2 @@
+Al52S84Tl12
+Atoms(symbols='Al52S84Tl12', pbc=False)

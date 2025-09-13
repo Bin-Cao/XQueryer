@@ -1,0 +1,2 @@
+As10Br18Hg19
+Atoms(symbols='Hg19As10Br18', pbc=False)

@@ -1,0 +1,2 @@
+Ho24In2Pt14
+Atoms(symbols='Ho24In2Pt14', pbc=False)

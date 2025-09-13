@@ -1,0 +1,2 @@
+Ag30K6S18
+Atoms(symbols='K6Ag30S18', pbc=False)

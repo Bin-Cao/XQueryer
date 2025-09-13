@@ -1,0 +1,2 @@
+Na8Pt16Se24
+Atoms(symbols='Na4Pt8Se12Na4Pt8Se12', pbc=False)

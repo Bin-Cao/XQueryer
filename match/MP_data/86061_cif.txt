@@ -1,0 +1,2 @@
+Hf9O36Sc12
+Atoms(symbols='Hf9Sc12O36', pbc=False)

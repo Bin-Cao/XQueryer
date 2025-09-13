@@ -1,0 +1,2 @@
+Cl6GdNa3
+Atoms(symbols='Na3GdCl6', pbc=False)

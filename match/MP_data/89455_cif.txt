@@ -1,0 +1,2 @@
+Mo12Na4O40Rb4
+Atoms(symbols='Rb4Na4Mo12O40', pbc=False)

@@ -1,0 +1,2 @@
+O40Te4V8Zn12
+Atoms(symbols='O40Te4V8Zn12', pbc=False)

@@ -1,0 +1,2 @@
+Ni34Th4
+Atoms(symbols='Th4Ni34', pbc=False)

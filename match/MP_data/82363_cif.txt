@@ -1,0 +1,2 @@
+In8Na24S24
+Atoms(symbols='Na12In4S12Na12In4S12', pbc=False)

@@ -1,0 +1,2 @@
+Al23B50
+Atoms(symbols='Al23B50', pbc=False)

@@ -1,0 +1,2 @@
+O72Sb20Te12
+Atoms(symbols='O72Sb20Te12', pbc=False)

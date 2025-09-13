@@ -1,0 +1,2 @@
+Cl4O16Pr4S4
+Atoms(symbols='Pr4S4Cl4O16', pbc=False)

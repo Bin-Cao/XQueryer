@@ -1,0 +1,2 @@
+Au4Cl32P4
+Atoms(symbols='P4Au4Cl32', pbc=False)

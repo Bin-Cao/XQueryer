@@ -1,0 +1,2 @@
+Ga6In6Se18
+Atoms(symbols='In6Ga6Se18', pbc=False)

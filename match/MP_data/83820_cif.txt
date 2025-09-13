@@ -1,0 +1,2 @@
+Ca8Ir16P14
+Atoms(symbols='Ca8P14Ir16', pbc=False)

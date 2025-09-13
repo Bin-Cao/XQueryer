@@ -1,0 +1,2 @@
+As2Cl2Nb2O10Rb2
+Atoms(symbols='Rb2Nb2As2Cl2O10', pbc=False)

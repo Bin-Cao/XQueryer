@@ -1,0 +1,2 @@
+Cd16O32Si8
+Atoms(symbols='Cd4Si2O8Cd4Si2O8Cd4Si2O8Cd4Si2O8', pbc=False)

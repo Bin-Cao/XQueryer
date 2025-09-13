@@ -1,0 +1,2 @@
+Na32Pb32
+Atoms(symbols='Na32Pb32', pbc=False)

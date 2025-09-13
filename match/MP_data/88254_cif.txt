@@ -1,0 +1,2 @@
+I2O12Rb2Sn2
+Atoms(symbols='Rb2Sn2I2O12', pbc=False)

@@ -1,0 +1,2 @@
+K6Mo28O44
+Atoms(symbols='K6Mo28O44', pbc=False)

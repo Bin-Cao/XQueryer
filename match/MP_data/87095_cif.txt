@@ -1,0 +1,2 @@
+Al12N36O18Pr10Si18Sr3
+Atoms(symbols='Al12N36O18Pr10Si18Sr3', pbc=False)

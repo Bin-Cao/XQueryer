@@ -1,0 +1,2 @@
+Cu8S52U24
+Atoms(symbols='Cu8S52U24', pbc=False)

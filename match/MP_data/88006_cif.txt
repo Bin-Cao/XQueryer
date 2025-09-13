@@ -1,0 +1,2 @@
+Na20Nb4O20
+Atoms(symbols='Na10Nb2O10Na10Nb2O10', pbc=False)

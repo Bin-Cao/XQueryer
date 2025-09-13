@@ -1,0 +1,2 @@
+Mn8Na6Te12
+Atoms(symbols='Na3Mn4Te6Na3Mn4Te6', pbc=False)

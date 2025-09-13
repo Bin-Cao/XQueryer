@@ -1,0 +1,2 @@
+Fe33O48Ti3
+Atoms(symbols='Fe33O48Ti3', pbc=False)

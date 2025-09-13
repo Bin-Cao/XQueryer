@@ -1,0 +1,2 @@
+INaNiO6
+Atoms(symbols='NaNiIO6', pbc=False)

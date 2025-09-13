@@ -1,0 +1,2 @@
+Ca4F4Li4O24Ta8
+Atoms(symbols='Li2Ca2Ta4O12F2Li2Ca2Ta4O12F2', pbc=False)

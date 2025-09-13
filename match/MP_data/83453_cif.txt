@@ -1,0 +1,2 @@
+Ho4Ni4Sn4
+Atoms(symbols='Ho4Ni4Sn4', pbc=False)

@@ -1,0 +1,2 @@
+Nb20Nd24S64
+Atoms(symbols='Nb20Nd24S64', pbc=False)

@@ -1,0 +1,2 @@
+CoF6Pt
+Atoms(symbols='CoPtF6', pbc=False)

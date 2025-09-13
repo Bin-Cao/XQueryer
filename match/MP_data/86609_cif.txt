@@ -1,0 +1,2 @@
+Li26Mn42O96
+Atoms(symbols='Li26Mn42O96', pbc=False)

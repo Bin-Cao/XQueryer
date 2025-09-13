@@ -1,0 +1,2 @@
+Ge20Ti4U12
+Atoms(symbols='U6Ti2Ge10U6Ti2Ge10', pbc=False)

@@ -1,0 +1,2 @@
+K8O16Zn12
+Atoms(symbols='K4Zn6O8K4Zn6O8', pbc=False)

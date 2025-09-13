@@ -1,0 +1,2 @@
+Cd24Fe48O96
+Atoms(symbols='Cd24Fe48O96', pbc=False)

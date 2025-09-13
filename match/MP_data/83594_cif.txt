@@ -1,0 +1,2 @@
+O32V26
+Atoms(symbols='V26O32', pbc=False)

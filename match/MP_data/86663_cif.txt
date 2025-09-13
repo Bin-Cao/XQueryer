@@ -1,0 +1,2 @@
+F51Nd18
+Atoms(symbols='F51Nd18', pbc=False)

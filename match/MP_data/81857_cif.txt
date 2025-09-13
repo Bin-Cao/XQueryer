@@ -1,0 +1,2 @@
+La2Ru6Si4
+Atoms(symbols='La2Si4Ru6', pbc=False)

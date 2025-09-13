@@ -1,0 +1,2 @@
+Pt8Si8Te8
+Atoms(symbols='Si8Te8Pt8', pbc=False)

@@ -1,0 +1,2 @@
+Ir20Li40O60
+Atoms(symbols='Ir20Li40O60', pbc=False)

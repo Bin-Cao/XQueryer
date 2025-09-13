@@ -1,0 +1,2 @@
+B2Ir3Y
+Atoms(symbols='YB2Ir3', pbc=False)

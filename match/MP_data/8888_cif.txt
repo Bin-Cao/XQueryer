@@ -1,0 +1,2 @@
+Ho2InNi2
+Atoms(symbols='Ho2InNi2', pbc=False)

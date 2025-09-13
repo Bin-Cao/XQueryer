@@ -1,0 +1,2 @@
+Co6Th14
+Atoms(symbols='Th14Co6', pbc=False)

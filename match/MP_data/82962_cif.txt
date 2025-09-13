@@ -1,0 +1,2 @@
+As4I12La12
+Atoms(symbols='La12As4I12', pbc=False)

@@ -1,0 +1,2 @@
+B4Na12O12
+Atoms(symbols='Na12B4O12', pbc=False)

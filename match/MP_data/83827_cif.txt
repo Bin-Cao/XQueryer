@@ -1,0 +1,2 @@
+Cu4Te12Tl16
+Atoms(symbols='Tl8Cu2Te6Tl8Cu2Te6', pbc=False)

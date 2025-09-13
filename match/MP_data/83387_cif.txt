@@ -1,0 +1,2 @@
+Pt22Zr18
+Atoms(symbols='Zr9Pt11Zr9Pt11', pbc=False)

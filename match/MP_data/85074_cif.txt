@@ -1,0 +1,2 @@
+Co6Ge6Li
+Atoms(symbols='LiCo6Ge6', pbc=False)

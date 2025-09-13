@@ -1,0 +1,2 @@
+Al4As16B4Na8O56
+Atoms(symbols='Al4As16B4Na8O56', pbc=False)

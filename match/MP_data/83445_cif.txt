@@ -1,0 +1,2 @@
+O28Re4Tb12
+Atoms(symbols='Tb6Re2O14Tb6Re2O14', pbc=False)

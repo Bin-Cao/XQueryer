@@ -1,0 +1,2 @@
+Ca4Cl4Fe4O8
+Atoms(symbols='Ca2Fe2Cl2O4Ca2Fe2Cl2O4', pbc=False)

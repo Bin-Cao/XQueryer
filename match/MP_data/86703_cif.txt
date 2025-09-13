@@ -1,0 +1,2 @@
+As20Fe20Li19
+Atoms(symbols='Li19Fe20As20', pbc=False)

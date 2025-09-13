@@ -1,0 +1,2 @@
+Ho2Ir2Si6
+Atoms(symbols='HoSi3IrHoSi3Ir', pbc=False)

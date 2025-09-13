@@ -1,0 +1,2 @@
+Ge2I2O12Rb2
+Atoms(symbols='RbGeIO6RbGeIO6', pbc=False)

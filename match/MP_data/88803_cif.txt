@@ -1,0 +1,2 @@
+Hg4O40V16
+Atoms(symbols='V8Hg2O20V8Hg2O20', pbc=False)

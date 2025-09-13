@@ -1,0 +1,2 @@
+Pt12Sr28
+Atoms(symbols='Sr28Pt12', pbc=False)

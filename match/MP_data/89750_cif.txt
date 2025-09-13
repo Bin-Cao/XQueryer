@@ -1,0 +1,2 @@
+Cl4Ni10O24Te8
+Atoms(symbols='Ni10Te8Cl4O24', pbc=False)

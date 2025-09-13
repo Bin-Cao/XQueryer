@@ -1,0 +1,2 @@
+CuDyO8W2
+Atoms(symbols='DyCuW2O8', pbc=False)

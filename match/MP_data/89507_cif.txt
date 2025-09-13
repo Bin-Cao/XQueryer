@@ -1,0 +1,2 @@
+Cu4Na4S8Zr2
+Atoms(symbols='Na2ZrCu2S4Na2ZrCu2S4', pbc=False)

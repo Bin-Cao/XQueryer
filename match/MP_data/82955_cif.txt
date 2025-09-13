@@ -1,0 +1,2 @@
+Cl26P2Re4
+Atoms(symbols='Re4P2Cl26', pbc=False)

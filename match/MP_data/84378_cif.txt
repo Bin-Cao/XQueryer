@@ -1,0 +1,2 @@
+H2N4P2
+Atoms(symbols='P2H2N4', pbc=False)

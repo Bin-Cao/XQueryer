@@ -1,0 +1,2 @@
+Cl18P2Sn2
+Atoms(symbols='Sn2P2Cl18', pbc=False)

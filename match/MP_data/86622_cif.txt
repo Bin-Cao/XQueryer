@@ -1,0 +1,2 @@
+Cu2Ni4O16P4
+Atoms(symbols='Cu2Ni4P4O16', pbc=False)

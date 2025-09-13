@@ -1,0 +1,2 @@
+Cl27Cs9Hg9
+Atoms(symbols='Cs9Hg9Cl27', pbc=False)

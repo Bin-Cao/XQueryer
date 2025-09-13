@@ -1,0 +1,2 @@
+H6Al17B7Na2O62Si11
+Atoms(symbols='H6Al17B7Na2O62Si11', pbc=False)

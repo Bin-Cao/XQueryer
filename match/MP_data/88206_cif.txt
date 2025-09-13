@@ -1,0 +1,2 @@
+BaBeO4Si
+Atoms(symbols='BaBeSiO4', pbc=False)

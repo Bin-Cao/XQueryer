@@ -1,0 +1,2 @@
+As2F24I3S14Sb3
+Atoms(symbols='Sb3As2S14I3F24', pbc=False)

@@ -1,0 +1,2 @@
+F20Li8Mn4
+Atoms(symbols='Li4Mn2F10Li4Mn2F10', pbc=False)

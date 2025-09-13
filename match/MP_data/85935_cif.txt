@@ -1,0 +1,2 @@
+Hg24O48Te8
+Atoms(symbols='Hg24O48Te8', pbc=False)

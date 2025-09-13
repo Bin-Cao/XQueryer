@@ -1,0 +1,2 @@
+Ag3Bi3Se6
+Atoms(symbols='Ag3Bi3Se6', pbc=False)

@@ -1,0 +1,2 @@
+Br48Te4Zr8
+Atoms(symbols='Zr8Te4Br48', pbc=False)

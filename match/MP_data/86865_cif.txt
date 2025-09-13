@@ -1,0 +1,2 @@
+Co4Dy20Sb8
+Atoms(symbols='Dy20Co4Sb8', pbc=False)

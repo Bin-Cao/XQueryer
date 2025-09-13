@@ -1,0 +1,2 @@
+Cu2I6Na2O18
+Atoms(symbols='Na2Cu2I6O18', pbc=False)

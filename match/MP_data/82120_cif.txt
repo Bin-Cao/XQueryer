@@ -1,0 +1,2 @@
+Ba32N28Ni24
+Atoms(symbols='Ba32N28Ni24', pbc=False)

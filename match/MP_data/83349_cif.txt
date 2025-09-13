@@ -1,0 +1,2 @@
+Lu2Mn10
+Atoms(symbols='Lu2Mn10', pbc=False)

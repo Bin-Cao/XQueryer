@@ -1,0 +1,2 @@
+Cs8Ge16Na8
+Atoms(symbols='Cs8Na8Ge16', pbc=False)

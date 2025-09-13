@@ -1,0 +1,2 @@
+Cl8O32Pr8Ti12
+Atoms(symbols='Pr8Ti12Cl8O32', pbc=False)

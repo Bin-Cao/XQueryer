@@ -1,0 +1,2 @@
+Dy20Si16
+Atoms(symbols='Dy20Si16', pbc=False)

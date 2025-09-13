@@ -1,0 +1,2 @@
+Ru16Si12
+Atoms(symbols='Si12Ru16', pbc=False)

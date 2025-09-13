@@ -1,0 +1,2 @@
+LiNNi
+Atoms(symbols='LiNiN', pbc=False)

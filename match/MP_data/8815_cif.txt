@@ -1,0 +1,2 @@
+CaTe
+Atoms(symbols='CaTe', pbc=False)

@@ -1,0 +1,2 @@
+Bi2K18P8S32
+Atoms(symbols='K18Bi2P8S32', pbc=False)

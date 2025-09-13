@@ -1,0 +1,2 @@
+Sb18Se6Ti40
+Atoms(symbols='Sb18Se6Ti40', pbc=False)

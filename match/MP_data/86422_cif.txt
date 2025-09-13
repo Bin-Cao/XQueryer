@@ -1,0 +1,2 @@
+Ho24Se44
+Atoms(symbols='Ho24Se44', pbc=False)

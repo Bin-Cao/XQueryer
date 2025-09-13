@@ -1,0 +1,2 @@
+Ba24O56Pt16
+Atoms(symbols='Ba24O56Pt16', pbc=False)

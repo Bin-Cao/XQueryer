@@ -1,0 +1,2 @@
+F30O6Te7
+Atoms(symbols='Te7O6F30', pbc=False)

@@ -1,0 +1,2 @@
+Fe18O32Ti6
+Atoms(symbols='Ti6Fe18O32', pbc=False)

@@ -1,0 +1,2 @@
+O24P16Se12
+Atoms(symbols='P16Se12O24', pbc=False)

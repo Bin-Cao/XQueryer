@@ -1,0 +1,2 @@
+Ba6Cu34S27
+Atoms(symbols='Ba6Cu34S27', pbc=False)

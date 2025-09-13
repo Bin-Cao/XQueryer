@@ -1,0 +1,2 @@
+Ga8O18Sr6
+Atoms(symbols='Sr6Ga8O18', pbc=False)

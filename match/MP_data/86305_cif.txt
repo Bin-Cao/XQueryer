@@ -1,0 +1,2 @@
+Ga12Y20
+Atoms(symbols='Y10Ga6Y10Ga6', pbc=False)

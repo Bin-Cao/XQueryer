@@ -1,0 +1,2 @@
+Nb21S8
+Atoms(symbols='Nb21S8', pbc=False)

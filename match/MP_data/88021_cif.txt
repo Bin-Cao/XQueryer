@@ -1,0 +1,2 @@
+Cd12Sr20
+Atoms(symbols='Sr10Cd6Sr10Cd6', pbc=False)

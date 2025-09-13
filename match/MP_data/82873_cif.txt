@@ -1,0 +1,2 @@
+Bi4Fe2Ho12
+Atoms(symbols='Ho6FeBi2Ho6FeBi2', pbc=False)

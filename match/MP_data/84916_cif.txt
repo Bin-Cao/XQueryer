@@ -1,0 +1,2 @@
+Al8La8O30Sr2Ti2
+Atoms(symbols='Sr2La8Ti2Al8O30', pbc=False)

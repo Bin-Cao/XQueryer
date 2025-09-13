@@ -1,0 +1,2 @@
+O10Pr18Sb10
+Atoms(symbols='Pr18Sb10O10', pbc=False)

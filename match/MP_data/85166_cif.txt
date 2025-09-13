@@ -1,0 +1,2 @@
+Ni2Rh4Se8
+Atoms(symbols='NiRh2Se4NiRh2Se4', pbc=False)

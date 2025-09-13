@@ -1,0 +1,2 @@
+I2K2O6
+Atoms(symbols='KIO3KIO3', pbc=False)

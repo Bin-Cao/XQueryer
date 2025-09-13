@@ -1,0 +1,2 @@
+K5Sb4
+Atoms(symbols='K5Sb4', pbc=False)

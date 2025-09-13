@@ -1,0 +1,2 @@
+Br40Si20
+Atoms(symbols='Si20Br40', pbc=False)

@@ -1,0 +1,2 @@
+I20K8N4O4Ru4
+Atoms(symbols='K8Ru4I20N4O4', pbc=False)

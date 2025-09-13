@@ -1,0 +1,2 @@
+Co4Se4Tl2
+Atoms(symbols='TlCo2Se2TlCo2Se2', pbc=False)

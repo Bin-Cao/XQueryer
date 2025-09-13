@@ -1,0 +1,2 @@
+Br4Nd4O12Te4
+Atoms(symbols='Nd4Te4Br4O12', pbc=False)

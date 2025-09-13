@@ -1,0 +1,2 @@
+Na16Re24S48
+Atoms(symbols='Na16Re24S48', pbc=False)

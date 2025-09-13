@@ -1,0 +1,2 @@
+Ge4Li4Pd8
+Atoms(symbols='LiGePd2LiGePd2LiGePd2LiGePd2', pbc=False)

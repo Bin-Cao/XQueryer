@@ -1,0 +1,2 @@
+F47La6Zr8
+Atoms(symbols='F47La6Zr8', pbc=False)

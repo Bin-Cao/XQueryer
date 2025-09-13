@@ -1,0 +1,2 @@
+H20Al8K4O44P8
+Atoms(symbols='H20Al8K4O44P8', pbc=False)

@@ -1,0 +1,2 @@
+Si16Ti20
+Atoms(symbols='Ti20Si16', pbc=False)

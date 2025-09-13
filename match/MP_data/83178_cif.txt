@@ -1,0 +1,2 @@
+O38Re8Sr14
+Atoms(symbols='Sr7Re4O19Sr7Re4O19', pbc=False)

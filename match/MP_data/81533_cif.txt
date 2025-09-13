@@ -1,0 +1,2 @@
+I2O14Sb10
+Atoms(symbols='Sb10I2O14', pbc=False)

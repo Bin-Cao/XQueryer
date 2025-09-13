@@ -1,0 +1,2 @@
+O64Ti16Zn32
+Atoms(symbols='O64Ti16Zn32', pbc=False)

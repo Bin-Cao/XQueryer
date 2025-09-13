@@ -1,0 +1,2 @@
+Ga4Ho12O24
+Atoms(symbols='Ho6Ga2O12Ho6Ga2O12', pbc=False)

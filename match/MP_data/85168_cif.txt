@@ -1,0 +1,2 @@
+O36Si12Sr12
+Atoms(symbols='Sr6Si6O18Sr6Si6O18', pbc=False)

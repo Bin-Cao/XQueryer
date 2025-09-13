@@ -1,0 +1,2 @@
+Li24O32Ta8
+Atoms(symbols='Li24O32Ta8', pbc=False)

@@ -1,0 +1,2 @@
+Cu2K2Na4O4
+Atoms(symbols='KNa2CuO2KNa2CuO2', pbc=False)

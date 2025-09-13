@@ -1,0 +1,2 @@
+Hf23Se25
+Atoms(symbols='Hf23Se25', pbc=False)

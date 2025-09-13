@@ -1,0 +1,2 @@
+KS
+Atoms(symbols='KS', pbc=False)

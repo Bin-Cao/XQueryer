@@ -1,0 +1,2 @@
+Cu4Ge4Li8
+Atoms(symbols='Li2CuGeLi2CuGeLi2CuGeLi2CuGe', pbc=False)

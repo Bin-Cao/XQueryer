@@ -1,0 +1,2 @@
+Bi24Cr8O60
+Atoms(symbols='Bi24Cr8O60', pbc=False)

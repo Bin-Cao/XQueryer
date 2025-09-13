@@ -1,0 +1,2 @@
+Co4Cs4F20O4Ti4
+Atoms(symbols='Cs4Ti4Co4O4F20', pbc=False)

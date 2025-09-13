@@ -1,0 +1,2 @@
+K8Sn4Te20
+Atoms(symbols='K4Sn2Te10K4Sn2Te10', pbc=False)

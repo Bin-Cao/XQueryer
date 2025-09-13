@@ -1,0 +1,2 @@
+C10Cu2Fe2N12O2
+Atoms(symbols='FeCuC5N6OFeCuC5N6O', pbc=False)

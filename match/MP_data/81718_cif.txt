@@ -1,0 +1,2 @@
+Hg12O14Si4
+Atoms(symbols='Si2Hg6O7Si2Hg6O7', pbc=False)

@@ -1,0 +1,2 @@
+Cl32Ti14
+Atoms(symbols='Ti14Cl32', pbc=False)

@@ -1,0 +1,2 @@
+B28O48Rb12
+Atoms(symbols='B28O48Rb12', pbc=False)

@@ -1,0 +1,2 @@
+H21Cu2F8FeO10
+Atoms(symbols='FeCu2H21O10F8', pbc=False)

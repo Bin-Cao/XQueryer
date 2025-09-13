@@ -1,0 +1,2 @@
+Ni2O12Sr4Te2
+Atoms(symbols='Sr2NiTeO6Sr2NiTeO6', pbc=False)

@@ -1,0 +1,2 @@
+B72O10
+Atoms(symbols='B72O10', pbc=False)

@@ -1,0 +1,2 @@
+Ca2O22Ta8
+Atoms(symbols='Ca2Ta8O22', pbc=False)

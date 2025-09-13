@@ -1,0 +1,2 @@
+Mg18O36Te6
+Atoms(symbols='Mg6Te2O12Mg6Te2O12Mg6Te2O12', pbc=False)

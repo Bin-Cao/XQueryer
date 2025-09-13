@@ -1,0 +1,2 @@
+O6Pd2Sr4
+Atoms(symbols='Sr2PdO3Sr2PdO3', pbc=False)

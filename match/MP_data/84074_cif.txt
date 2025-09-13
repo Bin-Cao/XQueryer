@@ -1,0 +1,2 @@
+Al6Ho4Si4
+Atoms(symbols='Ho2Al3Si2Ho2Al3Si2', pbc=False)

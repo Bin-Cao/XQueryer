@@ -1,0 +1,2 @@
+F48U12
+Atoms(symbols='U6F24U6F24', pbc=False)

@@ -1,0 +1,2 @@
+Cl16N16S16Te4
+Atoms(symbols='Te2S8N8Cl8Te2S8N8Cl8', pbc=False)

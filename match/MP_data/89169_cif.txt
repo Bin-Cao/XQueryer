@@ -1,0 +1,2 @@
+La12Li20Nb8O48
+Atoms(symbols='La12Li20Nb8O48', pbc=False)

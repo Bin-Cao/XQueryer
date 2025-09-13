@@ -1,0 +1,2 @@
+N50Ti38
+Atoms(symbols='N50Ti38', pbc=False)

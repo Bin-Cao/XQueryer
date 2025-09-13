@@ -1,0 +1,2 @@
+Cl8Er2Na2
+Atoms(symbols='Na2Er2Cl8', pbc=False)

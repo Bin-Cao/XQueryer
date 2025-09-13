@@ -1,0 +1,2 @@
+Ge24Ni38
+Atoms(symbols='Ge24Ni38', pbc=False)

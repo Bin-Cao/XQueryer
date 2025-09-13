@@ -1,0 +1,2 @@
+C12Cl9Co3O12Sn3
+Atoms(symbols='CoSnC4Cl3O4CoSnC4Cl3O4CoSnC4Cl3O4', pbc=False)

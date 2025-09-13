@@ -1,0 +1,2 @@
+Al4Ba6Cu4F32
+Atoms(symbols='Ba6Al4Cu4F32', pbc=False)

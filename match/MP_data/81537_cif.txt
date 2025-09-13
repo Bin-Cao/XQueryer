@@ -1,0 +1,2 @@
+Br12In4K4
+Atoms(symbols='K4In4Br12', pbc=False)

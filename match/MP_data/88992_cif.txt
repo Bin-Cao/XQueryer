@@ -1,0 +1,2 @@
+Ce4K10Na2O48S12
+Atoms(symbols='Ce4K10Na2O48S12', pbc=False)

@@ -1,0 +1,2 @@
+N44Ti44
+Atoms(symbols='N44Ti44', pbc=False)

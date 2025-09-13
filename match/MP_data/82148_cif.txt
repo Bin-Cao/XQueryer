@@ -1,0 +1,2 @@
+Br20Co4Cs12
+Atoms(symbols='Cs6Co2Br10Cs6Co2Br10', pbc=False)

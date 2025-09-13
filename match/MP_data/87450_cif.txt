@@ -1,0 +1,2 @@
+Cl26Mo12Na2
+Atoms(symbols='Na2Mo12Cl26', pbc=False)

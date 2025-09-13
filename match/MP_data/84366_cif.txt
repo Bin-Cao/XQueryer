@@ -1,0 +1,2 @@
+Pd60Sb21
+Atoms(symbols='Pd60Sb21', pbc=False)

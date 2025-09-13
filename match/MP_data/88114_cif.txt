@@ -1,0 +1,2 @@
+Cu18Mg4Tb2
+Atoms(symbols='Tb2Mg4Cu18', pbc=False)

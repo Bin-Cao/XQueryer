@@ -1,0 +1,2 @@
+BaBi6O20P4
+Atoms(symbols='BaBi6P4O20', pbc=False)

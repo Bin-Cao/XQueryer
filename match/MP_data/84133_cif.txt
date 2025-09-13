@@ -1,0 +1,2 @@
+Lu32S48
+Atoms(symbols='Lu32S48', pbc=False)

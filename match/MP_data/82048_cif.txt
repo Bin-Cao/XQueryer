@@ -1,0 +1,2 @@
+Fe38P24Th10
+Atoms(symbols='Fe38P24Th10', pbc=False)

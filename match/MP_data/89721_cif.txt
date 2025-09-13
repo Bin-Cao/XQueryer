@@ -1,0 +1,2 @@
+Ba13Dy8O37Pt4Zn4
+Atoms(symbols='Ba13Dy8O37Pt4Zn4', pbc=False)

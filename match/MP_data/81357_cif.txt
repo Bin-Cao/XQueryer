@@ -1,0 +1,2 @@
+Cl20Pr4Rb8
+Atoms(symbols='Rb8Pr4Cl20', pbc=False)

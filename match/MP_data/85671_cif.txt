@@ -1,0 +1,2 @@
+Na3O30Sr7Ta3Ti7
+Atoms(symbols='Na3Sr7Ta3Ti7O30', pbc=False)

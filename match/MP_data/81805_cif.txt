@@ -1,0 +1,2 @@
+F40Pb12Zr4
+Atoms(symbols='Zr2Pb6F20Zr2Pb6F20', pbc=False)

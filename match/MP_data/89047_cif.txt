@@ -1,0 +1,2 @@
+Er8F4O22Si6
+Atoms(symbols='Er8Si6O22F4', pbc=False)

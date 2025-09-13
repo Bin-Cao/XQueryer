@@ -1,0 +1,2 @@
+B4F16N4O8
+Atoms(symbols='B4N4O8F16', pbc=False)

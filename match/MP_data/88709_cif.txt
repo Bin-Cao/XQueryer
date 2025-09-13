@@ -1,0 +1,2 @@
+I40Si20
+Atoms(symbols='Si20I40', pbc=False)

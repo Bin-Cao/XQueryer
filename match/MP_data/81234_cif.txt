@@ -1,0 +1,2 @@
+H12Cl4Ge4
+Atoms(symbols='Ge2H6Cl2Ge2H6Cl2', pbc=False)

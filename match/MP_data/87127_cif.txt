@@ -1,0 +1,2 @@
+Ho40O108Ti24
+Atoms(symbols='Ho40O108Ti24', pbc=False)

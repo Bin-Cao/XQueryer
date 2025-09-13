@@ -1,0 +1,2 @@
+I14Ta6Te2
+Atoms(symbols='Ta6Te2I14', pbc=False)

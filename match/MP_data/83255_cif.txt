@@ -1,0 +1,2 @@
+Ca6O24S6
+Atoms(symbols='Ca3S3O12Ca3S3O12', pbc=False)

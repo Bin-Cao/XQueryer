@@ -1,0 +1,2 @@
+Cd6F18Na6
+Atoms(symbols='Na2Cd2F6Na2Cd2F6Na2Cd2F6', pbc=False)

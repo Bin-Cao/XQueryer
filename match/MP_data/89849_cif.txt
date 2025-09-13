@@ -1,0 +1,2 @@
+La4Mn4O12
+Atoms(symbols='La4Mn4O12', pbc=False)

@@ -1,0 +1,2 @@
+As9F63Sn9
+Atoms(symbols='As9F63Sn9', pbc=False)

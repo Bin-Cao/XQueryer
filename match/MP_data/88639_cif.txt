@@ -1,0 +1,2 @@
+B16Cu2Ho4O32
+Atoms(symbols='Ho4Cu2B16O32', pbc=False)

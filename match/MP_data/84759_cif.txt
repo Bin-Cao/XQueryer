@@ -1,0 +1,2 @@
+C6Al2Ta8
+Atoms(symbols='Ta8Al2C6', pbc=False)

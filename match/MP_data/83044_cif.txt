@@ -1,0 +1,2 @@
+Cu20Zr4
+Atoms(symbols='ZrCu5ZrCu5ZrCu5ZrCu5', pbc=False)

@@ -1,0 +1,2 @@
+O6Se2Sr2
+Atoms(symbols='Sr2Se2O6', pbc=False)

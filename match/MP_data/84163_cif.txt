@@ -1,0 +1,2 @@
+F18Na2Th4
+Atoms(symbols='Na2Th4F18', pbc=False)

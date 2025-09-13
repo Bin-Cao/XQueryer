@@ -1,0 +1,2 @@
+Fe2O10Si2Zn2
+Atoms(symbols='Zn2Fe2Si2O10', pbc=False)

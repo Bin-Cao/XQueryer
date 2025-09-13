@@ -1,0 +1,2 @@
+Cl20P2Ta2
+Atoms(symbols='Ta2P2Cl20', pbc=False)

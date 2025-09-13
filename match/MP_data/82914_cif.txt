@@ -1,0 +1,2 @@
+H27K6Re3
+Atoms(symbols='K6Re3H27', pbc=False)

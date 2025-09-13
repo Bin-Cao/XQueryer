@@ -1,0 +1,2 @@
+Na2O51W17
+Atoms(symbols='Na2O51W17', pbc=False)

@@ -1,0 +1,2 @@
+Cs3N3O6
+Atoms(symbols='Cs3N3O6', pbc=False)

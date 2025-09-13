@@ -1,0 +1,2 @@
+Cu4Hf2Te6
+Atoms(symbols='Hf2Cu4Te6', pbc=False)

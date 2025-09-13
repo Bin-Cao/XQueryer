@@ -1,0 +1,2 @@
+Au32Ga4K16
+Atoms(symbols='K8Ga2Au16K8Ga2Au16', pbc=False)

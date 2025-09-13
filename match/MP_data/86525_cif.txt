@@ -1,0 +1,2 @@
+Hg8O20Te4
+Atoms(symbols='Hg8Te4O20', pbc=False)

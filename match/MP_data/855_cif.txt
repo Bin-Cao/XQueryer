@@ -1,0 +1,2 @@
+Co2Er3In4
+Atoms(symbols='Er3In4Co2', pbc=False)

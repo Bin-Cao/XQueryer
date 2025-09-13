@@ -1,0 +1,2 @@
+CeIr5
+Atoms(symbols='CeIr5', pbc=False)

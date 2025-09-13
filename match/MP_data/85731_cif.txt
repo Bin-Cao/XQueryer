@@ -1,0 +1,2 @@
+Co20P12Y4
+Atoms(symbols='Y4Co20P12', pbc=False)

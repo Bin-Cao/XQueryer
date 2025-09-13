@@ -1,0 +1,2 @@
+O6Pd2Se2
+Atoms(symbols='Pd2Se2O6', pbc=False)

@@ -1,0 +1,2 @@
+Ge18Na8O40
+Atoms(symbols='Ge18Na8O40', pbc=False)

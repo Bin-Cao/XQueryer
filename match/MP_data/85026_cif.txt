@@ -1,0 +1,2 @@
+O36P8U8
+Atoms(symbols='U4P4O18U4P4O18', pbc=False)

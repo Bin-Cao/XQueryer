@@ -1,0 +1,2 @@
+Eu4Mn8O20
+Atoms(symbols='Eu4Mn8O20', pbc=False)

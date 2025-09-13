@@ -1,0 +1,2 @@
+Ba10N12Ti4
+Atoms(symbols='Ba10Ti4N12', pbc=False)

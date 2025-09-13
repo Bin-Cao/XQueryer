@@ -1,0 +1,2 @@
+Ca4O16Se6
+Atoms(symbols='Ca4Se6O16', pbc=False)

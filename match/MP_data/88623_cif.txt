@@ -1,0 +1,2 @@
+Cl12N2S4Sb2
+Atoms(symbols='SbS2NCl6SbS2NCl6', pbc=False)

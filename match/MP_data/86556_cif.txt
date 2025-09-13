@@ -1,0 +1,2 @@
+Cr24Dy8S48
+Atoms(symbols='Cr24Dy8S48', pbc=False)

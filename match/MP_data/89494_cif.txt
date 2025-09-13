@@ -1,0 +1,2 @@
+F2Li2O8Si2Sr4
+Atoms(symbols='Sr4Li2Si2O8F2', pbc=False)

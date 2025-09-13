@@ -1,0 +1,2 @@
+O22Sr2Ta8
+Atoms(symbols='Sr2Ta8O22', pbc=False)

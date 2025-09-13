@@ -1,0 +1,2 @@
+Cl4La6Si6
+Atoms(symbols='La6Si6Cl4', pbc=False)

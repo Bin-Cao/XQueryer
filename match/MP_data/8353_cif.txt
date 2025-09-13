@@ -1,0 +1,2 @@
+Cu21O36Y3
+Atoms(symbols='YCu7O12YCu7O12YCu7O12', pbc=False)

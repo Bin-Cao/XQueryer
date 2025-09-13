@@ -1,0 +1,2 @@
+Ba4O16S4
+Atoms(symbols='BaSO4BaSO4BaSO4BaSO4', pbc=False)

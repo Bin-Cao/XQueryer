@@ -1,0 +1,2 @@
+Ce6Ga6Ni6
+Atoms(symbols='Ce3Ga3Ni3Ce3Ga3Ni3', pbc=False)

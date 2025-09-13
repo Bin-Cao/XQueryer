@@ -1,0 +1,2 @@
+Cu20Sn6
+Atoms(symbols='Cu20Sn6', pbc=False)

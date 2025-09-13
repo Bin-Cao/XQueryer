@@ -1,0 +1,2 @@
+Nd16Se24
+Atoms(symbols='Nd16Se24', pbc=False)

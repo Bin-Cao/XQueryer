@@ -1,0 +1,2 @@
+F40Mo8
+Atoms(symbols='Mo4F20Mo4F20', pbc=False)

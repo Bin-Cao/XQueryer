@@ -1,0 +1,2 @@
+C14H18Ag2F8O8S4
+Atoms(symbols='Ag2H18C14S4O8F8', pbc=False)

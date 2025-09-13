@@ -1,0 +1,2 @@
+BEuRh3
+Atoms(symbols='EuBRh3', pbc=False)

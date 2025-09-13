@@ -1,0 +1,2 @@
+La4O19Re6
+Atoms(symbols='La4Re6O19', pbc=False)

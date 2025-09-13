@@ -1,0 +1,2 @@
+O108P36Ti12
+Atoms(symbols='O108P36Ti12', pbc=False)

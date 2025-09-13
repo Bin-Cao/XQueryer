@@ -1,0 +1,2 @@
+C2AuLi
+Atoms(symbols='LiAuC2', pbc=False)

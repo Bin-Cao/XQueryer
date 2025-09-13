@@ -1,0 +1,2 @@
+C20H60B4Li4N4O12
+Atoms(symbols='C20H60B4Li4N4O12', pbc=False)

@@ -1,0 +1,2 @@
+La8O14Pd2
+Atoms(symbols='La4PdO7La4PdO7', pbc=False)

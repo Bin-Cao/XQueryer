@@ -1,0 +1,2 @@
+As8O18Sm4
+Atoms(symbols='Sm4As8O18', pbc=False)

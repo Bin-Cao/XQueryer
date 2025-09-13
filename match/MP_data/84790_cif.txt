@@ -1,0 +1,2 @@
+Eu4Pd4Tl8
+Atoms(symbols='Eu2Tl4Pd2Eu2Tl4Pd2', pbc=False)

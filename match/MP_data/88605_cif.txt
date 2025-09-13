@@ -1,0 +1,2 @@
+K4Na4O28P8Zn4
+Atoms(symbols='K4Na4Zn4P8O28', pbc=False)

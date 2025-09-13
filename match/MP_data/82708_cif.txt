@@ -1,0 +1,2 @@
+I36Zr18
+Atoms(symbols='Zr6I12Zr6I12Zr6I12', pbc=False)

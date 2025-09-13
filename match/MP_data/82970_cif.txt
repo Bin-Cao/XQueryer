@@ -1,0 +1,2 @@
+As21Nb27Pd3
+Atoms(symbols='Nb27As21Pd3', pbc=False)

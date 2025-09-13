@@ -1,0 +1,2 @@
+Co4Na3O8
+Atoms(symbols='Na3Co4O8', pbc=False)

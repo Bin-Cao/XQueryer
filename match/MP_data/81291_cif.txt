@@ -1,0 +1,2 @@
+Er16F56K8
+Atoms(symbols='Er16F56K8', pbc=False)

@@ -1,0 +1,2 @@
+Se12Ta4
+Atoms(symbols='Ta4Se12', pbc=False)

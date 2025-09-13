@@ -1,0 +1,2 @@
+Al4Cu4Te8
+Atoms(symbols='AlCuTe2AlCuTe2AlCuTe2AlCuTe2', pbc=False)

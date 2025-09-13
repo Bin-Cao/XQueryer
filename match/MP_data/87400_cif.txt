@@ -1,0 +1,2 @@
+Co22Li20O42
+Atoms(symbols='Co22Li20O42', pbc=False)

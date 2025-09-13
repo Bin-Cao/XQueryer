@@ -1,0 +1,2 @@
+Cl24Pd4Se8
+Atoms(symbols='Pd2Se4Cl12Pd2Se4Cl12', pbc=False)

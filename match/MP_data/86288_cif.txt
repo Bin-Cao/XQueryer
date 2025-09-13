@@ -1,0 +1,2 @@
+N75U48
+Atoms(symbols='N75U48', pbc=False)

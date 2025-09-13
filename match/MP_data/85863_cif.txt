@@ -1,0 +1,2 @@
+GdIr3
+Atoms(symbols='GdIr3', pbc=False)

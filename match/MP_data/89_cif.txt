@@ -1,0 +1,2 @@
+COs
+Atoms(symbols='OsC', pbc=False)

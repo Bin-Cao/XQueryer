@@ -1,0 +1,2 @@
+Br12Na2O4W4
+Atoms(symbols='NaW2Br6O2NaW2Br6O2', pbc=False)

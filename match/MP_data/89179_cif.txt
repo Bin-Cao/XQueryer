@@ -1,0 +1,2 @@
+Cl3O12Rb3
+Atoms(symbols='RbClO4RbClO4RbClO4', pbc=False)

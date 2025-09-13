@@ -1,0 +1,2 @@
+Ba2Br4O12
+Atoms(symbols='Ba2Br4O12', pbc=False)

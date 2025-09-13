@@ -1,0 +1,2 @@
+As38Li94Mn10
+Atoms(symbols='As38Li94Mn10', pbc=False)

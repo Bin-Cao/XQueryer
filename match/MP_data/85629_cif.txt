@@ -1,0 +1,2 @@
+H2As2O8Pb2
+Atoms(symbols='As2H2Pb2O8', pbc=False)

@@ -1,0 +1,2 @@
+Ga32Ni16O64
+Atoms(symbols='Ga32Ni16O64', pbc=False)

@@ -1,0 +1,2 @@
+Cl28Hf2Mo4O4Se16
+Atoms(symbols='Hf2Mo4Se16Cl28O4', pbc=False)

@@ -1,0 +1,2 @@
+Cu2In2O4
+Atoms(symbols='In2Cu2O4', pbc=False)

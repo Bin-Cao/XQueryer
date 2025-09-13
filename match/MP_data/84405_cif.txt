@@ -1,0 +1,2 @@
+Al64O96
+Atoms(symbols='Al64O96', pbc=False)

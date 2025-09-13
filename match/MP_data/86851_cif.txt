@@ -1,0 +1,2 @@
+Co6O36U12
+Atoms(symbols='U6Co3O18U6Co3O18', pbc=False)

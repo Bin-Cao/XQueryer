@@ -1,0 +1,2 @@
+P20Pd20Sr16
+Atoms(symbols='Sr8P10Pd10Sr8P10Pd10', pbc=False)

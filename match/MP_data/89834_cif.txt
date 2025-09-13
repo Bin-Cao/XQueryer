@@ -1,0 +1,2 @@
+As44Ca56Mn4
+Atoms(symbols='As44Ca56Mn4', pbc=False)

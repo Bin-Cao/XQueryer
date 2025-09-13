@@ -1,0 +1,2 @@
+Co12Li2O48P14
+Atoms(symbols='Co12Li2O48P14', pbc=False)

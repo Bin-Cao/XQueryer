@@ -1,0 +1,2 @@
+Lu4Mn8O20
+Atoms(symbols='Lu4Mn8O20', pbc=False)

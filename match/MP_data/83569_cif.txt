@@ -1,0 +1,2 @@
+Br7STa3
+Atoms(symbols='Ta3SBr7', pbc=False)

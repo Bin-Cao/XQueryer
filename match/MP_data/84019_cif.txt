@@ -1,0 +1,2 @@
+N16O48Ti4
+Atoms(symbols='N16O48Ti4', pbc=False)

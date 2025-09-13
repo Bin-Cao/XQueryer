@@ -1,0 +1,2 @@
+Cl20Mg2O12P8
+Atoms(symbols='Mg2P8Cl20O12', pbc=False)

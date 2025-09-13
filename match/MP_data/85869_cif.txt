@@ -1,0 +1,2 @@
+Br12Cd4In4
+Atoms(symbols='Cd4In4Br12', pbc=False)

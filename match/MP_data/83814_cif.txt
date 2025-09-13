@@ -1,0 +1,2 @@
+Al3Si2Tb2
+Atoms(symbols='Tb2Al3Si2', pbc=False)

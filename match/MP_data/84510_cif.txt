@@ -1,0 +1,2 @@
+Ag2La10S16
+Atoms(symbols='La5AgS8La5AgS8', pbc=False)

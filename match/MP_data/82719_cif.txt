@@ -1,0 +1,2 @@
+C16Ca4N24
+Atoms(symbols='Ca2C8N12Ca2C8N12', pbc=False)

@@ -1,0 +1,2 @@
+C3B12Cl18O3
+Atoms(symbols='B4CCl6OB4CCl6OB4CCl6O', pbc=False)

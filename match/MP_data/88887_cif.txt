@@ -1,0 +1,2 @@
+Cu4F24Ga4K4
+Atoms(symbols='K4Ga4Cu4F24', pbc=False)

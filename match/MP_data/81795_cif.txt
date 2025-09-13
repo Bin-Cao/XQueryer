@@ -1,0 +1,2 @@
+Bi2Cl2Te2
+Atoms(symbols='Bi2Te2Cl2', pbc=False)

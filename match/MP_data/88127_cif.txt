@@ -1,0 +1,2 @@
+Sb72Zr44
+Atoms(symbols='Sb72Zr44', pbc=False)

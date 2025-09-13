@@ -1,0 +1,2 @@
+Rb16Te64Zr12
+Atoms(symbols='Rb16Te64Zr12', pbc=False)

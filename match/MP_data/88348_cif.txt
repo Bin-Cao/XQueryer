@@ -1,0 +1,2 @@
+H2O24P8Sm2
+Atoms(symbols='Sm2P8H2O24', pbc=False)

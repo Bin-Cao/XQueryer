@@ -1,0 +1,2 @@
+Cu13O72Ta24
+Atoms(symbols='Cu13O72Ta24', pbc=False)

@@ -1,0 +1,2 @@
+Al6O18Pr6
+Atoms(symbols='Pr2Al2O6Pr2Al2O6Pr2Al2O6', pbc=False)

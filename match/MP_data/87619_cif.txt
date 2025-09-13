@@ -1,0 +1,2 @@
+I2Na2O6
+Atoms(symbols='NaIO3NaIO3', pbc=False)

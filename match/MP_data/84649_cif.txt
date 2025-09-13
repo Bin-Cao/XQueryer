@@ -1,0 +1,2 @@
+CeO4Th
+Atoms(symbols='CeThO4', pbc=False)

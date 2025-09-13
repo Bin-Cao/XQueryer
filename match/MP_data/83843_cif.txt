@@ -1,0 +1,2 @@
+N16O48Sn4
+Atoms(symbols='N16O48Sn4', pbc=False)

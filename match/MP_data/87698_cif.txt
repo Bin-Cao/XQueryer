@@ -1,0 +1,2 @@
+Na4Ni2O4Rb2
+Atoms(symbols='RbNa2NiO2RbNa2NiO2', pbc=False)

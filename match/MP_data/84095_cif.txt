@@ -1,0 +1,2 @@
+C3I3N3
+Atoms(symbols='CINCINCIN', pbc=False)

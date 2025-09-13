@@ -1,0 +1,2 @@
+F30K3Y9
+Atoms(symbols='KY3F10KY3F10KY3F10', pbc=False)

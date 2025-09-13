@@ -1,0 +1,2 @@
+Ca13F43Y6
+Atoms(symbols='Ca13F43Y6', pbc=False)

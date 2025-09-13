@@ -1,0 +1,2 @@
+Er8Ir26Si18
+Atoms(symbols='Er8Si18Ir26', pbc=False)

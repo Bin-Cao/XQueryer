@@ -1,0 +1,2 @@
+F6K6O36Te18
+Atoms(symbols='F6K6O36Te18', pbc=False)

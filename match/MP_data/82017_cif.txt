@@ -1,0 +1,2 @@
+Mo6O17Tl
+Atoms(symbols='TlMo6O17', pbc=False)

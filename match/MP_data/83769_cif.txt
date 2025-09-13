@@ -1,0 +1,2 @@
+Li7Pb2
+Atoms(symbols='Li7Pb2', pbc=False)

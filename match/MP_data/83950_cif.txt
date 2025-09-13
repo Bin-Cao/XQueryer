@@ -1,0 +1,2 @@
+Cl36K8Ta12
+Atoms(symbols='K4Ta6Cl18K4Ta6Cl18', pbc=False)

@@ -1,0 +1,2 @@
+Cs2Nb4Nd2O14
+Atoms(symbols='Cs2Nd2Nb4O14', pbc=False)

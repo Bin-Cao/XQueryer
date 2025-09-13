@@ -1,0 +1,2 @@
+C10Cl2F44Ir2O10Sb8
+Atoms(symbols='C10Cl2F44Ir2O10Sb8', pbc=False)

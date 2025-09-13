@@ -1,0 +1,2 @@
+Ge12K4O36Ta4
+Atoms(symbols='K2Ta2Ge6O18K2Ta2Ge6O18', pbc=False)

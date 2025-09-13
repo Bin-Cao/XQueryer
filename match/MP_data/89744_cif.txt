@@ -1,0 +1,2 @@
+F76Ga12Pb20
+Atoms(symbols='F76Ga12Pb20', pbc=False)

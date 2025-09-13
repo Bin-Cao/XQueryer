@@ -1,0 +1,2 @@
+O12Th2Ti4
+Atoms(symbols='ThTi2O6ThTi2O6', pbc=False)

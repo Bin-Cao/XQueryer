@@ -1,0 +1,2 @@
+Cs2Ga4O32P10
+Atoms(symbols='Cs2Ga4P10O32', pbc=False)

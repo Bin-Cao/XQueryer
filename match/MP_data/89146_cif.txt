@@ -1,0 +1,2 @@
+C24F20Se2
+Atoms(symbols='C24Se2F20', pbc=False)

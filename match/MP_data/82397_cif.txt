@@ -1,0 +1,2 @@
+C2N2Na2
+Atoms(symbols='Na2C2N2', pbc=False)

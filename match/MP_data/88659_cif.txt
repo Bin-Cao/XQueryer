@@ -1,0 +1,2 @@
+C3Cd3O9
+Atoms(symbols='CdCO3CdCO3CdCO3', pbc=False)

@@ -1,0 +1,2 @@
+F22Kr6Sb2
+Atoms(symbols='Sb2Kr6F22', pbc=False)

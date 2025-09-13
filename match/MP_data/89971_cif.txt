@@ -1,0 +1,2 @@
+O30V16
+Atoms(symbols='V16O30', pbc=False)

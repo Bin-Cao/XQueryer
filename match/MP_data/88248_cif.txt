@@ -1,0 +1,2 @@
+Cl20O14Si12
+Atoms(symbols='Si12Cl20O14', pbc=False)

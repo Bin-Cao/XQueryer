@@ -1,0 +1,2 @@
+Cl24Co6Li12
+Atoms(symbols='Li12Co6Cl24', pbc=False)

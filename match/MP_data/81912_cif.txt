@@ -1,0 +1,2 @@
+Cl4O2Ru2
+Atoms(symbols='RuCl2ORuCl2O', pbc=False)

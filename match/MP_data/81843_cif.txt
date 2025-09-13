@@ -1,0 +1,2 @@
+Ga8Na16S20
+Atoms(symbols='Na16Ga8S20', pbc=False)

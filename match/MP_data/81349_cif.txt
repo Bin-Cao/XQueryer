@@ -1,0 +1,2 @@
+Br12Ca4In4
+Atoms(symbols='Ca2In2Br6Ca2In2Br6', pbc=False)

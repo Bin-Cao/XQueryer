@@ -1,0 +1,2 @@
+Bi6O14Sb2
+Atoms(symbols='Bi6Sb2O14', pbc=False)

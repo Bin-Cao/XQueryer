@@ -1,0 +1,2 @@
+Mg18Rh6
+Atoms(symbols='Mg18Rh6', pbc=False)

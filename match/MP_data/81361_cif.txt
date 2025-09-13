@@ -1,0 +1,2 @@
+IrNa4O4
+Atoms(symbols='Na4IrO4', pbc=False)

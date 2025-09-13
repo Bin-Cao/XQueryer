@@ -1,0 +1,2 @@
+H21Al9O42P6Sr3
+Atoms(symbols='H21Al9O42P6Sr3', pbc=False)

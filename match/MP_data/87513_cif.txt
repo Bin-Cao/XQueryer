@@ -1,0 +1,2 @@
+K8Na12P12Si4
+Atoms(symbols='K8Na12Si4P12', pbc=False)

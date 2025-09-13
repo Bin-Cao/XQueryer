@@ -1,0 +1,2 @@
+Mg20Mn40O80
+Atoms(symbols='Mg20Mn40O80', pbc=False)

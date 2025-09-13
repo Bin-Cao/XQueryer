@@ -1,0 +1,2 @@
+Ni14O42Sr18
+Atoms(symbols='Ni14O42Sr18', pbc=False)

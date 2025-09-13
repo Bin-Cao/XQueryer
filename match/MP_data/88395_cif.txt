@@ -1,0 +1,2 @@
+As18Cu21Se39
+Atoms(symbols='As18Cu21Se39', pbc=False)

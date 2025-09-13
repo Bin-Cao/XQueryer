@@ -1,0 +1,2 @@
+As12Ca12Pt12
+Atoms(symbols='Ca6As6Pt6Ca6As6Pt6', pbc=False)

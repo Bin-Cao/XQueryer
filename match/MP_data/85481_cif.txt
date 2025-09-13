@@ -1,0 +1,2 @@
+Ca10F10Na20O40P10
+Atoms(symbols='Ca10F10Na20O40P10', pbc=False)

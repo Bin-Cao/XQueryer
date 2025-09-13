@@ -1,0 +1,2 @@
+F64Ge28
+Atoms(symbols='F64Ge28', pbc=False)

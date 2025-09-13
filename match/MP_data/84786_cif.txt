@@ -1,0 +1,2 @@
+MnRh
+Atoms(symbols='MnRh', pbc=False)

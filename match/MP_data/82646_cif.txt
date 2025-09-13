@@ -1,0 +1,2 @@
+P14Pd18Zr10
+Atoms(symbols='Zr5P7Pd9Zr5P7Pd9', pbc=False)

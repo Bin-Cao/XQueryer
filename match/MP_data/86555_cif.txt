@@ -1,0 +1,2 @@
+O45Rh15Sr18
+Atoms(symbols='O45Rh15Sr18', pbc=False)

@@ -1,0 +1,2 @@
+MgPd
+Atoms(symbols='MgPd', pbc=False)

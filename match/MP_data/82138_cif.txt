@@ -1,0 +1,2 @@
+Cl8Na4Ti2
+Atoms(symbols='Na4Ti2Cl8', pbc=False)

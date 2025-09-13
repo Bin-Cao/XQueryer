@@ -1,0 +1,2 @@
+Ag8Mn4O32Sr4V8
+Atoms(symbols='Sr2Mn2V4Ag4O16Sr2Mn2V4Ag4O16', pbc=False)

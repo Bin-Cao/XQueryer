@@ -1,0 +1,2 @@
+B6Er2Mo2
+Atoms(symbols='Er2B6Mo2', pbc=False)

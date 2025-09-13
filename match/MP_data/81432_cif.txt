@@ -1,0 +1,2 @@
+K4Mo16O32
+Atoms(symbols='K4Mo16O32', pbc=False)

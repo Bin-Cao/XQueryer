@@ -1,0 +1,2 @@
+Al2Lu4Si4
+Atoms(symbols='Lu2AlSi2Lu2AlSi2', pbc=False)

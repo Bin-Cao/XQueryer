@@ -1,0 +1,2 @@
+Li16Ni12O60P16
+Atoms(symbols='Li16Ni12O60P16', pbc=False)

@@ -1,0 +1,2 @@
+H30O21S2
+Atoms(symbols='H30S2O21', pbc=False)

@@ -1,0 +1,2 @@
+B20Ho6Ni38
+Atoms(symbols='B20Ho6Ni38', pbc=False)

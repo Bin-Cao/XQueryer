@@ -1,0 +1,2 @@
+K24O30W6
+Atoms(symbols='K24W6O30', pbc=False)

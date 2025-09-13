@@ -1,0 +1,2 @@
+C2H10Eu2O14P2
+Atoms(symbols='Eu2P2H10C2O14', pbc=False)

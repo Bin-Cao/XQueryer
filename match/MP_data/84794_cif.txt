@@ -1,0 +1,2 @@
+Ba6Na4Nb4O30Ti6
+Atoms(symbols='Ba3Na2Ti3Nb2O15Ba3Na2Ti3Nb2O15', pbc=False)

@@ -1,0 +1,2 @@
+Cr6Pt2
+Atoms(symbols='Cr6Pt2', pbc=False)

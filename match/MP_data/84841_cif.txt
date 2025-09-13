@@ -1,0 +1,2 @@
+B20LiMg9
+Atoms(symbols='LiMg9B20', pbc=False)

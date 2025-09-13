@@ -1,0 +1,2 @@
+Ga72Sn12Te120
+Atoms(symbols='Ga72Sn12Te120', pbc=False)

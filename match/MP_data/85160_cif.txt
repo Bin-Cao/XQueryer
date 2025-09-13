@@ -1,0 +1,2 @@
+O20Pd4Se8
+Atoms(symbols='Pd2Se4O10Pd2Se4O10', pbc=False)

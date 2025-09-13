@@ -1,0 +1,2 @@
+F16Se4
+Atoms(symbols='Se4F16', pbc=False)

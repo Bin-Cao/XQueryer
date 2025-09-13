@@ -1,0 +1,2 @@
+Co2Si6Tb2
+Atoms(symbols='TbCoSi3TbCoSi3', pbc=False)

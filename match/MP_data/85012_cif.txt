@@ -1,0 +1,2 @@
+F6K2Pt
+Atoms(symbols='K2PtF6', pbc=False)

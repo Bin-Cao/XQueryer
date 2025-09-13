@@ -1,0 +1,2 @@
+Cl38Li2Nb12
+Atoms(symbols='Li2Nb12Cl38', pbc=False)

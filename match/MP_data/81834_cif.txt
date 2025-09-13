@@ -1,0 +1,2 @@
+S18Ta6
+Atoms(symbols='Ta6S18', pbc=False)

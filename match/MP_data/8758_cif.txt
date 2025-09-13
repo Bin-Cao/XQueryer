@@ -1,0 +1,2 @@
+Al2Nd4Ni4
+Atoms(symbols='Nd2AlNi2Nd2AlNi2', pbc=False)

@@ -1,0 +1,2 @@
+Li3Pt21
+Atoms(symbols='LiPt7LiPt7LiPt7', pbc=False)

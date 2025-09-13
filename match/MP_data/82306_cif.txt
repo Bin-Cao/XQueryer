@@ -1,0 +1,2 @@
+O36Re8V4
+Atoms(symbols='V2Re4O18V2Re4O18', pbc=False)

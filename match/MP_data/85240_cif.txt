@@ -1,0 +1,2 @@
+Li7O24Ti12
+Atoms(symbols='Li7Ti12O24', pbc=False)

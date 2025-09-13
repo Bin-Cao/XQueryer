@@ -1,0 +1,2 @@
+Co12Ho2P7
+Atoms(symbols='Ho2Co12P7', pbc=False)

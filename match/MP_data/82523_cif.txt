@@ -1,0 +1,2 @@
+Cl16Ti4
+Atoms(symbols='Ti4Cl16', pbc=False)

@@ -1,0 +1,2 @@
+BaLiP
+Atoms(symbols='BaLiP', pbc=False)

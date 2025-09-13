@@ -1,0 +1,2 @@
+C19Er10Ru10
+Atoms(symbols='Er10Ru10C19', pbc=False)

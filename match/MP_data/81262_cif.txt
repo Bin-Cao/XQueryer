@@ -1,0 +1,2 @@
+I4K8O18
+Atoms(symbols='K8I4O18', pbc=False)

@@ -1,0 +1,2 @@
+Au4I2K12Na2O16
+Atoms(symbols='K12Na2Au4I2O16', pbc=False)

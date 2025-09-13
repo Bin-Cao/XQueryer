@@ -1,0 +1,2 @@
+Cd14P20
+Atoms(symbols='Cd14P20', pbc=False)

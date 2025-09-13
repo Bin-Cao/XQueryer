@@ -1,0 +1,2 @@
+DyRh5
+Atoms(symbols='DyRh5', pbc=False)

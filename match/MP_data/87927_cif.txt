@@ -1,0 +1,2 @@
+Na18Sn8
+Atoms(symbols='Na18Sn8', pbc=False)

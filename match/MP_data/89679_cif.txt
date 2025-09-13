@@ -1,0 +1,2 @@
+La18Mn20O60
+Atoms(symbols='La18Mn20O60', pbc=False)

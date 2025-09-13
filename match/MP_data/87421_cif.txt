@@ -1,0 +1,2 @@
+Cu14Mn16O40
+Atoms(symbols='Cu14Mn16O40', pbc=False)

@@ -1,0 +1,2 @@
+Co23Zr6
+Atoms(symbols='Zr6Co23', pbc=False)

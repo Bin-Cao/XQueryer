@@ -1,0 +1,2 @@
+Al6F36K12Li6
+Atoms(symbols='K6Li3Al3F18K6Li3Al3F18', pbc=False)

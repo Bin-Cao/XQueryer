@@ -1,0 +1,2 @@
+S42Sr17Ta10
+Atoms(symbols='S42Sr17Ta10', pbc=False)

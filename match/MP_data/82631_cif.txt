@@ -1,0 +1,2 @@
+CeHg2
+Atoms(symbols='CeHg2', pbc=False)

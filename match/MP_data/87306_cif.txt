@@ -1,0 +1,2 @@
+F28K8Pa4
+Atoms(symbols='K4Pa2F14K4Pa2F14', pbc=False)

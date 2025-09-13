@@ -1,0 +1,2 @@
+Ho10Rh6
+Atoms(symbols='Ho10Rh6', pbc=False)

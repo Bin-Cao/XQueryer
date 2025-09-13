@@ -1,0 +1,2 @@
+Cl24Ga8Li8
+Atoms(symbols='Li8Ga8Cl24', pbc=False)

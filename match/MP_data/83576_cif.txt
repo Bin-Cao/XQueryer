@@ -1,0 +1,2 @@
+Br12Se16Ta6
+Atoms(symbols='Ta6Se16Br12', pbc=False)

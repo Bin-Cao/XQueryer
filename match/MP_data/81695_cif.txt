@@ -1,0 +1,2 @@
+Li12P28
+Atoms(symbols='Li12P28', pbc=False)

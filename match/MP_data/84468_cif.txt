@@ -1,0 +1,2 @@
+F14Na6Zr2
+Atoms(symbols='Na3ZrF7Na3ZrF7', pbc=False)

@@ -1,0 +1,2 @@
+Pd6Ta6Te28
+Atoms(symbols='Ta6Te28Pd6', pbc=False)

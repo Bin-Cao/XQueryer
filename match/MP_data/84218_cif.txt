@@ -1,0 +1,2 @@
+Ni4O48Re8Sr16
+Atoms(symbols='Ni4O48Re8Sr16', pbc=False)

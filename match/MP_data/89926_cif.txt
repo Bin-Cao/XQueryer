@@ -1,0 +1,2 @@
+F58O40Pb24Ta18
+Atoms(symbols='F58O40Pb24Ta18', pbc=False)

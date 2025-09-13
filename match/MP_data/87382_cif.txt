@@ -1,0 +1,2 @@
+O36Sr8V12
+Atoms(symbols='Sr8V12O36', pbc=False)

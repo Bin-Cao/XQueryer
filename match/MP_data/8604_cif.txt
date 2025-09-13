@@ -1,0 +1,2 @@
+Co4Fe4Ge4V4
+Atoms(symbols='VFeCoGeVFeCoGeVFeCoGeVFeCoGe', pbc=False)

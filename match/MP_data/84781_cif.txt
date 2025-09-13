@@ -1,0 +1,2 @@
+Ca4Se48Sm32
+Atoms(symbols='Ca4Se48Sm32', pbc=False)

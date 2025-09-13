@@ -1,0 +1,2 @@
+N28U16
+Atoms(symbols='U16N28', pbc=False)

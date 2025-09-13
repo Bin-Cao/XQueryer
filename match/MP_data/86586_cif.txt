@@ -1,0 +1,2 @@
+C3Al18Na24O81Si18
+Atoms(symbols='C3Al18Na24O81Si18', pbc=False)

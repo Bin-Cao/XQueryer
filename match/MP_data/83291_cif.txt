@@ -1,0 +1,2 @@
+Pd2Ta
+Atoms(symbols='TaPd2', pbc=False)

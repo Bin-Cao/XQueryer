@@ -1,0 +1,2 @@
+C12Eu4Na12O36
+Atoms(symbols='C12Eu4Na12O36', pbc=False)

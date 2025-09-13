@@ -1,0 +1,2 @@
+Dy12O28Re4
+Atoms(symbols='Dy6Re2O14Dy6Re2O14', pbc=False)

@@ -1,0 +1,2 @@
+Mo5O16U
+Atoms(symbols='UMo5O16', pbc=False)

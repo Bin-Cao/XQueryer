@@ -1,0 +1,2 @@
+Ga12La12S36
+Atoms(symbols='La12Ga12S36', pbc=False)

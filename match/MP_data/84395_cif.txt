@@ -1,0 +1,2 @@
+Br12Fe4Tl4
+Atoms(symbols='Tl4Fe4Br12', pbc=False)

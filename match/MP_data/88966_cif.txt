@@ -1,0 +1,2 @@
+K2Mn2Na2O20Si8
+Atoms(symbols='K2Na2Mn2Si8O20', pbc=False)

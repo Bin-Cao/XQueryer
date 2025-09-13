@@ -1,0 +1,2 @@
+Ag4In8Na12
+Atoms(symbols='Na12In8Ag4', pbc=False)

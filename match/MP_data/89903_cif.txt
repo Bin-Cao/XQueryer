@@ -1,0 +1,2 @@
+I4K2O20U3
+Atoms(symbols='K2U3I4O20', pbc=False)

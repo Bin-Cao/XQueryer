@@ -1,0 +1,2 @@
+Cd24Rb16Te32
+Atoms(symbols='Cd24Rb16Te32', pbc=False)

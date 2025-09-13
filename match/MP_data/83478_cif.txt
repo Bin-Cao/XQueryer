@@ -1,0 +1,2 @@
+Er16Mo8O48
+Atoms(symbols='Er16Mo8O48', pbc=False)

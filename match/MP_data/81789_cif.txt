@@ -1,0 +1,2 @@
+B29Na2
+Atoms(symbols='Na2B29', pbc=False)

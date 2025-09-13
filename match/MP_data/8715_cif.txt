@@ -1,0 +1,2 @@
+Ce4O4
+Atoms(symbols='CeOCeOCeOCeO', pbc=False)

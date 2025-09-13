@@ -1,0 +1,2 @@
+Ca20Er10F69
+Atoms(symbols='Ca20Er10F69', pbc=False)

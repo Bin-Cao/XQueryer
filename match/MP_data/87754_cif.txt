@@ -1,0 +1,2 @@
+H4I12O32
+Atoms(symbols='H4I12O32', pbc=False)

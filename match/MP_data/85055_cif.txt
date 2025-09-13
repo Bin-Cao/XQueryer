@@ -1,0 +1,2 @@
+Ag7NO11
+Atoms(symbols='Ag7NO11', pbc=False)

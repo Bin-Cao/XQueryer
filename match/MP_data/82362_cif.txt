@@ -1,0 +1,2 @@
+H72B40
+Atoms(symbols='H72B40', pbc=False)

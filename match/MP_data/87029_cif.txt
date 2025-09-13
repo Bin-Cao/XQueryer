@@ -1,0 +1,2 @@
+Br16Ga4In4
+Atoms(symbols='In4Ga4Br16', pbc=False)

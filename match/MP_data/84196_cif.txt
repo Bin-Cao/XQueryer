@@ -1,0 +1,2 @@
+O32Te12Zn8
+Atoms(symbols='Zn4Te6O16Zn4Te6O16', pbc=False)

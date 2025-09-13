@@ -1,0 +1,2 @@
+C4Si4U6
+Atoms(symbols='U3Si2C2U3Si2C2', pbc=False)

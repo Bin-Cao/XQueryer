@@ -1,0 +1,2 @@
+B20Gd4Ni4O40
+Atoms(symbols='B20Gd4Ni4O40', pbc=False)

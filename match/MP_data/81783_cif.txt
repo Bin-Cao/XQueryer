@@ -1,0 +1,2 @@
+Cl20N4Si8
+Atoms(symbols='Si8N4Cl20', pbc=False)

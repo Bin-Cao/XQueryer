@@ -1,0 +1,2 @@
+La4O36Sb12
+Atoms(symbols='La2Sb6O18La2Sb6O18', pbc=False)

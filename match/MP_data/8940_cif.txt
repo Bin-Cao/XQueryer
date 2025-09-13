@@ -1,0 +1,2 @@
+Ge6La2Os2
+Atoms(symbols='LaGe3OsLaGe3Os', pbc=False)

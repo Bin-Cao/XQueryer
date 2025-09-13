@@ -1,0 +1,2 @@
+Mg14Sb2
+Atoms(symbols='Mg7SbMg7Sb', pbc=False)

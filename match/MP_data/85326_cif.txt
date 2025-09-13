@@ -1,0 +1,2 @@
+Cr16Cs8O52
+Atoms(symbols='Cr16Cs8O52', pbc=False)

@@ -1,0 +1,2 @@
+Cd6Na12O36Si12
+Atoms(symbols='Cd6Na12O36Si12', pbc=False)

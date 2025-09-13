@@ -1,0 +1,2 @@
+H16Ni2O20P4
+Atoms(symbols='Ni2P4H16O20', pbc=False)

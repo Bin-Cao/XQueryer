@@ -1,0 +1,2 @@
+Bi4Ge6O18
+Atoms(symbols='Ge6Bi4O18', pbc=False)

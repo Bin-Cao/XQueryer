@@ -1,0 +1,2 @@
+K24O60Si24
+Atoms(symbols='K24O60Si24', pbc=False)

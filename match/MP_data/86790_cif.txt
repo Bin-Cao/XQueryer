@@ -1,0 +1,2 @@
+H14Al13ClF4O34Si5
+Atoms(symbols='H14Al13ClF4O34Si5', pbc=False)

@@ -1,0 +1,2 @@
+Ag9Cl18Y3
+Atoms(symbols='YAg3Cl6YAg3Cl6YAg3Cl6', pbc=False)

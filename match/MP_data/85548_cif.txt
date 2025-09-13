@@ -1,0 +1,2 @@
+Be26Ce2
+Atoms(symbols='Ce2Be26', pbc=False)

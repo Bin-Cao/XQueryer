@@ -1,0 +1,2 @@
+Ca22In2Sb18
+Atoms(symbols='Ca22In2Sb18', pbc=False)

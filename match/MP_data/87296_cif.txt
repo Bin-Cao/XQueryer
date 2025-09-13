@@ -1,0 +1,2 @@
+Nd10O39Ti12
+Atoms(symbols='Nd10O39Ti12', pbc=False)

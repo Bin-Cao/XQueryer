@@ -1,0 +1,2 @@
+Be17Nb2
+Atoms(symbols='Be17Nb2', pbc=False)

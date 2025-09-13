@@ -1,0 +1,2 @@
+Hf10P14Pd18
+Atoms(symbols='Hf5P7Pd9Hf5P7Pd9', pbc=False)

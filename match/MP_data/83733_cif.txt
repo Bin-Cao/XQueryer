@@ -1,0 +1,2 @@
+Bi2CoHf6
+Atoms(symbols='Hf6CoBi2', pbc=False)

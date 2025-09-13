@@ -1,0 +1,2 @@
+Li22Ni24O48
+Atoms(symbols='Li22Ni24O48', pbc=False)

@@ -1,0 +1,2 @@
+AsBO4
+Atoms(symbols='BAsO4', pbc=False)

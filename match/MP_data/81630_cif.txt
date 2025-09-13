@@ -1,0 +1,2 @@
+Na9O15Re3
+Atoms(symbols='Na9Re3O15', pbc=False)

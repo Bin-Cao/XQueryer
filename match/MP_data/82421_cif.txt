@@ -1,0 +1,2 @@
+O16Se2Te6
+Atoms(symbols='Te6Se2O16', pbc=False)

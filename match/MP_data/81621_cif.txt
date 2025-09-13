@@ -1,0 +1,2 @@
+O28Os6Sn30
+Atoms(symbols='O28Os6Sn30', pbc=False)

@@ -1,0 +1,2 @@
+Ba6Ni2O8
+Atoms(symbols='Ba6Ni2O8', pbc=False)

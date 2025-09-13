@@ -1,0 +1,2 @@
+H24Cu3F12O12V2
+Atoms(symbols='V2Cu3H24O12F12', pbc=False)

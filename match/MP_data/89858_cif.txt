@@ -1,0 +1,2 @@
+Au2O16Rb2Se4
+Atoms(symbols='RbAuSe2O8RbAuSe2O8', pbc=False)

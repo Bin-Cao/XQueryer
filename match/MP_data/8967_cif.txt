@@ -1,0 +1,2 @@
+Ni4Sn2Y4
+Atoms(symbols='Y2Ni2SnY2Ni2Sn', pbc=False)

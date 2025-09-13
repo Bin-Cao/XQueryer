@@ -1,0 +1,2 @@
+K16Re24S48
+Atoms(symbols='K16Re24S48', pbc=False)

@@ -1,0 +1,2 @@
+Ce2F14Na6
+Atoms(symbols='Na3CeF7Na3CeF7', pbc=False)

@@ -1,0 +1,2 @@
+F72Na12Sb20
+Atoms(symbols='F72Na12Sb20', pbc=False)

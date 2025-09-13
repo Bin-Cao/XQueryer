@@ -1,0 +1,2 @@
+CoO6Sr2W
+Atoms(symbols='Sr2CoWO6', pbc=False)

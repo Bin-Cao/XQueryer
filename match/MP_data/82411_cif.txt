@@ -1,0 +1,2 @@
+Cu28P4Se24
+Atoms(symbols='Cu28P4Se24', pbc=False)

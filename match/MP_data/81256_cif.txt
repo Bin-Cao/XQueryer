@@ -1,0 +1,2 @@
+Br8O4
+Atoms(symbols='Br8O4', pbc=False)

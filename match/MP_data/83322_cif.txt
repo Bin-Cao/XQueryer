@@ -1,0 +1,2 @@
+Ag4Pr2Si4
+Atoms(symbols='PrSi2Ag2PrSi2Ag2', pbc=False)

@@ -1,0 +1,2 @@
+Ag10As6Cu2O22
+Atoms(symbols='Cu2Ag10As6O22', pbc=False)

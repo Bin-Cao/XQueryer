@@ -1,0 +1,2 @@
+UV2
+Atoms(symbols='UV2', pbc=False)

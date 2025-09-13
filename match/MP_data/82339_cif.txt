@@ -1,0 +1,2 @@
+H42F24N6
+Atoms(symbols='H42F24N6', pbc=False)

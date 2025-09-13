@@ -1,0 +1,2 @@
+Ga36Li12Te60
+Atoms(symbols='Ga36Li12Te60', pbc=False)

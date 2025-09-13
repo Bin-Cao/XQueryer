@@ -1,0 +1,2 @@
+Ga21Na30Nb3O144P36
+Atoms(symbols='Ga21Na30Nb3O144P36', pbc=False)

@@ -1,0 +1,2 @@
+Co2La2Si6
+Atoms(symbols='LaCoSi3LaCoSi3', pbc=False)

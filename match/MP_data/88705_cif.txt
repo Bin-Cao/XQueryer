@@ -1,0 +1,2 @@
+Cu6S16Ta4Tl6
+Atoms(symbols='Ta2Tl3Cu3S8Ta2Tl3Cu3S8', pbc=False)

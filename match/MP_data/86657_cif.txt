@@ -1,0 +1,2 @@
+Cd20Ho40S80
+Atoms(symbols='Cd20Ho40S80', pbc=False)

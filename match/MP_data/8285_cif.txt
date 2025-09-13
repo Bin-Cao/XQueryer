@@ -1,0 +1,2 @@
+Er6MnTe2
+Atoms(symbols='Er6MnTe2', pbc=False)

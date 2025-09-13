@@ -1,0 +1,2 @@
+Cu4O44P16
+Atoms(symbols='Cu4O44P16', pbc=False)

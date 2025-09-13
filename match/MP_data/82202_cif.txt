@@ -1,0 +1,2 @@
+Cl12Mo2Tl4
+Atoms(symbols='Tl2MoCl6Tl2MoCl6', pbc=False)

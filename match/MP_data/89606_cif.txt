@@ -1,0 +1,2 @@
+As2CuNa4O8
+Atoms(symbols='Na4CuAs2O8', pbc=False)

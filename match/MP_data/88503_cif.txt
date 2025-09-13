@@ -1,0 +1,2 @@
+C6I12O2Y14
+Atoms(symbols='Y14C6I12O2', pbc=False)

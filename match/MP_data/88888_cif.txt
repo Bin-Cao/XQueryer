@@ -1,0 +1,2 @@
+La16O48W8
+Atoms(symbols='La16O48W8', pbc=False)

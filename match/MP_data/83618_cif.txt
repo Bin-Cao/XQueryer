@@ -1,0 +1,2 @@
+Ce40Cl16Ga20
+Atoms(symbols='Ce40Cl16Ga20', pbc=False)

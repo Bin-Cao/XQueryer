@@ -1,0 +1,2 @@
+F44N20Sb8
+Atoms(symbols='F44N20Sb8', pbc=False)

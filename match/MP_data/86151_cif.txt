@@ -1,0 +1,2 @@
+Ce2Mn2O2Sb2
+Atoms(symbols='Ce2Mn2Sb2O2', pbc=False)

@@ -1,0 +1,2 @@
+Pt10Se8
+Atoms(symbols='Pt10Se8', pbc=False)

@@ -1,0 +1,2 @@
+O32Ta16
+Atoms(symbols='Ta16O32', pbc=False)

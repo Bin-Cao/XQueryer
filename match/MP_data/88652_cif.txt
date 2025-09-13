@@ -1,0 +1,2 @@
+O12S3Zn3
+Atoms(symbols='ZnSO4ZnSO4ZnSO4', pbc=False)

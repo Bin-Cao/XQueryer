@@ -1,0 +1,2 @@
+Cu36La9
+Atoms(symbols='La9Cu36', pbc=False)

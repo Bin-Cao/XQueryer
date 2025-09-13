@@ -1,0 +1,2 @@
+BiBrTe
+Atoms(symbols='BiTeBr', pbc=False)

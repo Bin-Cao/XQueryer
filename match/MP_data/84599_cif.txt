@@ -1,0 +1,2 @@
+Na6O24W8
+Atoms(symbols='Na3W4O12Na3W4O12', pbc=False)

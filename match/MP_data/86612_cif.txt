@@ -1,0 +1,2 @@
+Mo24Ni5Se32
+Atoms(symbols='Mo24Ni5Se32', pbc=False)

@@ -1,0 +1,2 @@
+Mn22O72Pr24
+Atoms(symbols='Mn22O72Pr24', pbc=False)

@@ -1,0 +1,2 @@
+PtTe2
+Atoms(symbols='Te2Pt', pbc=False)

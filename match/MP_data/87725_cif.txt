@@ -1,0 +1,2 @@
+Gd8O44Te16
+Atoms(symbols='Gd8O44Te16', pbc=False)

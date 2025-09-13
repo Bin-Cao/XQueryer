@@ -1,0 +1,2 @@
+Ba6Ni5O15
+Atoms(symbols='Ba6Ni5O15', pbc=False)

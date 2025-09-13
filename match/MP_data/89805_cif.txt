@@ -1,0 +1,2 @@
+Ba17Dy16O57Pt4Zn8
+Atoms(symbols='Ba17Dy16O57Pt4Zn8', pbc=False)

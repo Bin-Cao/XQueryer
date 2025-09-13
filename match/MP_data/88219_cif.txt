@@ -1,0 +1,2 @@
+Pr4S10Sn2
+Atoms(symbols='Pr4Sn2S10', pbc=False)

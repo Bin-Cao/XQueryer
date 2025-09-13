@@ -1,0 +1,2 @@
+C36H18Cs18
+Atoms(symbols='C36H18Cs18', pbc=False)

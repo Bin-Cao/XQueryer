@@ -1,0 +1,2 @@
+STa
+Atoms(symbols='TaS', pbc=False)

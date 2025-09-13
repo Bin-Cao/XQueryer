@@ -1,0 +1,2 @@
+K16Te36Ti12
+Atoms(symbols='K16Te36Ti12', pbc=False)

@@ -1,0 +1,2 @@
+Ni9S6
+Atoms(symbols='Ni3S2Ni3S2Ni3S2', pbc=False)

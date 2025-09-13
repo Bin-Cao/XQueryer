@@ -1,0 +1,2 @@
+SeTh
+Atoms(symbols='ThSe', pbc=False)

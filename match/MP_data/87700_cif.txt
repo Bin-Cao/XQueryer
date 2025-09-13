@@ -1,0 +1,2 @@
+H4O32Se8Tl4U4
+Atoms(symbols='U4Tl4H4Se8O32', pbc=False)

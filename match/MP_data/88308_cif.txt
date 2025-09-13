@@ -1,0 +1,2 @@
+Co6Li34O24
+Atoms(symbols='Co6Li34O24', pbc=False)

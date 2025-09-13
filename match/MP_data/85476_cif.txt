@@ -1,0 +1,2 @@
+Pd36Si8
+Atoms(symbols='Si8Pd36', pbc=False)

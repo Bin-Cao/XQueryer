@@ -1,0 +1,2 @@
+Ag18Sr27
+Atoms(symbols='Sr9Ag6Sr9Ag6Sr9Ag6', pbc=False)

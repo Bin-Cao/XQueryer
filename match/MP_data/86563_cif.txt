@@ -1,0 +1,2 @@
+Ca9Mn20O60Pr11
+Atoms(symbols='Ca9Mn20O60Pr11', pbc=False)

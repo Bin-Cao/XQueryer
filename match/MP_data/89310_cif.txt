@@ -1,0 +1,2 @@
+Cl18Na4O4Pr8
+Atoms(symbols='Na4Pr8Cl18O4', pbc=False)

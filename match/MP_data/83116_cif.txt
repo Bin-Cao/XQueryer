@@ -1,0 +1,2 @@
+Al2Cu2O4
+Atoms(symbols='Al2Cu2O4', pbc=False)

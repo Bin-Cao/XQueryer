@@ -1,0 +1,2 @@
+Ca3La5Mn7NiO24
+Atoms(symbols='Ca3La5Mn7NiO24', pbc=False)

@@ -1,0 +1,2 @@
+O40Tb16Ti8
+Atoms(symbols='O40Tb16Ti8', pbc=False)

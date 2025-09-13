@@ -1,0 +1,2 @@
+CaI2
+Atoms(symbols='CaI2', pbc=False)

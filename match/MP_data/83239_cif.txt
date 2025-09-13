@@ -1,0 +1,2 @@
+Ni22Zr18
+Atoms(symbols='Zr9Ni11Zr9Ni11', pbc=False)

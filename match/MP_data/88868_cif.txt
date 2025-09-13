@@ -1,0 +1,2 @@
+Ga12N12O4Zn4
+Atoms(symbols='Zn4Ga12N12O4', pbc=False)

@@ -1,0 +1,2 @@
+Se24Sn8Tl32
+Atoms(symbols='Se24Sn8Tl32', pbc=False)

@@ -1,0 +1,2 @@
+CsSe
+Atoms(symbols='CsSe', pbc=False)

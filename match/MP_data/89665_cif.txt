@@ -1,0 +1,2 @@
+K4Mn20O72Se24
+Atoms(symbols='K4Mn20O72Se24', pbc=False)

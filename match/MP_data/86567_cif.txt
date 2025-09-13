@@ -1,0 +1,2 @@
+H12Cs2N6Sn
+Atoms(symbols='Cs2SnH12N6', pbc=False)

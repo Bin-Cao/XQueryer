@@ -1,0 +1,2 @@
+F40Sr8V8
+Atoms(symbols='Sr8V8F40', pbc=False)

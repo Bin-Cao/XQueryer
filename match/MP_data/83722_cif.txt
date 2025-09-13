@@ -1,0 +1,2 @@
+Mo20O56
+Atoms(symbols='Mo20O56', pbc=False)

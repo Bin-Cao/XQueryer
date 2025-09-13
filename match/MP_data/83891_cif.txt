@@ -1,0 +1,2 @@
+H4Mg6O12
+Atoms(symbols='Mg3H2O6Mg3H2O6', pbc=False)

@@ -1,0 +1,2 @@
+Br2Co
+Atoms(symbols='CoBr2', pbc=False)

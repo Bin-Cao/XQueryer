@@ -1,0 +1,2 @@
+Bi4O18Sr2Ta4
+Atoms(symbols='SrTa2Bi2O9SrTa2Bi2O9', pbc=False)

@@ -1,0 +1,2 @@
+O28Ta8Th4
+Atoms(symbols='Th2Ta4O14Th2Ta4O14', pbc=False)

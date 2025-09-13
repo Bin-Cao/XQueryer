@@ -1,0 +1,2 @@
+H24Cu3F12Mn2O12
+Atoms(symbols='Mn2Cu3H24O12F12', pbc=False)

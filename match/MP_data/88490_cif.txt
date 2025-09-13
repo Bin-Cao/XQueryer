@@ -1,0 +1,2 @@
+O3Pm2
+Atoms(symbols='Pm2O3', pbc=False)

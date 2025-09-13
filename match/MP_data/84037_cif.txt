@@ -1,0 +1,2 @@
+Au6P14Sn2
+Atoms(symbols='Sn2P14Au6', pbc=False)

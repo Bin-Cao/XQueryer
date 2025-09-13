@@ -1,0 +1,2 @@
+H36Al3Cu6O36Sb3
+Atoms(symbols='H36Al3Cu6O36Sb3', pbc=False)

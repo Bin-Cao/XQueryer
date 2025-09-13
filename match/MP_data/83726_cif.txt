@@ -1,0 +1,2 @@
+Pd60Te21
+Atoms(symbols='Pd60Te21', pbc=False)

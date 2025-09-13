@@ -1,0 +1,2 @@
+H20Cl8Cu2KN3O4
+Atoms(symbols='KCu2H20N3Cl8O4', pbc=False)

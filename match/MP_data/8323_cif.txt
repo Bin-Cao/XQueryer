@@ -1,0 +1,2 @@
+BeLi
+Atoms(symbols='LiBe', pbc=False)

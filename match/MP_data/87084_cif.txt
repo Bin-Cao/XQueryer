@@ -1,0 +1,2 @@
+Ga8Ir4Li4
+Atoms(symbols='LiGa2IrLiGa2IrLiGa2IrLiGa2Ir', pbc=False)

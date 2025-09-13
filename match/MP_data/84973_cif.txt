@@ -1,0 +1,2 @@
+Ni4P8
+Atoms(symbols='Ni2P4Ni2P4', pbc=False)

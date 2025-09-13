@@ -1,0 +1,2 @@
+Ir6O54P18
+Atoms(symbols='Ir6O54P18', pbc=False)

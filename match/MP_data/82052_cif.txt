@@ -1,0 +1,2 @@
+B8Ga64Ir32
+Atoms(symbols='B8Ga64Ir32', pbc=False)

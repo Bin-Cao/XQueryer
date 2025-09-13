@@ -1,0 +1,2 @@
+La10S16Sm2
+Atoms(symbols='La5SmS8La5SmS8', pbc=False)

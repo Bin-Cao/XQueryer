@@ -1,0 +1,2 @@
+O24Rb16Ti8
+Atoms(symbols='Rb8Ti4O12Rb8Ti4O12', pbc=False)

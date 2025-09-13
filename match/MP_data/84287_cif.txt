@@ -1,0 +1,2 @@
+Bi13O20
+Atoms(symbols='Bi13O20', pbc=False)

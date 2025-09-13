@@ -1,0 +1,2 @@
+Ga12Ge8Ni20
+Atoms(symbols='Ga6Ni10Ge4Ga6Ni10Ge4', pbc=False)

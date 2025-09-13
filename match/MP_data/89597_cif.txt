@@ -1,0 +1,2 @@
+Be6Ge12Na12O36
+Atoms(symbols='Be6Ge12Na12O36', pbc=False)

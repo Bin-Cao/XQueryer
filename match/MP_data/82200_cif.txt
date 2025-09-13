@@ -1,0 +1,2 @@
+F48Ti12
+Atoms(symbols='Ti12F48', pbc=False)

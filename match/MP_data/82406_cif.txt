@@ -1,0 +1,2 @@
+C4Ag20F16
+Atoms(symbols='Ag20C4F16', pbc=False)

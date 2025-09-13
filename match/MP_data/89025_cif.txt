@@ -1,0 +1,2 @@
+In8K28O26
+Atoms(symbols='In8K28O26', pbc=False)

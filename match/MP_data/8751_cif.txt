@@ -1,0 +1,2 @@
+SeTl
+Atoms(symbols='TlSe', pbc=False)

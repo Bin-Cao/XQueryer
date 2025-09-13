@@ -1,0 +1,2 @@
+Nd10Sn6
+Atoms(symbols='Nd10Sn6', pbc=False)

@@ -1,0 +1,2 @@
+Li2S2
+Atoms(symbols='LiSLiS', pbc=False)

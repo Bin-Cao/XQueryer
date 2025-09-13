@@ -1,0 +1,2 @@
+C2Na8O8
+Atoms(symbols='Na4CO4Na4CO4', pbc=False)

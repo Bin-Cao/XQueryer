@@ -1,0 +1,2 @@
+Fe20Mg16O72Te12
+Atoms(symbols='Fe20Mg16O72Te12', pbc=False)

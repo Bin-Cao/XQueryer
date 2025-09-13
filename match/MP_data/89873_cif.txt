@@ -1,0 +1,2 @@
+Ce3O12P3
+Atoms(symbols='Ce3P3O12', pbc=False)

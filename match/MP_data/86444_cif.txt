@@ -1,0 +1,2 @@
+Ge4In4O14
+Atoms(symbols='In2Ge2O7In2Ge2O7', pbc=False)

@@ -1,0 +1,2 @@
+Fe20O40Zn10
+Atoms(symbols='Fe20O40Zn10', pbc=False)

@@ -1,0 +1,2 @@
+H4Al4B4Cs4O36P8
+Atoms(symbols='Cs4Al4B4P8H4O36', pbc=False)

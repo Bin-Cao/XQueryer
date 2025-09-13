@@ -1,0 +1,2 @@
+Cl8Hf2
+Atoms(symbols='Hf2Cl8', pbc=False)

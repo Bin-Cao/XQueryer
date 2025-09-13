@@ -1,0 +1,2 @@
+Ga3O12P3
+Atoms(symbols='Ga3P3O12', pbc=False)

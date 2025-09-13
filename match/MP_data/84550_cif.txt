@@ -1,0 +1,2 @@
+AgPr5Se8
+Atoms(symbols='Pr5AgSe8', pbc=False)

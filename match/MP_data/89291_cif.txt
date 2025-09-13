@@ -1,0 +1,2 @@
+As4Hg12S12Sb4
+Atoms(symbols='Hg12Sb4As4S12', pbc=False)

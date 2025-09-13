@@ -1,0 +1,2 @@
+BiTh
+Atoms(symbols='ThBi', pbc=False)

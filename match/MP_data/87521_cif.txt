@@ -1,0 +1,2 @@
+Al72Sn12Te120
+Atoms(symbols='Al72Sn12Te120', pbc=False)

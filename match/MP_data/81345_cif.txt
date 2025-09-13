@@ -1,0 +1,2 @@
+B3Li3Pt9
+Atoms(symbols='Li3B3Pt9', pbc=False)

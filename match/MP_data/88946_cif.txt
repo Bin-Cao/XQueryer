@@ -1,0 +1,2 @@
+Li56Mn8N32
+Atoms(symbols='Li56Mn8N32', pbc=False)

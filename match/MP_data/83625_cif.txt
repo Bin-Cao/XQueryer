@@ -1,0 +1,2 @@
+Al16Er24
+Atoms(symbols='Er12Al8Er12Al8', pbc=False)

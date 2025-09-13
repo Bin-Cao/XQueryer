@@ -1,0 +1,2 @@
+CsI
+Atoms(symbols='CsI', pbc=False)

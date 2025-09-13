@@ -1,0 +1,2 @@
+C8Bi16O40
+Atoms(symbols='C8Bi16O40', pbc=False)

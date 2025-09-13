@@ -1,0 +1,2 @@
+C8H16Ba4O24
+Atoms(symbols='Ba4H16C8O24', pbc=False)

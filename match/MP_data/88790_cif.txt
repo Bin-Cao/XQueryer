@@ -1,0 +1,2 @@
+C12F48Te6
+Atoms(symbols='C12F48Te6', pbc=False)

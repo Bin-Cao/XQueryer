@@ -1,0 +1,2 @@
+Bi3Se6Tl3
+Atoms(symbols='TlBiSe2TlBiSe2TlBiSe2', pbc=False)

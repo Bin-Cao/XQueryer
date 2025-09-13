@@ -1,0 +1,2 @@
+As16Mn20
+Atoms(symbols='Mn10As8Mn10As8', pbc=False)

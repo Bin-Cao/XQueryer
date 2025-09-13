@@ -1,0 +1,2 @@
+Cr12S20Tl4
+Atoms(symbols='Tl2Cr6S10Tl2Cr6S10', pbc=False)

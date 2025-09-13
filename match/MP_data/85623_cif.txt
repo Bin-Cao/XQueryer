@@ -1,0 +1,2 @@
+B6Ce4Co14
+Atoms(symbols='Ce4Co14B6', pbc=False)

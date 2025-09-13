@@ -1,0 +1,2 @@
+C15Dy12Mn5
+Atoms(symbols='Dy12Mn5C15', pbc=False)

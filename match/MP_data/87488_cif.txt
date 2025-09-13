@@ -1,0 +1,2 @@
+Cd6O20Se6
+Atoms(symbols='Cd6Se6O20', pbc=False)

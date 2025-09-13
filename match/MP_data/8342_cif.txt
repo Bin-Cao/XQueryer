@@ -1,0 +1,2 @@
+IN
+Atoms(symbols='IN', pbc=False)

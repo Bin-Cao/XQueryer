@@ -1,0 +1,2 @@
+O14P8Se2
+Atoms(symbols='P8Se2O14', pbc=False)

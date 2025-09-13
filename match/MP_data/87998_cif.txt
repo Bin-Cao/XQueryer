@@ -1,0 +1,2 @@
+Gd2Zn17
+Atoms(symbols='Gd2Zn17', pbc=False)

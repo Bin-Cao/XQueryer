@@ -1,0 +1,2 @@
+O8Rb4
+Atoms(symbols='Rb2O4Rb2O4', pbc=False)

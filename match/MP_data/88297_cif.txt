@@ -1,0 +1,2 @@
+Mo32O40
+Atoms(symbols='Mo32O40', pbc=False)

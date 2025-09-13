@@ -1,0 +1,2 @@
+Cu28Se20Tl10
+Atoms(symbols='Tl5Cu14Se10Tl5Cu14Se10', pbc=False)

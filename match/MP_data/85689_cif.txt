@@ -1,0 +1,2 @@
+Ca10Cl2O24S3Si3
+Atoms(symbols='Ca10Si3S3Cl2O24', pbc=False)

@@ -1,0 +1,2 @@
+Ce2Fe12P7
+Atoms(symbols='Ce2Fe12P7', pbc=False)

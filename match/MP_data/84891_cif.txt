@@ -1,0 +1,2 @@
+Ba48P32
+Atoms(symbols='Ba48P32', pbc=False)

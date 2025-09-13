@@ -1,0 +1,2 @@
+Nb12Si4Te24
+Atoms(symbols='Nb12Si4Te24', pbc=False)

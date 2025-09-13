@@ -1,0 +1,2 @@
+Fe5O8Zn
+Atoms(symbols='ZnFe5O8', pbc=False)

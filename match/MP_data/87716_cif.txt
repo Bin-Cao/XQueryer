@@ -1,0 +1,2 @@
+Mo4Na8O48Te16
+Atoms(symbols='Mo4Na8O48Te16', pbc=False)

@@ -1,0 +1,2 @@
+S32Ti18Zn2
+Atoms(symbols='Ti18Zn2S32', pbc=False)

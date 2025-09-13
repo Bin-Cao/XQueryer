@@ -1,0 +1,2 @@
+CI12Sc7
+Atoms(symbols='Sc7CI12', pbc=False)

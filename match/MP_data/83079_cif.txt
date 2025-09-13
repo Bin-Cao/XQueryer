@@ -1,0 +1,2 @@
+Pt16Ti2
+Atoms(symbols='TiPt8TiPt8', pbc=False)

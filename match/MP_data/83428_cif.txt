@@ -1,0 +1,2 @@
+Mo16S16Sb32
+Atoms(symbols='Mo16S16Sb32', pbc=False)

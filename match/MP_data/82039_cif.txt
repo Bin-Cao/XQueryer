@@ -1,0 +1,2 @@
+K4N4O8
+Atoms(symbols='K4N4O8', pbc=False)

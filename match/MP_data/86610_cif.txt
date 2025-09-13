@@ -1,0 +1,2 @@
+Al68Mg10O112
+Atoms(symbols='Al68Mg10O112', pbc=False)

@@ -1,0 +1,2 @@
+Ga48Mg24O96
+Atoms(symbols='Ga48Mg24O96', pbc=False)

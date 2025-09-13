@@ -1,0 +1,2 @@
+B12Ba2F4O48Si6Y12
+Atoms(symbols='B12Ba2F4O48Si6Y12', pbc=False)

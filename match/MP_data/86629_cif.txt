@@ -1,0 +1,2 @@
+Er32O80Ti16
+Atoms(symbols='Er32O80Ti16', pbc=False)

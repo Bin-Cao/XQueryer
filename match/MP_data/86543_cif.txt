@@ -1,0 +1,2 @@
+H48Br8Co4O24
+Atoms(symbols='H48Br8Co4O24', pbc=False)

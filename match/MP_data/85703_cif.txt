@@ -1,0 +1,2 @@
+O14Pb2Ti6
+Atoms(symbols='Ti6Pb2O14', pbc=False)

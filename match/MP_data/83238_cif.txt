@@ -1,0 +1,2 @@
+Al12W3
+Atoms(symbols='Al12W3', pbc=False)

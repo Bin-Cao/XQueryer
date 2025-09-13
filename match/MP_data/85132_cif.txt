@@ -1,0 +1,2 @@
+Cd2Ho4Se8
+Atoms(symbols='Ho4Cd2Se8', pbc=False)

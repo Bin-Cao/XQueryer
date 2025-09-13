@@ -1,0 +1,2 @@
+Ge6Pt2Sr2
+Atoms(symbols='SrGe3PtSrGe3Pt', pbc=False)

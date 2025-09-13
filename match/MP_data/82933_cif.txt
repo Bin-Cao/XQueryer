@@ -1,0 +1,2 @@
+C4Ni2Tb2
+Atoms(symbols='TbNiC2TbNiC2', pbc=False)

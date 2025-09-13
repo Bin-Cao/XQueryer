@@ -1,0 +1,2 @@
+As12Br4Hg8
+Atoms(symbols='Hg4As6Br2Hg4As6Br2', pbc=False)

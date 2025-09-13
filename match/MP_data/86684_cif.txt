@@ -1,0 +1,2 @@
+Al16Ca5Cr2O48Si2Y7
+Atoms(symbols='Al16Ca5Cr2O48Si2Y7', pbc=False)

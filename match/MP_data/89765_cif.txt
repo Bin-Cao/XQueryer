@@ -1,0 +1,2 @@
+Fe42S48
+Atoms(symbols='Fe42S48', pbc=False)

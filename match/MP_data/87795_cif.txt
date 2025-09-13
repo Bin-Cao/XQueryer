@@ -1,0 +1,2 @@
+B2Dy3Ni13
+Atoms(symbols='Dy3Ni13B2', pbc=False)

@@ -1,0 +1,2 @@
+Cr6O16Rb2
+Atoms(symbols='Rb2Cr6O16', pbc=False)

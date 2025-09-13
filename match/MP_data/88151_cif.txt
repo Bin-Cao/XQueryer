@@ -1,0 +1,2 @@
+Fe4Mo8S16
+Atoms(symbols='Fe4Mo8S16', pbc=False)

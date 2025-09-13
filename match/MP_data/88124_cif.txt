@@ -1,0 +1,2 @@
+As4Li2O14Sc2
+Atoms(symbols='LiScAs2O7LiScAs2O7', pbc=False)

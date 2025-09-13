@@ -1,0 +1,2 @@
+As24V32
+Atoms(symbols='V16As12V16As12', pbc=False)

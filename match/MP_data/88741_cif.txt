@@ -1,0 +1,2 @@
+F24W4
+Atoms(symbols='W4F24', pbc=False)

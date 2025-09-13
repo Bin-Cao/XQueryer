@@ -1,0 +1,2 @@
+Ga18Rb6
+Atoms(symbols='Rb3Ga9Rb3Ga9', pbc=False)

@@ -1,0 +1,2 @@
+La8O8Se6
+Atoms(symbols='La4Se3O4La4Se3O4', pbc=False)

@@ -1,0 +1,2 @@
+C14B56
+Atoms(symbols='C14B56', pbc=False)

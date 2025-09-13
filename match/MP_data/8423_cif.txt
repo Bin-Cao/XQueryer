@@ -1,0 +1,2 @@
+BrN
+Atoms(symbols='BrN', pbc=False)

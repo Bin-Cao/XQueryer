@@ -1,0 +1,2 @@
+Ag4O20Se4V4
+Atoms(symbols='V4Ag4Se4O20', pbc=False)

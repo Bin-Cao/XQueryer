@@ -1,0 +1,2 @@
+S32Sb20Tl4
+Atoms(symbols='Tl4Sb20S32', pbc=False)

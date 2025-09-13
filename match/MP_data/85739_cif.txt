@@ -1,0 +1,2 @@
+As12Sc20
+Atoms(symbols='Sc20As12', pbc=False)

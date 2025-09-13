@@ -1,0 +1,2 @@
+CaPt5
+Atoms(symbols='CaPt5', pbc=False)

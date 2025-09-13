@@ -1,0 +1,2 @@
+Cl12Re12Te32
+Atoms(symbols='Re12Te32Cl12', pbc=False)

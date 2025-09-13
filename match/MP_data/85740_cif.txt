@@ -1,0 +1,2 @@
+H8Ce4
+Atoms(symbols='CeH2CeH2CeH2CeH2', pbc=False)

@@ -1,0 +1,2 @@
+B8Ga6Pt18
+Atoms(symbols='Ga6B8Pt18', pbc=False)

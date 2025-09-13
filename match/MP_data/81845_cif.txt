@@ -1,0 +1,2 @@
+Pt10S12Tl4
+Atoms(symbols='Tl4Pt10S12', pbc=False)

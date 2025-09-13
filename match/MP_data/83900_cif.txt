@@ -1,0 +1,2 @@
+O56Pr16Si16
+Atoms(symbols='O56Pr16Si16', pbc=False)

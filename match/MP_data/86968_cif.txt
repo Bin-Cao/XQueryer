@@ -1,0 +1,2 @@
+Fe25O40Ti5
+Atoms(symbols='Fe25O40Ti5', pbc=False)

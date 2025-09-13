@@ -1,0 +1,2 @@
+CeRu3Si2
+Atoms(symbols='CeSi2Ru3', pbc=False)

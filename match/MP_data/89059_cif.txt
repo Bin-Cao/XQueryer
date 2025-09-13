@@ -1,0 +1,2 @@
+O26Te10Y4
+Atoms(symbols='Y4Te10O26', pbc=False)

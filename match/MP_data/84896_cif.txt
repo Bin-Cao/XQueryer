@@ -1,0 +1,2 @@
+Dy2Ge4Rh4
+Atoms(symbols='DyGe2Rh2DyGe2Rh2', pbc=False)

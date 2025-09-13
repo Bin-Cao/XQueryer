@@ -1,0 +1,2 @@
+Li26O96Ti44
+Atoms(symbols='Li26O96Ti44', pbc=False)

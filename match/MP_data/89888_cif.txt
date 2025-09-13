@@ -1,0 +1,2 @@
+F14Pb2Ta2
+Atoms(symbols='Ta2Pb2F14', pbc=False)

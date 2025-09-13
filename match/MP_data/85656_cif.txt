@@ -1,0 +1,2 @@
+In8O20Ti4
+Atoms(symbols='Ti4In8O20', pbc=False)

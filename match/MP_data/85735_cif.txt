@@ -1,0 +1,2 @@
+Cs8In4Na12O16
+Atoms(symbols='Cs8Na12In4O16', pbc=False)

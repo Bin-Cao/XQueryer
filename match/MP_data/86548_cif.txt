@@ -1,0 +1,2 @@
+As18Ga18O72
+Atoms(symbols='As18Ga18O72', pbc=False)

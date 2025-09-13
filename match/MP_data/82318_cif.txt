@@ -1,0 +1,2 @@
+Hg4Mo10O32
+Atoms(symbols='Hg4Mo10O32', pbc=False)

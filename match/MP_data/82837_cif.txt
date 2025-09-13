@@ -1,0 +1,2 @@
+I2La10Sn6
+Atoms(symbols='La10Sn6I2', pbc=False)

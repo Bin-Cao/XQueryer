@@ -1,0 +1,2 @@
+Mo
+Atoms(symbols='Mo', pbc=False)

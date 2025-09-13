@@ -1,0 +1,2 @@
+H32B12Cs4
+Atoms(symbols='Cs2B6H16Cs2B6H16', pbc=False)

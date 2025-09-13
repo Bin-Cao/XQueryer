@@ -1,0 +1,2 @@
+Cd2Cl8Li4
+Atoms(symbols='Li4Cd2Cl8', pbc=False)

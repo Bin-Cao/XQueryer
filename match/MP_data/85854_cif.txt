@@ -1,0 +1,2 @@
+B34F54
+Atoms(symbols='B34F54', pbc=False)

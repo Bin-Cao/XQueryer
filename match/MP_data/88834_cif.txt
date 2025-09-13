@@ -1,0 +1,2 @@
+Cl4Cu4Dy4O24Te8
+Atoms(symbols='Dy4Cu4Te8Cl4O24', pbc=False)

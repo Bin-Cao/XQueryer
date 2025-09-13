@@ -1,0 +1,2 @@
+Ni6Th14
+Atoms(symbols='Th14Ni6', pbc=False)

@@ -1,0 +1,2 @@
+O56Sr12Te16U4
+Atoms(symbols='O56Sr12Te16U4', pbc=False)

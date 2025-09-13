@@ -1,0 +1,2 @@
+Bi3O12Sr5
+Atoms(symbols='Sr5Bi3O12', pbc=False)

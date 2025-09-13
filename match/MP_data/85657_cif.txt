@@ -1,0 +1,2 @@
+Ag3Mo18S24
+Atoms(symbols='AgMo6S8AgMo6S8AgMo6S8', pbc=False)

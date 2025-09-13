@@ -1,0 +1,2 @@
+Ga8Ge4Li8S24
+Atoms(symbols='Li4Ga4Ge2S12Li4Ga4Ge2S12', pbc=False)

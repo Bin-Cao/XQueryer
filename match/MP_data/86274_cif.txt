@@ -1,0 +1,2 @@
+Ce2O18Ta6
+Atoms(symbols='Ce2Ta6O18', pbc=False)

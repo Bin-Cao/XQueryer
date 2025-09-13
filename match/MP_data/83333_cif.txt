@@ -1,0 +1,2 @@
+Ag4Sc24Te8
+Atoms(symbols='Sc24Ag4Te8', pbc=False)

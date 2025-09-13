@@ -1,0 +1,2 @@
+Ce10O18
+Atoms(symbols='Ce10O18', pbc=False)

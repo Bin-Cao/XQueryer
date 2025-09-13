@@ -1,0 +1,2 @@
+Ga82N22O90
+Atoms(symbols='Ga82N22O90', pbc=False)

@@ -1,0 +1,2 @@
+Ca16O72Te12W20
+Atoms(symbols='Ca16O72Te12W20', pbc=False)

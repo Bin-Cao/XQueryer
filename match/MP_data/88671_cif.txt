@@ -1,0 +1,2 @@
+H4Na16O20V4
+Atoms(symbols='Na16V4H4O20', pbc=False)

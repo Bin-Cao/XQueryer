@@ -1,0 +1,2 @@
+Nd4O19Os6
+Atoms(symbols='Nd4Os6O19', pbc=False)

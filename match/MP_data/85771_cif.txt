@@ -1,0 +1,2 @@
+Ca4Pr32Se48
+Atoms(symbols='Ca4Pr32Se48', pbc=False)

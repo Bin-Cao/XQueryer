@@ -1,0 +1,2 @@
+H24Cl12Fe2O12Pt2
+Atoms(symbols='Fe2H24Pt2Cl12O12', pbc=False)

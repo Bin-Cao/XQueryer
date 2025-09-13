@@ -1,0 +1,2 @@
+Co4Er4Sn8
+Atoms(symbols='Er2Co2Sn4Er2Co2Sn4', pbc=False)

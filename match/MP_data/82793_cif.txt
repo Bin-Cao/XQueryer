@@ -1,0 +1,2 @@
+Cr16Si20Zr8
+Atoms(symbols='Zr4Cr8Si10Zr4Cr8Si10', pbc=False)

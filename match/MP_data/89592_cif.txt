@@ -1,0 +1,2 @@
+Al12F68Na4Sr14
+Atoms(symbols='Al12F68Na4Sr14', pbc=False)

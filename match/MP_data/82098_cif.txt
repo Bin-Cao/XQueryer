@@ -1,0 +1,2 @@
+Cd4Ge14O32
+Atoms(symbols='Cd4Ge14O32', pbc=False)

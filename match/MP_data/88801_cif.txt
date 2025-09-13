@@ -1,0 +1,2 @@
+Al3Cs3F12
+Atoms(symbols='Cs3Al3F12', pbc=False)

@@ -1,0 +1,2 @@
+H8Co6O20P4
+Atoms(symbols='Co6P4H8O20', pbc=False)

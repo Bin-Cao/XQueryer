@@ -1,0 +1,2 @@
+Ga4Li12Na8O16
+Atoms(symbols='Na8Li12Ga4O16', pbc=False)

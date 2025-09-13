@@ -1,0 +1,2 @@
+Er6Ru4
+Atoms(symbols='Er6Ru4', pbc=False)

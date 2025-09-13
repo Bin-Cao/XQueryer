@@ -1,0 +1,2 @@
+B4Ga2Li6O12
+Atoms(symbols='Li6Ga2B4O12', pbc=False)

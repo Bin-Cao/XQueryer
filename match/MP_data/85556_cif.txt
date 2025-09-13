@@ -1,0 +1,2 @@
+K9O30Ta10
+Atoms(symbols='K9Ta10O30', pbc=False)

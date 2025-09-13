@@ -1,0 +1,2 @@
+As2HgO6
+Atoms(symbols='HgAs2O6', pbc=False)

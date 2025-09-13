@@ -1,0 +1,2 @@
+C4Er4Ni13
+Atoms(symbols='Er4Ni13C4', pbc=False)

@@ -1,0 +1,2 @@
+Er2Na6O16V4
+Atoms(symbols='Na6Er2V4O16', pbc=False)

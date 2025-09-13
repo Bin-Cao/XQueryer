@@ -1,0 +1,2 @@
+BiFeO3
+Atoms(symbols='FeBiO3', pbc=False)

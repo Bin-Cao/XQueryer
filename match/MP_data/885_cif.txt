@@ -1,0 +1,2 @@
+BaMg3
+Atoms(symbols='BaMg3', pbc=False)

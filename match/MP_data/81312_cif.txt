@@ -1,0 +1,2 @@
+Bi2Cl2F16
+Atoms(symbols='Bi2Cl2F16', pbc=False)

@@ -1,0 +1,2 @@
+H4F16P4
+Atoms(symbols='P4H4F16', pbc=False)

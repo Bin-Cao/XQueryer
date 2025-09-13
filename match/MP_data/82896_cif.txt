@@ -1,0 +1,2 @@
+Br18Te2W2
+Atoms(symbols='Te2W2Br18', pbc=False)

@@ -1,0 +1,2 @@
+AgBr
+Atoms(symbols='AgBr', pbc=False)

@@ -1,0 +1,2 @@
+H20Cr4O20P4
+Atoms(symbols='Cr4P4H20O20', pbc=False)

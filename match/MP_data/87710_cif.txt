@@ -1,0 +1,2 @@
+As4Ga2Li2O14
+Atoms(symbols='LiGaAs2O7LiGaAs2O7', pbc=False)

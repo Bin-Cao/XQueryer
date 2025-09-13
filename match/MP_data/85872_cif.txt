@@ -1,0 +1,2 @@
+CuNdO8W2
+Atoms(symbols='NdCuW2O8', pbc=False)

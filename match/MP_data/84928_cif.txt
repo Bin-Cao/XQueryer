@@ -1,0 +1,2 @@
+F10K4Na2O2Ti2
+Atoms(symbols='K2NaTiOF5K2NaTiOF5', pbc=False)

@@ -1,0 +1,2 @@
+Nd6O24Sb10
+Atoms(symbols='Nd6Sb10O24', pbc=False)

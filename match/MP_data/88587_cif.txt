@@ -1,0 +1,2 @@
+Cu6O16V4
+Atoms(symbols='V4Cu6O16', pbc=False)

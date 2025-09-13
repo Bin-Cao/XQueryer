@@ -1,0 +1,2 @@
+NOTaZr
+Atoms(symbols='ZrTaNO', pbc=False)

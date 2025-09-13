@@ -1,0 +1,2 @@
+B2Eu6O18W2
+Atoms(symbols='Eu6B2W2O18', pbc=False)

@@ -1,0 +1,2 @@
+In12K12O64P16
+Atoms(symbols='In12K12O64P16', pbc=False)

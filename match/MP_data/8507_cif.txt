@@ -1,0 +1,2 @@
+Sc4
+Atoms(symbols='Sc4', pbc=False)

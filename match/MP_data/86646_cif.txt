@@ -1,0 +1,2 @@
+Fe13Mn17O40
+Atoms(symbols='Fe13Mn17O40', pbc=False)

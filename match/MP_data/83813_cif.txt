@@ -1,0 +1,2 @@
+Ga5Pd13
+Atoms(symbols='Ga5Pd13', pbc=False)

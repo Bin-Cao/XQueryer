@@ -1,0 +1,2 @@
+CoCsK2O2
+Atoms(symbols='CsK2CoO2', pbc=False)

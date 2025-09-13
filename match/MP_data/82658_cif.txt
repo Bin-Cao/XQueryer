@@ -1,0 +1,2 @@
+O52P16Y8
+Atoms(symbols='O52P16Y8', pbc=False)

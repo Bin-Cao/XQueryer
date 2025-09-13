@@ -1,0 +1,2 @@
+Hg10Pd4
+Atoms(symbols='Hg10Pd4', pbc=False)

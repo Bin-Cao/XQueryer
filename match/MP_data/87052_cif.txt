@@ -1,0 +1,2 @@
+La24Mn22O72
+Atoms(symbols='La24Mn22O72', pbc=False)

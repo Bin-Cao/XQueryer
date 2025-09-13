@@ -1,0 +1,2 @@
+Cd4S40Tb24
+Atoms(symbols='Cd4S40Tb24', pbc=False)

@@ -1,0 +1,2 @@
+Ga9O21P3
+Atoms(symbols='Ga3PO7Ga3PO7Ga3PO7', pbc=False)

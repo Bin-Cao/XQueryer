@@ -1,0 +1,2 @@
+Ga2O11Te4
+Atoms(symbols='Ga2Te4O11', pbc=False)

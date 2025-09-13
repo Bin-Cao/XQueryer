@@ -1,0 +1,2 @@
+Cu9O48Ta16
+Atoms(symbols='Cu9O48Ta16', pbc=False)

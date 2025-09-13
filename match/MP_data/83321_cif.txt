@@ -1,0 +1,2 @@
+Ge18Ho8Ir26
+Atoms(symbols='Ho8Ge18Ir26', pbc=False)

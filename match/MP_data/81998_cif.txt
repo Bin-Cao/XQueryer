@@ -1,0 +1,2 @@
+H32P16Si4
+Atoms(symbols='Si4P16H32', pbc=False)

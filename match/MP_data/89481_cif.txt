@@ -1,0 +1,2 @@
+F12La12O36Se12
+Atoms(symbols='F12La12O36Se12', pbc=False)

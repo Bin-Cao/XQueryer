@@ -1,0 +1,2 @@
+Cd2Mo2O12Te2
+Atoms(symbols='Cd2Te2Mo2O12', pbc=False)

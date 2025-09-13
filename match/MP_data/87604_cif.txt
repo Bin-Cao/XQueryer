@@ -1,0 +1,2 @@
+CePt5
+Atoms(symbols='CePt5', pbc=False)

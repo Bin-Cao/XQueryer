@@ -1,0 +1,2 @@
+Fe12Nd2P7
+Atoms(symbols='Nd2Fe12P7', pbc=False)

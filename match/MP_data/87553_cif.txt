@@ -1,0 +1,2 @@
+Ni3O18U6
+Atoms(symbols='U6Ni3O18', pbc=False)

@@ -1,0 +1,2 @@
+Al9Cl36Dy3
+Atoms(symbols='Dy3Al9Cl36', pbc=False)

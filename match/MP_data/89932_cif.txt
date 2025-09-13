@@ -1,0 +1,2 @@
+F3KV
+Atoms(symbols='KVF3', pbc=False)

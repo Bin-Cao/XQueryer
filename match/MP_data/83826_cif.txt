@@ -1,0 +1,2 @@
+In16Na32
+Atoms(symbols='Na16In8Na16In8', pbc=False)

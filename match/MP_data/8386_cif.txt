@@ -1,0 +1,2 @@
+I4N4
+Atoms(symbols='ININININ', pbc=False)

@@ -1,0 +1,2 @@
+Al28Mg6O48
+Atoms(symbols='Al28Mg6O48', pbc=False)

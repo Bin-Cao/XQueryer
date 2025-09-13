@@ -1,0 +1,2 @@
+Cu10Na16O20
+Atoms(symbols='Na8Cu5O10Na8Cu5O10', pbc=False)

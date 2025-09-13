@@ -1,0 +1,2 @@
+Nb4Se18
+Atoms(symbols='Nb4Se18', pbc=False)

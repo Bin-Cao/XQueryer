@@ -1,0 +1,2 @@
+Ca3Na30Sn36
+Atoms(symbols='Ca3Na30Sn36', pbc=False)

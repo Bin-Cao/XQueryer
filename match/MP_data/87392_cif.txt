@@ -1,0 +1,2 @@
+Ga2N10O28
+Atoms(symbols='GaN5O14GaN5O14', pbc=False)

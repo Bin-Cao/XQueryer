@@ -1,0 +1,2 @@
+Co3InN
+Atoms(symbols='InCo3N', pbc=False)

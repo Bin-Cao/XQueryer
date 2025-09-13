@@ -1,0 +1,2 @@
+H2In2O4
+Atoms(symbols='In2H2O4', pbc=False)

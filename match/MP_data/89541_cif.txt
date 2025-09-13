@@ -1,0 +1,2 @@
+H24As2Mg2O20Tl2
+Atoms(symbols='Mg2Tl2As2H24O20', pbc=False)

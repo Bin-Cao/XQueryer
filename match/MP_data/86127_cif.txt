@@ -1,0 +1,2 @@
+In16Pt24
+Atoms(symbols='In8Pt12In8Pt12', pbc=False)

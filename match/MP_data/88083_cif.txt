@@ -1,0 +1,2 @@
+Al4As4Cs4O14
+Atoms(symbols='Cs2Al2As2O7Cs2Al2As2O7', pbc=False)

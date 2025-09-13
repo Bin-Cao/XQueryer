@@ -1,0 +1,2 @@
+H8I2N2
+Atoms(symbols='H4INH4IN', pbc=False)

@@ -1,0 +1,2 @@
+HoIn
+Atoms(symbols='HoIn', pbc=False)

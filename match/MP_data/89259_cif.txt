@@ -1,0 +1,2 @@
+C12H32S8
+Atoms(symbols='H32C12S8', pbc=False)

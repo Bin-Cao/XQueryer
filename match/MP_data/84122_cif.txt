@@ -1,0 +1,2 @@
+O18Sc4Se6
+Atoms(symbols='Sc4Se6O18', pbc=False)

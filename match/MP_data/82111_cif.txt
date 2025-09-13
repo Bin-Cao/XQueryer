@@ -1,0 +1,2 @@
+Nb8O28U4
+Atoms(symbols='U2Nb4O14U2Nb4O14', pbc=False)

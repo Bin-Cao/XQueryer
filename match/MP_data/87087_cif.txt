@@ -1,0 +1,2 @@
+Fe13O36Ti11
+Atoms(symbols='Ti11Fe13O36', pbc=False)

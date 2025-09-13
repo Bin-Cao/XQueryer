@@ -1,0 +1,2 @@
+O4Pr4Se3
+Atoms(symbols='Pr4Se3O4', pbc=False)

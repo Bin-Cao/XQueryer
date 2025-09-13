@@ -1,0 +1,2 @@
+Nb2O23Rb4Si8
+Atoms(symbols='Rb4Nb2Si8O23', pbc=False)

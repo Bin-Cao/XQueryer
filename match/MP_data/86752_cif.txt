@@ -1,0 +1,2 @@
+Li56Mg44N50
+Atoms(symbols='Li56Mg44N50', pbc=False)

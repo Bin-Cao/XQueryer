@@ -1,0 +1,2 @@
+Cu4Ga2O14Pr2Sr4
+Atoms(symbols='Sr4Pr2Ga2Cu4O14', pbc=False)

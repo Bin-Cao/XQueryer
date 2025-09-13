@@ -1,0 +1,2 @@
+Nb4O26Se8
+Atoms(symbols='Nb4Se8O26', pbc=False)

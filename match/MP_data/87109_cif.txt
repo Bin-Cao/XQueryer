@@ -1,0 +1,2 @@
+Br14Fe2Te2
+Atoms(symbols='Fe2Te2Br14', pbc=False)

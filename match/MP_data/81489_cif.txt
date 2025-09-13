@@ -1,0 +1,2 @@
+Cl16Si4
+Atoms(symbols='Si4Cl16', pbc=False)

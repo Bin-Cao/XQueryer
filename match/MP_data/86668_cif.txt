@@ -1,0 +1,2 @@
+Fe10Li36N24
+Atoms(symbols='Fe10Li36N24', pbc=False)

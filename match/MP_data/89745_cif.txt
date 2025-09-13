@@ -1,0 +1,2 @@
+H4Cu2Na2O13Si4
+Atoms(symbols='Na2Cu2Si4H4O13', pbc=False)

@@ -1,0 +1,2 @@
+Cl20Dy12S8
+Atoms(symbols='Dy12S8Cl20', pbc=False)

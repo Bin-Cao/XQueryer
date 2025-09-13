@@ -1,0 +1,2 @@
+Cu20U4
+Atoms(symbols='UCu5UCu5UCu5UCu5', pbc=False)

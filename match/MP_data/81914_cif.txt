@@ -1,0 +1,2 @@
+Au2O8Sr5
+Atoms(symbols='Sr5Au2O8', pbc=False)

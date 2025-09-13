@@ -1,0 +1,2 @@
+Cl4F4
+Atoms(symbols='Cl4F4', pbc=False)

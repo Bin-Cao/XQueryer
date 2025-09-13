@@ -1,0 +1,2 @@
+As8O32Sb6
+Atoms(symbols='Sb6As8O32', pbc=False)

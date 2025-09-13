@@ -1,0 +1,2 @@
+Li13Sn5
+Atoms(symbols='Li13Sn5', pbc=False)

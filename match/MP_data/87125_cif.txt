@@ -1,0 +1,2 @@
+Li2MnO12P4
+Atoms(symbols='Li2MnP4O12', pbc=False)

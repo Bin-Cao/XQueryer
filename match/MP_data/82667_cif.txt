@@ -1,0 +1,2 @@
+Al16Te24
+Atoms(symbols='Al16Te24', pbc=False)

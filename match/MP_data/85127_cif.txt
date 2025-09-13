@@ -1,0 +1,2 @@
+Mo15O28Pr2
+Atoms(symbols='Pr2Mo15O28', pbc=False)

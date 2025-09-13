@@ -1,0 +1,2 @@
+Cl32O4P4Re4
+Atoms(symbols='Re4P4Cl32O4', pbc=False)

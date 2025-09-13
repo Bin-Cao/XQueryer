@@ -1,0 +1,2 @@
+Cl8F12Ir2
+Atoms(symbols='Ir2Cl8F12', pbc=False)

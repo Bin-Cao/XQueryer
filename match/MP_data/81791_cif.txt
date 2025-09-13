@@ -1,0 +1,2 @@
+Br12Sr2Th2
+Atoms(symbols='Sr2Th2Br12', pbc=False)

@@ -1,0 +1,2 @@
+Cu2Pr10Se16
+Atoms(symbols='Pr5CuSe8Pr5CuSe8', pbc=False)

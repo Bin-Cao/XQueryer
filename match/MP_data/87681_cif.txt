@@ -1,0 +1,2 @@
+Ag8F20
+Atoms(symbols='Ag8F20', pbc=False)

@@ -1,0 +1,2 @@
+La17Mn18O54
+Atoms(symbols='La17Mn18O54', pbc=False)

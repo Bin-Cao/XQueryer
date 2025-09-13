@@ -1,0 +1,2 @@
+Na4O18Te8
+Atoms(symbols='Na4Te8O18', pbc=False)

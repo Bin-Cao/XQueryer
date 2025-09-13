@@ -1,0 +1,2 @@
+Ac32S48
+Atoms(symbols='Ac32S48', pbc=False)

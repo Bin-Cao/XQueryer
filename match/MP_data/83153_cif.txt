@@ -1,0 +1,2 @@
+Na16O20Se4
+Atoms(symbols='Na16Se4O20', pbc=False)

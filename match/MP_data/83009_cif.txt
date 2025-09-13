@@ -1,0 +1,2 @@
+Br12K8Mn2
+Atoms(symbols='K8Mn2Br12', pbc=False)

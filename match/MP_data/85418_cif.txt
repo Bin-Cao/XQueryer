@@ -1,0 +1,2 @@
+H16Li6N8Na2
+Atoms(symbols='NaLi3H8N4NaLi3H8N4', pbc=False)

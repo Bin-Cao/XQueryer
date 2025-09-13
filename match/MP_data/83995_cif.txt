@@ -1,0 +1,2 @@
+Ce10K2S16
+Atoms(symbols='KCe5S8KCe5S8', pbc=False)

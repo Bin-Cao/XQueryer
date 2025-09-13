@@ -1,0 +1,2 @@
+Ni2SbTe
+Atoms(symbols='Ni2SbTe', pbc=False)

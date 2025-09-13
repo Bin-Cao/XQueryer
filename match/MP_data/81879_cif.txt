@@ -1,0 +1,2 @@
+Br2Mn
+Atoms(symbols='MnBr2', pbc=False)

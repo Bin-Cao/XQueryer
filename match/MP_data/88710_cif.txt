@@ -1,0 +1,2 @@
+CuF3Tl
+Atoms(symbols='TlCuF3', pbc=False)

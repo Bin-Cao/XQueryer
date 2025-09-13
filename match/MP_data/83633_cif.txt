@@ -1,0 +1,2 @@
+Br4Ce8Ga10
+Atoms(symbols='Ce8Ga10Br4', pbc=False)

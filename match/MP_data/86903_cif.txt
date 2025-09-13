@@ -1,0 +1,2 @@
+Ga23N5O27
+Atoms(symbols='Ga23N5O27', pbc=False)

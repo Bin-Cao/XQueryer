@@ -1,0 +1,2 @@
+Hg20I24Sb8
+Atoms(symbols='Hg20Sb8I24', pbc=False)

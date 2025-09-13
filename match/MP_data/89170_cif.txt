@@ -1,0 +1,2 @@
+F36K16O16P4Ti8
+Atoms(symbols='F36K16O16P4Ti8', pbc=False)

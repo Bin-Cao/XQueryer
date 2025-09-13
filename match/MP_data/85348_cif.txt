@@ -1,0 +1,2 @@
+Ge4O16Th4
+Atoms(symbols='Th2Ge2O8Th2Ge2O8', pbc=False)

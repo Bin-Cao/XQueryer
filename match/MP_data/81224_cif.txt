@@ -1,0 +1,2 @@
+Ba4O44Ti20
+Atoms(symbols='Ba4O44Ti20', pbc=False)

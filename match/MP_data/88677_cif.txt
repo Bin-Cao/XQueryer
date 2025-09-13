@@ -1,0 +1,2 @@
+Al8K24P16
+Atoms(symbols='K24Al8P16', pbc=False)

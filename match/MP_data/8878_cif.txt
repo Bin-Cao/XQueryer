@@ -1,0 +1,2 @@
+F8
+Atoms(symbols='F8', pbc=False)

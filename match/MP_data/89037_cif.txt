@@ -1,0 +1,2 @@
+C4H20B4Cl2N2O6
+Atoms(symbols='B4H20C4N2Cl2O6', pbc=False)
