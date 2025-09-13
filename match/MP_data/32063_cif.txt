@@ -1,0 +1,2 @@
+H60Na4O32
+Atoms(symbols='H60Na4O32', pbc=False)

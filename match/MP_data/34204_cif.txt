@@ -1,0 +1,2 @@
+Ba4I16Mo4O60
+Atoms(symbols='Ba4I16Mo4O60', pbc=False)

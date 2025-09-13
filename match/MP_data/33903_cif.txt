@@ -1,0 +1,2 @@
+Ir38La10P24
+Atoms(symbols='Ir38La10P24', pbc=False)

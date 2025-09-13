@@ -1,0 +1,2 @@
+CuHoSe2
+Atoms(symbols='HoCuSe2', pbc=False)

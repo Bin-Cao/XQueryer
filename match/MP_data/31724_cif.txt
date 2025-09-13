@@ -1,0 +1,2 @@
+N24O40S4
+Atoms(symbols='N24O40S4', pbc=False)

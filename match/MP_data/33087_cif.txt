@@ -1,0 +1,2 @@
+C16Ge24N4O52
+Atoms(symbols='C16Ge24N4O52', pbc=False)

@@ -1,0 +1,2 @@
+In32Ni28Pr16
+Atoms(symbols='In32Ni28Pr16', pbc=False)

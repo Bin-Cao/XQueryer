@@ -1,0 +1,2 @@
+N2O18Pt2S4
+Atoms(symbols='Pt2S4N2O18', pbc=False)

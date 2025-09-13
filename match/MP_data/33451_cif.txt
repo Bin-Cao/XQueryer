@@ -1,0 +1,2 @@
+H8O24S4Th4
+Atoms(symbols='Th4H8S4O24', pbc=False)

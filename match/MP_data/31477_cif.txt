@@ -1,0 +1,2 @@
+Co34Tb4
+Atoms(symbols='Tb4Co34', pbc=False)

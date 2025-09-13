@@ -1,0 +1,2 @@
+Cd4Cs8Ge12S32
+Atoms(symbols='Cs8Cd4Ge12S32', pbc=False)

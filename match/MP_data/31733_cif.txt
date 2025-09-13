@@ -1,0 +1,2 @@
+Fe52In4Nd24
+Atoms(symbols='Fe52In4Nd24', pbc=False)

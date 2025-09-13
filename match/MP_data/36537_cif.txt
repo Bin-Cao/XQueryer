@@ -1,0 +1,2 @@
+AgOP2Th2
+Atoms(symbols='Th2AgP2O', pbc=False)

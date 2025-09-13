@@ -1,0 +1,2 @@
+H2Al4Ca2La2Mg2O26Si6
+Atoms(symbols='Ca2La2Mg2Al4Si6H2O26', pbc=False)

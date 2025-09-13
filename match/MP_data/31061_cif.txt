@@ -1,0 +1,2 @@
+H18O12Se4SnSr2
+Atoms(symbols='Sr2SnH18Se4O12', pbc=False)

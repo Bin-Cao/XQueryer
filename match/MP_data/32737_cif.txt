@@ -1,0 +1,2 @@
+C18H64N36O24P4
+Atoms(symbols='C18H64N36O24P4', pbc=False)

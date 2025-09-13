@@ -1,0 +1,2 @@
+Cr8Ho16S32
+Atoms(symbols='Ho16Cr8S32', pbc=False)

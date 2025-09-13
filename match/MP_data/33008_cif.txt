@@ -1,0 +1,2 @@
+Cu6Ge2O20P4
+Atoms(symbols='Cu6Ge2P4O20', pbc=False)

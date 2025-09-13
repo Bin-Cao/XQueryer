@@ -1,0 +1,2 @@
+H24K4Mg2O28Se4
+Atoms(symbols='H24K4Mg2O28Se4', pbc=False)

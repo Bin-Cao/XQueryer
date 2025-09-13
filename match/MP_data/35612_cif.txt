@@ -1,0 +1,2 @@
+I2OSm2
+Atoms(symbols='Sm2I2O', pbc=False)

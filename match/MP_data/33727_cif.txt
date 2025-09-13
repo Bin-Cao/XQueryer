@@ -1,0 +1,2 @@
+Si28Tc16
+Atoms(symbols='Si28Tc16', pbc=False)

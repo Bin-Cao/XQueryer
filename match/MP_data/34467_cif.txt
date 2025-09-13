@@ -1,0 +1,2 @@
+H24Fe6N4O32P8
+Atoms(symbols='H24Fe6N4O32P8', pbc=False)

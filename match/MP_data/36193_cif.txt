@@ -1,0 +1,2 @@
+Co3LaO3
+Atoms(symbols='LaCo3O3', pbc=False)

@@ -1,0 +1,2 @@
+B4Na4O56S16
+Atoms(symbols='B4Na4O56S16', pbc=False)

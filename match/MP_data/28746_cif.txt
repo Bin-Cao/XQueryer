@@ -1,0 +1,2 @@
+C6H16Al2Cl4N2
+Atoms(symbols='Al2H16C6N2Cl4', pbc=False)

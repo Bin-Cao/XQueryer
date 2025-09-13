@@ -1,0 +1,2 @@
+Ag12O16Sb4
+Atoms(symbols='Ag12Sb4O16', pbc=False)

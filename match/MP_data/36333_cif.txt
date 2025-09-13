@@ -1,0 +1,2 @@
+Cr2O12Sr4W2
+Atoms(symbols='Sr4Cr2W2O12', pbc=False)

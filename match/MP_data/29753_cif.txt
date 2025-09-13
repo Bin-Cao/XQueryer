@@ -1,0 +1,2 @@
+B16O30Sr2
+Atoms(symbols='Sr2B16O30', pbc=False)

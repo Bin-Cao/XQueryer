@@ -1,0 +1,2 @@
+Na2O18Rb2Si4U2
+Atoms(symbols='Rb2Na2U2Si4O18', pbc=False)

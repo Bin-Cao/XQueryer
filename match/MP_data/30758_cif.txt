@@ -1,0 +1,2 @@
+H14N2O22P6Zn5
+Atoms(symbols='Zn5P6H14N2O22', pbc=False)

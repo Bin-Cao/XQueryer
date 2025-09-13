@@ -1,0 +1,2 @@
+Dy4Fe30Nb4
+Atoms(symbols='Dy4Nb4Fe30', pbc=False)

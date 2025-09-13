@@ -1,0 +1,2 @@
+C20H32
+Atoms(symbols='H32C20', pbc=False)

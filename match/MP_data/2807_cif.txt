@@ -1,0 +1,2 @@
+Al2Eu4N2O6
+Atoms(symbols='Eu2AlNO3Eu2AlNO3', pbc=False)

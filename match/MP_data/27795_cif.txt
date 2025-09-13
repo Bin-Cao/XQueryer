@@ -1,0 +1,2 @@
+MgO16P4Tl2
+Atoms(symbols='MgTl2P4O16', pbc=False)

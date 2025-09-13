@@ -1,0 +1,2 @@
+Dy2F12K6
+Atoms(symbols='K3DyF6K3DyF6', pbc=False)

@@ -1,0 +1,2 @@
+H8Fe6K4O32P8
+Atoms(symbols='K4Fe6P8H8O32', pbc=False)

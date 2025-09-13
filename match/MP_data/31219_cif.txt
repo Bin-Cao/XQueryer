@@ -1,0 +1,2 @@
+Fe12Ge24Ti12
+Atoms(symbols='Ti12Fe12Ge24', pbc=False)

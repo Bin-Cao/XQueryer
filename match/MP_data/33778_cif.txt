@@ -1,0 +1,2 @@
+Ce6Na6O54S12
+Atoms(symbols='Ce6Na6O54S12', pbc=False)

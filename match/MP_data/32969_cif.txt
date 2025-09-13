@@ -1,0 +1,2 @@
+Hf4O36P8
+Atoms(symbols='Hf4P8O36', pbc=False)

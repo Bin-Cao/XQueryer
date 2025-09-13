@@ -1,0 +1,2 @@
+Ho22La8S44
+Atoms(symbols='Ho22La8S44', pbc=False)

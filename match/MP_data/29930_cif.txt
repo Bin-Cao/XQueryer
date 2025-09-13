@@ -1,0 +1,2 @@
+C20Ir16
+Atoms(symbols='Ir16C20', pbc=False)

@@ -1,0 +1,2 @@
+N15O45Rb6Y3
+Atoms(symbols='N15O45Rb6Y3', pbc=False)

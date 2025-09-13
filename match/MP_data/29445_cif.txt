@@ -1,0 +1,2 @@
+Gd8Ge16Nb12
+Atoms(symbols='Gd8Nb12Ge16', pbc=False)

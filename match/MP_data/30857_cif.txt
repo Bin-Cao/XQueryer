@@ -1,0 +1,2 @@
+C20H12N16O14Pb2
+Atoms(symbols='C20H12N16O14Pb2', pbc=False)

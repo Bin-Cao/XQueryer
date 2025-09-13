@@ -1,0 +1,2 @@
+Bi4Cl6Fe2O14Se4
+Atoms(symbols='Fe2Bi4Se4Cl6O14', pbc=False)

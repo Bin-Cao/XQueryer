@@ -1,0 +1,2 @@
+C4CsEr10I18
+Atoms(symbols='CsEr10C4I18', pbc=False)

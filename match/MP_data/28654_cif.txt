@@ -1,0 +1,2 @@
+Cs20Ga12Se28
+Atoms(symbols='Cs10Ga6Se14Cs10Ga6Se14', pbc=False)

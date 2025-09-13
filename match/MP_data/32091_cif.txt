@@ -1,0 +1,2 @@
+B36Nd4O72
+Atoms(symbols='B36Nd4O72', pbc=False)

@@ -1,0 +1,2 @@
+O84Pb4S24Ti4
+Atoms(symbols='O84Pb4S24Ti4', pbc=False)

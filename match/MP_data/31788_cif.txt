@@ -1,0 +1,2 @@
+H20Al4As12Cs4O48
+Atoms(symbols='H20Al4As12Cs4O48', pbc=False)

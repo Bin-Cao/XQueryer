@@ -1,0 +1,2 @@
+Ge2Mo6Na6O38
+Atoms(symbols='Na6Ge2Mo6O38', pbc=False)

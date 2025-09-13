@@ -1,0 +1,2 @@
+Sc12Se24Zn6
+Atoms(symbols='Sc4Zn2Se8Sc4Zn2Se8Sc4Zn2Se8', pbc=False)

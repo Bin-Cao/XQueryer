@@ -1,0 +1,2 @@
+B6Dy2Mo2
+Atoms(symbols='Dy2B6Mo2', pbc=False)

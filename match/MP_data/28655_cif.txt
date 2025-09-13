@@ -1,0 +1,2 @@
+Al32Hf12Pt14
+Atoms(symbols='Hf6Al16Pt7Hf6Al16Pt7', pbc=False)

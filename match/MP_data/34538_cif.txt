@@ -1,0 +1,2 @@
+Co8Te8Y20
+Atoms(symbols='Y10Co4Te4Y10Co4Te4', pbc=False)

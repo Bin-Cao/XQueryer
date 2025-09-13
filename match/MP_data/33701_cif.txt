@@ -1,0 +1,2 @@
+C4H24N28O2
+Atoms(symbols='H24C4N28O2', pbc=False)

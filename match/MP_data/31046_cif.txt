@@ -1,0 +1,2 @@
+B12Ni12O72P12
+Atoms(symbols='B12Ni12O72P12', pbc=False)

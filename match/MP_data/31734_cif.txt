@@ -1,0 +1,2 @@
+Cu3O34S2U4
+Atoms(symbols='U4Cu3S2O34', pbc=False)

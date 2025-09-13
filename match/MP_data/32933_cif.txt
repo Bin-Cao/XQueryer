@@ -1,0 +1,2 @@
+O24S4U4
+Atoms(symbols='U4S4O24', pbc=False)

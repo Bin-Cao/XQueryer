@@ -1,0 +1,2 @@
+C28Y16
+Atoms(symbols='Y16C28', pbc=False)

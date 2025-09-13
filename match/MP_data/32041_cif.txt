@@ -1,0 +1,2 @@
+Er44In24Si16
+Atoms(symbols='Er44In24Si16', pbc=False)

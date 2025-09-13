@@ -1,0 +1,2 @@
+Ag8La6Sn8
+Atoms(symbols='La3Ag4Sn4La3Ag4Sn4', pbc=False)

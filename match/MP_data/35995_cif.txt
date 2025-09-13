@@ -1,0 +1,2 @@
+C26H78O4Si12Zn3
+Atoms(symbols='C26H78O4Si12Zn3', pbc=False)

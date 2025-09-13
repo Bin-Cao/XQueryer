@@ -1,0 +1,2 @@
+Mg41Sm5
+Atoms(symbols='Sm5Mg41', pbc=False)

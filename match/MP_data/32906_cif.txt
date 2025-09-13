@@ -1,0 +1,2 @@
+Br20Cs12Hg4
+Atoms(symbols='Cs12Hg4Br20', pbc=False)

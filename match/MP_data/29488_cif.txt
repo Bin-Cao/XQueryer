@@ -1,0 +1,2 @@
+Cs8Hg4Se32Sn12
+Atoms(symbols='Cs8Sn12Hg4Se32', pbc=False)

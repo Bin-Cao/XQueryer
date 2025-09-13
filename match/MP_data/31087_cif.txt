@@ -1,0 +1,2 @@
+Cl24CuGa6Sb7Te8
+Atoms(symbols='Ga6CuSb7Te8Cl24', pbc=False)

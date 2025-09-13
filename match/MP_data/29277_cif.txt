@@ -1,0 +1,2 @@
+C26Dy15Fe8
+Atoms(symbols='Dy15Fe8C26', pbc=False)

@@ -1,0 +1,2 @@
+C10H40Al2B10N10O20Zn2
+Atoms(symbols='C10H40Al2B10N10O20Zn2', pbc=False)

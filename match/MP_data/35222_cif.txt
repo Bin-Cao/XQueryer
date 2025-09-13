@@ -1,0 +1,2 @@
+Nd2Pt3Si3
+Atoms(symbols='Nd2Si3Pt3', pbc=False)

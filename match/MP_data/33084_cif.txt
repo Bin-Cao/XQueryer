@@ -1,0 +1,2 @@
+C26H70Br2Ge2O2Si6Zn2
+Atoms(symbols='C26H70Br2Ge2O2Si6Zn2', pbc=False)

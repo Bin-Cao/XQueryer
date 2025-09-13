@@ -1,0 +1,2 @@
+Co4N20O24P4
+Atoms(symbols='Co4P4N20O24', pbc=False)

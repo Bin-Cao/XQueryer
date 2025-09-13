@@ -1,0 +1,2 @@
+C16H4Fe6Na4O36P4
+Atoms(symbols='C16H4Fe6Na4O36P4', pbc=False)

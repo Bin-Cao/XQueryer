@@ -1,0 +1,2 @@
+Mo32Si24V8
+Atoms(symbols='Mo32Si24V8', pbc=False)

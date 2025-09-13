@@ -1,0 +1,2 @@
+Co18P12Y6
+Atoms(symbols='Y6Co18P12', pbc=False)

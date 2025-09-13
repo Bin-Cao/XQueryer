@@ -1,0 +1,2 @@
+I6N2O26V4
+Atoms(symbols='V4I6N2O26', pbc=False)

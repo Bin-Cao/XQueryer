@@ -1,0 +1,2 @@
+H6F42Rb4Ti8
+Atoms(symbols='Rb4Ti8H6F42', pbc=False)

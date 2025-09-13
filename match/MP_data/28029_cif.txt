@@ -1,0 +1,2 @@
+Gd12N4Se12
+Atoms(symbols='Gd12Se12N4', pbc=False)

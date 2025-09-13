@@ -1,0 +1,2 @@
+H10O18S2Zn7
+Atoms(symbols='Zn7H10S2O18', pbc=False)

@@ -1,0 +1,2 @@
+Cu4O28S4Y4
+Atoms(symbols='Y4Cu4S4O28', pbc=False)

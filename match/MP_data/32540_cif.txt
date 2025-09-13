@@ -1,0 +1,2 @@
+Cl2Na10O40Si12Zr4
+Atoms(symbols='Cl2Na10O40Si12Zr4', pbc=False)

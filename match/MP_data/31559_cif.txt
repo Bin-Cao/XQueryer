@@ -1,0 +1,2 @@
+K10N18O48Pt8
+Atoms(symbols='K10N18O48Pt8', pbc=False)

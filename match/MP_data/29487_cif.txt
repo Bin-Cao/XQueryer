@@ -1,0 +1,2 @@
+H38Mo6Na4NiO40
+Atoms(symbols='H38Mo6Na4NiO40', pbc=False)

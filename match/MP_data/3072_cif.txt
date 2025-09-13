@@ -1,0 +1,2 @@
+Mg14NaTi
+Atoms(symbols='NaMg14Ti', pbc=False)

@@ -1,0 +1,2 @@
+N32O32Pd6
+Atoms(symbols='N32O32Pd6', pbc=False)

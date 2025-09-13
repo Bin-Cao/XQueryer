@@ -1,0 +1,2 @@
+H40Be8Ga8
+Atoms(symbols='Be8Ga8H40', pbc=False)

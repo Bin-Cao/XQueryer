@@ -1,0 +1,2 @@
+I2K2Mn2O12
+Atoms(symbols='KMnIO6KMnIO6', pbc=False)

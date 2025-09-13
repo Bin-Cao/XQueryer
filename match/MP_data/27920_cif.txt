@@ -1,0 +1,2 @@
+H20Cl24O8Sb4
+Atoms(symbols='Sb2H10Cl12O4Sb2H10Cl12O4', pbc=False)

@@ -1,0 +1,2 @@
+Bi14O36Ta6
+Atoms(symbols='Ta6Bi14O36', pbc=False)

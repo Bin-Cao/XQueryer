@@ -1,0 +1,2 @@
+H16Ag8O24Te4
+Atoms(symbols='Ag4Te2H8O12Ag4Te2H8O12', pbc=False)

@@ -1,0 +1,2 @@
+H60Cl20N20Re2Ru4
+Atoms(symbols='H60Cl20N20Re2Ru4', pbc=False)

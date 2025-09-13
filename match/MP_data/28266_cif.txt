@@ -1,0 +1,2 @@
+H21Li12O39Rh3S9
+Atoms(symbols='H21Li12O39Rh3S9', pbc=False)

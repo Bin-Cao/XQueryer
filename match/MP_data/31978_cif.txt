@@ -1,0 +1,2 @@
+Nd20Rh16
+Atoms(symbols='Nd20Rh16', pbc=False)

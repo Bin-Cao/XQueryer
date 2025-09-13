@@ -1,0 +1,2 @@
+In8K8P12Se40
+Atoms(symbols='In8K8P12Se40', pbc=False)

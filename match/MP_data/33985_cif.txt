@@ -1,0 +1,2 @@
+Cu4Ho8K4Mo16O64
+Atoms(symbols='Cu4Ho8K4Mo16O64', pbc=False)

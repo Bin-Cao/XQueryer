@@ -1,0 +1,2 @@
+Co3P3Th2
+Atoms(symbols='Th2Co3P3', pbc=False)

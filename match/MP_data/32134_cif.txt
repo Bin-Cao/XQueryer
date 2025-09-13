@@ -1,0 +1,2 @@
+C14N24O24Ti2
+Atoms(symbols='C14N24O24Ti2', pbc=False)

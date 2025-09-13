@@ -1,0 +1,2 @@
+C16H64Fe12N16Se16
+Atoms(symbols='C16H64Fe12N16Se16', pbc=False)

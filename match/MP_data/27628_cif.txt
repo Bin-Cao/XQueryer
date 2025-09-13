@@ -1,0 +1,2 @@
+Al6Ca16
+Atoms(symbols='Ca16Al6', pbc=False)

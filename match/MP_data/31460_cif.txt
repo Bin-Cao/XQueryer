@@ -1,0 +1,2 @@
+H72B84K4
+Atoms(symbols='H72B84K4', pbc=False)

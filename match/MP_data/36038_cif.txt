@@ -1,0 +1,2 @@
+Cu2LaO2Se
+Atoms(symbols='LaCu2SeO2', pbc=False)

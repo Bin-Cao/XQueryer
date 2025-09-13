@@ -1,0 +1,2 @@
+K4N10O34Pr2
+Atoms(symbols='K4Pr2N10O34', pbc=False)

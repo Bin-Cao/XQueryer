@@ -1,0 +1,2 @@
+B4O32Pb16V4
+Atoms(symbols='V4B4Pb16O32', pbc=False)

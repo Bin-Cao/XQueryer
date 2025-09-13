@@ -1,0 +1,2 @@
+C48H84Fe12N6O72
+Atoms(symbols='C48H84Fe12N6O72', pbc=False)

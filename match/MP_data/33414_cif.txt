@@ -1,0 +1,2 @@
+H24N6O30Pr2
+Atoms(symbols='H24N6O30Pr2', pbc=False)

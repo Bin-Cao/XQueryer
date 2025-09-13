@@ -1,0 +1,2 @@
+B20O40Pr4
+Atoms(symbols='B20O40Pr4', pbc=False)

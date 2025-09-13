@@ -1,0 +1,2 @@
+C2Mg28Mo2
+Atoms(symbols='Mg14MoCMg14MoC', pbc=False)

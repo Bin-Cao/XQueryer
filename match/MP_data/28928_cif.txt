@@ -1,0 +1,2 @@
+Ir4Se10Sn2
+Atoms(symbols='Sn2Ir4Se10', pbc=False)

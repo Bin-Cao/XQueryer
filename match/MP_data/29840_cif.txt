@@ -1,0 +1,2 @@
+La64S120Sb16
+Atoms(symbols='La64S120Sb16', pbc=False)

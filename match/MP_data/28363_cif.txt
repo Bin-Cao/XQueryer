@@ -1,0 +1,2 @@
+Ge24Mg20Pr16
+Atoms(symbols='Pr8Mg10Ge12Pr8Mg10Ge12', pbc=False)

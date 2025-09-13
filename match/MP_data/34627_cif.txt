@@ -1,0 +1,2 @@
+C4Gd8N24Si16
+Atoms(symbols='Gd8Si16C4N24', pbc=False)

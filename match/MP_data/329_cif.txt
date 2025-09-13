@@ -1,0 +1,2 @@
+FLi
+Atoms(symbols='LiF', pbc=False)

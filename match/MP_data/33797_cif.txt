@@ -1,0 +1,2 @@
+Co8Ho10Si28
+Atoms(symbols='Ho10Co8Si28', pbc=False)

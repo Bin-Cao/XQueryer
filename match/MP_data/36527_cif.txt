@@ -1,0 +1,2 @@
+C15Os5Y12
+Atoms(symbols='Y12Os5C15', pbc=False)

@@ -1,0 +1,2 @@
+F56Ho16K8
+Atoms(symbols='F56Ho16K8', pbc=False)

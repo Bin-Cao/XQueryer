@@ -1,0 +1,2 @@
+Cl4Mo4N20O16Rh4
+Atoms(symbols='Mo4Rh4N20Cl4O16', pbc=False)

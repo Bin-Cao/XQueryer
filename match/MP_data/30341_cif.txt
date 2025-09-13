@@ -1,0 +1,2 @@
+N12O32Zn2
+Atoms(symbols='Zn2N12O32', pbc=False)

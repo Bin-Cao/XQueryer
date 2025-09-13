@@ -1,0 +1,2 @@
+F92Ni4Sb12Xe4
+Atoms(symbols='F92Ni4Sb12Xe4', pbc=False)

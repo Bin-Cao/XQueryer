@@ -1,0 +1,2 @@
+C16Cl14Er2N8
+Atoms(symbols='Er2C16N8Cl14', pbc=False)

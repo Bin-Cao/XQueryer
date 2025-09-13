@@ -1,0 +1,2 @@
+Au4Br16K4O8
+Atoms(symbols='K4Au4Br16O8', pbc=False)

@@ -1,0 +1,2 @@
+H32Na8O48W4
+Atoms(symbols='H32Na8O48W4', pbc=False)

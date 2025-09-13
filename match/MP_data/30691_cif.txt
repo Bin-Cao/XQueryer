@@ -1,0 +1,2 @@
+K8N20O40Ru4
+Atoms(symbols='K8N20O40Ru4', pbc=False)

@@ -1,0 +1,2 @@
+Cu46Dy12
+Atoms(symbols='Dy6Cu23Dy6Cu23', pbc=False)

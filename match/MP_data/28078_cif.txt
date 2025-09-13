@@ -1,0 +1,2 @@
+NO18P4Ti3
+Atoms(symbols='Ti3P4NO18', pbc=False)

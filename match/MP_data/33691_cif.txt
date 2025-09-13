@@ -1,0 +1,2 @@
+Cl32In8Ru4Te36
+Atoms(symbols='Cl32In8Ru4Te36', pbc=False)

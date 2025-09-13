@@ -1,0 +1,2 @@
+C12H38N6P2Pt
+Atoms(symbols='P2H38PtC12N6', pbc=False)

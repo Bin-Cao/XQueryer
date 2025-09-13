@@ -1,0 +1,2 @@
+Ga2Ho4Ni4
+Atoms(symbols='Ho2GaNi2Ho2GaNi2', pbc=False)

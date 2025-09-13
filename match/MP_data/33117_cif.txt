@@ -1,0 +1,2 @@
+C12H8CoNa2O28U2
+Atoms(symbols='Na2U2CoH8C12O28', pbc=False)

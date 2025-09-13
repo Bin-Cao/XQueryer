@@ -1,0 +1,2 @@
+In32Nd16Ni28
+Atoms(symbols='In32Nd16Ni28', pbc=False)

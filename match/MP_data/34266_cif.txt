@@ -1,0 +1,2 @@
+C12H34B2Cl2N2
+Atoms(symbols='B2H34C12N2Cl2', pbc=False)

@@ -1,0 +1,2 @@
+F20K4Na4Nb4O4
+Atoms(symbols='K4Na4Nb4O4F20', pbc=False)

@@ -1,0 +1,2 @@
+Ge102Li108Na12
+Atoms(symbols='Ge102Li108Na12', pbc=False)

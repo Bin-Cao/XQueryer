@@ -1,0 +1,2 @@
+Cu6Pr4Sn12
+Atoms(symbols='Pr2Cu3Sn6Pr2Cu3Sn6', pbc=False)

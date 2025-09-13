@@ -1,0 +1,2 @@
+Mn18Sm3Sn18
+Atoms(symbols='Sm3Mn18Sn18', pbc=False)

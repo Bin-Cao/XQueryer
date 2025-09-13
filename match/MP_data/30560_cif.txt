@@ -1,0 +1,2 @@
+O28P4Rb6Te2
+Atoms(symbols='Rb6Te2P4O28', pbc=False)

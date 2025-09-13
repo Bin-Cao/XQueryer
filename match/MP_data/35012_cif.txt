@@ -1,0 +1,2 @@
+Ge12Ni2Y4
+Atoms(symbols='Y2NiGe6Y2NiGe6', pbc=False)

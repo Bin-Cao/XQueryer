@@ -1,0 +1,2 @@
+H42Fe4MgO46S6
+Atoms(symbols='H42Fe4MgO46S6', pbc=False)

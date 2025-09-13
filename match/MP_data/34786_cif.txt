@@ -1,0 +1,2 @@
+Ga4Ni8Pr6
+Atoms(symbols='Pr3Ga2Ni4Pr3Ga2Ni4', pbc=False)

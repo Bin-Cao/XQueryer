@@ -1,0 +1,2 @@
+Cs8I56Mo24
+Atoms(symbols='Cs8I56Mo24', pbc=False)

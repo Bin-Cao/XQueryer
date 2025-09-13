@@ -1,0 +1,2 @@
+F6N12O18Sb2
+Atoms(symbols='Sb2N12O18F6', pbc=False)

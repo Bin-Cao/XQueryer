@@ -1,0 +1,2 @@
+Er16Ge24Zn20
+Atoms(symbols='Er8Zn10Ge12Er8Zn10Ge12', pbc=False)

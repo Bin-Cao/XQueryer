@@ -1,0 +1,2 @@
+Al30Ni20Th4
+Atoms(symbols='Th2Al15Ni10Th2Al15Ni10', pbc=False)

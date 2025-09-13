@@ -1,0 +1,2 @@
+N4O60P12V8Zn4
+Atoms(symbols='N4O60P12V8Zn4', pbc=False)

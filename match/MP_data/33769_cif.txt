@@ -1,0 +1,2 @@
+H60Cd3F6N18O3
+Atoms(symbols='H60Cd3F6N18O3', pbc=False)

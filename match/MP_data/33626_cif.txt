@@ -1,0 +1,2 @@
+C16H80Br32N4O16Ta12
+Atoms(symbols='C16H80Br32N4O16Ta12', pbc=False)

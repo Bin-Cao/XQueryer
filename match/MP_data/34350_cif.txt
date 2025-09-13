@@ -1,0 +1,2 @@
+C16H20Cu6O28
+Atoms(symbols='C16H20Cu6O28', pbc=False)

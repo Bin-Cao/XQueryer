@@ -1,0 +1,2 @@
+H52As4K8O40
+Atoms(symbols='H52As4K8O40', pbc=False)

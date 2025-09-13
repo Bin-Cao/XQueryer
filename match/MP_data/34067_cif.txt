@@ -1,0 +1,2 @@
+Rh28Tb42
+Atoms(symbols='Rh28Tb42', pbc=False)

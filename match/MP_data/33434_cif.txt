@@ -1,0 +1,2 @@
+Li4Mo8Na12O56
+Atoms(symbols='Li4Mo8Na12O56', pbc=False)

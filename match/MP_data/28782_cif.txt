@@ -1,0 +1,2 @@
+H8Ge12K12O40Tb4
+Atoms(symbols='H8Ge12K12O40Tb4', pbc=False)

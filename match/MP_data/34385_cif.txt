@@ -1,0 +1,2 @@
+O4Tc2
+Atoms(symbols='Tc2O4', pbc=False)

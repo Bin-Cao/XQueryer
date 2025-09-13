@@ -1,0 +1,2 @@
+In2Li2Rh2
+Atoms(symbols='Li2In2Rh2', pbc=False)

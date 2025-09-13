@@ -1,0 +1,2 @@
+H24Co8Ge2O44P8
+Atoms(symbols='H24Co8Ge2O44P8', pbc=False)

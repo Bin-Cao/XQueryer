@@ -1,0 +1,2 @@
+Ni57Pr15
+Atoms(symbols='Ni57Pr15', pbc=False)

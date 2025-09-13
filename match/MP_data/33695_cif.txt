@@ -1,0 +1,2 @@
+O72Sr36W12
+Atoms(symbols='O72Sr36W12', pbc=False)

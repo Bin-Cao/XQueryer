@@ -1,0 +1,2 @@
+H8Cl2Co2O12Se2
+Atoms(symbols='Co2H8Se2Cl2O12', pbc=False)

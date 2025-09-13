@@ -1,0 +1,2 @@
+As20Cu16Na28O80
+Atoms(symbols='As20Cu16Na28O80', pbc=False)

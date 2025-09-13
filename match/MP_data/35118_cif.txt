@@ -1,0 +1,2 @@
+Cu2NdO2Se
+Atoms(symbols='NdCu2SeO2', pbc=False)

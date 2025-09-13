@@ -1,0 +1,2 @@
+Eu16K8Na8O52Ta8
+Atoms(symbols='Eu16K8Na8O52Ta8', pbc=False)

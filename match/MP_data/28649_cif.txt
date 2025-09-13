@@ -1,0 +1,2 @@
+Cl4Mn8O14Si2Te2
+Atoms(symbols='Mn8Si2Te2Cl4O14', pbc=False)

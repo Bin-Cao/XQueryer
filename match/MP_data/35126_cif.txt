@@ -1,0 +1,2 @@
+Al3CoEr3Ge2
+Atoms(symbols='Er3Al3CoGe2', pbc=False)

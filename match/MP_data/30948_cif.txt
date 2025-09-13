@@ -1,0 +1,2 @@
+H8K6Mo6O30V2
+Atoms(symbols='K6V2Mo6H8O30', pbc=False)

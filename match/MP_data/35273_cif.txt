@@ -1,0 +1,2 @@
+Br4Hg6Se6Zn2
+Atoms(symbols='Zn2Hg6Se6Br4', pbc=False)

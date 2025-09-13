@@ -1,0 +1,2 @@
+Cl32Cu12O4Rb12
+Atoms(symbols='Rb12Cu12Cl32O4', pbc=False)

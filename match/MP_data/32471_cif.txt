@@ -1,0 +1,2 @@
+Cs16Ga22
+Atoms(symbols='Cs16Ga22', pbc=False)

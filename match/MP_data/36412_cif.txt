@@ -1,0 +1,2 @@
+Pd22Zr18
+Atoms(symbols='Zr9Pd11Zr9Pd11', pbc=False)

@@ -1,0 +1,2 @@
+N18O24Pt6
+Atoms(symbols='Pt6N18O24', pbc=False)

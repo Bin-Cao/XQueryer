@@ -1,0 +1,2 @@
+Ag26As6I8O24
+Atoms(symbols='Ag26As6I8O24', pbc=False)

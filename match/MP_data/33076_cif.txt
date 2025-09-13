@@ -1,0 +1,2 @@
+Dy4O64Re12
+Atoms(symbols='Dy4O64Re12', pbc=False)

@@ -1,0 +1,2 @@
+H4B12Ba6O26
+Atoms(symbols='Ba6B12H4O26', pbc=False)

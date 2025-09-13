@@ -1,0 +1,2 @@
+C8H18Co3N6O8
+Atoms(symbols='Co3H18C8N6O8', pbc=False)

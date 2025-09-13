@@ -1,0 +1,2 @@
+InIrLi
+Atoms(symbols='LiInIr', pbc=False)

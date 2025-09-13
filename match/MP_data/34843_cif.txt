@@ -1,0 +1,2 @@
+Fe7NaO24P6
+Atoms(symbols='NaFe7P6O24', pbc=False)

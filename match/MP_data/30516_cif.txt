@@ -1,0 +1,2 @@
+H40Dy6N8O49
+Atoms(symbols='H40Dy6N8O49', pbc=False)

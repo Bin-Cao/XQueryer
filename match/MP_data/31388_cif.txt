@@ -1,0 +1,2 @@
+C8H16In2K2O24
+Atoms(symbols='K2In2H16C8O24', pbc=False)

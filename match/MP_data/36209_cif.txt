@@ -1,0 +1,2 @@
+Cl2Er2O
+Atoms(symbols='Er2Cl2O', pbc=False)

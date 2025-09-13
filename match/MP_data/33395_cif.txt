@@ -1,0 +1,2 @@
+C12H6F10O6Se2
+Atoms(symbols='H6C12Se2O6F10', pbc=False)

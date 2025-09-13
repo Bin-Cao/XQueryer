@@ -1,0 +1,2 @@
+C4H26Cl6O16
+Atoms(symbols='H26C4Cl6O16', pbc=False)

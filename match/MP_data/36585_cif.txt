@@ -1,0 +1,2 @@
+C8H8F2O12V2
+Atoms(symbols='V2H8C8O12F2', pbc=False)

@@ -1,0 +1,2 @@
+Ga20Ho12
+Atoms(symbols='Ho12Ga20', pbc=False)

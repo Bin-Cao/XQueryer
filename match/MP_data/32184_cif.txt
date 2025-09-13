@@ -1,0 +1,2 @@
+C18H18In6O36
+Atoms(symbols='C18H18In6O36', pbc=False)

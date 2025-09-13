@@ -1,0 +1,2 @@
+C4Dy14I24O2
+Atoms(symbols='Dy14C4I24O2', pbc=False)

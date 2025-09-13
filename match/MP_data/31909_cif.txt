@@ -1,0 +1,2 @@
+C16F24Pt2S8
+Atoms(symbols='Pt2C16S8F24', pbc=False)

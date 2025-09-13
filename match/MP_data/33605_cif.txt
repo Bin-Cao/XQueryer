@@ -1,0 +1,2 @@
+F6Li18Mg6O32P8
+Atoms(symbols='F6Li18Mg6O32P8', pbc=False)

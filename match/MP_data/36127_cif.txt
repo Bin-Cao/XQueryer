@@ -1,0 +1,2 @@
+Dy2Ir3Si3
+Atoms(symbols='Dy2Si3Ir3', pbc=False)

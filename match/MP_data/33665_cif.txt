@@ -1,0 +1,2 @@
+N4O26P8Si2
+Atoms(symbols='Si2P8N4O26', pbc=False)

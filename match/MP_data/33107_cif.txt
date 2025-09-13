@@ -1,0 +1,2 @@
+C2H56Cu2N8Na2O28S12
+Atoms(symbols='C2H56Cu2N8Na2O28S12', pbc=False)

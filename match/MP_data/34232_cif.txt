@@ -1,0 +1,2 @@
+As8In4O32Pb4
+Atoms(symbols='In4As8Pb4O32', pbc=False)

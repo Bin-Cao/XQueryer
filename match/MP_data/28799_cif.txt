@@ -1,0 +1,2 @@
+Cd46Th12
+Atoms(symbols='Th6Cd23Th6Cd23', pbc=False)

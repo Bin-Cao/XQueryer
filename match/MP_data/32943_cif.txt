@@ -1,0 +1,2 @@
+H8B20Ca2Li8O40
+Atoms(symbols='H8B20Ca2Li8O40', pbc=False)

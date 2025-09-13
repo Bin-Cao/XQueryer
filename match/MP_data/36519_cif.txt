@@ -1,0 +1,2 @@
+H20Co2Ga4Zr12
+Atoms(symbols='Zr12Ga4Co2H20', pbc=False)

@@ -1,0 +1,2 @@
+C24H72Cu16I16S12
+Atoms(symbols='C24H72Cu16I16S12', pbc=False)

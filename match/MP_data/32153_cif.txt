@@ -1,0 +1,2 @@
+Ge48Ni78Zn6
+Atoms(symbols='Ge48Ni78Zn6', pbc=False)

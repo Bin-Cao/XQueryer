@@ -1,0 +1,2 @@
+C40Ho30
+Atoms(symbols='C40Ho30', pbc=False)

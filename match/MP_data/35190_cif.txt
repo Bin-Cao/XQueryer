@@ -1,0 +1,2 @@
+C44Cl28Pr44
+Atoms(symbols='C44Cl28Pr44', pbc=False)

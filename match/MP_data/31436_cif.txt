@@ -1,0 +1,2 @@
+H32B24N8O40
+Atoms(symbols='H32B24N8O40', pbc=False)

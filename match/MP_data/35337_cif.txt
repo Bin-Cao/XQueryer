@@ -1,0 +1,2 @@
+C36H9O36Re9
+Atoms(symbols='C36H9O36Re9', pbc=False)

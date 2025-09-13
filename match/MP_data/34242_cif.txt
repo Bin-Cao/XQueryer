@@ -1,0 +1,2 @@
+C48H140N8Si16Sn4
+Atoms(symbols='C48H140N8Si16Sn4', pbc=False)

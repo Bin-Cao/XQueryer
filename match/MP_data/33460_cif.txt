@@ -1,0 +1,2 @@
+Er44Ge40
+Atoms(symbols='Er44Ge40', pbc=False)

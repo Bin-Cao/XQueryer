@@ -1,0 +1,2 @@
+O64Pb32Si16
+Atoms(symbols='O64Pb32Si16', pbc=False)

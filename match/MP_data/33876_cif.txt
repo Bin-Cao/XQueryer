@@ -1,0 +1,2 @@
+H12K8Mo4O18S4
+Atoms(symbols='K8Mo4H12S4O18', pbc=False)

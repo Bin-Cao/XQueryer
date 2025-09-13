@@ -1,0 +1,2 @@
+Br36O8Re12
+Atoms(symbols='Re6Br18O4Re6Br18O4', pbc=False)

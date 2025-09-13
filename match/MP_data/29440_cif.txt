@@ -1,0 +1,2 @@
+H60N32Zn2
+Atoms(symbols='H60N32Zn2', pbc=False)

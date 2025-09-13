@@ -1,0 +1,2 @@
+C6H20Ba2N2O18P6
+Atoms(symbols='Ba2P6H20C6N2O18', pbc=False)

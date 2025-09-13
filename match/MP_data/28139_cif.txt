@@ -1,0 +1,2 @@
+Co36Gd4Si16
+Atoms(symbols='Gd2Co18Si8Gd2Co18Si8', pbc=False)

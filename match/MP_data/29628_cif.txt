@@ -1,0 +1,2 @@
+As23Cu44Sr7
+Atoms(symbols='As23Cu44Sr7', pbc=False)

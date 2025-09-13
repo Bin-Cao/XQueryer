@@ -1,0 +1,2 @@
+C14H4Cs2F42Mo4O42S14
+Atoms(symbols='C14H4Cs2F42Mo4O42S14', pbc=False)

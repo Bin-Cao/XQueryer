@@ -1,0 +1,2 @@
+Cu28Hg24
+Atoms(symbols='Cu14Hg12Cu14Hg12', pbc=False)

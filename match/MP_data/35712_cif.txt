@@ -1,0 +1,2 @@
+GeNb2Sb2
+Atoms(symbols='Nb2GeSb2', pbc=False)

@@ -1,0 +1,2 @@
+Ho2K6O16P4
+Atoms(symbols='K6Ho2P4O16', pbc=False)

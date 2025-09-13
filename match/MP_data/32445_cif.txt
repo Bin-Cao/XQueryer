@@ -1,0 +1,2 @@
+B24Mg2O48
+Atoms(symbols='B24Mg2O48', pbc=False)

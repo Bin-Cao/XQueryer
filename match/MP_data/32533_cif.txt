@@ -1,0 +1,2 @@
+H54Al4Na18O42
+Atoms(symbols='H54Al4Na18O42', pbc=False)

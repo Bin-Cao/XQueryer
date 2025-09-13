@@ -1,0 +1,2 @@
+Hg24K4
+Atoms(symbols='K4Hg24', pbc=False)

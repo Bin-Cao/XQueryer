@@ -1,0 +1,2 @@
+Hf4S20Tb8
+Atoms(symbols='Tb8Hf4S20', pbc=False)

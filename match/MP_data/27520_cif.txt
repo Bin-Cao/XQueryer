@@ -1,0 +1,2 @@
+F2K10O32Pr8Si8
+Atoms(symbols='K5Pr4Si4O16FK5Pr4Si4O16F', pbc=False)

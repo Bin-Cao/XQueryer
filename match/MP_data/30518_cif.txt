@@ -1,0 +1,2 @@
+Cl10Hg14In2S12
+Atoms(symbols='In2Hg14S12Cl10', pbc=False)

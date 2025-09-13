@@ -1,0 +1,2 @@
+H20As4O24Rb8
+Atoms(symbols='Rb8As4H20O24', pbc=False)

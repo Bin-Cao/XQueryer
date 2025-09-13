@@ -1,0 +1,2 @@
+H30Cr2O28P4
+Atoms(symbols='H30Cr2O28P4', pbc=False)

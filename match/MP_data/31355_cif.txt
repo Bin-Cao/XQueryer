@@ -1,0 +1,2 @@
+Ga40Pt22U8
+Atoms(symbols='Ga40Pt22U8', pbc=False)

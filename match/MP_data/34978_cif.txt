@@ -1,0 +1,2 @@
+H64Ce4N28O76
+Atoms(symbols='H64Ce4N28O76', pbc=False)

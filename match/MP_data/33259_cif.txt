@@ -1,0 +1,2 @@
+C20I6N8
+Atoms(symbols='C20I6N8', pbc=False)

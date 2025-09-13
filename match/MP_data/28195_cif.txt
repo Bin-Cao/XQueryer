@@ -1,0 +1,2 @@
+Br4Ho4O16W4
+Atoms(symbols='Ho4W4Br4O16', pbc=False)

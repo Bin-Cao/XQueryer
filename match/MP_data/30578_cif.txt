@@ -1,0 +1,2 @@
+Co30Si18Zr6
+Atoms(symbols='Zr6Co30Si18', pbc=False)

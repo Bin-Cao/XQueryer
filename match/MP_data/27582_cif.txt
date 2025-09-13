@@ -1,0 +1,2 @@
+CuO17Si2U2
+Atoms(symbols='U2CuSi2O17', pbc=False)

@@ -1,0 +1,2 @@
+Ca4Ir8O36Sr12
+Atoms(symbols='Sr12Ca4Ir8O36', pbc=False)

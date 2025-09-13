@@ -1,0 +1,2 @@
+As6Mn6Na6O30Sm2
+Atoms(symbols='Na6Sm2Mn6As6O30', pbc=False)

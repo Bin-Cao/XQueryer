@@ -1,0 +1,2 @@
+Cu6Ge6Pr4
+Atoms(symbols='Pr2Cu3Ge3Pr2Cu3Ge3', pbc=False)

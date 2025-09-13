@@ -1,0 +1,2 @@
+Cr28
+Atoms(symbols='Cr28', pbc=False)

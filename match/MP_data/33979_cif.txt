@@ -1,0 +1,2 @@
+NaNb13O33
+Atoms(symbols='NaNb13O33', pbc=False)

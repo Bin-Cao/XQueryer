@@ -1,0 +1,2 @@
+Bi2CoEr6
+Atoms(symbols='Er6CoBi2', pbc=False)

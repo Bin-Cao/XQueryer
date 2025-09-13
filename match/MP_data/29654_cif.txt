@@ -1,0 +1,2 @@
+H40F28N10Sc6
+Atoms(symbols='H40F28N10Sc6', pbc=False)

@@ -1,0 +1,2 @@
+C14H24N4Nd4O34
+Atoms(symbols='C14H24N4Nd4O34', pbc=False)

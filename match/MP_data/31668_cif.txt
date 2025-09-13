@@ -1,0 +1,2 @@
+H32La2N14O38
+Atoms(symbols='H32La2N14O38', pbc=False)

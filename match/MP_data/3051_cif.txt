@@ -1,0 +1,2 @@
+B72Na36O126
+Atoms(symbols='B72Na36O126', pbc=False)

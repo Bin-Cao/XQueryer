@@ -1,0 +1,2 @@
+As6Fe6O52Zn4
+Atoms(symbols='As6Fe6O52Zn4', pbc=False)

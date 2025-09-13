@@ -1,0 +1,2 @@
+Bi4I20K8O60
+Atoms(symbols='Bi4I20K8O60', pbc=False)

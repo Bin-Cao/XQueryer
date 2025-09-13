@@ -1,0 +1,2 @@
+Ag6I18O54Ti3
+Atoms(symbols='Ag6I18O54Ti3', pbc=False)

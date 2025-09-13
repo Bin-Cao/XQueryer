@@ -1,0 +1,2 @@
+O20Se6Zn6
+Atoms(symbols='Zn6Se6O20', pbc=False)

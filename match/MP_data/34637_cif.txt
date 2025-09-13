@@ -1,0 +1,2 @@
+DyFe6O34P8Rb7
+Atoms(symbols='Rb7DyFe6P8O34', pbc=False)

@@ -1,0 +1,2 @@
+C28H48Co2Cs2N16
+Atoms(symbols='C28H48Co2Cs2N16', pbc=False)

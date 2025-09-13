@@ -1,0 +1,2 @@
+Na2Nb4O19Se4
+Atoms(symbols='Na2Nb4Se4O19', pbc=False)

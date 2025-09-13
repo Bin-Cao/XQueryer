@@ -1,0 +1,2 @@
+Be6Fe6Mn3O66P12
+Atoms(symbols='Be6Fe6Mn3O66P12', pbc=False)

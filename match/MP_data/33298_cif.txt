@@ -1,0 +1,2 @@
+H6As6Cr12K12O60
+Atoms(symbols='H6As6Cr12K12O60', pbc=False)

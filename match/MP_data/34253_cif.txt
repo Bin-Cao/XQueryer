@@ -1,0 +1,2 @@
+N16O48
+Atoms(symbols='N16O48', pbc=False)

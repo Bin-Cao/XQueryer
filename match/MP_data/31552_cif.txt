@@ -1,0 +1,2 @@
+C80
+Atoms(symbols='C80', pbc=False)

@@ -1,0 +1,2 @@
+O2Rb2
+Atoms(symbols='Rb2O2', pbc=False)

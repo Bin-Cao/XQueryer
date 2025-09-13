@@ -1,0 +1,2 @@
+H6Nd2O24Se6
+Atoms(symbols='Nd2H6Se6O24', pbc=False)

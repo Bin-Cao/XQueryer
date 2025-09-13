@@ -1,0 +1,2 @@
+OSe2U2
+Atoms(symbols='U2Se2O', pbc=False)

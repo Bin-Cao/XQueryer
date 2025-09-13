@@ -1,0 +1,2 @@
+K4N16O32Ru4
+Atoms(symbols='K4Ru4N16O32', pbc=False)

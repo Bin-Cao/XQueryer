@@ -1,0 +1,2 @@
+InLiPt
+Atoms(symbols='LiInPt', pbc=False)

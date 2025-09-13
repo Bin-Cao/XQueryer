@@ -1,0 +1,2 @@
+Be15Cu8Zr6
+Atoms(symbols='Zr6Be15Cu8', pbc=False)

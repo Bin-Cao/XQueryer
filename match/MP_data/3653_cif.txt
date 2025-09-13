@@ -1,0 +1,2 @@
+GaLiMg14
+Atoms(symbols='LiMg14Ga', pbc=False)

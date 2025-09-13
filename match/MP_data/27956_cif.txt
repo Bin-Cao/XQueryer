@@ -1,0 +1,2 @@
+Dy8S16Zn4
+Atoms(symbols='Dy8Zn4S16', pbc=False)

@@ -1,0 +1,2 @@
+Mo6O24Se2Tl4
+Atoms(symbols='Tl4Mo6Se2O24', pbc=False)

@@ -1,0 +1,2 @@
+Al4F24Li4Sr4
+Atoms(symbols='Sr4Li4Al4F24', pbc=False)

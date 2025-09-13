@@ -1,0 +1,2 @@
+Al8O36Tb16
+Atoms(symbols='Tb16Al8O36', pbc=False)

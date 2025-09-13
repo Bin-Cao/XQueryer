@@ -1,0 +1,2 @@
+Dy48Ga32
+Atoms(symbols='Dy48Ga32', pbc=False)

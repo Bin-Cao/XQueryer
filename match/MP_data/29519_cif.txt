@@ -1,0 +1,2 @@
+C4H20Cl6Ir2O6
+Atoms(symbols='H20Ir2C4Cl6O6', pbc=False)

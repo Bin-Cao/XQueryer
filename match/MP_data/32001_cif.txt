@@ -1,0 +1,2 @@
+Bi16O56Ta12
+Atoms(symbols='Bi16O56Ta12', pbc=False)

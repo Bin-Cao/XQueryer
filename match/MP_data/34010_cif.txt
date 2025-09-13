@@ -1,0 +1,2 @@
+C48H144In6P6Sn12
+Atoms(symbols='C48H144In6P6Sn12', pbc=False)

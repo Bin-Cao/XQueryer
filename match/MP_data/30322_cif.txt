@@ -1,0 +1,2 @@
+Fe26Nd12Tl2
+Atoms(symbols='Nd12Tl2Fe26', pbc=False)

@@ -1,0 +1,2 @@
+Ge6O26Pr10
+Atoms(symbols='Pr10Ge6O26', pbc=False)

@@ -1,0 +1,2 @@
+C64Al8Br8O40
+Atoms(symbols='C64Al8Br8O40', pbc=False)

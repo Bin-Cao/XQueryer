@@ -1,0 +1,2 @@
+I2Mn2Na2O12
+Atoms(symbols='NaMnIO6NaMnIO6', pbc=False)

@@ -1,0 +1,2 @@
+C18H42Mg6N6O36
+Atoms(symbols='C18H42Mg6N6O36', pbc=False)

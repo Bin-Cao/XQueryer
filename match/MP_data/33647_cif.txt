@@ -1,0 +1,2 @@
+F40N4Sb12
+Atoms(symbols='Sb12N4F40', pbc=False)

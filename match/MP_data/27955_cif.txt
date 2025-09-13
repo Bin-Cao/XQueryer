@@ -1,0 +1,2 @@
+K2O18Pt2S4
+Atoms(symbols='K2Pt2S4O18', pbc=False)

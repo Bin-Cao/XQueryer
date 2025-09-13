@@ -1,0 +1,2 @@
+Cs8O36P6Te2
+Atoms(symbols='Cs8Te2P6O36', pbc=False)

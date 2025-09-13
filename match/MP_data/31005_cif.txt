@@ -1,0 +1,2 @@
+Pt16Tb20
+Atoms(symbols='Tb20Pt16', pbc=False)

@@ -1,0 +1,2 @@
+Dy8O20V4
+Atoms(symbols='Dy8V4O20', pbc=False)

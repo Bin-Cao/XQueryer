@@ -1,0 +1,2 @@
+Be24Li32O116P28
+Atoms(symbols='Be24Li32O116P28', pbc=False)

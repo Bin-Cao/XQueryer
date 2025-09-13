@@ -1,0 +1,2 @@
+Ba2Er4O20Si6
+Atoms(symbols='Ba2Er4Si6O20', pbc=False)

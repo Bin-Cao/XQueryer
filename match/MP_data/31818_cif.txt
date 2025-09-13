@@ -1,0 +1,2 @@
+Eu12Mg20Si20
+Atoms(symbols='Eu12Mg20Si20', pbc=False)

@@ -1,0 +1,2 @@
+Cs8I26Os2Pr12
+Atoms(symbols='Cs4Pr6OsI13Cs4Pr6OsI13', pbc=False)

@@ -1,0 +1,2 @@
+H20As4Be8O28
+Atoms(symbols='Be8As4H20O28', pbc=False)

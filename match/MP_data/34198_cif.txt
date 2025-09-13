@@ -1,0 +1,2 @@
+K12Na4O52Pt2Te4
+Atoms(symbols='K12Na4O52Pt2Te4', pbc=False)

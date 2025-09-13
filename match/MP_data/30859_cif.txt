@@ -1,0 +1,2 @@
+B12Ho8O32
+Atoms(symbols='Ho8B12O32', pbc=False)

@@ -1,0 +1,2 @@
+Bi4Er12Fe2
+Atoms(symbols='Er6FeBi2Er6FeBi2', pbc=False)

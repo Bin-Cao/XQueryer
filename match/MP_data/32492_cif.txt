@@ -1,0 +1,2 @@
+As12Fe12O72
+Atoms(symbols='As12Fe12O72', pbc=False)

@@ -1,0 +1,2 @@
+N6O16Ta2
+Atoms(symbols='TaN3O8TaN3O8', pbc=False)

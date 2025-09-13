@@ -1,0 +1,2 @@
+I6O18Tb2
+Atoms(symbols='Tb2I6O18', pbc=False)

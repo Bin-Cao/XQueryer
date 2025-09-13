@@ -1,0 +1,2 @@
+AsHoNi
+Atoms(symbols='HoNiAs', pbc=False)

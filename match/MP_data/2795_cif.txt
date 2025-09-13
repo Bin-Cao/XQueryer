@@ -1,0 +1,2 @@
+B2LuRh3
+Atoms(symbols='LuB2Rh3', pbc=False)

@@ -1,0 +1,2 @@
+H48Cl24In8O24
+Atoms(symbols='H48Cl24In8O24', pbc=False)

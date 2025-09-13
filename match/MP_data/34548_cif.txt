@@ -1,0 +1,2 @@
+H8B2Ge6N2O16
+Atoms(symbols='Ge6B2H8N2O16', pbc=False)

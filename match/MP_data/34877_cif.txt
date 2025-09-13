@@ -1,0 +1,2 @@
+O36Sr18W6
+Atoms(symbols='Sr18W6O36', pbc=False)

@@ -1,0 +1,2 @@
+H4O20P4Si4
+Atoms(symbols='Si4P4H4O20', pbc=False)

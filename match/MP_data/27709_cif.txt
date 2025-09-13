@@ -1,0 +1,2 @@
+Ga6Nb2O28Si4Sr6
+Atoms(symbols='Sr3NbGa3Si2O14Sr3NbGa3Si2O14', pbc=False)

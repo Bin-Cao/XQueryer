@@ -1,0 +1,2 @@
+Hg10N6O22
+Atoms(symbols='Hg10N6O22', pbc=False)

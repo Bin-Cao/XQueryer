@@ -1,0 +1,2 @@
+C16Br28In4N16
+Atoms(symbols='C16Br28In4N16', pbc=False)

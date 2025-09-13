@@ -1,0 +1,2 @@
+Br48N16Sb8
+Atoms(symbols='Br48N16Sb8', pbc=False)

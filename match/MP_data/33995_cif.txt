@@ -1,0 +1,2 @@
+C4H12Co4O16P4
+Atoms(symbols='Co4P4H12C4O16', pbc=False)

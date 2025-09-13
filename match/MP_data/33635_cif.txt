@@ -1,0 +1,2 @@
+I4O20Rb12
+Atoms(symbols='Rb12I4O20', pbc=False)

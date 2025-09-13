@@ -1,0 +1,2 @@
+Ga4Na4O24Se8
+Atoms(symbols='Na4Ga4Se8O24', pbc=False)

@@ -1,0 +1,2 @@
+H20O28P4V4
+Atoms(symbols='V4P4H20O28', pbc=False)

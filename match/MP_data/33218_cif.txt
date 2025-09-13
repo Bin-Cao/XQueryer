@@ -1,0 +1,2 @@
+Li42Si18
+Atoms(symbols='Li42Si18', pbc=False)

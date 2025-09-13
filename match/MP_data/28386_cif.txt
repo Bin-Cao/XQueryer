@@ -1,0 +1,2 @@
+Hg44Mg2N12
+Atoms(symbols='MgHg22N6MgHg22N6', pbc=False)

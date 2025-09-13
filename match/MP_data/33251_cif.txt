@@ -1,0 +1,2 @@
+O76Si38
+Atoms(symbols='O76Si38', pbc=False)

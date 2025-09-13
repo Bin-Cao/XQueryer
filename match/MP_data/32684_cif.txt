@@ -1,0 +1,2 @@
+O48Si20Tl16
+Atoms(symbols='O48Si20Tl16', pbc=False)

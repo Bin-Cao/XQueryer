@@ -1,0 +1,2 @@
+C48F40Sn2
+Atoms(symbols='C48F40Sn2', pbc=False)

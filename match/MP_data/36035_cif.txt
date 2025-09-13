@@ -1,0 +1,2 @@
+GaNi2Sm2
+Atoms(symbols='Sm2GaNi2', pbc=False)

@@ -1,0 +1,2 @@
+Co4Ta16Te16
+Atoms(symbols='Ta16Co4Te16', pbc=False)

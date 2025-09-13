@@ -1,0 +1,2 @@
+C4H24Mg4O24
+Atoms(symbols='Mg4H24C4O24', pbc=False)

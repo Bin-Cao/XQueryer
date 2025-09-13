@@ -1,0 +1,2 @@
+I4Se16Tc12
+Atoms(symbols='Tc12Se16I4', pbc=False)

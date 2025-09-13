@@ -1,0 +1,2 @@
+Cl14Rh2Te14
+Atoms(symbols='Te14Rh2Cl14', pbc=False)

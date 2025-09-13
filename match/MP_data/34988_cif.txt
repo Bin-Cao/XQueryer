@@ -1,0 +1,2 @@
+Cr6CuO34Pb10Si2
+Atoms(symbols='Cr6CuSi2Pb10O34', pbc=False)

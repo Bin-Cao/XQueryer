@@ -1,0 +1,2 @@
+H38As2Fe4O36S2
+Atoms(symbols='H38As2Fe4O36S2', pbc=False)

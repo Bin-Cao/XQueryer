@@ -1,0 +1,2 @@
+Mo4N4O28P4
+Atoms(symbols='Mo4P4N4O28', pbc=False)

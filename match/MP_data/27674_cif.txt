@@ -1,0 +1,2 @@
+I2O15S4
+Atoms(symbols='S4I2O15', pbc=False)

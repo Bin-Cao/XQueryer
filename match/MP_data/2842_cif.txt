@@ -1,0 +1,2 @@
+C2Er4Re4Si4
+Atoms(symbols='Er2Re2Si2CEr2Re2Si2C', pbc=False)

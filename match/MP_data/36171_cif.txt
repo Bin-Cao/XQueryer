@@ -1,0 +1,2 @@
+Bi2Dy6Mn
+Atoms(symbols='Dy6MnBi2', pbc=False)

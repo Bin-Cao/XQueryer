@@ -1,0 +1,2 @@
+Cs16F4K12O80Si16U12
+Atoms(symbols='Cs16F4K12O80Si16U12', pbc=False)

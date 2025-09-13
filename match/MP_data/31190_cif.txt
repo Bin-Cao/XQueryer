@@ -1,0 +1,2 @@
+Au4I32In4N8
+Atoms(symbols='In4Au4I32N8', pbc=False)

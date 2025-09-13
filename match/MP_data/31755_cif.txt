@@ -1,0 +1,2 @@
+C16H72Mo16N8O56
+Atoms(symbols='C16H72Mo16N8O56', pbc=False)

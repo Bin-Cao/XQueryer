@@ -1,0 +1,2 @@
+I2OPr2
+Atoms(symbols='Pr2I2O', pbc=False)

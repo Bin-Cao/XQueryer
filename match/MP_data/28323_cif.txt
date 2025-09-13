@@ -1,0 +1,2 @@
+Cl40Co4W8
+Atoms(symbols='Co2W4Cl20Co2W4Cl20', pbc=False)

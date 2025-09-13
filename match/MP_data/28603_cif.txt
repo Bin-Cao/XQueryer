@@ -1,0 +1,2 @@
+Lu5Mg24
+Atoms(symbols='Lu5Mg24', pbc=False)

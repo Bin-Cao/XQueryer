@@ -1,0 +1,2 @@
+H72Br16Cl4Co4Hg4N24
+Atoms(symbols='H72Br16Cl4Co4Hg4N24', pbc=False)

@@ -1,0 +1,2 @@
+Au24K46Sn18
+Atoms(symbols='Au24K46Sn18', pbc=False)

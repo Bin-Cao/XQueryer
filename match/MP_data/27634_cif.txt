@@ -1,0 +1,2 @@
+Dy8F2Na10O32Si8
+Atoms(symbols='Na5Dy4Si4O16FNa5Dy4Si4O16F', pbc=False)

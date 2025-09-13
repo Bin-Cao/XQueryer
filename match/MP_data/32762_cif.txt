@@ -1,0 +1,2 @@
+H40Ho6N8O49
+Atoms(symbols='H40Ho6N8O49', pbc=False)

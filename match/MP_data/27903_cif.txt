@@ -1,0 +1,2 @@
+Na10Nd8O34Si8
+Atoms(symbols='Na5Nd4Si4O17Na5Nd4Si4O17', pbc=False)

@@ -1,0 +1,2 @@
+C2H16N2Na4O16P4Zn
+Atoms(symbols='Na4ZnP4H16C2N2O16', pbc=False)

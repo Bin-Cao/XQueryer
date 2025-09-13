@@ -1,0 +1,2 @@
+CrPt
+Atoms(symbols='CrPt', pbc=False)

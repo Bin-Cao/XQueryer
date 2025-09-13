@@ -1,0 +1,2 @@
+CuTbTe2
+Atoms(symbols='TbCuTe2', pbc=False)

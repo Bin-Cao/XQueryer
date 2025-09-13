@@ -1,0 +1,2 @@
+Co32Nb16P24
+Atoms(symbols='Co32Nb16P24', pbc=False)

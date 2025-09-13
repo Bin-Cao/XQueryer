@@ -1,0 +1,2 @@
+I36N12Sb8
+Atoms(symbols='Sb8I36N12', pbc=False)

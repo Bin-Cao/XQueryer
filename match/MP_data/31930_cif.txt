@@ -1,0 +1,2 @@
+Al40La2Ti4
+Atoms(symbols='La2Ti4Al40', pbc=False)

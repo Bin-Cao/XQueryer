@@ -1,0 +1,2 @@
+Ba4Cu8Se12U2
+Atoms(symbols='Ba4U2Cu8Se12', pbc=False)

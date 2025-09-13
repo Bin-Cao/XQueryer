@@ -1,0 +1,2 @@
+P24Ru38Y10
+Atoms(symbols='P24Ru38Y10', pbc=False)

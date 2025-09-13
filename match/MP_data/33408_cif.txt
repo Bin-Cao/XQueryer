@@ -1,0 +1,2 @@
+As3Cr6K6O30
+Atoms(symbols='K6Cr6As3O30', pbc=False)

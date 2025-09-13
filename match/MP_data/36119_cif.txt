@@ -1,0 +1,2 @@
+Ga4Li5
+Atoms(symbols='Li5Ga4', pbc=False)

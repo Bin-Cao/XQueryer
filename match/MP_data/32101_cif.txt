@@ -1,0 +1,2 @@
+Ni8Te8Y20
+Atoms(symbols='Y20Ni8Te8', pbc=False)

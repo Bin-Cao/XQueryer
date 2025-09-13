@@ -1,0 +1,2 @@
+As4Co4O16Sr2
+Atoms(symbols='Sr2Co4As4O16', pbc=False)

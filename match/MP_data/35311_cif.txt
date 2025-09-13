@@ -1,0 +1,2 @@
+H2As4CaCu4O26
+Atoms(symbols='CaCu4As4H2O26', pbc=False)

@@ -1,0 +1,2 @@
+Hf4Na8O60S12
+Atoms(symbols='Hf4Na8O60S12', pbc=False)

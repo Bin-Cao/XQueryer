@@ -1,0 +1,2 @@
+C20H60Br12La4O20
+Atoms(symbols='C20H60Br12La4O20', pbc=False)

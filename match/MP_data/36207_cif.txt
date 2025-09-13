@@ -1,0 +1,2 @@
+Cl2Eu2F
+Atoms(symbols='Eu2Cl2F', pbc=False)

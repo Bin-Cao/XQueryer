@@ -1,0 +1,2 @@
+Ca16Co16O40
+Atoms(symbols='Ca16Co16O40', pbc=False)

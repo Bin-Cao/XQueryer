@@ -1,0 +1,2 @@
+C18O72Sm18
+Atoms(symbols='C18O72Sm18', pbc=False)

@@ -1,0 +1,2 @@
+Dy2O4S6U4
+Atoms(symbols='DyU2S3O2DyU2S3O2', pbc=False)

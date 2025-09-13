@@ -1,0 +1,2 @@
+O19Sr5Ti7
+Atoms(symbols='Sr5Ti7O19', pbc=False)

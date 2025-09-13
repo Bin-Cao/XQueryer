@@ -1,0 +1,2 @@
+Cl6LiRb2Ru
+Atoms(symbols='Rb2LiRuCl6', pbc=False)

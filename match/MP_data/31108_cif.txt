@@ -1,0 +1,2 @@
+Er24Ga16
+Atoms(symbols='Er24Ga16', pbc=False)

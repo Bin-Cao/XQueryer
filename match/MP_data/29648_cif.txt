@@ -1,0 +1,2 @@
+C8H16B4F8Li4O24
+Atoms(symbols='C8H16B4F8Li4O24', pbc=False)

@@ -1,0 +1,2 @@
+H80N20O64Pr4S16
+Atoms(symbols='H80N20O64Pr4S16', pbc=False)

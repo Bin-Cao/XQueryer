@@ -1,0 +1,2 @@
+As32O72Th4
+Atoms(symbols='As32O72Th4', pbc=False)

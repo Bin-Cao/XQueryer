@@ -1,0 +1,2 @@
+HDySe
+Atoms(symbols='DyHSe', pbc=False)

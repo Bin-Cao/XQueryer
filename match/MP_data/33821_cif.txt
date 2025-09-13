@@ -1,0 +1,2 @@
+C38Si38
+Atoms(symbols='C38Si38', pbc=False)

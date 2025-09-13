@@ -1,0 +1,2 @@
+Br20Co8N36O8
+Atoms(symbols='Br20Co8N36O8', pbc=False)

@@ -1,0 +1,2 @@
+Bi12Dy20
+Atoms(symbols='Dy20Bi12', pbc=False)

@@ -1,0 +1,2 @@
+C6H64N2Na8O44P6Zn2
+Atoms(symbols='C6H64N2Na8O44P6Zn2', pbc=False)

@@ -1,0 +1,2 @@
+Br8O28Sc4
+Atoms(symbols='Sc4Br8O28', pbc=False)

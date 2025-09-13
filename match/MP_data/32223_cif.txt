@@ -1,0 +1,2 @@
+H40N2Ni2O44V10
+Atoms(symbols='H40N2Ni2O44V10', pbc=False)

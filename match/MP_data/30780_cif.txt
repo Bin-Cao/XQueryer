@@ -1,0 +1,2 @@
+Ba16Cu16O96Si32
+Atoms(symbols='Ba16Cu16O96Si32', pbc=False)

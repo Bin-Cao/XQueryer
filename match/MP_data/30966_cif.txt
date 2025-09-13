@@ -1,0 +1,2 @@
+H24Fe2O28Rb4S4
+Atoms(symbols='H24Fe2O28Rb4S4', pbc=False)

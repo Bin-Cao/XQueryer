@@ -1,0 +1,2 @@
+C16H16O40Th4
+Atoms(symbols='C16H16O40Th4', pbc=False)

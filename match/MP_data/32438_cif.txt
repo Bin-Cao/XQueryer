@@ -1,0 +1,2 @@
+H36O34S4Th2
+Atoms(symbols='H36O34S4Th2', pbc=False)

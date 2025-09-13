@@ -1,0 +1,2 @@
+CsMg14Ni
+Atoms(symbols='CsMg14Ni', pbc=False)

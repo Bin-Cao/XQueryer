@@ -1,0 +1,2 @@
+As16Au6O20Sm20
+Atoms(symbols='As16Au6O20Sm20', pbc=False)

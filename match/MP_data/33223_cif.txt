@@ -1,0 +1,2 @@
+Co20Cs20F80
+Atoms(symbols='Co20Cs20F80', pbc=False)

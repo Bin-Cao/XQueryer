@@ -1,0 +1,2 @@
+Ho2O4S6U4
+Atoms(symbols='HoU2S3O2HoU2S3O2', pbc=False)

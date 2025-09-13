@@ -1,0 +1,2 @@
+Ir8Sm6Sn26
+Atoms(symbols='Sm6Sn26Ir8', pbc=False)

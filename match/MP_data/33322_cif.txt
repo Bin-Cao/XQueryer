@@ -1,0 +1,2 @@
+As2Mg5Mn11Na2O50Si12
+Atoms(symbols='As2Mg5Mn11Na2O50Si12', pbc=False)

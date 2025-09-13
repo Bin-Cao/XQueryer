@@ -1,0 +1,2 @@
+Nb16Ni16Si28
+Atoms(symbols='Nb8Si14Ni8Nb8Si14Ni8', pbc=False)

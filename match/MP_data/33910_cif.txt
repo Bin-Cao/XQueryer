@@ -1,0 +1,2 @@
+Co26La12Sb2
+Atoms(symbols='La12Co26Sb2', pbc=False)

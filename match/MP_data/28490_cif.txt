@@ -1,0 +1,2 @@
+Mg2Se34U16
+Atoms(symbols='MgU8Se17MgU8Se17', pbc=False)

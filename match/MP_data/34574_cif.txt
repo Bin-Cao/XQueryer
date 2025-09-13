@@ -1,0 +1,2 @@
+Ca4Ge4O20Ti4
+Atoms(symbols='Ca2Ti2Ge2O10Ca2Ti2Ge2O10', pbc=False)

@@ -1,0 +1,2 @@
+H16Er4O32S6
+Atoms(symbols='Er4H16S6O32', pbc=False)

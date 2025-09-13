@@ -1,0 +1,2 @@
+H14N3O24P6V3
+Atoms(symbols='V3P6H14N3O24', pbc=False)

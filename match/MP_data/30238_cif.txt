@@ -1,0 +1,2 @@
+N48O48Pd8
+Atoms(symbols='N48O48Pd8', pbc=False)

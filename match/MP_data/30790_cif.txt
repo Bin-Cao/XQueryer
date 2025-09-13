@@ -1,0 +1,2 @@
+H44Mg2O30S2
+Atoms(symbols='H44Mg2O30S2', pbc=False)

@@ -1,0 +1,2 @@
+B20Ba4Li2O38
+Atoms(symbols='B20Ba4Li2O38', pbc=False)

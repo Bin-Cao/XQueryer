@@ -1,0 +1,2 @@
+Co8Ga32Pr4
+Atoms(symbols='Pr4Ga32Co8', pbc=False)

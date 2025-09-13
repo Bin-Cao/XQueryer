@@ -1,0 +1,2 @@
+CI14O10Zr6
+Atoms(symbols='Zr6CI14O10', pbc=False)

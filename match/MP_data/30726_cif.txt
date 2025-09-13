@@ -1,0 +1,2 @@
+B24Ho8Ru4
+Atoms(symbols='Ho8B24Ru4', pbc=False)

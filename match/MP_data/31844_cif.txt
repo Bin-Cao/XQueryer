@@ -1,0 +1,2 @@
+C8N24O56P8V12
+Atoms(symbols='C8N24O56P8V12', pbc=False)

@@ -1,0 +1,2 @@
+O8V14
+Atoms(symbols='V7O4V7O4', pbc=False)

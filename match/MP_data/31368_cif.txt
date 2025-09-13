@@ -1,0 +1,2 @@
+Ge32Rb32
+Atoms(symbols='Ge32Rb32', pbc=False)

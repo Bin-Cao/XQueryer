@@ -1,0 +1,2 @@
+Cl2Dy2O4
+Atoms(symbols='Dy2Cl2O4', pbc=False)

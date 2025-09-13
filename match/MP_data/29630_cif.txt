@@ -1,0 +1,2 @@
+Cs4O32Sb4V8
+Atoms(symbols='Cs4V8Sb4O32', pbc=False)

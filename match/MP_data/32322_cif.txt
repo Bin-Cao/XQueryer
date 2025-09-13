@@ -1,0 +1,2 @@
+H20N6Nd2O22S6
+Atoms(symbols='Nd2H20S6N6O22', pbc=False)

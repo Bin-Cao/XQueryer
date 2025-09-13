@@ -1,0 +1,2 @@
+Nb8Ni2Se16
+Atoms(symbols='Nb8Ni2Se16', pbc=False)

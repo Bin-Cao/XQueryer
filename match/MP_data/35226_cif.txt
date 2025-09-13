@@ -1,0 +1,2 @@
+Hf2Li2Se4
+Atoms(symbols='LiHfSe2LiHfSe2', pbc=False)

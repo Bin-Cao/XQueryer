@@ -1,0 +1,2 @@
+Ag12K12P12Se36
+Atoms(symbols='Ag12K12P12Se36', pbc=False)

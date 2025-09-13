@@ -1,0 +1,2 @@
+H4Ba4Fe4O20P4
+Atoms(symbols='Ba4Fe4P4H4O20', pbc=False)

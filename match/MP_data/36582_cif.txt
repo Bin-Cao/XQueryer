@@ -1,0 +1,2 @@
+OSi11U6
+Atoms(symbols='U6Si11O', pbc=False)

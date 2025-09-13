@@ -1,0 +1,2 @@
+CsMo2Na3O20U4
+Atoms(symbols='CsNa3U4Mo2O20', pbc=False)

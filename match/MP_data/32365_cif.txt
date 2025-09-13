@@ -1,0 +1,2 @@
+C10H28Cl4P4Si
+Atoms(symbols='SiP4H28C10Cl4', pbc=False)

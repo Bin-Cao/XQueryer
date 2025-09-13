@@ -1,0 +1,2 @@
+Ce12N4Se12
+Atoms(symbols='Ce12Se12N4', pbc=False)

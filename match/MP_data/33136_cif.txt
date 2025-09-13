@@ -1,0 +1,2 @@
+B12Cl4Eu20O36
+Atoms(symbols='B12Cl4Eu20O36', pbc=False)

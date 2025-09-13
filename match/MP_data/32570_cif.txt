@@ -1,0 +1,2 @@
+Cl24Fe8O20
+Atoms(symbols='Fe8Cl24O20', pbc=False)

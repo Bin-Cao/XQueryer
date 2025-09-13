@@ -1,0 +1,2 @@
+Cu4O20Se4
+Atoms(symbols='Cu4Se4O20', pbc=False)

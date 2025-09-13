@@ -1,0 +1,2 @@
+Co4Zn22
+Atoms(symbols='Zn22Co4', pbc=False)

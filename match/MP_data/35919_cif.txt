@@ -1,0 +1,2 @@
+Pt10Th6
+Atoms(symbols='Th3Pt5Th3Pt5', pbc=False)

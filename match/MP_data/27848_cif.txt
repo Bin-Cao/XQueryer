@@ -1,0 +1,2 @@
+Ge6N4O18Zr2
+Atoms(symbols='Zr2Ge6N4O18', pbc=False)

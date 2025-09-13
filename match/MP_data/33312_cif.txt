@@ -1,0 +1,2 @@
+CrMo6Na3O32
+Atoms(symbols='Na3CrMo6O32', pbc=False)

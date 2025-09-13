@@ -1,0 +1,2 @@
+H16Dy8O48S12
+Atoms(symbols='H16Dy8O48S12', pbc=False)

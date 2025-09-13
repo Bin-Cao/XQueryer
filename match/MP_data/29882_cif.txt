@@ -1,0 +1,2 @@
+Co6O28P8Sr2
+Atoms(symbols='Sr2Co6P8O28', pbc=False)

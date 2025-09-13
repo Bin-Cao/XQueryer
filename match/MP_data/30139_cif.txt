@@ -1,0 +1,2 @@
+Al18B2Ca2O36Zr2
+Atoms(symbols='Ca2Zr2Al18B2O36', pbc=False)

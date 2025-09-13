@@ -1,0 +1,2 @@
+I47W15
+Atoms(symbols='I47W15', pbc=False)

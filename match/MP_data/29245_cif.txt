@@ -1,0 +1,2 @@
+F4K20Mo16O56
+Atoms(symbols='F4K20Mo16O56', pbc=False)

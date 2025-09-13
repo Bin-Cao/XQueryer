@@ -1,0 +1,2 @@
+CuLuTe2
+Atoms(symbols='LuCuTe2', pbc=False)

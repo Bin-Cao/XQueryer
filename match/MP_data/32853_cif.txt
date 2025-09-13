@@ -1,0 +1,2 @@
+I24K12O72
+Atoms(symbols='I24K12O72', pbc=False)

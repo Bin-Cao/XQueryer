@@ -1,0 +1,2 @@
+Na8O44Si12Sn4
+Atoms(symbols='Na8O44Si12Sn4', pbc=False)

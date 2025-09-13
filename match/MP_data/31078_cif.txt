@@ -1,0 +1,2 @@
+Na24O32Ru8
+Atoms(symbols='Na24O32Ru8', pbc=False)

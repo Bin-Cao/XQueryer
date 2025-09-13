@@ -1,0 +1,2 @@
+C8H24CoN2O32V12
+Atoms(symbols='C8H24CoN2O32V12', pbc=False)

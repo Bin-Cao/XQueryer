@@ -1,0 +1,2 @@
+K24Li24Mo24O96
+Atoms(symbols='K24Li24Mo24O96', pbc=False)

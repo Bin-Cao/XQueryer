@@ -1,0 +1,2 @@
+Cd2O36Se6V8
+Atoms(symbols='V8Cd2Se6O36', pbc=False)

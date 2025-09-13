@@ -1,0 +1,2 @@
+Fe12Sc12Si24
+Atoms(symbols='Sc12Fe12Si24', pbc=False)

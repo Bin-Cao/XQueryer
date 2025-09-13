@@ -1,0 +1,2 @@
+K32Si32
+Atoms(symbols='K32Si32', pbc=False)

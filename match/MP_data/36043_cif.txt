@@ -1,0 +1,2 @@
+Ce2Cl2O
+Atoms(symbols='Ce2Cl2O', pbc=False)

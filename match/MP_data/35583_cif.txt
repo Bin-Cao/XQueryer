@@ -1,0 +1,2 @@
+HGdSe
+Atoms(symbols='GdHSe', pbc=False)

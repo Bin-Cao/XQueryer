@@ -1,0 +1,2 @@
+I12La4O38
+Atoms(symbols='La4I12O38', pbc=False)

@@ -1,0 +1,2 @@
+Cr8Hg8O36
+Atoms(symbols='Cr4Hg4O18Cr4Hg4O18', pbc=False)

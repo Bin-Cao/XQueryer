@@ -1,0 +1,2 @@
+O14Ru3Sn15
+Atoms(symbols='Sn15Ru3O14', pbc=False)

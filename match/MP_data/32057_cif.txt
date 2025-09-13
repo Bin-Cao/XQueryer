@@ -1,0 +1,2 @@
+C16H48Ag4N4Se20
+Atoms(symbols='C16H48Ag4N4Se20', pbc=False)

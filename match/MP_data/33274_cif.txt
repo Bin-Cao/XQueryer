@@ -1,0 +1,2 @@
+Cd4Fe52Nd24
+Atoms(symbols='Cd4Fe52Nd24', pbc=False)

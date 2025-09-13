@@ -1,0 +1,2 @@
+C4N16O28Pt8
+Atoms(symbols='Pt8C4N16O28', pbc=False)

@@ -1,0 +1,2 @@
+As2CdLa2O
+Atoms(symbols='La2CdAs2O', pbc=False)

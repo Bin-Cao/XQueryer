@@ -1,0 +1,2 @@
+B32O60Pb4
+Atoms(symbols='B32O60Pb4', pbc=False)

@@ -1,0 +1,2 @@
+C18H48Cu2I2N12S6
+Atoms(symbols='C18H48Cu2I2N12S6', pbc=False)

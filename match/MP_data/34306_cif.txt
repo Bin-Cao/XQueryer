@@ -1,0 +1,2 @@
+B4Cl4Er16O28
+Atoms(symbols='Er16B4Cl4O28', pbc=False)

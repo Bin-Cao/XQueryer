@@ -1,0 +1,2 @@
+La32Mo42O112
+Atoms(symbols='La32Mo42O112', pbc=False)

@@ -1,0 +1,2 @@
+H8O28Pb4Si4U4
+Atoms(symbols='U4Si4H8Pb4O28', pbc=False)

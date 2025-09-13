@@ -1,0 +1,2 @@
+H48B8Li8N8
+Atoms(symbols='H48B8Li8N8', pbc=False)

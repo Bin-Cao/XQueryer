@@ -1,0 +1,2 @@
+C2K4Mn6O22V4
+Atoms(symbols='K4Mn6V4C2O22', pbc=False)

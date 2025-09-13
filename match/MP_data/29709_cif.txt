@@ -1,0 +1,2 @@
+La16Mg8Ni16
+Atoms(symbols='La16Mg8Ni16', pbc=False)

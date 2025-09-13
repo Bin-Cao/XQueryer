@@ -1,0 +1,2 @@
+F92Sb12Xe4Zn4
+Atoms(symbols='F92Sb12Xe4Zn4', pbc=False)

@@ -1,0 +1,2 @@
+Fe8Ga32Sm4
+Atoms(symbols='Sm4Ga32Fe8', pbc=False)

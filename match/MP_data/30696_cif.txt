@@ -1,0 +1,2 @@
+H12F8N4O8Te4
+Atoms(symbols='Te4H12N4O8F8', pbc=False)

@@ -1,0 +1,2 @@
+Fe2O30Re6
+Atoms(symbols='Fe2Re6O30', pbc=False)

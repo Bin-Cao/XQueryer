@@ -1,0 +1,2 @@
+H16Cl12O44Pr4
+Atoms(symbols='H16Cl12O44Pr4', pbc=False)

@@ -1,0 +1,2 @@
+Co12La16O40
+Atoms(symbols='Co12La16O40', pbc=False)

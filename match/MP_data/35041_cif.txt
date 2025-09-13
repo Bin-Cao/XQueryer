@@ -1,0 +1,2 @@
+Nb12Si16U8
+Atoms(symbols='U8Nb12Si16', pbc=False)

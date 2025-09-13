@@ -1,0 +1,2 @@
+Br8Fe7O18Sb10
+Atoms(symbols='Fe7Sb10Br8O18', pbc=False)

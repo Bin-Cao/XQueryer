@@ -1,0 +1,2 @@
+Na16Se20Zn12
+Atoms(symbols='Na16Zn12Se20', pbc=False)

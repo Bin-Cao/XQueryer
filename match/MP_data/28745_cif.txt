@@ -1,0 +1,2 @@
+Ba3Ge12O27
+Atoms(symbols='Ba3Ge12O27', pbc=False)

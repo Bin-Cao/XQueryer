@@ -1,0 +1,2 @@
+Ce20Si16
+Atoms(symbols='Ce20Si16', pbc=False)

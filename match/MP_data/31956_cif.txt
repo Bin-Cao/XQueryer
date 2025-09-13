@@ -1,0 +1,2 @@
+H20Br4N4O4
+Atoms(symbols='H20Br4N4O4', pbc=False)

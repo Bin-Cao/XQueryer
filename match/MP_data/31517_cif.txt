@@ -1,0 +1,2 @@
+H16Cu6Na4O32Se8
+Atoms(symbols='H16Cu6Na4O32Se8', pbc=False)

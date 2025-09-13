@@ -1,0 +1,2 @@
+C20H60Cl8Ga2N4P2Si6
+Atoms(symbols='C20H60Cl8Ga2N4P2Si6', pbc=False)

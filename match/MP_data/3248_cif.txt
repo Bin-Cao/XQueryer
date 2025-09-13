@@ -1,0 +1,2 @@
+NiS4Ti2
+Atoms(symbols='Ti2NiS4', pbc=False)

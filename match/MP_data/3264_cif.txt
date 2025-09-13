@@ -1,0 +1,2 @@
+MoTe4W
+Atoms(symbols='Te4MoW', pbc=False)

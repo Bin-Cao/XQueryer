@@ -1,0 +1,2 @@
+Li4O40Se4U6
+Atoms(symbols='Li4U6Se4O40', pbc=False)

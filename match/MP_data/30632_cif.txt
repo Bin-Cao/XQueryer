@@ -1,0 +1,2 @@
+Ba2Mn4O20Si4Ti2
+Atoms(symbols='Ba2Ti2Mn4Si4O20', pbc=False)

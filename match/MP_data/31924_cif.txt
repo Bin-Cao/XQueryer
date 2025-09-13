@@ -1,0 +1,2 @@
+Ga22Na2O36
+Atoms(symbols='Na2Ga22O36', pbc=False)

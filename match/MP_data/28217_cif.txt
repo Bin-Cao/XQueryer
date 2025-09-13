@@ -1,0 +1,2 @@
+Br36Mn3Tb21
+Atoms(symbols='Tb7MnBr12Tb7MnBr12Tb7MnBr12', pbc=False)

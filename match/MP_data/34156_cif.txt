@@ -1,0 +1,2 @@
+C30H84Br18N18Sb4
+Atoms(symbols='C30H84Br18N18Sb4', pbc=False)

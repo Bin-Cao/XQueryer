@@ -1,0 +1,2 @@
+H20Fe2N6O28
+Atoms(symbols='Fe2H20N6O28', pbc=False)

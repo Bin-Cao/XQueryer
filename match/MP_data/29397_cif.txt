@@ -1,0 +1,2 @@
+Gd48In12Ir12
+Atoms(symbols='Gd48In12Ir12', pbc=False)

@@ -1,0 +1,2 @@
+O68Pb44Si12
+Atoms(symbols='O68Pb44Si12', pbc=False)

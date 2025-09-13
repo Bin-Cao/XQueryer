@@ -1,0 +1,2 @@
+H4Dy4Mo6O34Se4
+Atoms(symbols='Dy4Mo6H4Se4O34', pbc=False)

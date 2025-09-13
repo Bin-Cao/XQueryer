@@ -1,0 +1,2 @@
+H40B24Li4O8
+Atoms(symbols='H40B24Li4O8', pbc=False)

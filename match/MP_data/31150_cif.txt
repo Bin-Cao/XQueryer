@@ -1,0 +1,2 @@
+B20Cs4Gd16Li8O60
+Atoms(symbols='B20Cs4Gd16Li8O60', pbc=False)

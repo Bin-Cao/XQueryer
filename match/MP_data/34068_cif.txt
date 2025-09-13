@@ -1,0 +1,2 @@
+H52K2Mg4O48U3
+Atoms(symbols='H52K2Mg4O48U3', pbc=False)

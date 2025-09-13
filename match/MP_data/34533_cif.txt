@@ -1,0 +1,2 @@
+Cl2Nd2O4
+Atoms(symbols='Nd2Cl2O4', pbc=False)

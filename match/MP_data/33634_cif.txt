@@ -1,0 +1,2 @@
+H4O20Pr4S4
+Atoms(symbols='Pr4H4S4O20', pbc=False)

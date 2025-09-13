@@ -1,0 +1,2 @@
+Nd2O22Rb2Se4
+Atoms(symbols='Rb2Nd2Se4O22', pbc=False)

@@ -1,0 +1,2 @@
+H8I6N2O18
+Atoms(symbols='H8I6N2O18', pbc=False)

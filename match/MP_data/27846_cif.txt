@@ -1,0 +1,2 @@
+H12Li2O14Tc2
+Atoms(symbols='Li2Tc2H12O14', pbc=False)

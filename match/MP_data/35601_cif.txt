@@ -1,0 +1,2 @@
+H12B20K4O38
+Atoms(symbols='H12B20K4O38', pbc=False)

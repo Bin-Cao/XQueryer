@@ -1,0 +1,2 @@
+Br2Er2O2
+Atoms(symbols='Er2Br2O2', pbc=False)

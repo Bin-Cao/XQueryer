@@ -1,0 +1,2 @@
+In10Mo36O56
+Atoms(symbols='In10Mo36O56', pbc=False)

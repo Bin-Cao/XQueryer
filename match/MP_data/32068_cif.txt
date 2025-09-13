@@ -1,0 +1,2 @@
+H2B22Li2O43Sr8
+Atoms(symbols='H2B22Li2O43Sr8', pbc=False)

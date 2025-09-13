@@ -1,0 +1,2 @@
+H60Al4Br12N20
+Atoms(symbols='H60Al4Br12N20', pbc=False)

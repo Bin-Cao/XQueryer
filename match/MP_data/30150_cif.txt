@@ -1,0 +1,2 @@
+C10H18N2O10Rh2
+Atoms(symbols='H18Rh2C10N2O10', pbc=False)

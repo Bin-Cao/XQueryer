@@ -1,0 +1,2 @@
+As8Ba2O28
+Atoms(symbols='Ba2As8O28', pbc=False)

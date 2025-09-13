@@ -1,0 +1,2 @@
+C52H156Si26
+Atoms(symbols='C52H156Si26', pbc=False)

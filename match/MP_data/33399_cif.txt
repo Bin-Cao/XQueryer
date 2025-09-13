@@ -1,0 +1,2 @@
+H16F8N4O4Zn2
+Atoms(symbols='Zn2H16N4O4F8', pbc=False)

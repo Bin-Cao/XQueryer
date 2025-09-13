@@ -1,0 +1,2 @@
+As6Co4Na2O20
+Atoms(symbols='Na2Co4As6O20', pbc=False)

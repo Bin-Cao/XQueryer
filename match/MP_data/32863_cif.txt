@@ -1,0 +1,2 @@
+Br8Cu4O32
+Atoms(symbols='Cu4Br8O32', pbc=False)

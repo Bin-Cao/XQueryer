@@ -1,0 +1,2 @@
+I26La6O78
+Atoms(symbols='I26La6O78', pbc=False)

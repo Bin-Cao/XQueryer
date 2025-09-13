@@ -1,0 +1,2 @@
+Lu2O2Se
+Atoms(symbols='Lu2SeO2', pbc=False)

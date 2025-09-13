@@ -1,0 +1,2 @@
+Bi4Cl20Hg16Se8
+Atoms(symbols='Hg16Bi4Se8Cl20', pbc=False)

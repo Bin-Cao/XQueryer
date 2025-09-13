@@ -1,0 +1,2 @@
+Ge32Zr40
+Atoms(symbols='Ge32Zr40', pbc=False)

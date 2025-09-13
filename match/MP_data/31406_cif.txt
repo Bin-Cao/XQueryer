@@ -1,0 +1,2 @@
+Au96Ho16
+Atoms(symbols='Au96Ho16', pbc=False)

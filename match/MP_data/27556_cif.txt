@@ -1,0 +1,2 @@
+C48Ag16N48O32
+Atoms(symbols='C48Ag16N48O32', pbc=False)

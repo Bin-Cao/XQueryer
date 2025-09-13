@@ -1,0 +1,2 @@
+O12Pt2Sm4Zn2
+Atoms(symbols='Sm4Zn2Pt2O12', pbc=False)

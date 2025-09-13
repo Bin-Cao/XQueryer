@@ -1,0 +1,2 @@
+Cl36Mo8N20O4
+Atoms(symbols='Cl36Mo8N20O4', pbc=False)

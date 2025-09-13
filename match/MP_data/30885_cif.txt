@@ -1,0 +1,2 @@
+C4H20Al4Ba2O26
+Atoms(symbols='Ba2Al4H20C4O26', pbc=False)

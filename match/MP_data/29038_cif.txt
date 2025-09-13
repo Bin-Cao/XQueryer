@@ -1,0 +1,2 @@
+Mg2O44P4U4
+Atoms(symbols='Mg2U4P4O44', pbc=False)

@@ -1,0 +1,2 @@
+Cu42Hg36
+Atoms(symbols='Cu42Hg36', pbc=False)

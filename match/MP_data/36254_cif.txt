@@ -1,0 +1,2 @@
+Cu7Si2
+Atoms(symbols='Cu7Si2', pbc=False)

@@ -1,0 +1,2 @@
+H32B24Ca4O56
+Atoms(symbols='H32B24Ca4O56', pbc=False)

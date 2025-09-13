@@ -1,0 +1,2 @@
+Ni28P28
+Atoms(symbols='Ni14P14Ni14P14', pbc=False)

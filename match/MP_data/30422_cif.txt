@@ -1,0 +1,2 @@
+C12H44Br12In4N4Si4
+Atoms(symbols='C12H44Br12In4N4Si4', pbc=False)

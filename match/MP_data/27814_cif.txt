@@ -1,0 +1,2 @@
+Cl18Cr3O24Pb18
+Atoms(symbols='Cl18Cr3O24Pb18', pbc=False)

@@ -1,0 +1,2 @@
+Fe6Lu6O18
+Atoms(symbols='Lu6Fe6O18', pbc=False)

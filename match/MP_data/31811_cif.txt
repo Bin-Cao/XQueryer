@@ -1,0 +1,2 @@
+Mo6O44Sm2Te
+Atoms(symbols='Sm2TeMo6O44', pbc=False)

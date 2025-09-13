@@ -1,0 +1,2 @@
+LiSe2Ti
+Atoms(symbols='LiTiSe2', pbc=False)

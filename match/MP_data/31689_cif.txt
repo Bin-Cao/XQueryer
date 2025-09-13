@@ -1,0 +1,2 @@
+H32Cl16O16Sn4
+Atoms(symbols='H32Cl16O16Sn4', pbc=False)

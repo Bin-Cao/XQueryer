@@ -1,0 +1,2 @@
+C8H12K4O30Se2U2
+Atoms(symbols='K4U2H12C8Se2O30', pbc=False)

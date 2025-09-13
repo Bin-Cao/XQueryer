@@ -1,0 +1,2 @@
+H20Ga4Ni2Zr12
+Atoms(symbols='Zr12Ga4Ni2H20', pbc=False)

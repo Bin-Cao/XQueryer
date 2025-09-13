@@ -1,0 +1,2 @@
+C10H26Cl6N4O6Ru2S2
+Atoms(symbols='H26Ru2C10S2N4Cl6O6', pbc=False)

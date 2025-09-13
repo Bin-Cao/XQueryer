@@ -1,0 +1,2 @@
+As16Au8Tb8
+Atoms(symbols='Tb4As8Au4Tb4As8Au4', pbc=False)

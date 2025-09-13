@@ -1,0 +1,2 @@
+Cs2F8O20P6Ti4
+Atoms(symbols='Cs2Ti4P6O20F8', pbc=False)

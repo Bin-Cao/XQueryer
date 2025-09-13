@@ -1,0 +1,2 @@
+O84Se24Sr16V8
+Atoms(symbols='O84Se24Sr16V8', pbc=False)

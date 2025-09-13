@@ -1,0 +1,2 @@
+As24Ca32
+Atoms(symbols='Ca32As24', pbc=False)

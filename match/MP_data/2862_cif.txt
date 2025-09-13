@@ -1,0 +1,2 @@
+C2Fe4Lu4Si4
+Atoms(symbols='Lu2Fe2Si2CLu2Fe2Si2C', pbc=False)

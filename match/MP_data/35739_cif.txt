@@ -1,0 +1,2 @@
+K2P4Ru4
+Atoms(symbols='KP2Ru2KP2Ru2', pbc=False)

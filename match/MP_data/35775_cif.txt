@@ -1,0 +1,2 @@
+Gd2O6
+Atoms(symbols='Gd2O6', pbc=False)

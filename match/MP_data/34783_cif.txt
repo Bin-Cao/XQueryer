@@ -1,0 +1,2 @@
+H4Ba2Ni6O20V4
+Atoms(symbols='BaV2Ni3H2O10BaV2Ni3H2O10', pbc=False)

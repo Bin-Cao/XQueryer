@@ -1,0 +1,2 @@
+C6O2S14
+Atoms(symbols='C6S14O2', pbc=False)

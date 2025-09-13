@@ -1,0 +1,2 @@
+O40Sc8Se12
+Atoms(symbols='Sc8Se12O40', pbc=False)

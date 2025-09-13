@@ -1,0 +1,2 @@
+I18N12Zn3
+Atoms(symbols='Zn3I18N12', pbc=False)

@@ -1,0 +1,2 @@
+Ce6Co15Fe36N9
+Atoms(symbols='Ce6Co15Fe36N9', pbc=False)

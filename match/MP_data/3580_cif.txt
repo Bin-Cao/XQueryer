@@ -1,0 +1,2 @@
+BKMg14
+Atoms(symbols='KMg14B', pbc=False)

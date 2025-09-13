@@ -1,0 +1,2 @@
+C8H16Ag8N8S16
+Atoms(symbols='Ag4H8C4S8N4Ag4H8C4S8N4', pbc=False)

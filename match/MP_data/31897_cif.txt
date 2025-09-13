@@ -1,0 +1,2 @@
+C4Cu4O40Pb12Te4
+Atoms(symbols='C4Cu4O40Pb12Te4', pbc=False)

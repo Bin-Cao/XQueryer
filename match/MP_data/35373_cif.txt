@@ -1,0 +1,2 @@
+HErSe
+Atoms(symbols='ErHSe', pbc=False)

@@ -1,0 +1,2 @@
+Cl2Mn16O48Si12
+Atoms(symbols='Cl2Mn16O48Si12', pbc=False)

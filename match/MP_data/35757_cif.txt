@@ -1,0 +1,2 @@
+Fe8Ni4Si4
+Atoms(symbols='Fe2SiNiFe2SiNiFe2SiNiFe2SiNi', pbc=False)

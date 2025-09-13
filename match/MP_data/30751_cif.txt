@@ -1,0 +1,2 @@
+Br40W16
+Atoms(symbols='W16Br40', pbc=False)

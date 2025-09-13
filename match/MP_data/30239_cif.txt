@@ -1,0 +1,2 @@
+H8F70K20Li2O4Zr12
+Atoms(symbols='H8F70K20Li2O4Zr12', pbc=False)

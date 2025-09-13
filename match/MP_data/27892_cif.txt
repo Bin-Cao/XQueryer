@@ -1,0 +1,2 @@
+C2H8In2O14Se2
+Atoms(symbols='In2H8C2Se2O14', pbc=False)

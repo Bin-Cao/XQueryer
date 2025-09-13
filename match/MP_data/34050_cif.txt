@@ -1,0 +1,2 @@
+H30Ni2O22P2
+Atoms(symbols='Ni2P2H30O22', pbc=False)

@@ -1,0 +1,2 @@
+Cl8N4O44
+Atoms(symbols='N2Cl4O22N2Cl4O22', pbc=False)

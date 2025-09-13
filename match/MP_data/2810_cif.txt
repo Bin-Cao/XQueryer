@@ -1,0 +1,2 @@
+IrO4Sr2
+Atoms(symbols='Sr2IrO4', pbc=False)

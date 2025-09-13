@@ -1,0 +1,2 @@
+H72Cu8F8N28
+Atoms(symbols='H72Cu8F8N28', pbc=False)

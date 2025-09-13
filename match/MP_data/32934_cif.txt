@@ -1,0 +1,2 @@
+C32H8Mn8N24O40
+Atoms(symbols='C32H8Mn8N24O40', pbc=False)

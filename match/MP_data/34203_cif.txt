@@ -1,0 +1,2 @@
+Cs8O60Si24Th4
+Atoms(symbols='Cs8O60Si24Th4', pbc=False)

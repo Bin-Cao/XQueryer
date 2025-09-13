@@ -1,0 +1,2 @@
+I2O4Pb4
+Atoms(symbols='Pb2IO2Pb2IO2', pbc=False)

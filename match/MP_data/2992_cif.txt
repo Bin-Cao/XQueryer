@@ -1,0 +1,2 @@
+CMg15
+Atoms(symbols='Mg15C', pbc=False)

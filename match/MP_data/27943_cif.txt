@@ -1,0 +1,2 @@
+Ge2Hf18Mo8
+Atoms(symbols='Hf18Ge2Mo8', pbc=False)

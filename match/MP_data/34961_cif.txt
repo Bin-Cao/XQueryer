@@ -1,0 +1,2 @@
+Ge2Pr2Ti
+Atoms(symbols='Pr2TiGe2', pbc=False)

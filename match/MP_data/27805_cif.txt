@@ -1,0 +1,2 @@
+Co2In2La6S14
+Atoms(symbols='La6In2Co2S14', pbc=False)

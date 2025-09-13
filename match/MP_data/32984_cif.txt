@@ -1,0 +1,2 @@
+H72Mn4N24S12Te4
+Atoms(symbols='H72Mn4N24S12Te4', pbc=False)

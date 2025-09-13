@@ -1,0 +1,2 @@
+As48O72
+Atoms(symbols='As48O72', pbc=False)

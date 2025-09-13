@@ -1,0 +1,2 @@
+H20O28P6Pr2
+Atoms(symbols='Pr2P6H20O28', pbc=False)

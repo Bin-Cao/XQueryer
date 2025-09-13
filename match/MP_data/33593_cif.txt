@@ -1,0 +1,2 @@
+H40Lu6N8O49
+Atoms(symbols='H40Lu6N8O49', pbc=False)

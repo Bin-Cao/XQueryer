@@ -1,0 +1,2 @@
+As4K4Mo16O60
+Atoms(symbols='As4K4Mo16O60', pbc=False)

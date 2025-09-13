@@ -1,0 +1,2 @@
+C16H48Mo4O20Sn8
+Atoms(symbols='C16H48Mo4O20Sn8', pbc=False)

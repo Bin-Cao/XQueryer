@@ -1,0 +1,2 @@
+Ga8Na8Si38
+Atoms(symbols='Na8Ga8Si38', pbc=False)

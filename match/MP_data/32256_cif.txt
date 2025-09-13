@@ -1,0 +1,2 @@
+H4F118Hg4Sb14Xe6
+Atoms(symbols='H4F118Hg4Sb14Xe6', pbc=False)

@@ -1,0 +1,2 @@
+Ga58Mn12
+Atoms(symbols='Ga58Mn12', pbc=False)

@@ -1,0 +1,2 @@
+HfIr
+Atoms(symbols='HfIr', pbc=False)

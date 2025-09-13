@@ -1,0 +1,2 @@
+C24H100N6Nb10O42
+Atoms(symbols='C24H100N6Nb10O42', pbc=False)

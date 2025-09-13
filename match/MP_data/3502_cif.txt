@@ -1,0 +1,2 @@
+GaMg14Si
+Atoms(symbols='Mg14GaSi', pbc=False)

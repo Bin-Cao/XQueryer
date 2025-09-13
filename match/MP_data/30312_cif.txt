@@ -1,0 +1,2 @@
+Ca10Ge4O20
+Atoms(symbols='Ca10Ge4O20', pbc=False)

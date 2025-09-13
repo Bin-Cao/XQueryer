@@ -1,0 +1,2 @@
+Cs2Rb28Tl54
+Atoms(symbols='Cs2Rb28Tl54', pbc=False)

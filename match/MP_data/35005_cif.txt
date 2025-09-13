@@ -1,0 +1,2 @@
+AsErNi
+Atoms(symbols='ErNiAs', pbc=False)

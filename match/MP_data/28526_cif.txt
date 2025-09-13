@@ -1,0 +1,2 @@
+B24O26U2
+Atoms(symbols='UB12O13UB12O13', pbc=False)

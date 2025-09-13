@@ -1,0 +1,2 @@
+H4I8La2O30V2
+Atoms(symbols='La2V2H4I8O30', pbc=False)

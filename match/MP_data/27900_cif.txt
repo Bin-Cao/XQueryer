@@ -1,0 +1,2 @@
+C4H14Cl2O6Se2Sn2
+Atoms(symbols='Sn2H14C4Se2Cl2O6', pbc=False)

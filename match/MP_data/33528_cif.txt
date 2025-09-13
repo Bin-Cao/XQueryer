@@ -1,0 +1,2 @@
+Al78Fe24
+Atoms(symbols='Al78Fe24', pbc=False)

@@ -1,0 +1,2 @@
+C38Y30
+Atoms(symbols='C38Y30', pbc=False)

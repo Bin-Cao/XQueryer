@@ -1,0 +1,2 @@
+Ce8Pd8Sn4
+Atoms(symbols='Ce4Sn2Pd4Ce4Sn2Pd4', pbc=False)

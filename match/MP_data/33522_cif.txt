@@ -1,0 +1,2 @@
+C6H24Ag4Br4N12S6
+Atoms(symbols='Ag4H24C6S6Br4N12', pbc=False)

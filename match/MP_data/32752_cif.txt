@@ -1,0 +1,2 @@
+C48H12O48Re12
+Atoms(symbols='C48H12O48Re12', pbc=False)

@@ -1,0 +1,2 @@
+H24Ca4O60Si16V4
+Atoms(symbols='H24Ca4O60Si16V4', pbc=False)

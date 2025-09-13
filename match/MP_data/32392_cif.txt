@@ -1,0 +1,2 @@
+C8Cl12Ge4O8Ru2
+Atoms(symbols='Ge4Ru2C8Cl12O8', pbc=False)

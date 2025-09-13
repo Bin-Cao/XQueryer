@@ -1,0 +1,2 @@
+C24H40Cu8N8O32
+Atoms(symbols='C24H40Cu8N8O32', pbc=False)

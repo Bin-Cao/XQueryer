@@ -1,0 +1,2 @@
+F28N12Th4
+Atoms(symbols='Th4N12F28', pbc=False)

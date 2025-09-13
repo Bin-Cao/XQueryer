@@ -1,0 +1,2 @@
+Na4O48Re4S8
+Atoms(symbols='Na4O48Re4S8', pbc=False)

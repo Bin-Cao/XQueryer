@@ -1,0 +1,2 @@
+C4H12Eu4O28S4
+Atoms(symbols='Eu4H12C4S4O28', pbc=False)

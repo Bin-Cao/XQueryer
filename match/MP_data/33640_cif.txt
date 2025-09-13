@@ -1,0 +1,2 @@
+H28Cl6O14U2
+Atoms(symbols='U2H28Cl6O14', pbc=False)

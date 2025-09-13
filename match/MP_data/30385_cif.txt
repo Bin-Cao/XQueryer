@@ -1,0 +1,2 @@
+Br26O4Tc16
+Atoms(symbols='Tc16Br26O4', pbc=False)

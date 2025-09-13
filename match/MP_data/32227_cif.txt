@@ -1,0 +1,2 @@
+O84P12Pb18Te6Zn18
+Atoms(symbols='O84P12Pb18Te6Zn18', pbc=False)

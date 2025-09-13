@@ -1,0 +1,2 @@
+As4Be4O20
+Atoms(symbols='Be4As4O20', pbc=False)

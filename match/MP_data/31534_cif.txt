@@ -1,0 +1,2 @@
+C6H24Cu3N2O16P4
+Atoms(symbols='Cu3P4H24C6N2O16', pbc=False)

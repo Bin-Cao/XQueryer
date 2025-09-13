@@ -1,0 +1,2 @@
+La8S44Y22
+Atoms(symbols='La8S44Y22', pbc=False)

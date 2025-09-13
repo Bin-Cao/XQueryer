@@ -1,0 +1,2 @@
+B36Cs4Na4O60Sr2
+Atoms(symbols='B36Cs4Na4O60Sr2', pbc=False)

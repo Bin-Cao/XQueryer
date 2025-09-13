@@ -1,0 +1,2 @@
+H28Fe2O30S4Zn
+Atoms(symbols='H28Fe2O30S4Zn', pbc=False)

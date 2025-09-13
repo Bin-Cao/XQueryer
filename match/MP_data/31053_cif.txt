@@ -1,0 +1,2 @@
+C32Ca44Sn12
+Atoms(symbols='C32Ca44Sn12', pbc=False)

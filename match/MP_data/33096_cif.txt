@@ -1,0 +1,2 @@
+H32N14Se6Sn2
+Atoms(symbols='Sn2H32Se6N14', pbc=False)

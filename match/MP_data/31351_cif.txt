@@ -1,0 +1,2 @@
+C4H8O32P8Th4
+Atoms(symbols='Th4P8H8C4O32', pbc=False)

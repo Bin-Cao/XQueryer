@@ -1,0 +1,2 @@
+H4O20P4Sr2U2
+Atoms(symbols='Sr2U2P4H4O20', pbc=False)

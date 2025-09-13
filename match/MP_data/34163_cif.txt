@@ -1,0 +1,2 @@
+N16O36Th2
+Atoms(symbols='Th2N16O36', pbc=False)

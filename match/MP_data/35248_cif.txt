@@ -1,0 +1,2 @@
+Cu2DyO2Se
+Atoms(symbols='DyCu2SeO2', pbc=False)

@@ -1,0 +1,2 @@
+Fe16Ni7O32Zn
+Atoms(symbols='ZnFe16Ni7O32', pbc=False)

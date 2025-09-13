@@ -1,0 +1,2 @@
+Na2Ni2O22P2
+Atoms(symbols='Na2Ni2P2O22', pbc=False)

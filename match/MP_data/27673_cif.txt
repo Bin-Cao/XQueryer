@@ -1,0 +1,2 @@
+Cu2O12Te2Tl8
+Atoms(symbols='Tl8Cu2Te2O12', pbc=False)

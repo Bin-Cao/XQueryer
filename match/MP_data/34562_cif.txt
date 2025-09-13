@@ -1,0 +1,2 @@
+H20Cu4I4O28
+Atoms(symbols='Cu4H20I4O28', pbc=False)

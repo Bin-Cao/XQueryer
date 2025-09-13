@@ -1,0 +1,2 @@
+La2Mo6O42Te
+Atoms(symbols='La2TeMo6O42', pbc=False)

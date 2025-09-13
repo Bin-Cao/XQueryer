@@ -1,0 +1,2 @@
+H6Gd3Na3O27S6
+Atoms(symbols='Na3Gd3H6S6O27', pbc=False)

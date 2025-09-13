@@ -1,0 +1,2 @@
+Bi6Tb2
+Atoms(symbols='TbBi3TbBi3', pbc=False)

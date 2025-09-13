@@ -1,0 +1,2 @@
+B14K18Li6Nd6O42
+Atoms(symbols='B14K18Li6Nd6O42', pbc=False)

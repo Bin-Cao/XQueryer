@@ -1,0 +1,2 @@
+H12K6O24Sb12Te12
+Atoms(symbols='H12K6O24Sb12Te12', pbc=False)

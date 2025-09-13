@@ -1,0 +1,2 @@
+Cr5F30K5Rb10
+Atoms(symbols='K5Rb10Cr5F30', pbc=False)

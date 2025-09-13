@@ -1,0 +1,2 @@
+Er22La8S44
+Atoms(symbols='Er22La8S44', pbc=False)

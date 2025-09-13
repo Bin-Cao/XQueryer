@@ -1,0 +1,2 @@
+LaSe
+Atoms(symbols='LaSe', pbc=False)

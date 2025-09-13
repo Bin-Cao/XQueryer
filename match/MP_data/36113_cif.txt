@@ -1,0 +1,2 @@
+Cl6O24Y2
+Atoms(symbols='Y2Cl6O24', pbc=False)

@@ -1,0 +1,2 @@
+Nd10P24Ru38
+Atoms(symbols='Nd10P24Ru38', pbc=False)

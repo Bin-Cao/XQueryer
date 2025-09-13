@@ -1,0 +1,2 @@
+C16I4Mo4O16
+Atoms(symbols='Mo4C16I4O16', pbc=False)

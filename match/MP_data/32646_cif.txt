@@ -1,0 +1,2 @@
+C12H8FeNa2O28U2
+Atoms(symbols='Na2U2FeH8C12O28', pbc=False)

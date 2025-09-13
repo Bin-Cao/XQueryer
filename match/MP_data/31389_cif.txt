@@ -1,0 +1,2 @@
+C12Er2Fe2N12O8
+Atoms(symbols='Er2Fe2C12N12O8', pbc=False)

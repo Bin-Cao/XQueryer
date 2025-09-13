@@ -1,0 +1,2 @@
+As24Ga8Sr24
+Atoms(symbols='Sr24Ga8As24', pbc=False)

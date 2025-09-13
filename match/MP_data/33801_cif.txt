@@ -1,0 +1,2 @@
+C4H12La4O28S4
+Atoms(symbols='La4H12C4S4O28', pbc=False)

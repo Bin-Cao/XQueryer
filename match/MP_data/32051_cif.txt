@@ -1,0 +1,2 @@
+B12Dy8O32
+Atoms(symbols='Dy8B12O32', pbc=False)

@@ -1,0 +1,2 @@
+C48H144Li16N32Si8
+Atoms(symbols='C48H144Li16N32Si8', pbc=False)

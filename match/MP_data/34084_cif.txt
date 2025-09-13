@@ -1,0 +1,2 @@
+H4Y12
+Atoms(symbols='Y12H4', pbc=False)

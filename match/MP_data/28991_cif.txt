@@ -1,0 +1,2 @@
+Se20Sm8Zr4
+Atoms(symbols='Sm8Zr4Se20', pbc=False)

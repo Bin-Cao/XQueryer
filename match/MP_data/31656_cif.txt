@@ -1,0 +1,2 @@
+C6H14F2N2O10Sn2
+Atoms(symbols='Sn2H14C6N2O10F2', pbc=False)

@@ -1,0 +1,2 @@
+C4F18N4Na4O6S4Sb10
+Atoms(symbols='Na4Sb10C4S4N4O6F18', pbc=False)

@@ -1,0 +1,2 @@
+Bi36O68Re4
+Atoms(symbols='Bi36O68Re4', pbc=False)

@@ -1,0 +1,2 @@
+C8H24FeN2Se10Sn4
+Atoms(symbols='FeSn4H24C8Se10N2', pbc=False)

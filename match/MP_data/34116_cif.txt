@@ -1,0 +1,2 @@
+O96P32U8
+Atoms(symbols='O96P32U8', pbc=False)

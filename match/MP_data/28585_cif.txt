@@ -1,0 +1,2 @@
+C2Cl12O8Pb8
+Atoms(symbols='Pb8C2Cl12O8', pbc=False)

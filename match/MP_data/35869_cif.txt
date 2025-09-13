@@ -1,0 +1,2 @@
+Cu3Nd2Sn3
+Atoms(symbols='Nd2Cu3Sn3', pbc=False)

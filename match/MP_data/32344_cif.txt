@@ -1,0 +1,2 @@
+Ag4Ge8O48U8
+Atoms(symbols='Ag4Ge8O48U8', pbc=False)

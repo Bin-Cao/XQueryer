@@ -1,0 +1,2 @@
+B4Ti3
+Atoms(symbols='Ti3B4', pbc=False)

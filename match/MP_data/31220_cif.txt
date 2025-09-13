@@ -1,0 +1,2 @@
+H28B20Ce4N4O60
+Atoms(symbols='H28B20Ce4N4O60', pbc=False)

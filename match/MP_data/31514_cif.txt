@@ -1,0 +1,2 @@
+B33O81Pb18
+Atoms(symbols='B33O81Pb18', pbc=False)

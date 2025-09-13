@@ -1,0 +1,2 @@
+Nd8Se20U4
+Atoms(symbols='Nd8U4Se20', pbc=False)

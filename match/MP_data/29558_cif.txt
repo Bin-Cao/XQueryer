@@ -1,0 +1,2 @@
+C8H18B10La4O30
+Atoms(symbols='C8H18B10La4O30', pbc=False)

@@ -1,0 +1,2 @@
+C18H58K2Mo4O22
+Atoms(symbols='C18H58K2Mo4O22', pbc=False)

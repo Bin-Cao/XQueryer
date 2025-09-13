@@ -1,0 +1,2 @@
+H24B12Mn12O72P12
+Atoms(symbols='H24B12Mn12O72P12', pbc=False)

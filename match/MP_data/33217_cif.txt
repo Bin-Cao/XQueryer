@@ -1,0 +1,2 @@
+H36Ce2Mo6O42Te
+Atoms(symbols='H36Ce2Mo6O42Te', pbc=False)

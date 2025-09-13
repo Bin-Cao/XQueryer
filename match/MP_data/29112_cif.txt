@@ -1,0 +1,2 @@
+C2H6F28N2Sb4
+Atoms(symbols='Sb4H6C2N2F28', pbc=False)

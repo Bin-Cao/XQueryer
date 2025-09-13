@@ -1,0 +1,2 @@
+C8H16N16O16
+Atoms(symbols='H16C8N16O16', pbc=False)

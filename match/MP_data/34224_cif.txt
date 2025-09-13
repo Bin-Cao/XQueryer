@@ -1,0 +1,2 @@
+F26Sb4Xe2
+Atoms(symbols='Sb4Xe2F26', pbc=False)

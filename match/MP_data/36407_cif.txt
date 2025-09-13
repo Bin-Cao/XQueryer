@@ -1,0 +1,2 @@
+AsI2La2
+Atoms(symbols='La2AsI2', pbc=False)

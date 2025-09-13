@@ -1,0 +1,2 @@
+I12Ru2Te14
+Atoms(symbols='Te14Ru2I12', pbc=False)

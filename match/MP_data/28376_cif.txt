@@ -1,0 +1,2 @@
+Cs4In4O40Se8
+Atoms(symbols='Cs2In2Se4O20Cs2In2Se4O20', pbc=False)

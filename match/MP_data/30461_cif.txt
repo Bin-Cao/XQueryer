@@ -1,0 +1,2 @@
+C4Ge36Nd60
+Atoms(symbols='C4Ge36Nd60', pbc=False)

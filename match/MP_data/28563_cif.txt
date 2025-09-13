@@ -1,0 +1,2 @@
+B12Er12O36
+Atoms(symbols='Er6B6O18Er6B6O18', pbc=False)

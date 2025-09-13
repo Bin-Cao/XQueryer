@@ -1,0 +1,2 @@
+Pb4Se20U8
+Atoms(symbols='U8Pb4Se20', pbc=False)

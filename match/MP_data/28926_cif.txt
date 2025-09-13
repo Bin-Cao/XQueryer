@@ -1,0 +1,2 @@
+As12Co4F72K4
+Atoms(symbols='As12Co4F72K4', pbc=False)

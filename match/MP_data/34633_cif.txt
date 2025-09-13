@@ -1,0 +1,2 @@
+H44Br12Cd3Co2N12O4
+Atoms(symbols='H44Br12Cd3Co2N12O4', pbc=False)

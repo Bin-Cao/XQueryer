@@ -1,0 +1,2 @@
+F12K4Li2Pd2
+Atoms(symbols='K2LiPdF6K2LiPdF6', pbc=False)

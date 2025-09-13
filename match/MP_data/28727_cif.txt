@@ -1,0 +1,2 @@
+Br8O24Pb12Se8
+Atoms(symbols='Pb6Se4Br4O12Pb6Se4Br4O12', pbc=False)

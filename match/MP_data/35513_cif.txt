@@ -1,0 +1,2 @@
+F6Hf3Ni
+Atoms(symbols='Hf3NiF6', pbc=False)

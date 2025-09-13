@@ -1,0 +1,2 @@
+As16Se12
+Atoms(symbols='As16Se12', pbc=False)

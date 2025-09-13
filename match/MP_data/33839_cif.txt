@@ -1,0 +1,2 @@
+I20La4O64V4
+Atoms(symbols='I20La4O64V4', pbc=False)

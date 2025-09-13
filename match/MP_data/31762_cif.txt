@@ -1,0 +1,2 @@
+Al8F40O16P4Sr12
+Atoms(symbols='Al8F40O16P4Sr12', pbc=False)

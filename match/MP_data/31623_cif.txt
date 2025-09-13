@@ -1,0 +1,2 @@
+H54Li4N18P14
+Atoms(symbols='H54Li4N18P14', pbc=False)

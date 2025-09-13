@@ -1,0 +1,2 @@
+H10O28S6Zr2
+Atoms(symbols='Zr2H10S6O28', pbc=False)

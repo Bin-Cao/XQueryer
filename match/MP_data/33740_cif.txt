@@ -1,0 +1,2 @@
+Br60Ta12
+Atoms(symbols='Br60Ta12', pbc=False)

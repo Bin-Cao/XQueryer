@@ -1,0 +1,2 @@
+C8H24Mo4O16Sn4
+Atoms(symbols='Sn4Mo4H24C8O16', pbc=False)

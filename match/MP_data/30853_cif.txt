@@ -1,0 +1,2 @@
+H26Be6Mg4O38P6
+Atoms(symbols='H26Be6Mg4O38P6', pbc=False)

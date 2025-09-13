@@ -1,0 +1,2 @@
+Br20Hg24S16Tl4
+Atoms(symbols='Br20Hg24S16Tl4', pbc=False)

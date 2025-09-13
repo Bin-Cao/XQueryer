@@ -1,0 +1,2 @@
+C20Cs12Mo8O54S4
+Atoms(symbols='C20Cs12Mo8O54S4', pbc=False)

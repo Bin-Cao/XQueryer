@@ -1,0 +1,2 @@
+H60Mn2N32
+Atoms(symbols='H60Mn2N32', pbc=False)

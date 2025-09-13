@@ -1,0 +1,2 @@
+Al5F30K15
+Atoms(symbols='K15Al5F30', pbc=False)

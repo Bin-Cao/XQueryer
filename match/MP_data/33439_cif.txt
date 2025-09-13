@@ -1,0 +1,2 @@
+H80B20Na4Zn8
+Atoms(symbols='H80B20Na4Zn8', pbc=False)

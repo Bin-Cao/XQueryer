@@ -1,0 +1,2 @@
+Au3Si3U2
+Atoms(symbols='U2Si3Au3', pbc=False)

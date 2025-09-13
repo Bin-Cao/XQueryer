@@ -1,0 +1,2 @@
+Au20Ba4Ge8
+Atoms(symbols='Ba4Ge8Au20', pbc=False)

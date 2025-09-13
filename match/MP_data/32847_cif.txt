@@ -1,0 +1,2 @@
+Dy16N8Te12
+Atoms(symbols='Dy16Te12N8', pbc=False)

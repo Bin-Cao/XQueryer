@@ -1,0 +1,2 @@
+K8Na8Nb8Nd16O52
+Atoms(symbols='K8Na8Nb8Nd16O52', pbc=False)

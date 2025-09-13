@@ -1,0 +1,2 @@
+S34U16V2
+Atoms(symbols='U8VS17U8VS17', pbc=False)

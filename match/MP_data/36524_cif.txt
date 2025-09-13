@@ -1,0 +1,2 @@
+As4O18Pb4Zn2
+Atoms(symbols='Zn2As4Pb4O18', pbc=False)

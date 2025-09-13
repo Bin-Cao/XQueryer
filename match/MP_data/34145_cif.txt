@@ -1,0 +1,2 @@
+CoO24P6Rb4
+Atoms(symbols='Rb4CoP6O24', pbc=False)

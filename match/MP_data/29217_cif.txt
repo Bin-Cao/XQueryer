@@ -1,0 +1,2 @@
+Ca2K8O28Si8U2
+Atoms(symbols='K8Ca2U2Si8O28', pbc=False)

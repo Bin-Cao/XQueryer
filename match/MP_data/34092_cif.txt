@@ -1,0 +1,2 @@
+Ag4NiO24P6
+Atoms(symbols='NiAg4P6O24', pbc=False)

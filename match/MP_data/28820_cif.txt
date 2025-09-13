@@ -1,0 +1,2 @@
+O24P8Tl16
+Atoms(symbols='Tl16P8O24', pbc=False)

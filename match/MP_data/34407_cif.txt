@@ -1,0 +1,2 @@
+H8I2O20P8Pt2
+Atoms(symbols='P8H8Pt2I2O20', pbc=False)

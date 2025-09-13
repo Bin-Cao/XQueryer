@@ -1,0 +1,2 @@
+H12B12O24
+Atoms(symbols='B12H12O24', pbc=False)

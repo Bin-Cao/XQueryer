@@ -1,0 +1,2 @@
+H56Co4F16O32V4
+Atoms(symbols='H56Co4F16O32V4', pbc=False)

@@ -1,0 +1,2 @@
+H4B2Fe2O20P4Sr2
+Atoms(symbols='Sr2Fe2B2P4H4O20', pbc=False)

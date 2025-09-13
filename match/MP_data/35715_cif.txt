@@ -1,0 +1,2 @@
+F6Rb2Re
+Atoms(symbols='Rb2ReF6', pbc=False)

@@ -1,0 +1,2 @@
+H8O36P8Ti4
+Atoms(symbols='Ti4P8H8O36', pbc=False)

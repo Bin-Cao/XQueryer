@@ -1,0 +1,2 @@
+CeLaMg14
+Atoms(symbols='LaCeMg14', pbc=False)

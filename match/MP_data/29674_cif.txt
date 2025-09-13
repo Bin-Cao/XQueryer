@@ -1,0 +1,2 @@
+O40Pb8Se12V4
+Atoms(symbols='O40Pb8Se12V4', pbc=False)

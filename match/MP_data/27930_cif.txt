@@ -1,0 +1,2 @@
+Co23Hf6
+Atoms(symbols='Hf6Co23', pbc=False)

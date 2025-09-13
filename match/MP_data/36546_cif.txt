@@ -1,0 +1,2 @@
+Hf2Sb3
+Atoms(symbols='Hf2Sb3', pbc=False)

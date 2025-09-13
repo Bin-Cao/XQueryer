@@ -1,0 +1,2 @@
+N4O22U2
+Atoms(symbols='U2N4O22', pbc=False)

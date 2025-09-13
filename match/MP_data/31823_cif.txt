@@ -1,0 +1,2 @@
+Mn40O80Rb64
+Atoms(symbols='Mn40O80Rb64', pbc=False)

@@ -1,0 +1,2 @@
+Ag8N16O32Pd4
+Atoms(symbols='Ag8Pd4N16O32', pbc=False)

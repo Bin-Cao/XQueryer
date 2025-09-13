@@ -1,0 +1,2 @@
+Mn2O44P4U4
+Atoms(symbols='U2MnP2O22U2MnP2O22', pbc=False)

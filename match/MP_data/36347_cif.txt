@@ -1,0 +1,2 @@
+H20Al4Fe2Zr12
+Atoms(symbols='Zr12Al4Fe2H20', pbc=False)

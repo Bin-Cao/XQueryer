@@ -1,0 +1,2 @@
+Hf36Mo16Ni4
+Atoms(symbols='Hf18Ni2Mo8Hf18Ni2Mo8', pbc=False)

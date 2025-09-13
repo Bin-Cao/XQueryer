@@ -1,0 +1,2 @@
+H12Al4Ca4O44Si12Sn2
+Atoms(symbols='H12Al4Ca4O44Si12Sn2', pbc=False)

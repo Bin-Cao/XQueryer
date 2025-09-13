@@ -1,0 +1,2 @@
+B16Dy16F8O44
+Atoms(symbols='B16Dy16F8O44', pbc=False)

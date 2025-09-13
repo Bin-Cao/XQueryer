@@ -1,0 +1,2 @@
+Sn16Th20
+Atoms(symbols='Th20Sn16', pbc=False)

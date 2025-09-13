@@ -1,0 +1,2 @@
+In24Si16Y44
+Atoms(symbols='In24Si16Y44', pbc=False)

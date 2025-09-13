@@ -1,0 +1,2 @@
+C36La22Mn6
+Atoms(symbols='C36La22Mn6', pbc=False)

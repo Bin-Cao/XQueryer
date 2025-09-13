@@ -1,0 +1,2 @@
+Ag3Ni3Se6
+Atoms(symbols='NiAgSe2NiAgSe2NiAgSe2', pbc=False)

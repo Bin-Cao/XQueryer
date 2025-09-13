@@ -1,0 +1,2 @@
+Cu4Fe4O32P8Rb4
+Atoms(symbols='Rb4Fe4Cu4P8O32', pbc=False)

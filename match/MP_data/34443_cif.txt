@@ -1,0 +1,2 @@
+C16Al12N4O52P12
+Atoms(symbols='C16Al12N4O52P12', pbc=False)

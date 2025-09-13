@@ -1,0 +1,2 @@
+F16N8Th2
+Atoms(symbols='Th2N8F16', pbc=False)

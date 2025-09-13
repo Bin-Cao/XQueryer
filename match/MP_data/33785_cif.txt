@@ -1,0 +1,2 @@
+Cl56Mo24O32
+Atoms(symbols='Cl56Mo24O32', pbc=False)

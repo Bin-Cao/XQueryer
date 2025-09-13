@@ -1,0 +1,2 @@
+Cs4F132Ti32
+Atoms(symbols='Cs4F132Ti32', pbc=False)

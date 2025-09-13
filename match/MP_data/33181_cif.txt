@@ -1,0 +1,2 @@
+C12H120B80N8
+Atoms(symbols='C12H120B80N8', pbc=False)

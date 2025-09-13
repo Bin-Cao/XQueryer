@@ -1,0 +1,2 @@
+Bi2FeY6
+Atoms(symbols='Y6FeBi2', pbc=False)

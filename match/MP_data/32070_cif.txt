@@ -1,0 +1,2 @@
+H20Li28N16
+Atoms(symbols='H20Li28N16', pbc=False)

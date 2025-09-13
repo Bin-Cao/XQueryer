@@ -1,0 +1,2 @@
+H12Ca28Ge12Li4
+Atoms(symbols='Li4Ca28Ge12H12', pbc=False)

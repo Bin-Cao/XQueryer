@@ -1,0 +1,2 @@
+Ce8S20Th4
+Atoms(symbols='Ce8Th4S20', pbc=False)

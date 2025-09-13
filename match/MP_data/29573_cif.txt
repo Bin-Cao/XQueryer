@@ -1,0 +1,2 @@
+C12H36Co6O36
+Atoms(symbols='C12H36Co6O36', pbc=False)

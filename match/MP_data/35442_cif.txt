@@ -1,0 +1,2 @@
+Mo8Nd2O45
+Atoms(symbols='Nd2Mo8O45', pbc=False)

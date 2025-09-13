@@ -1,0 +1,2 @@
+Cs8Mo28O88
+Atoms(symbols='Cs8Mo28O88', pbc=False)

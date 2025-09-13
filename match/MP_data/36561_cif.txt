@@ -1,0 +1,2 @@
+Ag2O16S4V2
+Atoms(symbols='VAgS2O8VAgS2O8', pbc=False)

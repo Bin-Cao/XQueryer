@@ -1,0 +1,2 @@
+B16Mn8O32
+Atoms(symbols='Mn8B16O32', pbc=False)

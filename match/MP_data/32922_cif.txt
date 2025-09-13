@@ -1,0 +1,2 @@
+Ge16Ho44In24
+Atoms(symbols='Ge16Ho44In24', pbc=False)

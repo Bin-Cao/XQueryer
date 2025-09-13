@@ -1,0 +1,2 @@
+Ni24O64Se16
+Atoms(symbols='Ni24O64Se16', pbc=False)

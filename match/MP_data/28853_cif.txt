@@ -1,0 +1,2 @@
+H6F22N2Sb4
+Atoms(symbols='Sb4H6N2F22', pbc=False)

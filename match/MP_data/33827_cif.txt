@@ -1,0 +1,2 @@
+H48Mg2N8O44P12
+Atoms(symbols='H48Mg2N8O44P12', pbc=False)

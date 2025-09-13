@@ -1,0 +1,2 @@
+Cl2Cs12Dy42Te68
+Atoms(symbols='Cl2Cs12Dy42Te68', pbc=False)

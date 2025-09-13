@@ -1,0 +1,2 @@
+As12Lu5Ni16Zr3
+Atoms(symbols='Lu5Zr3Ni16As12', pbc=False)

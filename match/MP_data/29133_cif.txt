@@ -1,0 +1,2 @@
+Cl2Mn6Na4O28P8Rb2
+Atoms(symbols='Rb2Na4Mn6P8Cl2O28', pbc=False)

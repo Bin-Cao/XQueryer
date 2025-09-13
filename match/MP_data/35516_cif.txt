@@ -1,0 +1,2 @@
+NiTe2Zr6
+Atoms(symbols='Zr6NiTe2', pbc=False)

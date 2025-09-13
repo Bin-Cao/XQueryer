@@ -1,0 +1,2 @@
+H16Fe4N8O16P4
+Atoms(symbols='Fe4P4H16N8O16', pbc=False)

@@ -1,0 +1,2 @@
+Ga4Ni2Pr2
+Atoms(symbols='Pr2Ga4Ni2', pbc=False)

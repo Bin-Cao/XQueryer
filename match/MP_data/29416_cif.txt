@@ -1,0 +1,2 @@
+Hg20O32Se8
+Atoms(symbols='Hg20Se8O32', pbc=False)

@@ -1,0 +1,2 @@
+As22Ba13Si6Sn8
+Atoms(symbols='Ba13Si6Sn8As22', pbc=False)

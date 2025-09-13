@@ -1,0 +1,2 @@
+O34Sc8Si10Sr2
+Atoms(symbols='Sr2Sc8Si10O34', pbc=False)

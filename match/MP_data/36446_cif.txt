@@ -1,0 +1,2 @@
+F110K44Sb22
+Atoms(symbols='F110K44Sb22', pbc=False)

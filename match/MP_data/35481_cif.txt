@@ -1,0 +1,2 @@
+LuTl
+Atoms(symbols='LuTl', pbc=False)

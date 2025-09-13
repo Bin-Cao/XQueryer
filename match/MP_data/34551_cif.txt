@@ -1,0 +1,2 @@
+I6Lu6Na4O24Te8
+Atoms(symbols='Na4Lu6Te8I6O24', pbc=False)

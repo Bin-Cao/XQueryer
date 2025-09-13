@@ -1,0 +1,2 @@
+Al2CeCu3
+Atoms(symbols='CeAl2Cu3', pbc=False)

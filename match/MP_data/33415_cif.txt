@@ -1,0 +1,2 @@
+F56K20Nb12O12
+Atoms(symbols='F56K20Nb12O12', pbc=False)

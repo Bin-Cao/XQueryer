@@ -1,0 +1,2 @@
+EuNiP
+Atoms(symbols='EuNiP', pbc=False)

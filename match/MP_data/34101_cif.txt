@@ -1,0 +1,2 @@
+In24Si16Tb44
+Atoms(symbols='In24Si16Tb44', pbc=False)

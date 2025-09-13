@@ -1,0 +1,2 @@
+Ge24Sr28
+Atoms(symbols='Sr28Ge24', pbc=False)

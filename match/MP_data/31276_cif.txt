@@ -1,0 +1,2 @@
+H22F24N16Ti4
+Atoms(symbols='H22F24N16Ti4', pbc=False)

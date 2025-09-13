@@ -1,0 +1,2 @@
+H28Ho4O40P8
+Atoms(symbols='H28Ho4O40P8', pbc=False)

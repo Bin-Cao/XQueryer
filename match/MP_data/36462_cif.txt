@@ -1,0 +1,2 @@
+CuHoTe2
+Atoms(symbols='HoCuTe2', pbc=False)

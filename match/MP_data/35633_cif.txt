@@ -1,0 +1,2 @@
+AuNiSn2
+Atoms(symbols='NiSn2Au', pbc=False)

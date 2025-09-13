@@ -1,0 +1,2 @@
+Br4O22Te8Zr4
+Atoms(symbols='Zr4Te8Br4O22', pbc=False)

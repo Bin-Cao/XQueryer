@@ -1,0 +1,2 @@
+Cs16O12Pb4
+Atoms(symbols='Cs16Pb4O12', pbc=False)

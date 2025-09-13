@@ -1,0 +1,2 @@
+AuLi
+Atoms(symbols='LiAu', pbc=False)

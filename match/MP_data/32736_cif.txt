@@ -1,0 +1,2 @@
+C2H26B12N8
+Atoms(symbols='B12H26C2N8', pbc=False)

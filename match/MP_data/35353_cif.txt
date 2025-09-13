@@ -1,0 +1,2 @@
+Cs12Te44Ti12
+Atoms(symbols='Cs12Te44Ti12', pbc=False)

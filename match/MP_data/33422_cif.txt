@@ -1,0 +1,2 @@
+F32Tc8
+Atoms(symbols='Tc8F32', pbc=False)

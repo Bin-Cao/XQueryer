@@ -1,0 +1,2 @@
+O28S2Zn8
+Atoms(symbols='Zn8S2O28', pbc=False)

@@ -1,0 +1,2 @@
+Ga4Mn4O20Y4
+Atoms(symbols='Y4Mn4Ga4O20', pbc=False)

@@ -1,0 +1,2 @@
+K8Ni2O50P12
+Atoms(symbols='K8Ni2O50P12', pbc=False)

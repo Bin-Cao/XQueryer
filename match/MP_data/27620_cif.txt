@@ -1,0 +1,2 @@
+Cl8Ni4O16
+Atoms(symbols='Ni4Cl8O16', pbc=False)

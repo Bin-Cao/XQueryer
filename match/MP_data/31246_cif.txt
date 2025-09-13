@@ -1,0 +1,2 @@
+Ni20P20
+Atoms(symbols='Ni20P20', pbc=False)

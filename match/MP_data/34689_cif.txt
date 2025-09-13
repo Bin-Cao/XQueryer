@@ -1,0 +1,2 @@
+CoGa5Lu3
+Atoms(symbols='Lu3Ga5Co', pbc=False)

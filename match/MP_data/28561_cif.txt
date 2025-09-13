@@ -1,0 +1,2 @@
+CoSe17U8
+Atoms(symbols='U8CoSe17', pbc=False)

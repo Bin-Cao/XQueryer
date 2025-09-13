@@ -1,0 +1,2 @@
+CoNi
+Atoms(symbols='CoNi', pbc=False)

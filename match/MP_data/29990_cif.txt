@@ -1,0 +1,2 @@
+C6Bi4Br18N18
+Atoms(symbols='Bi4C6Br18N18', pbc=False)

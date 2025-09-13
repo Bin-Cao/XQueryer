@@ -1,0 +1,2 @@
+Cl32Ga8Hg22P8
+Atoms(symbols='Cl32Ga8Hg22P8', pbc=False)

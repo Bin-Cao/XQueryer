@@ -1,0 +1,2 @@
+H14N4O20Sc2
+Atoms(symbols='Sc2H14N4O20', pbc=False)

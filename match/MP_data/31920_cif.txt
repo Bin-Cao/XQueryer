@@ -1,0 +1,2 @@
+C12H8Hg2K4N12O4Pt2
+Atoms(symbols='K4Hg2H8Pt2C12N12O4', pbc=False)

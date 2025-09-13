@@ -1,0 +1,2 @@
+Li4Na2O24Ru12
+Atoms(symbols='Na2Li4Ru12O24', pbc=False)

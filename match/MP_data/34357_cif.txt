@@ -1,0 +1,2 @@
+Ga62Mo12
+Atoms(symbols='Ga62Mo12', pbc=False)

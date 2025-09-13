@@ -1,0 +1,2 @@
+SiZn23Zr6
+Atoms(symbols='Zr6Zn23Si', pbc=False)

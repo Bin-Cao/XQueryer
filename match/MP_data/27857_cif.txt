@@ -1,0 +1,2 @@
+Nb20Pt10
+Atoms(symbols='Nb20Pt10', pbc=False)

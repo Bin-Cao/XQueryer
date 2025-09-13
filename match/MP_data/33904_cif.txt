@@ -1,0 +1,2 @@
+C12H28Be8K12O52
+Atoms(symbols='C12H28Be8K12O52', pbc=False)

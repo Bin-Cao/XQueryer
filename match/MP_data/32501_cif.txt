@@ -1,0 +1,2 @@
+As4Br4O32Pr16
+Atoms(symbols='Pr16As4Br4O32', pbc=False)

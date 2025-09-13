@@ -1,0 +1,2 @@
+HBa4F24P3
+Atoms(symbols='Ba4P3HF24', pbc=False)

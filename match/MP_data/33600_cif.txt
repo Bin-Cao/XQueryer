@@ -1,0 +1,2 @@
+C56F16Fe8O32
+Atoms(symbols='C56F16Fe8O32', pbc=False)

@@ -1,0 +1,2 @@
+H30N18O22Pd2Ru2
+Atoms(symbols='H30N18O22Pd2Ru2', pbc=False)

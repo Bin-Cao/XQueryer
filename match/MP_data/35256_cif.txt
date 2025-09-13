@@ -1,0 +1,2 @@
+CoTe2Zr6
+Atoms(symbols='Zr6CoTe2', pbc=False)

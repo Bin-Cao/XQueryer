@@ -1,0 +1,2 @@
+Cr2Cs2Mo4O16
+Atoms(symbols='Cs2Cr2Mo4O16', pbc=False)

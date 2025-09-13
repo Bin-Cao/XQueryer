@@ -1,0 +1,2 @@
+B48Ga12I4K12S48Sm4
+Atoms(symbols='B48Ga12I4K12S48Sm4', pbc=False)

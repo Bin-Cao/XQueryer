@@ -1,0 +1,2 @@
+H20Co2Sn4Zr12
+Atoms(symbols='Zr12Co2Sn4H20', pbc=False)

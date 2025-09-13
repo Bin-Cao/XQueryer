@@ -1,0 +1,2 @@
+P42
+Atoms(symbols='P42', pbc=False)

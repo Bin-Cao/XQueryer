@@ -1,0 +1,2 @@
+As12Hf8Ni12
+Atoms(symbols='Hf8Ni12As12', pbc=False)

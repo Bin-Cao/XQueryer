@@ -1,0 +1,2 @@
+O65Sr15Ti25
+Atoms(symbols='O65Sr15Ti25', pbc=False)

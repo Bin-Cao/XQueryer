@@ -1,0 +1,2 @@
+Hf8Sc12Si16
+Atoms(symbols='Hf8Sc12Si16', pbc=False)

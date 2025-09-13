@@ -1,0 +1,2 @@
+Bi94Nb32
+Atoms(symbols='Bi94Nb32', pbc=False)

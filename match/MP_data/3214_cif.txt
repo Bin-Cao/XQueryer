@@ -1,0 +1,2 @@
+CsMg14Ti
+Atoms(symbols='CsMg14Ti', pbc=False)

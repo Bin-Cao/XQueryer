@@ -1,0 +1,2 @@
+F14O10Re4Xe3
+Atoms(symbols='Re4Xe3O10F14', pbc=False)

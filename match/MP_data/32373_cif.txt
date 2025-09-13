@@ -1,0 +1,2 @@
+H2As2F22N2Te2Xe2
+Atoms(symbols='Te2As2H2Xe2N2F22', pbc=False)

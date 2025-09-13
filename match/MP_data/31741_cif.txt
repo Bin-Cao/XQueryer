@@ -1,0 +1,2 @@
+H8Mn2Na4O20Se4
+Atoms(symbols='Na4Mn2H8Se4O20', pbc=False)

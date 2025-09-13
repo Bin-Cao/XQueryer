@@ -1,0 +1,2 @@
+N8O32Pb12
+Atoms(symbols='Pb12N8O32', pbc=False)

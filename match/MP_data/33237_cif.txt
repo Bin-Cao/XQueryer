@@ -1,0 +1,2 @@
+N6O20P4Zr2
+Atoms(symbols='Zr2P4N6O20', pbc=False)

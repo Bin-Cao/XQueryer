@@ -1,0 +1,2 @@
+Hf12Ni4Sb28
+Atoms(symbols='Hf12Ni4Sb28', pbc=False)

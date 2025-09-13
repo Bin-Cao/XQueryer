@@ -1,0 +1,2 @@
+Cl2Nd8O16P2
+Atoms(symbols='Nd8P2Cl2O16', pbc=False)

@@ -1,0 +1,2 @@
+Ce2Na4O33Si12
+Atoms(symbols='Na4Ce2Si12O33', pbc=False)

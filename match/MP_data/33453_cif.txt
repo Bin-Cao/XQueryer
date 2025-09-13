@@ -1,0 +1,2 @@
+Sm22Sn20
+Atoms(symbols='Sm22Sn20', pbc=False)

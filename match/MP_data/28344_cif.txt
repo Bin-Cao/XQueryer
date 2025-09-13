@@ -1,0 +1,2 @@
+Rb2Te18Ti2U6
+Atoms(symbols='Rb2U6Ti2Te18', pbc=False)

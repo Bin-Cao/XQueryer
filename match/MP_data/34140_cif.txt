@@ -1,0 +1,2 @@
+Cl8P8S32Ti4
+Atoms(symbols='Ti4P8S32Cl8', pbc=False)

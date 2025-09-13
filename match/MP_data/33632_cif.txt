@@ -1,0 +1,2 @@
+Cl12Cu6O84
+Atoms(symbols='Cl12Cu6O84', pbc=False)

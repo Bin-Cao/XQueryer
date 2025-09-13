@@ -1,0 +1,2 @@
+Ir4Nd12O28
+Atoms(symbols='Nd12Ir4O28', pbc=False)

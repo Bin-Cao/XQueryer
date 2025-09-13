@@ -1,0 +1,2 @@
+Eu8Mo12O48
+Atoms(symbols='Eu8Mo12O48', pbc=False)

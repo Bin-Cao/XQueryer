@@ -1,0 +1,2 @@
+Br12N8Pt4
+Atoms(symbols='Pt4Br12N8', pbc=False)

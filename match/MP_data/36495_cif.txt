@@ -1,0 +1,2 @@
+Mo4Nd4O20
+Atoms(symbols='Nd4Mo4O20', pbc=False)

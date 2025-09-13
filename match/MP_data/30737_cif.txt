@@ -1,0 +1,2 @@
+H40Nd4O56P12
+Atoms(symbols='H40Nd4O56P12', pbc=False)

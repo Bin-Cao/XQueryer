@@ -1,0 +1,2 @@
+F8Na16Ni8O32P8
+Atoms(symbols='F8Na16Ni8O32P8', pbc=False)

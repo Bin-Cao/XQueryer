@@ -1,0 +1,2 @@
+H12CsFeO10P
+Atoms(symbols='CsFePH12O10', pbc=False)

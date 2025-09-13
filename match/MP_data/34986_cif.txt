@@ -1,0 +1,2 @@
+Dy3Ga3Mg3
+Atoms(symbols='Dy3Mg3Ga3', pbc=False)

@@ -1,0 +1,2 @@
+AsNiY
+Atoms(symbols='YNiAs', pbc=False)

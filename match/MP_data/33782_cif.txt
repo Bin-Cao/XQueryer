@@ -1,0 +1,2 @@
+Co52In4La24
+Atoms(symbols='Co52In4La24', pbc=False)

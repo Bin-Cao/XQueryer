@@ -1,0 +1,2 @@
+H16B12Li2MgO28
+Atoms(symbols='Li2MgB12H16O28', pbc=False)

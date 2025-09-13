@@ -1,0 +1,2 @@
+F2La6Mo8O32
+Atoms(symbols='La6Mo8O32F2', pbc=False)

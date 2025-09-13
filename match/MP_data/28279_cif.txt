@@ -1,0 +1,2 @@
+Cl2N10O12P2Pt2
+Atoms(symbols='P2Pt2N10Cl2O12', pbc=False)

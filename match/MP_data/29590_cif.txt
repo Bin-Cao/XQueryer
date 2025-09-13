@@ -1,0 +1,2 @@
+H20Nd4O32Se8
+Atoms(symbols='H20Nd4O32Se8', pbc=False)

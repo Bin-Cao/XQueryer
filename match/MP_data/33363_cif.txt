@@ -1,0 +1,2 @@
+I6In2O24
+Atoms(symbols='In2I6O24', pbc=False)

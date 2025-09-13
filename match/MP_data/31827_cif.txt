@@ -1,0 +1,2 @@
+C12Ba3Mo6O51
+Atoms(symbols='C12Ba3Mo6O51', pbc=False)

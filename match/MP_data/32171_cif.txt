@@ -1,0 +1,2 @@
+Ni32Y15
+Atoms(symbols='Y15Ni32', pbc=False)

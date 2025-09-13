@@ -1,0 +1,2 @@
+Cu16Ho4Mn4P12
+Atoms(symbols='Ho4Mn4Cu16P12', pbc=False)

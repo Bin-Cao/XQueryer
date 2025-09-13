@@ -1,0 +1,2 @@
+F12K4Na2Pd2
+Atoms(symbols='K2NaPdF6K2NaPdF6', pbc=False)

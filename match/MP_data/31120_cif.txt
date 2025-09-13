@@ -1,0 +1,2 @@
+C18Ca18O54
+Atoms(symbols='C18Ca18O54', pbc=False)

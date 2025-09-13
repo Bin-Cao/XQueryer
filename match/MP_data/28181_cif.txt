@@ -1,0 +1,2 @@
+Eu12In4P12
+Atoms(symbols='Eu12In4P12', pbc=False)

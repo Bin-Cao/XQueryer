@@ -1,0 +1,2 @@
+N2O20V8
+Atoms(symbols='V4NO10V4NO10', pbc=False)

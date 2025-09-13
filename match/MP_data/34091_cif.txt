@@ -1,0 +1,2 @@
+H20Cs8O24P4
+Atoms(symbols='Cs8P4H20O24', pbc=False)

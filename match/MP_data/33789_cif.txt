@@ -1,0 +1,2 @@
+H4As4Br12F24O4P4
+Atoms(symbols='As4P4H4Br12O4F24', pbc=False)

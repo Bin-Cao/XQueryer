@@ -1,0 +1,2 @@
+Fe24Lu12O48
+Atoms(symbols='Fe24Lu12O48', pbc=False)

@@ -1,0 +1,2 @@
+Co4O22Se4V4
+Atoms(symbols='V4Co4Se4O22', pbc=False)

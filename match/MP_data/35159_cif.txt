@@ -1,0 +1,2 @@
+Ho2In2Pt4
+Atoms(symbols='Ho2In2Pt4', pbc=False)

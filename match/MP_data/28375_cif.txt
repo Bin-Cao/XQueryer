@@ -1,0 +1,2 @@
+Cr2Mn4O18Pb4
+Atoms(symbols='Mn4Cr2Pb4O18', pbc=False)

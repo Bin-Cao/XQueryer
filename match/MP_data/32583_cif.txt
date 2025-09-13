@@ -1,0 +1,2 @@
+Lu20Pt16
+Atoms(symbols='Lu20Pt16', pbc=False)

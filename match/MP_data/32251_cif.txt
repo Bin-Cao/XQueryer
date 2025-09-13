@@ -1,0 +1,2 @@
+In42Nd8Pd20
+Atoms(symbols='In42Nd8Pd20', pbc=False)

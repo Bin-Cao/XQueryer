@@ -1,0 +1,2 @@
+Cl48Ga12Na2Sb14Te16
+Atoms(symbols='Cl48Ga12Na2Sb14Te16', pbc=False)

@@ -1,0 +1,2 @@
+I2K6Mo2O26
+Atoms(symbols='K6Mo2I2O26', pbc=False)

@@ -1,0 +1,2 @@
+S4Ti2V
+Atoms(symbols='Ti2VS4', pbc=False)

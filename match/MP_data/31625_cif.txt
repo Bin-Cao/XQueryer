@@ -1,0 +1,2 @@
+N30Nd2O54
+Atoms(symbols='N30Nd2O54', pbc=False)

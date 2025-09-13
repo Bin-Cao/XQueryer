@@ -1,0 +1,2 @@
+H28Li4O14Se6Sn2
+Atoms(symbols='Li4Sn2H28Se6O14', pbc=False)

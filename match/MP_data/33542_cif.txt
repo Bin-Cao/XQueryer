@@ -1,0 +1,2 @@
+C8H28Cu2K4N12O16
+Atoms(symbols='C8H28Cu2K4N12O16', pbc=False)

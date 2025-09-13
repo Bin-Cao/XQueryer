@@ -1,0 +1,2 @@
+H20N12Na12O28P12
+Atoms(symbols='H20N12Na12O28P12', pbc=False)

@@ -1,0 +1,2 @@
+C6H24Mo6N12O24
+Atoms(symbols='C6H24Mo6N12O24', pbc=False)

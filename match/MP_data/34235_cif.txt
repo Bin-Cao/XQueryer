@@ -1,0 +1,2 @@
+K3NaO8Ru2
+Atoms(symbols='K3NaRu2O8', pbc=False)

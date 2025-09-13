@@ -1,0 +1,2 @@
+La4N28O132Pb32
+Atoms(symbols='La4N28O132Pb32', pbc=False)

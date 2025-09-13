@@ -1,0 +1,2 @@
+Ge12Ni30
+Atoms(symbols='Ni30Ge12', pbc=False)

@@ -1,0 +1,2 @@
+Co4Er4Si12
+Atoms(symbols='Er2Co2Si6Er2Co2Si6', pbc=False)

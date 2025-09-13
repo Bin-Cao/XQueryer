@@ -1,0 +1,2 @@
+C24N24O32Pb12
+Atoms(symbols='C24N24O32Pb12', pbc=False)

@@ -1,0 +1,2 @@
+Cs16O72Te32
+Atoms(symbols='Cs16O72Te32', pbc=False)

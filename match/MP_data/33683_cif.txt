@@ -1,0 +1,2 @@
+As16Cd20O80
+Atoms(symbols='As16Cd20O80', pbc=False)

@@ -1,0 +1,2 @@
+H16Cu2K4O30P8
+Atoms(symbols='K2CuP4H8O15K2CuP4H8O15', pbc=False)

@@ -1,0 +1,2 @@
+Cr8O32Tl16
+Atoms(symbols='Tl8Cr4O16Tl8Cr4O16', pbc=False)

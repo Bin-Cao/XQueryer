@@ -1,0 +1,2 @@
+H28Cd2Cu8O36S4
+Atoms(symbols='H28Cd2Cu8O36S4', pbc=False)

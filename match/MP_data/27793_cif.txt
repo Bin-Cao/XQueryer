@@ -1,0 +1,2 @@
+Bi8O40Se4Te8
+Atoms(symbols='Bi4Te4Se2O20Bi4Te4Se2O20', pbc=False)

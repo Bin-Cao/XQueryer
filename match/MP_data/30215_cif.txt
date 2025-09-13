@@ -1,0 +1,2 @@
+H24O22S2V2
+Atoms(symbols='V2H24S2O22', pbc=False)

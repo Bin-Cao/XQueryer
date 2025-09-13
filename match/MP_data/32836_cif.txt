@@ -1,0 +1,2 @@
+La28Ru12
+Atoms(symbols='La28Ru12', pbc=False)

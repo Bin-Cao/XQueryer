@@ -1,0 +1,2 @@
+C18Ag2N6S8W2
+Atoms(symbols='Ag2W2C18S8N6', pbc=False)

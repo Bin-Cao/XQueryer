@@ -1,0 +1,2 @@
+O24Pb12W4
+Atoms(symbols='Pb12W4O24', pbc=False)

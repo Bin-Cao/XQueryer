@@ -1,0 +1,2 @@
+Br32Ru4Te24
+Atoms(symbols='Te24Ru4Br32', pbc=False)

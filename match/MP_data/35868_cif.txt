@@ -1,0 +1,2 @@
+C36H120B12Cl30N18
+Atoms(symbols='C36H120B12Cl30N18', pbc=False)

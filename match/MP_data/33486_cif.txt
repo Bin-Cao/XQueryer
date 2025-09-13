@@ -1,0 +1,2 @@
+C12Cl2CoN8O10
+Atoms(symbols='CoC12N8Cl2O10', pbc=False)

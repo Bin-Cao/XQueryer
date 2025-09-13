@@ -1,0 +1,2 @@
+N12O28Pd2
+Atoms(symbols='Pd2N12O28', pbc=False)

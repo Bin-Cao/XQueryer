@@ -1,0 +1,2 @@
+Ni72S64
+Atoms(symbols='Ni72S64', pbc=False)

@@ -1,0 +1,2 @@
+O20Si6Sr2Y4
+Atoms(symbols='Sr2Y4Si6O20', pbc=False)

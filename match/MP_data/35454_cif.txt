@@ -1,0 +1,2 @@
+Mo2Pd4
+Atoms(symbols='MoPd2MoPd2', pbc=False)

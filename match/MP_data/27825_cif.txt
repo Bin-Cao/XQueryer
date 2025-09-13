@@ -1,0 +1,2 @@
+AsNO19PU2
+Atoms(symbols='U2AsPNO19', pbc=False)

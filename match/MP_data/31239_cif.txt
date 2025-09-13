@@ -1,0 +1,2 @@
+Gd5P12Ru19
+Atoms(symbols='Gd5P12Ru19', pbc=False)

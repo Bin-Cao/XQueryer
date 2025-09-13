@@ -1,0 +1,2 @@
+C4H28N12O16Se4
+Atoms(symbols='C4H28N12O16Se4', pbc=False)

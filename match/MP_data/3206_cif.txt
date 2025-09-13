@@ -1,0 +1,2 @@
+LaMg14Sb
+Atoms(symbols='LaMg14Sb', pbc=False)

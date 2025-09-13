@@ -1,0 +1,2 @@
+H16K4O30P8Zn2
+Atoms(symbols='K2ZnP4H8O15K2ZnP4H8O15', pbc=False)

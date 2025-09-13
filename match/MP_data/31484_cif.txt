@@ -1,0 +1,2 @@
+Co4P24Re10
+Atoms(symbols='Co4Re10P24', pbc=False)

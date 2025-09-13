@@ -1,0 +1,2 @@
+Cu20Hf14
+Atoms(symbols='Hf14Cu20', pbc=False)

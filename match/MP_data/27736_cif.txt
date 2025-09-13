@@ -1,0 +1,2 @@
+P12V16
+Atoms(symbols='V16P12', pbc=False)

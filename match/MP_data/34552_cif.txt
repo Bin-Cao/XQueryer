@@ -1,0 +1,2 @@
+Lu8O60S12
+Atoms(symbols='Lu8O60S12', pbc=False)

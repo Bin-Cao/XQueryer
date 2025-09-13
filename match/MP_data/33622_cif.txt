@@ -1,0 +1,2 @@
+H28N4O32S8
+Atoms(symbols='H28N4O32S8', pbc=False)

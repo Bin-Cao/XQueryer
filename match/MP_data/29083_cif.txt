@@ -1,0 +1,2 @@
+H12Dy6Na6O54S12
+Atoms(symbols='H12Dy6Na6O54S12', pbc=False)

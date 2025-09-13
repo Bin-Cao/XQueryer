@@ -1,0 +1,2 @@
+C4H20Cl16N4Si8
+Atoms(symbols='Si8H20C4N4Cl16', pbc=False)

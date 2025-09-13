@@ -1,0 +1,2 @@
+H20O26Se4V4
+Atoms(symbols='V4H20Se4O26', pbc=False)

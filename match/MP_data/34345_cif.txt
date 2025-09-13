@@ -1,0 +1,2 @@
+K2O26PdS8
+Atoms(symbols='K2PdS8O26', pbc=False)

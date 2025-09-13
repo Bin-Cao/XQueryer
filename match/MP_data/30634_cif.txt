@@ -1,0 +1,2 @@
+Pr8S44Y22
+Atoms(symbols='Pr8S44Y22', pbc=False)

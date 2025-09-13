@@ -1,0 +1,2 @@
+C8H24MnN2Se10Sn4
+Atoms(symbols='MnSn4H24C8Se10N2', pbc=False)

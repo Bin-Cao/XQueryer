@@ -1,0 +1,2 @@
+Dy4N12O36
+Atoms(symbols='Dy4N12O36', pbc=False)

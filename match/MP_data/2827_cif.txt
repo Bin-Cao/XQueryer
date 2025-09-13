@@ -1,0 +1,2 @@
+KMg15
+Atoms(symbols='KMg15', pbc=False)

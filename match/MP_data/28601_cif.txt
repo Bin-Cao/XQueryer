@@ -1,0 +1,2 @@
+Hg12O44S8
+Atoms(symbols='Hg12O44S8', pbc=False)

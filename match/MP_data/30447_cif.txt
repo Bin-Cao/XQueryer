@@ -1,0 +1,2 @@
+H52B8Ca4N12
+Atoms(symbols='H52B8Ca4N12', pbc=False)

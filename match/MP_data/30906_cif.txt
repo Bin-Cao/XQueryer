@@ -1,0 +1,2 @@
+I6O26Tl2V4
+Atoms(symbols='Tl2V4I6O26', pbc=False)

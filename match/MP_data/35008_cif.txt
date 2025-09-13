@@ -1,0 +1,2 @@
+Co2Ge12Lu4
+Atoms(symbols='Lu2CoGe6Lu2CoGe6', pbc=False)

@@ -1,0 +1,2 @@
+Ni2Se34U16
+Atoms(symbols='U8NiSe17U8NiSe17', pbc=False)

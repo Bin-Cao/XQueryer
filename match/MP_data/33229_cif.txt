@@ -1,0 +1,2 @@
+C12H20K4N8O20
+Atoms(symbols='C12H20K4N8O20', pbc=False)

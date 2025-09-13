@@ -1,0 +1,2 @@
+Co2N24
+Atoms(symbols='Co2N24', pbc=False)

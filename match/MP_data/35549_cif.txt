@@ -1,0 +1,2 @@
+Cu2Ge2Li5
+Atoms(symbols='Li5Cu2Ge2', pbc=False)

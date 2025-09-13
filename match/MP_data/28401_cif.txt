@@ -1,0 +1,2 @@
+H8As8Hg12O32
+Atoms(symbols='Hg6As4H4O16Hg6As4H4O16', pbc=False)

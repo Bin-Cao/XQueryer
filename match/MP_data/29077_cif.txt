@@ -1,0 +1,2 @@
+Na2P30
+Atoms(symbols='Na2P30', pbc=False)

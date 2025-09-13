@@ -1,0 +1,2 @@
+Mo4Ni12O40Te8
+Atoms(symbols='Mo4Ni12O40Te8', pbc=False)

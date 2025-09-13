@@ -1,0 +1,2 @@
+C60H36MnN12
+Atoms(symbols='C60H36MnN12', pbc=False)

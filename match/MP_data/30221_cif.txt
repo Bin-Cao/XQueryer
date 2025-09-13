@@ -1,0 +1,2 @@
+C6H12Mn2N6Na2O6S6
+Atoms(symbols='Na2Mn2H12C6S6N6O6', pbc=False)

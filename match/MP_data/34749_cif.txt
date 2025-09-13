@@ -1,0 +1,2 @@
+Ho4Mg2Si4
+Atoms(symbols='Ho4Mg2Si4', pbc=False)

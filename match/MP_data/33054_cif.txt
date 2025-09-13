@@ -1,0 +1,2 @@
+C12Cr2N12Na8O20
+Atoms(symbols='Na8Cr2C12N12O20', pbc=False)

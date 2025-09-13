@@ -1,0 +1,2 @@
+H28Au4N16O60
+Atoms(symbols='H28Au4N16O60', pbc=False)

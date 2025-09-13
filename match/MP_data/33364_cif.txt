@@ -1,0 +1,2 @@
+O192Si96
+Atoms(symbols='O192Si96', pbc=False)

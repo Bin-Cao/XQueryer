@@ -1,0 +1,2 @@
+F2Ge8Na10O32Pr8
+Atoms(symbols='Na5Pr4Ge4O16FNa5Pr4Ge4O16F', pbc=False)

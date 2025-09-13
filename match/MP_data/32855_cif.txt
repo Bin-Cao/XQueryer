@@ -1,0 +1,2 @@
+B24U8W4
+Atoms(symbols='U8B24W4', pbc=False)

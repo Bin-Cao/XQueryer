@@ -1,0 +1,2 @@
+H12O28U4V4
+Atoms(symbols='U4V4H12O28', pbc=False)

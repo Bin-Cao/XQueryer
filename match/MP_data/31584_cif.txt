@@ -1,0 +1,2 @@
+Co2O26Te12
+Atoms(symbols='Co2Te12O26', pbc=False)

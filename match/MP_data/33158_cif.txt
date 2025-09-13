@@ -1,0 +1,2 @@
+Ge8Na2O26Pr6
+Atoms(symbols='Na2Pr6Ge8O26', pbc=False)

@@ -1,0 +1,2 @@
+Hg8O32W8
+Atoms(symbols='Hg8W8O32', pbc=False)

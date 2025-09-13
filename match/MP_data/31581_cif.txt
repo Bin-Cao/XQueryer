@@ -1,0 +1,2 @@
+Co4Eu8O40Si12
+Atoms(symbols='Co4Eu8O40Si12', pbc=False)

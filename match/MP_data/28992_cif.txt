@@ -1,0 +1,2 @@
+H24Mn4N4O20P4
+Atoms(symbols='Mn4P4H24N4O20', pbc=False)

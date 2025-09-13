@@ -1,0 +1,2 @@
+H4Al2Ca4F14O2
+Atoms(symbols='Ca4Al2H4O2F14', pbc=False)

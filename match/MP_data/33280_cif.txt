@@ -1,0 +1,2 @@
+Cl8Hg4N16O24
+Atoms(symbols='Hg4N16Cl8O24', pbc=False)

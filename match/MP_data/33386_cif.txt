@@ -1,0 +1,2 @@
+N8O32Pd4
+Atoms(symbols='Pd4N8O32', pbc=False)

@@ -1,0 +1,2 @@
+O22Sr2V6
+Atoms(symbols='Sr2V6O22', pbc=False)

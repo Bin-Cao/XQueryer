@@ -1,0 +1,2 @@
+In6K10P12Se38
+Atoms(symbols='In6K10P12Se38', pbc=False)

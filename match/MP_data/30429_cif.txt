@@ -1,0 +1,2 @@
+H18Al4K2O26P4
+Atoms(symbols='K2Al4P4H18O26', pbc=False)

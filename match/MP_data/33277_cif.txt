@@ -1,0 +1,2 @@
+C156F84
+Atoms(symbols='C156F84', pbc=False)

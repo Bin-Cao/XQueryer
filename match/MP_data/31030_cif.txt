@@ -1,0 +1,2 @@
+B2Na12O42Se10
+Atoms(symbols='B2Na12O42Se10', pbc=False)

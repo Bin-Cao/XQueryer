@@ -1,0 +1,2 @@
+GaMg14Na
+Atoms(symbols='NaMg14Ga', pbc=False)

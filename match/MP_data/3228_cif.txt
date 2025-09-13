@@ -1,0 +1,2 @@
+LiMnSe2
+Atoms(symbols='LiMnSe2', pbc=False)

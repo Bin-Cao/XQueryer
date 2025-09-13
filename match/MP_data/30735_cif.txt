@@ -1,0 +1,2 @@
+C12O44Y8
+Atoms(symbols='C12O44Y8', pbc=False)

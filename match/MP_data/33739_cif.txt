@@ -1,0 +1,2 @@
+H8NiO16P4Tl2
+Atoms(symbols='Tl2NiP4H8O16', pbc=False)

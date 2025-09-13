@@ -1,0 +1,2 @@
+Cu3I6O20
+Atoms(symbols='Cu3I6O20', pbc=False)

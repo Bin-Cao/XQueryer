@@ -1,0 +1,2 @@
+Fe16Rb28Te32
+Atoms(symbols='Fe16Rb28Te32', pbc=False)

@@ -1,0 +1,2 @@
+La12Zn88
+Atoms(symbols='La12Zn88', pbc=False)

@@ -1,0 +1,2 @@
+C34Ni2O32Ru10
+Atoms(symbols='C34Ni2O32Ru10', pbc=False)

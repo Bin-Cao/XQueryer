@@ -1,0 +1,2 @@
+O26PdRb2S8
+Atoms(symbols='Rb2PdS8O26', pbc=False)

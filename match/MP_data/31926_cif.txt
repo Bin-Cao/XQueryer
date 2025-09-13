@@ -1,0 +1,2 @@
+H8O16Sr4Te4
+Atoms(symbols='Sr4Te4H8O16', pbc=False)

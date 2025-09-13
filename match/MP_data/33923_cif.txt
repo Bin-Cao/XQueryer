@@ -1,0 +1,2 @@
+Er4K4O36P8
+Atoms(symbols='K4Er4P8O36', pbc=False)

@@ -1,0 +1,2 @@
+Eu4In32Ir8
+Atoms(symbols='Eu4In32Ir8', pbc=False)

@@ -1,0 +1,2 @@
+Cl12Ni4Tl4
+Atoms(symbols='Tl2Ni2Cl6Tl2Ni2Cl6', pbc=False)

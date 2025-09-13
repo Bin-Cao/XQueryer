@@ -1,0 +1,2 @@
+HfS
+Atoms(symbols='HfS', pbc=False)

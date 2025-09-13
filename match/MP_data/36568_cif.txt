@@ -1,0 +1,2 @@
+CI2Y2
+Atoms(symbols='Y2CI2', pbc=False)

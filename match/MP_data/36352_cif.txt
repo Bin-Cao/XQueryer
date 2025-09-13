@@ -1,0 +1,2 @@
+K2Ni2O44V10
+Atoms(symbols='K2V10Ni2O44', pbc=False)

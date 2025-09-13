@@ -1,0 +1,2 @@
+F72Ho18K18
+Atoms(symbols='F72Ho18K18', pbc=False)

@@ -1,0 +1,2 @@
+H32Ag24N8Se44Sn14
+Atoms(symbols='H32Ag24N8Se44Sn14', pbc=False)

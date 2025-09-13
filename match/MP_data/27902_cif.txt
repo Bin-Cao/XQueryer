@@ -1,0 +1,2 @@
+As4K12O46U10
+Atoms(symbols='As4K12O46U10', pbc=False)

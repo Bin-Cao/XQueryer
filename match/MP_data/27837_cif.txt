@@ -1,0 +1,2 @@
+O36Sc4Se12
+Atoms(symbols='Sc2Se6O18Sc2Se6O18', pbc=False)

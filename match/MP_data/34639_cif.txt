@@ -1,0 +1,2 @@
+C4Nd4Ru8Si4
+Atoms(symbols='Nd2Si2Ru4C2Nd2Si2Ru4C2', pbc=False)

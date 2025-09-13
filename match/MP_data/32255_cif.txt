@@ -1,0 +1,2 @@
+Ni4O40Se4
+Atoms(symbols='Ni4Se4O40', pbc=False)

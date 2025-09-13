@@ -1,0 +1,2 @@
+Cl44P4W16
+Atoms(symbols='Cl44P4W16', pbc=False)

@@ -1,0 +1,2 @@
+InSc
+Atoms(symbols='ScIn', pbc=False)

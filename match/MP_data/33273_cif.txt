@@ -1,0 +1,2 @@
+H30Al4Cl2O26S2
+Atoms(symbols='H30Al4Cl2O26S2', pbc=False)

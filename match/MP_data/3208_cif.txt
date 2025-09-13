@@ -1,0 +1,2 @@
+B36O63Sr9
+Atoms(symbols='B36O63Sr9', pbc=False)

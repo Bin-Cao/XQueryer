@@ -1,0 +1,2 @@
+I2STl2
+Atoms(symbols='Tl2SI2', pbc=False)

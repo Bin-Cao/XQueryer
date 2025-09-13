@@ -1,0 +1,2 @@
+H72N22S8Sb2
+Atoms(symbols='H72N22S8Sb2', pbc=False)

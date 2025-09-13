@@ -1,0 +1,2 @@
+Br32Os6Sc26
+Atoms(symbols='Br32Os6Sc26', pbc=False)

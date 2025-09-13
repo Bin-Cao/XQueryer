@@ -1,0 +1,2 @@
+Br24Cl2O30Ta12
+Atoms(symbols='Br24Cl2O30Ta12', pbc=False)

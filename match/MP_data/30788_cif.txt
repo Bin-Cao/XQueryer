@@ -1,0 +1,2 @@
+H40K10O74Pt2V18
+Atoms(symbols='H40K10O74Pt2V18', pbc=False)

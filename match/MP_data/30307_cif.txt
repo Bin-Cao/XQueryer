@@ -1,0 +1,2 @@
+Be8N4O40P12
+Atoms(symbols='Be8N4O40P12', pbc=False)

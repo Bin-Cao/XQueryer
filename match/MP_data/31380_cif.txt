@@ -1,0 +1,2 @@
+C4H18N18O12
+Atoms(symbols='H18C4N18O12', pbc=False)

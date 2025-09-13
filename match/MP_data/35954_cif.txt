@@ -1,0 +1,2 @@
+Mg3Pd3Tb3
+Atoms(symbols='Tb3Mg3Pd3', pbc=False)

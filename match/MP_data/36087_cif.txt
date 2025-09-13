@@ -1,0 +1,2 @@
+N6O16V2
+Atoms(symbols='VN3O8VN3O8', pbc=False)

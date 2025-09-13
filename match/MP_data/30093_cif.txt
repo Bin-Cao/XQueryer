@@ -1,0 +1,2 @@
+I24Lu8O80
+Atoms(symbols='I24Lu8O80', pbc=False)

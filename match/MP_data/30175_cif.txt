@@ -1,0 +1,2 @@
+C24H40N4Ni2O16S4
+Atoms(symbols='C24H40N4Ni2O16S4', pbc=False)

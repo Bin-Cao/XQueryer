@@ -1,0 +1,2 @@
+Co4La8Sn10
+Atoms(symbols='La4Co2Sn5La4Co2Sn5', pbc=False)

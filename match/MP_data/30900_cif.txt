@@ -1,0 +1,2 @@
+Ca4Se20U8
+Atoms(symbols='Ca4U8Se20', pbc=False)

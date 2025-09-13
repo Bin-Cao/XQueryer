@@ -1,0 +1,2 @@
+In4K20Mo16O64
+Atoms(symbols='In4K20Mo16O64', pbc=False)

@@ -1,0 +1,2 @@
+Ho2N6O20
+Atoms(symbols='Ho2N6O20', pbc=False)

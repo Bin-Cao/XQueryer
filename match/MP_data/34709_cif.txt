@@ -1,0 +1,2 @@
+Co12Ga12Y2
+Atoms(symbols='YGa6Co6YGa6Co6', pbc=False)

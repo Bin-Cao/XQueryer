@@ -1,0 +1,2 @@
+B16Nd4O30
+Atoms(symbols='Nd4B16O30', pbc=False)

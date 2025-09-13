@@ -1,0 +1,2 @@
+H24Dy4O24P12
+Atoms(symbols='H24Dy4O24P12', pbc=False)

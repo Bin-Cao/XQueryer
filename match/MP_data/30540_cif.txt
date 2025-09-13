@@ -1,0 +1,2 @@
+O30P6Re2Si4
+Atoms(symbols='Re2Si4P6O30', pbc=False)

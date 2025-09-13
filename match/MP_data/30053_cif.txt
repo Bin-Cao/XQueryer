@@ -1,0 +1,2 @@
+C18Ce18Cl11
+Atoms(symbols='Ce18C18Cl11', pbc=False)

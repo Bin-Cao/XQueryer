@@ -1,0 +1,2 @@
+Sb10U6V2
+Atoms(symbols='U6V2Sb10', pbc=False)

@@ -1,0 +1,2 @@
+Au2Br12Co2N12
+Atoms(symbols='Co2Au2Br12N12', pbc=False)

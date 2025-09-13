@@ -1,0 +1,2 @@
+C20H48Cl8Fe4N4O20
+Atoms(symbols='C20H48Cl8Fe4N4O20', pbc=False)

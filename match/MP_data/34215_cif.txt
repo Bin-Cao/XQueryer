@@ -1,0 +1,2 @@
+Si68
+Atoms(symbols='Si68', pbc=False)

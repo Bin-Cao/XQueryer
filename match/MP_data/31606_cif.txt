@@ -1,0 +1,2 @@
+H12Ba4Cd2O32P8
+Atoms(symbols='Ba4Cd2P8H12O32', pbc=False)

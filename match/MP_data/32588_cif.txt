@@ -1,0 +1,2 @@
+Gd16S48Si12
+Atoms(symbols='Gd16S48Si12', pbc=False)

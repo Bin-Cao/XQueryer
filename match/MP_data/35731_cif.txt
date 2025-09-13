@@ -1,0 +1,2 @@
+HLuSe
+Atoms(symbols='LuHSe', pbc=False)

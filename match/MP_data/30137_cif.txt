@@ -1,0 +1,2 @@
+C2K4N2O22P8Pt2S2
+Atoms(symbols='K4P8Pt2C2S2N2O22', pbc=False)

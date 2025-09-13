@@ -1,0 +1,2 @@
+H14B6N2O19P2
+Atoms(symbols='B6P2H14N2O19', pbc=False)

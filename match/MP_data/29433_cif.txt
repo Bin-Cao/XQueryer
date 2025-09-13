@@ -1,0 +1,2 @@
+Al8Ba14Sb18
+Atoms(symbols='Ba14Al8Sb18', pbc=False)

@@ -1,0 +1,2 @@
+F20Mo8N12O16
+Atoms(symbols='Mo8N12O16F20', pbc=False)

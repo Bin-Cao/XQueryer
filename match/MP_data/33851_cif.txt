@@ -1,0 +1,2 @@
+Cd8Ge10Li2O30
+Atoms(symbols='Li2Cd8Ge10O30', pbc=False)

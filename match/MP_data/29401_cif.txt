@@ -1,0 +1,2 @@
+Co18Dy6P12
+Atoms(symbols='Dy6Co18P12', pbc=False)

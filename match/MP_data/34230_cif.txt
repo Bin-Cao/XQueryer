@@ -1,0 +1,2 @@
+N8O44U4
+Atoms(symbols='U4N8O44', pbc=False)

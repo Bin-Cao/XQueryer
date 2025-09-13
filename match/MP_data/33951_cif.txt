@@ -1,0 +1,2 @@
+B10N2O24
+Atoms(symbols='B10N2O24', pbc=False)

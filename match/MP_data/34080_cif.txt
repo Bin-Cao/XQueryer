@@ -1,0 +1,2 @@
+C4H20B20Te4
+Atoms(symbols='B20Te4H20C4', pbc=False)

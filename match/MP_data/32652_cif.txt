@@ -1,0 +1,2 @@
+As32Cd48
+Atoms(symbols='As32Cd48', pbc=False)

@@ -1,0 +1,2 @@
+Cl36Cu20Rb16
+Atoms(symbols='Cl36Cu20Rb16', pbc=False)

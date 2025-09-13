@@ -1,0 +1,2 @@
+Ba2Dy2Fe8O14
+Atoms(symbols='Ba2Dy2Fe8O14', pbc=False)

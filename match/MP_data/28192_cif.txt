@@ -1,0 +1,2 @@
+Co12Ga36Tb8
+Atoms(symbols='Tb4Ga18Co6Tb4Ga18Co6', pbc=False)

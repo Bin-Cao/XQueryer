@@ -1,0 +1,2 @@
+F2Gd2Na2O24P6Sr6
+Atoms(symbols='Na2Sr6Gd2P6O24F2', pbc=False)

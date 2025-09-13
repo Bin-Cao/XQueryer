@@ -1,0 +1,2 @@
+F48Fe4Mn2Pb16
+Atoms(symbols='F48Fe4Mn2Pb16', pbc=False)

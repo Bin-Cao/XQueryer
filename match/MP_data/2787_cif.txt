@@ -1,0 +1,2 @@
+K3S6Ti3
+Atoms(symbols='KTiS2KTiS2KTiS2', pbc=False)

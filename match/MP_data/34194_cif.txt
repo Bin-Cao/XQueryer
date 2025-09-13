@@ -1,0 +1,2 @@
+Er6MnSb2
+Atoms(symbols='Er6MnSb2', pbc=False)

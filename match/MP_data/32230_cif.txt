@@ -1,0 +1,2 @@
+In8O64P16Sr4
+Atoms(symbols='In8O64P16Sr4', pbc=False)

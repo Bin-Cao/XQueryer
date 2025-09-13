@@ -1,0 +1,2 @@
+CuO22S2U2
+Atoms(symbols='U2CuS2O22', pbc=False)

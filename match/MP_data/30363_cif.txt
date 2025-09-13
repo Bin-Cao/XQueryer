@@ -1,0 +1,2 @@
+As28Cs8Na4
+Atoms(symbols='Cs8Na4As28', pbc=False)

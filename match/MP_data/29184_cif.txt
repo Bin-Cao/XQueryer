@@ -1,0 +1,2 @@
+Ba36Cl24N36Ta12
+Atoms(symbols='Ba36Cl24N36Ta12', pbc=False)

@@ -1,0 +1,2 @@
+C16H60Ga4N8
+Atoms(symbols='C16H60Ga4N8', pbc=False)

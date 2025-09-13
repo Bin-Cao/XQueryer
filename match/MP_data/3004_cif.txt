@@ -1,0 +1,2 @@
+Ni2Si4Th2
+Atoms(symbols='Th2Si4Ni2', pbc=False)

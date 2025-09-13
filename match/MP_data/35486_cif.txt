@@ -1,0 +1,2 @@
+C2LiO5
+Atoms(symbols='LiC2O5', pbc=False)

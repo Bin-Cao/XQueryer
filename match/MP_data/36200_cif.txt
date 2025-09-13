@@ -1,0 +1,2 @@
+O72Rb16Si16U8
+Atoms(symbols='O72Rb16Si16U8', pbc=False)

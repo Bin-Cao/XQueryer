@@ -1,0 +1,2 @@
+B20Ni38Y6
+Atoms(symbols='B20Ni38Y6', pbc=False)

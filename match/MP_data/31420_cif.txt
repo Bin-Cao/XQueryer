@@ -1,0 +1,2 @@
+B32Li8O60Se4
+Atoms(symbols='B32Li8O60Se4', pbc=False)

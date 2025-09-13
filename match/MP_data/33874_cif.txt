@@ -1,0 +1,2 @@
+Cl12Ir4N16O4
+Atoms(symbols='Ir4N16Cl12O4', pbc=False)

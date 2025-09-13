@@ -1,0 +1,2 @@
+AsCeO2Zn2
+Atoms(symbols='CeZn2AsO2', pbc=False)

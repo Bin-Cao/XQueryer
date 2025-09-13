@@ -1,0 +1,2 @@
+C4H24Cl2N8NiO8S4
+Atoms(symbols='NiH24C4S4N8Cl2O8', pbc=False)

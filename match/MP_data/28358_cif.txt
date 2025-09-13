@@ -1,0 +1,2 @@
+H12Al8O28P4
+Atoms(symbols='Al4P2H6O14Al4P2H6O14', pbc=False)

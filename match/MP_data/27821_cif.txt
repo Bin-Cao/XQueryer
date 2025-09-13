@@ -1,0 +1,2 @@
+Al16Pd7Sc6
+Atoms(symbols='Sc6Al16Pd7', pbc=False)

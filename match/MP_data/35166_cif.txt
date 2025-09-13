@@ -1,0 +1,2 @@
+BiCu2O2S
+Atoms(symbols='Cu2BiSO2', pbc=False)

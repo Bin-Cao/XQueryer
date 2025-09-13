@@ -1,0 +1,2 @@
+H8Fe2Ge6O20Pb2
+Atoms(symbols='Fe2Ge6H8Pb2O20', pbc=False)

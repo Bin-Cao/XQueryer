@@ -1,0 +1,2 @@
+N6O20Y2
+Atoms(symbols='Y2N6O20', pbc=False)

@@ -1,0 +1,2 @@
+B7Ca9F2Li5O21
+Atoms(symbols='Li5Ca9B7O21F2', pbc=False)

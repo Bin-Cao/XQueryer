@@ -1,0 +1,2 @@
+CoGaMo6O40
+Atoms(symbols='GaCoMo6O40', pbc=False)

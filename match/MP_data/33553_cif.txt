@@ -1,0 +1,2 @@
+Gd8O80S12
+Atoms(symbols='Gd8O80S12', pbc=False)

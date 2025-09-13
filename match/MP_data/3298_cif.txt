@@ -1,0 +1,2 @@
+LiMg14Ti
+Atoms(symbols='LiMg14Ti', pbc=False)

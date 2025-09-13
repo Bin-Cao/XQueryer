@@ -1,0 +1,2 @@
+Pt22Sn24Sr12
+Atoms(symbols='Sr12Sn24Pt22', pbc=False)

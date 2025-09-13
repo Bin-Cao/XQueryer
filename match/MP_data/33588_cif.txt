@@ -1,0 +1,2 @@
+C24O54Pt6Rb10
+Atoms(symbols='C24O54Pt6Rb10', pbc=False)

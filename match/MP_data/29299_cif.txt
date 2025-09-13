@@ -1,0 +1,2 @@
+C24Fe6N12O54
+Atoms(symbols='C24Fe6N12O54', pbc=False)

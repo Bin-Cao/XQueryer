@@ -1,0 +1,2 @@
+Co42Lu12
+Atoms(symbols='Lu4Co14Lu4Co14Lu4Co14', pbc=False)

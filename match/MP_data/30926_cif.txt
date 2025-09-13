@@ -1,0 +1,2 @@
+H8As4Cu8O24
+Atoms(symbols='Cu8As4H8O24', pbc=False)

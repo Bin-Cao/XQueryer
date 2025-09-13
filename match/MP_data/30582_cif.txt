@@ -1,0 +1,2 @@
+Cu8I16N8O4
+Atoms(symbols='Cu8I16N8O4', pbc=False)

@@ -1,0 +1,2 @@
+H16B10Ga2O28Rb4
+Atoms(symbols='Rb4Ga2B10H16O28', pbc=False)

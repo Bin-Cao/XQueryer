@@ -1,0 +1,2 @@
+Ni36Pt16Ti44
+Atoms(symbols='Ni36Pt16Ti44', pbc=False)

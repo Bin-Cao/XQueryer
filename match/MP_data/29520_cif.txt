@@ -1,0 +1,2 @@
+F42N10Te8
+Atoms(symbols='Te8N10F42', pbc=False)

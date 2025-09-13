@@ -1,0 +1,2 @@
+Br8Cs4Se16Tc12
+Atoms(symbols='Cs4Tc12Se16Br8', pbc=False)

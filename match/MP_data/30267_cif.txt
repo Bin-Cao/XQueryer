@@ -1,0 +1,2 @@
+As4CaCu10O34Te4
+Atoms(symbols='CaCu10Te4As4O34', pbc=False)

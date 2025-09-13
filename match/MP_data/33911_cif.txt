@@ -1,0 +1,2 @@
+Cs6Cu2Hf4Te20
+Atoms(symbols='Cs6Hf4Cu2Te20', pbc=False)

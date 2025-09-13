@@ -1,0 +1,2 @@
+Cl24O32Ta12
+Atoms(symbols='Cl24O32Ta12', pbc=False)

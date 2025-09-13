@@ -1,0 +1,2 @@
+Mg4O26Si6Y6
+Atoms(symbols='Y6Mg4Si6O26', pbc=False)

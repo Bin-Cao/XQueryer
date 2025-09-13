@@ -1,0 +1,2 @@
+Bi92V16
+Atoms(symbols='Bi92V16', pbc=False)

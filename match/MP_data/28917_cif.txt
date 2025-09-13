@@ -1,0 +1,2 @@
+H18Cl6Cu6O18Sr6
+Atoms(symbols='Sr6Cu6H18Cl6O18', pbc=False)

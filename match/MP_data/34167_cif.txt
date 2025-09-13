@@ -1,0 +1,2 @@
+Mo12Na4O44
+Atoms(symbols='Na4Mo12O44', pbc=False)

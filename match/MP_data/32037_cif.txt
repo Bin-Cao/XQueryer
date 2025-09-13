@@ -1,0 +1,2 @@
+Cu32Se48Sn16
+Atoms(symbols='Cu32Se48Sn16', pbc=False)

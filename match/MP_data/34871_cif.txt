@@ -1,0 +1,2 @@
+Ca4Cl8Fe12O54Se18
+Atoms(symbols='Ca4Cl8Fe12O54Se18', pbc=False)

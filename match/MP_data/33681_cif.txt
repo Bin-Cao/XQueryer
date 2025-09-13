@@ -1,0 +1,2 @@
+Nb10O34Sr10
+Atoms(symbols='Sr10Nb10O34', pbc=False)

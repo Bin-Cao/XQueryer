@@ -1,0 +1,2 @@
+Cs3Te22
+Atoms(symbols='Cs3Te22', pbc=False)

@@ -1,0 +1,2 @@
+H16Mg2O20P4
+Atoms(symbols='Mg2P4H16O20', pbc=False)

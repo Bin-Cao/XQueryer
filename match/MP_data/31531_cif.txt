@@ -1,0 +1,2 @@
+As4O24V8
+Atoms(symbols='V8As4O24', pbc=False)

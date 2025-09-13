@@ -1,0 +1,2 @@
+InLu
+Atoms(symbols='LuIn', pbc=False)

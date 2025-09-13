@@ -1,0 +1,2 @@
+N12O14P6
+Atoms(symbols='P6N12O14', pbc=False)

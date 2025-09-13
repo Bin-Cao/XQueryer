@@ -1,0 +1,2 @@
+I20N12Sc4
+Atoms(symbols='Sc4I20N12', pbc=False)

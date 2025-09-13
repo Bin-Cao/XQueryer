@@ -1,0 +1,2 @@
+Ir32V32
+Atoms(symbols='Ir32V32', pbc=False)

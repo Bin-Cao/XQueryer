@@ -1,0 +1,2 @@
+Cu4O36P8Zn12
+Atoms(symbols='Zn6Cu2P4O18Zn6Cu2P4O18', pbc=False)

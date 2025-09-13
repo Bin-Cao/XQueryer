@@ -1,0 +1,2 @@
+O36P8Rb4Ti6
+Atoms(symbols='Rb4Ti6P8O36', pbc=False)

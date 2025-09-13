@@ -1,0 +1,2 @@
+Br25NaTc12
+Atoms(symbols='NaTc12Br25', pbc=False)

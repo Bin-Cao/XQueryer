@@ -1,0 +1,2 @@
+Cd4K22Sb10
+Atoms(symbols='K22Cd4Sb10', pbc=False)

@@ -1,0 +1,2 @@
+C6H18Al2Cl6P2
+Atoms(symbols='Al2P2H18C6Cl6', pbc=False)

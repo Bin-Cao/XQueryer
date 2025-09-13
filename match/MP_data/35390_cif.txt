@@ -1,0 +1,2 @@
+C4Er4Mn8Si4
+Atoms(symbols='Er2Mn4Si2C2Er2Mn4Si2C2', pbc=False)

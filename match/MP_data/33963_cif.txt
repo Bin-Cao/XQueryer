@@ -1,0 +1,2 @@
+Nd36O84P12
+Atoms(symbols='Nd36O84P12', pbc=False)

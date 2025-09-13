@@ -1,0 +1,2 @@
+Ca4K2O16Si4U
+Atoms(symbols='K2Ca4USi4O16', pbc=False)

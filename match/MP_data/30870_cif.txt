@@ -1,0 +1,2 @@
+C2Ag6Cl4N2O20
+Atoms(symbols='Ag6C2N2Cl4O20', pbc=False)

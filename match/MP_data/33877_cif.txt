@@ -1,0 +1,2 @@
+Cd33Th3
+Atoms(symbols='Th3Cd33', pbc=False)

@@ -1,0 +1,2 @@
+O122Sr30Ti46
+Atoms(symbols='O122Sr30Ti46', pbc=False)

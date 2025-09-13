@@ -1,0 +1,2 @@
+Eu8K4Na4Nb4O26
+Atoms(symbols='K4Na4Eu8Nb4O26', pbc=False)

@@ -1,0 +1,2 @@
+I64W24
+Atoms(symbols='I64W24', pbc=False)

@@ -1,0 +1,2 @@
+CLiMg14
+Atoms(symbols='LiMg14C', pbc=False)

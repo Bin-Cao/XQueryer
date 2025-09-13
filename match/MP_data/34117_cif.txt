@@ -1,0 +1,2 @@
+Co12Dy14Sn46
+Atoms(symbols='Co12Dy14Sn46', pbc=False)

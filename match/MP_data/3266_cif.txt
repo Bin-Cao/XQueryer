@@ -1,0 +1,2 @@
+KMg14Na
+Atoms(symbols='KNaMg14', pbc=False)

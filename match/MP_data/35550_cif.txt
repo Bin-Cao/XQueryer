@@ -1,0 +1,2 @@
+AsLaNi
+Atoms(symbols='LaNiAs', pbc=False)

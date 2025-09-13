@@ -1,0 +1,2 @@
+C30Dy24Re10
+Atoms(symbols='C30Dy24Re10', pbc=False)

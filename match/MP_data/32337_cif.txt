@@ -1,0 +1,2 @@
+C8H10CdO12
+Atoms(symbols='CdH10C8O12', pbc=False)

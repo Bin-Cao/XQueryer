@@ -1,0 +1,2 @@
+Cs4Ge4Se16Sm4
+Atoms(symbols='Cs4Sm4Ge4Se16', pbc=False)

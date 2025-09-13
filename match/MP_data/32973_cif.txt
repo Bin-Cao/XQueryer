@@ -1,0 +1,2 @@
+O26P6Th4
+Atoms(symbols='Th4P6O26', pbc=False)

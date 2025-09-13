@@ -1,0 +1,2 @@
+Cu3O32P6
+Atoms(symbols='Cu3P6O32', pbc=False)

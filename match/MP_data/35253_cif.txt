@@ -1,0 +1,2 @@
+C40N4O28Si12
+Atoms(symbols='C40N4O28Si12', pbc=False)

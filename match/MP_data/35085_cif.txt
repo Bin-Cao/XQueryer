@@ -1,0 +1,2 @@
+C28H76As2Bi4Cl4Si8
+Atoms(symbols='C28H76As2Bi4Cl4Si8', pbc=False)

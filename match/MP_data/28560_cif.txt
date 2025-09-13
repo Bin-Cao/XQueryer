@@ -1,0 +1,2 @@
+Ag28Cs4S16
+Atoms(symbols='Cs4Ag28S16', pbc=False)

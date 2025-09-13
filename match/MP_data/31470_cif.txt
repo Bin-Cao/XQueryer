@@ -1,0 +1,2 @@
+I8La2Mo2O30
+Atoms(symbols='La2Mo2I8O30', pbc=False)

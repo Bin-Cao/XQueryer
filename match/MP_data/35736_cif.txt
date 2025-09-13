@@ -1,0 +1,2 @@
+CuOP2Th2
+Atoms(symbols='Th2CuP2O', pbc=False)

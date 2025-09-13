@@ -1,0 +1,2 @@
+Cl28Sn4W6
+Atoms(symbols='Sn4W6Cl28', pbc=False)

@@ -1,0 +1,2 @@
+Bi14Mo5O36
+Atoms(symbols='Bi14Mo5O36', pbc=False)

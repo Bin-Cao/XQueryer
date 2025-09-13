@@ -1,0 +1,2 @@
+Mn32P24Zr16
+Atoms(symbols='Mn32P24Zr16', pbc=False)

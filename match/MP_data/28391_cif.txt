@@ -1,0 +1,2 @@
+S34Ti2U16
+Atoms(symbols='U8TiS17U8TiS17', pbc=False)

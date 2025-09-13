@@ -1,0 +1,2 @@
+F8Sm4
+Atoms(symbols='SmF2SmF2SmF2SmF2', pbc=False)

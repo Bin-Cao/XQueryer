@@ -1,0 +1,2 @@
+H8O18Th2V4
+Atoms(symbols='Th2V4H8O18', pbc=False)

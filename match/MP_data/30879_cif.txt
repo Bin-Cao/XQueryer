@@ -1,0 +1,2 @@
+C8H32Cu4Na4O32P4S4
+Atoms(symbols='C8H32Cu4Na4O32P4S4', pbc=False)

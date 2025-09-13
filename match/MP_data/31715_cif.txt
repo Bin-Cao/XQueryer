@@ -1,0 +1,2 @@
+Hf8Ni12P12
+Atoms(symbols='Hf8Ni12P12', pbc=False)

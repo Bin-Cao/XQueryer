@@ -1,0 +1,2 @@
+H24Co2O22P4Zn2
+Atoms(symbols='Zn2Co2P4H24O22', pbc=False)

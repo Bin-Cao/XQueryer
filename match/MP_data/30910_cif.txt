@@ -1,0 +1,2 @@
+H120Cu6F12N36O6
+Atoms(symbols='H120Cu6F12N36O6', pbc=False)

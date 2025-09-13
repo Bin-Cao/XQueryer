@@ -1,0 +1,2 @@
+Ce4Rh4Si8
+Atoms(symbols='Ce2Si4Rh2Ce2Si4Rh2', pbc=False)

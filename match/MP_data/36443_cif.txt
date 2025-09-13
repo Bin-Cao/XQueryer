@@ -1,0 +1,2 @@
+Ir36Si20Y16
+Atoms(symbols='Ir36Si20Y16', pbc=False)

@@ -1,0 +1,2 @@
+Br32In2Ir4Te28
+Atoms(symbols='Br32In2Ir4Te28', pbc=False)

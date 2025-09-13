@@ -1,0 +1,2 @@
+H6La6O16V2
+Atoms(symbols='La6V2H6O16', pbc=False)

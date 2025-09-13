@@ -1,0 +1,2 @@
+H8I6O22Sm2
+Atoms(symbols='Sm2H8I6O22', pbc=False)

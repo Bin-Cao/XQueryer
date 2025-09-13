@@ -1,0 +1,2 @@
+Ho5P12Ru19
+Atoms(symbols='Ho5P12Ru19', pbc=False)

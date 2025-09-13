@@ -1,0 +1,2 @@
+H124B40Cs4N28Na4
+Atoms(symbols='H124B40Cs4N28Na4', pbc=False)

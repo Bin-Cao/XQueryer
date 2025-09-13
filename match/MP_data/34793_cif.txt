@@ -1,0 +1,2 @@
+H60Cl20Co4N20Pd4
+Atoms(symbols='H60Cl20Co4N20Pd4', pbc=False)

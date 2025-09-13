@@ -1,0 +1,2 @@
+C24Fe4K12O60
+Atoms(symbols='C24Fe4K12O60', pbc=False)

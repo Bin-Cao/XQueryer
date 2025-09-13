@@ -1,0 +1,2 @@
+B32Co10
+Atoms(symbols='Co10B32', pbc=False)

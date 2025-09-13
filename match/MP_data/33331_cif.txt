@@ -1,0 +1,2 @@
+H8As12Li4O36
+Atoms(symbols='Li4As12H8O36', pbc=False)

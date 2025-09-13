@@ -1,0 +1,2 @@
+C16H24Fe2N12O4S4
+Atoms(symbols='C16H24Fe2N12O4S4', pbc=False)

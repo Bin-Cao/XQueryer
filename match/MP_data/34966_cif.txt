@@ -1,0 +1,2 @@
+Cr18N12O60
+Atoms(symbols='Cr18N12O60', pbc=False)

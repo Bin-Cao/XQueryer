@@ -1,0 +1,2 @@
+Cu12Er3In3
+Atoms(symbols='ErInCu4ErInCu4ErInCu4', pbc=False)

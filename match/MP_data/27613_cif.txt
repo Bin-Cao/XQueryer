@@ -1,0 +1,2 @@
+H24K4Na4O24Te4
+Atoms(symbols='K2Na2Te2H12O12K2Na2Te2H12O12', pbc=False)

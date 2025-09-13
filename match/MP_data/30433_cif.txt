@@ -1,0 +1,2 @@
+Ca36Co18O30Si36
+Atoms(symbols='Ca36Co18O30Si36', pbc=False)

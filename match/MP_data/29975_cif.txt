@@ -1,0 +1,2 @@
+O22Sr6Te8
+Atoms(symbols='Sr6Te8O22', pbc=False)

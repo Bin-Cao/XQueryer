@@ -1,0 +1,2 @@
+F2O34Pr10Se6Si4
+Atoms(symbols='Pr10Si4Se6O34F2', pbc=False)

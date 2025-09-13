@@ -1,0 +1,2 @@
+O25Sc10V5
+Atoms(symbols='Sc10V5O25', pbc=False)

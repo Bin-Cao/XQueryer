@@ -1,0 +1,2 @@
+Gd6Zn23
+Atoms(symbols='Gd6Zn23', pbc=False)

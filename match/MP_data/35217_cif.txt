@@ -1,0 +1,2 @@
+As2CdNd2O
+Atoms(symbols='Nd2CdAs2O', pbc=False)

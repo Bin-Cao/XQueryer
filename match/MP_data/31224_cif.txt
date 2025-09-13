@@ -1,0 +1,2 @@
+Bi52I28Pt12
+Atoms(symbols='Bi52I28Pt12', pbc=False)

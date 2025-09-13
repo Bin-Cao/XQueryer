@@ -1,0 +1,2 @@
+H18CuN6O10V2
+Atoms(symbols='V2CuH18N6O10', pbc=False)

@@ -1,0 +1,2 @@
+Cl2OY2
+Atoms(symbols='Y2Cl2O', pbc=False)

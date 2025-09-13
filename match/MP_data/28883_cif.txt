@@ -1,0 +1,2 @@
+F8Mg20O28Si6
+Atoms(symbols='F8Mg20O28Si6', pbc=False)

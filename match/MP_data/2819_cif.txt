@@ -1,0 +1,2 @@
+Al8Er2Mo4
+Atoms(symbols='ErAl4Mo2ErAl4Mo2', pbc=False)

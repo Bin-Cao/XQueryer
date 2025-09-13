@@ -1,0 +1,2 @@
+Ge24Mg38Sr10
+Atoms(symbols='Ge24Mg38Sr10', pbc=False)

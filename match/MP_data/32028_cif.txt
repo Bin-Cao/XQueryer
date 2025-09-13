@@ -1,0 +1,2 @@
+H14NaO24P8Sc3
+Atoms(symbols='NaSc3P8H14O24', pbc=False)

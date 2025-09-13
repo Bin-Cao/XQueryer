@@ -1,0 +1,2 @@
+H12B6Cl6Co12O108P24Pb24
+Atoms(symbols='H12B6Cl6Co12O108P24Pb24', pbc=False)

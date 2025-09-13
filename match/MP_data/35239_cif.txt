@@ -1,0 +1,2 @@
+As3Cr3Fe3
+Atoms(symbols='Cr3Fe3As3', pbc=False)

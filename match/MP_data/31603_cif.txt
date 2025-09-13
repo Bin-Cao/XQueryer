@@ -1,0 +1,2 @@
+H36F20N12Ta4
+Atoms(symbols='H36F20N12Ta4', pbc=False)

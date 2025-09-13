@@ -1,0 +1,2 @@
+C24H68Al2Li2N8
+Atoms(symbols='C24H68Al2Li2N8', pbc=False)

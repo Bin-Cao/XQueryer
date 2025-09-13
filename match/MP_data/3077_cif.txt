@@ -1,0 +1,2 @@
+B24Ge12O68Rb16
+Atoms(symbols='B24Ge12O68Rb16', pbc=False)

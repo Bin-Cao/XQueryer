@@ -1,0 +1,2 @@
+Li10Mo30S38
+Atoms(symbols='Li10Mo30S38', pbc=False)

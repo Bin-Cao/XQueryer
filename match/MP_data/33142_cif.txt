@@ -1,0 +1,2 @@
+C24H72Ge2Sn8
+Atoms(symbols='C24H72Ge2Sn8', pbc=False)

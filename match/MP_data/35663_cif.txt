@@ -1,0 +1,2 @@
+Ce6Ni8Si8
+Atoms(symbols='Ce3Si4Ni4Ce3Si4Ni4', pbc=False)

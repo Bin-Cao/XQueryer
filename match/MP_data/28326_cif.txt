@@ -1,0 +1,2 @@
+Ba18Mn6S36U6
+Atoms(symbols='Ba18Mn6S36U6', pbc=False)

@@ -1,0 +1,2 @@
+S8Ti5
+Atoms(symbols='Ti5S8', pbc=False)

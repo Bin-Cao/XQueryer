@@ -1,0 +1,2 @@
+N6O36Ta18
+Atoms(symbols='Ta9N3O18Ta9N3O18', pbc=False)

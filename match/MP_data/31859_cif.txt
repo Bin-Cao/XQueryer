@@ -1,0 +1,2 @@
+Al3Er2Si2
+Atoms(symbols='Er2Al3Si2', pbc=False)

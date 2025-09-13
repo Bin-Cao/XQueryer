@@ -1,0 +1,2 @@
+C48H132K4Si12Zn4
+Atoms(symbols='C48H132K4Si12Zn4', pbc=False)

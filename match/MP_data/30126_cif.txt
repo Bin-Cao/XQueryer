@@ -1,0 +1,2 @@
+B6Pd32
+Atoms(symbols='B6Pd32', pbc=False)

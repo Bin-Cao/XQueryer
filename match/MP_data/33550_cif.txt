@@ -1,0 +1,2 @@
+F28Mn12O40P12Rb12
+Atoms(symbols='F28Mn12O40P12Rb12', pbc=False)

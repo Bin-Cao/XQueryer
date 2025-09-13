@@ -1,0 +1,2 @@
+Ho44In24Si16
+Atoms(symbols='Ho44In24Si16', pbc=False)

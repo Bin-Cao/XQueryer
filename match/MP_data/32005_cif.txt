@@ -1,0 +1,2 @@
+C8H32F4Ho4O32
+Atoms(symbols='C8H32F4Ho4O32', pbc=False)

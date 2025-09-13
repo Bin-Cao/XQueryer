@@ -1,0 +1,2 @@
+Fe2Se34U16
+Atoms(symbols='U8FeSe17U8FeSe17', pbc=False)

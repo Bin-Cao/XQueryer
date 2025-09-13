@@ -1,0 +1,2 @@
+Cr4Mn2Se8
+Atoms(symbols='MnCr2Se4MnCr2Se4', pbc=False)

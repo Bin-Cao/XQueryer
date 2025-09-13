@@ -1,0 +1,2 @@
+Hf5Se20Tl20
+Atoms(symbols='Hf5Tl20Se20', pbc=False)

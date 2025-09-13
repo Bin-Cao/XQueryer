@@ -1,0 +1,2 @@
+Ca24O76Si24
+Atoms(symbols='Ca24O76Si24', pbc=False)

@@ -1,0 +1,2 @@
+As12Li4O48Zr8
+Atoms(symbols='As12Li4O48Zr8', pbc=False)

@@ -1,0 +1,2 @@
+C4H24I12N4Pb4
+Atoms(symbols='H24Pb4C4I12N4', pbc=False)

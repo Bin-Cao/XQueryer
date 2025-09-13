@@ -1,0 +1,2 @@
+C6Br20Pr14
+Atoms(symbols='Pr14C6Br20', pbc=False)

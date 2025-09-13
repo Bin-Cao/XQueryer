@@ -1,0 +1,2 @@
+H32K2Mg2O44V10
+Atoms(symbols='H32K2Mg2O44V10', pbc=False)

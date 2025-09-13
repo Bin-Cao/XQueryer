@@ -1,0 +1,2 @@
+AsNiPr
+Atoms(symbols='PrNiAs', pbc=False)

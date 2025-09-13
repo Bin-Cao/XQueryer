@@ -1,0 +1,2 @@
+H54B6N10Y2
+Atoms(symbols='H54B6N10Y2', pbc=False)

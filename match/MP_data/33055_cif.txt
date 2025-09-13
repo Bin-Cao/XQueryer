@@ -1,0 +1,2 @@
+Er3Fe18Ge18
+Atoms(symbols='Er3Fe18Ge18', pbc=False)

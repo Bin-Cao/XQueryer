@@ -1,0 +1,2 @@
+KMg6Zr
+Atoms(symbols='KMg6Zr', pbc=False)

@@ -1,0 +1,2 @@
+MnNaSe2
+Atoms(symbols='NaMnSe2', pbc=False)

@@ -1,0 +1,2 @@
+Ge24Hf12Mn12
+Atoms(symbols='Hf12Mn12Ge24', pbc=False)

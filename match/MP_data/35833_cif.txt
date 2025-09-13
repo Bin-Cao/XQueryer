@@ -1,0 +1,2 @@
+Al4Ga4Sr2
+Atoms(symbols='SrAl2Ga2SrAl2Ga2', pbc=False)

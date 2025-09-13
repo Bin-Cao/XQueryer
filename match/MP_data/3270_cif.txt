@@ -1,0 +1,2 @@
+CeMg14Na
+Atoms(symbols='NaCeMg14', pbc=False)

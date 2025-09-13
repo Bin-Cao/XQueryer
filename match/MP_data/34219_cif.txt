@@ -1,0 +1,2 @@
+Dy44In24Si16
+Atoms(symbols='Dy44In24Si16', pbc=False)

@@ -1,0 +1,2 @@
+O48P16Pb16
+Atoms(symbols='O48P16Pb16', pbc=False)

@@ -1,0 +1,2 @@
+H84Cl6N28Ti2
+Atoms(symbols='H84Cl6N28Ti2', pbc=False)

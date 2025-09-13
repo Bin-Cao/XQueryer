@@ -1,0 +1,2 @@
+H24Cs4Na12O60P16
+Atoms(symbols='H24Cs4Na12O60P16', pbc=False)

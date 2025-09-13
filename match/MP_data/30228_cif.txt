@@ -1,0 +1,2 @@
+Co4N28O32
+Atoms(symbols='Co4N28O32', pbc=False)

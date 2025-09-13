@@ -1,0 +1,2 @@
+Er20Ge16
+Atoms(symbols='Er20Ge16', pbc=False)

@@ -1,0 +1,2 @@
+C6H20Br6N2Sn2
+Atoms(symbols='Sn2H20C6Br6N2', pbc=False)

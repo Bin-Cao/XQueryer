@@ -1,0 +1,2 @@
+Hf6Mo12O48
+Atoms(symbols='Hf6Mo12O48', pbc=False)

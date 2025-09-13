@@ -1,0 +1,2 @@
+K6O48Pt4S12
+Atoms(symbols='K6O48Pt4S12', pbc=False)

@@ -1,0 +1,2 @@
+F2K9O32Si12Y3
+Atoms(symbols='K9Y3Si12O32F2', pbc=False)

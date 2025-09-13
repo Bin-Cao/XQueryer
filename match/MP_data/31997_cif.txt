@@ -1,0 +1,2 @@
+H24As2NiO24U2
+Atoms(symbols='U2NiAs2H24O24', pbc=False)

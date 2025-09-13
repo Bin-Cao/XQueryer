@@ -1,0 +1,2 @@
+H24O40Se4Te4Tl8
+Atoms(symbols='H24O40Se4Te4Tl8', pbc=False)

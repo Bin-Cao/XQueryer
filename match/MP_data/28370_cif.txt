@@ -1,0 +1,2 @@
+Ca10Ge16Ni34
+Atoms(symbols='Ca5Ni17Ge8Ca5Ni17Ge8', pbc=False)

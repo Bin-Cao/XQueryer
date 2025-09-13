@@ -1,0 +1,2 @@
+O20Sr4Tl12
+Atoms(symbols='Sr2Tl6O10Sr2Tl6O10', pbc=False)

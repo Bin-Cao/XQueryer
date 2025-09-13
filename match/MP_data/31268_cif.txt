@@ -1,0 +1,2 @@
+I48Mo24
+Atoms(symbols='I48Mo24', pbc=False)

@@ -1,0 +1,2 @@
+Er8In10S26
+Atoms(symbols='Er8In10S26', pbc=False)

@@ -1,0 +1,2 @@
+Hg4I16O32Sr4
+Atoms(symbols='Sr4Hg4I16O32', pbc=False)

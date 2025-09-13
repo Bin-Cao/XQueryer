@@ -1,0 +1,2 @@
+CuF6Ti
+Atoms(symbols='TiCuF6', pbc=False)

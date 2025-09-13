@@ -1,0 +1,2 @@
+Ga20Pd11U4
+Atoms(symbols='U4Ga20Pd11', pbc=False)

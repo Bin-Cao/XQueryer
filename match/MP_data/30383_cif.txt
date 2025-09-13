@@ -1,0 +1,2 @@
+Ga2K6O22Te4
+Atoms(symbols='K6Ga2Te4O22', pbc=False)

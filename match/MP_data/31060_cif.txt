@@ -1,0 +1,2 @@
+C48F40Ge2
+Atoms(symbols='C48F40Ge2', pbc=False)

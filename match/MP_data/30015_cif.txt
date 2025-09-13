@@ -1,0 +1,2 @@
+O32Sc4Te8V4
+Atoms(symbols='Sc4V4Te8O32', pbc=False)

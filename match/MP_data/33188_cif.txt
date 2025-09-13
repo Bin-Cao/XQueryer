@@ -1,0 +1,2 @@
+C12O32Rb4U4
+Atoms(symbols='Rb4U4C12O32', pbc=False)

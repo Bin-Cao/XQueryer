@@ -1,0 +1,2 @@
+Ba6P28
+Atoms(symbols='Ba6P28', pbc=False)

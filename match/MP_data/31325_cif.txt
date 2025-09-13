@@ -1,0 +1,2 @@
+C96H84Cl6O12Xe2
+Atoms(symbols='C96H84Cl6O12Xe2', pbc=False)

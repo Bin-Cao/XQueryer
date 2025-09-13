@@ -1,0 +1,2 @@
+B48
+Atoms(symbols='B48', pbc=False)

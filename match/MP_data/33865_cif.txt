@@ -1,0 +1,2 @@
+C16H48Ge4In2P2
+Atoms(symbols='C16H48Ge4In2P2', pbc=False)

@@ -1,0 +1,2 @@
+Gd12Mo20O78
+Atoms(symbols='Gd12Mo20O78', pbc=False)

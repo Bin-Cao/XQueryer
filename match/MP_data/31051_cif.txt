@@ -1,0 +1,2 @@
+H28Al2N2O28Se2
+Atoms(symbols='H28Al2N2O28Se2', pbc=False)

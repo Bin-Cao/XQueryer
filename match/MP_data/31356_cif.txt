@@ -1,0 +1,2 @@
+K2O44V10Zn2
+Atoms(symbols='K2V10Zn2O44', pbc=False)

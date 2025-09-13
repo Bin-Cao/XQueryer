@@ -1,0 +1,2 @@
+C6Mg18O96Pb16Si20
+Atoms(symbols='C6Mg18O96Pb16Si20', pbc=False)

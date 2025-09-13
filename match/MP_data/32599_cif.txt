@@ -1,0 +1,2 @@
+Cl18Hg12In4P6
+Atoms(symbols='In4Hg12P6Cl18', pbc=False)

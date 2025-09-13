@@ -1,0 +1,2 @@
+Cu4Ga8O40Se12
+Atoms(symbols='Cu4Ga8O40Se12', pbc=False)

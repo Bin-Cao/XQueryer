@@ -1,0 +1,2 @@
+H12Cl4O22Sn2
+Atoms(symbols='Sn2H12Cl4O22', pbc=False)

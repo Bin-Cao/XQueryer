@@ -1,0 +1,2 @@
+Lu12S18
+Atoms(symbols='Lu12S18', pbc=False)

@@ -1,0 +1,2 @@
+Nd8S20Si4
+Atoms(symbols='Nd8Si4S20', pbc=False)

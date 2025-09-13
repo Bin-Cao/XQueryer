@@ -1,0 +1,2 @@
+H2O18Sr4V6
+Atoms(symbols='Sr4V6H2O18', pbc=False)

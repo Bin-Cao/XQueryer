@@ -1,0 +1,2 @@
+F12N6Si3
+Atoms(symbols='Si3N6F12', pbc=False)

@@ -1,0 +1,2 @@
+N4O14P2Te
+Atoms(symbols='TeP2N4O14', pbc=False)

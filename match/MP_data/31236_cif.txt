@@ -1,0 +1,2 @@
+K8O24Si8
+Atoms(symbols='K8Si8O24', pbc=False)

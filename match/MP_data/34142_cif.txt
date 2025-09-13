@@ -1,0 +1,2 @@
+H8F44K4Ti8
+Atoms(symbols='H8F44K4Ti8', pbc=False)

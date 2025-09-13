@@ -1,0 +1,2 @@
+O44Pb4U10
+Atoms(symbols='U10Pb4O44', pbc=False)

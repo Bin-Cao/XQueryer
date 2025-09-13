@@ -1,0 +1,2 @@
+Ag2P30
+Atoms(symbols='Ag2P30', pbc=False)

@@ -1,0 +1,2 @@
+B24Dy6Fe18O72
+Atoms(symbols='B24Dy6Fe18O72', pbc=False)

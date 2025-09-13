@@ -1,0 +1,2 @@
+Ag6Ca6Pb6
+Atoms(symbols='Ca3Ag3Pb3Ca3Ag3Pb3', pbc=False)

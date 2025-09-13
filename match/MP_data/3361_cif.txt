@@ -1,0 +1,2 @@
+Ge2O56S16Sr4
+Atoms(symbols='Ge2O56S16Sr4', pbc=False)

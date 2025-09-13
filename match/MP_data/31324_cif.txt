@@ -1,0 +1,2 @@
+H6As6Cs3O24Sc3
+Atoms(symbols='Cs3Sc3As6H6O24', pbc=False)

@@ -1,0 +1,2 @@
+Au2F19Sb3Xe2
+Atoms(symbols='Sb3Au2Xe2F19', pbc=False)

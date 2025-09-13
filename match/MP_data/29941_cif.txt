@@ -1,0 +1,2 @@
+C36In4O36Re8
+Atoms(symbols='C36In4O36Re8', pbc=False)

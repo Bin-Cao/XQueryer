@@ -1,0 +1,2 @@
+H38AlCrMo6O40
+Atoms(symbols='H38AlCrMo6O40', pbc=False)

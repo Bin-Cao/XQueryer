@@ -1,0 +1,2 @@
+H20Fe2Sn4Zr12
+Atoms(symbols='Zr12Fe2Sn4H20', pbc=False)

@@ -1,0 +1,2 @@
+H6Cs4Ga2O28P8
+Atoms(symbols='Cs4Ga2P8H6O28', pbc=False)

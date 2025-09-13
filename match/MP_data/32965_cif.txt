@@ -1,0 +1,2 @@
+Dy20Pt16
+Atoms(symbols='Dy20Pt16', pbc=False)

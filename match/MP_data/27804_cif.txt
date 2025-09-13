@@ -1,0 +1,2 @@
+H4Ca2Cs2N18O2
+Atoms(symbols='Cs2Ca2H4N18O2', pbc=False)

@@ -1,0 +1,2 @@
+H32Ho4O40S6
+Atoms(symbols='H32Ho4O40S6', pbc=False)

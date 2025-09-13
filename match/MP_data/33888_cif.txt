@@ -1,0 +1,2 @@
+K6Mg36Pb22
+Atoms(symbols='K6Mg36Pb22', pbc=False)

@@ -1,0 +1,2 @@
+Al2Cl14Se2
+Atoms(symbols='Al2Se2Cl14', pbc=False)

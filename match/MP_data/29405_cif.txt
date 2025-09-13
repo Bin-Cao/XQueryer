@@ -1,0 +1,2 @@
+C10H18Lu2N4O16
+Atoms(symbols='Lu2H18C10N4O16', pbc=False)

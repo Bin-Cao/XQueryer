@@ -1,0 +1,2 @@
+N20O20Pd2Rh2
+Atoms(symbols='Pd2Rh2N20O20', pbc=False)

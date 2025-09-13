@@ -1,0 +1,2 @@
+F2Na9O20Si4U3
+Atoms(symbols='Na9U3Si4O20F2', pbc=False)

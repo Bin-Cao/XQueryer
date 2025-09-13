@@ -1,0 +1,2 @@
+Al6Cu6Pr6
+Atoms(symbols='Pr3Al3Cu3Pr3Al3Cu3', pbc=False)

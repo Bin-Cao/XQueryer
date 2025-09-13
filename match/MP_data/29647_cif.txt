@@ -1,0 +1,2 @@
+H20B24O48Zn2
+Atoms(symbols='H20B24O48Zn2', pbc=False)

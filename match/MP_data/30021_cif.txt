@@ -1,0 +1,2 @@
+Fe6O34P8Rb7Sm
+Atoms(symbols='Rb7SmFe6P8O34', pbc=False)

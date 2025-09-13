@@ -1,0 +1,2 @@
+C24H36Ca6O36
+Atoms(symbols='C24H36Ca6O36', pbc=False)

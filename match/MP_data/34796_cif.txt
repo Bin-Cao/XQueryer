@@ -1,0 +1,2 @@
+H72F28N20U4
+Atoms(symbols='H72F28N20U4', pbc=False)

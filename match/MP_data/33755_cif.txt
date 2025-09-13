@@ -1,0 +1,2 @@
+Mn16O50Si12
+Atoms(symbols='Mn16O50Si12', pbc=False)

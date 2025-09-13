@@ -1,0 +1,2 @@
+Fe8Se32Ti16
+Atoms(symbols='Ti8Fe4Se16Ti8Fe4Se16', pbc=False)

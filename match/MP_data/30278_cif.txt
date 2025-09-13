@@ -1,0 +1,2 @@
+H48Cl24O28Sn8
+Atoms(symbols='H48Cl24O28Sn8', pbc=False)

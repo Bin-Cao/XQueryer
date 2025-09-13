@@ -1,0 +1,2 @@
+Ba4O16Se4
+Atoms(symbols='Ba4Se4O16', pbc=False)

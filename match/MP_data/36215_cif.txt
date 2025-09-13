@@ -1,0 +1,2 @@
+B4O20V12
+Atoms(symbols='V12B4O20', pbc=False)

@@ -1,0 +1,2 @@
+Fe26O38
+Atoms(symbols='Fe26O38', pbc=False)

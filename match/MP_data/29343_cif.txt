@@ -1,0 +1,2 @@
+Bi72Ir18
+Atoms(symbols='Bi72Ir18', pbc=False)

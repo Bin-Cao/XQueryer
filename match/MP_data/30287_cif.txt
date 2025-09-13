@@ -1,0 +1,2 @@
+Ni12O32Te8
+Atoms(symbols='Ni12Te8O32', pbc=False)

@@ -1,0 +1,2 @@
+C34Si34
+Atoms(symbols='C34Si34', pbc=False)

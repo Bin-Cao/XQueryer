@@ -1,0 +1,2 @@
+Ir12Tb20
+Atoms(symbols='Tb20Ir12', pbc=False)

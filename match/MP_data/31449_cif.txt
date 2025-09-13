@@ -1,0 +1,2 @@
+La10P24Ru38
+Atoms(symbols='La10P24Ru38', pbc=False)

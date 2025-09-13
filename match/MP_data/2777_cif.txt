@@ -1,0 +1,2 @@
+K8O28Sn12
+Atoms(symbols='K8Sn12O28', pbc=False)

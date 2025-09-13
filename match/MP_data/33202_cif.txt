@@ -1,0 +1,2 @@
+C60H36N12Zn
+Atoms(symbols='C60H36N12Zn', pbc=False)

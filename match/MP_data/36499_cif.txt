@@ -1,0 +1,2 @@
+Cu3F6Ni
+Atoms(symbols='Cu3NiF6', pbc=False)

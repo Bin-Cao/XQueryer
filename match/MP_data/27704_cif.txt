@@ -1,0 +1,2 @@
+H20Si10
+Atoms(symbols='Si10H20', pbc=False)

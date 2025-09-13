@@ -1,0 +1,2 @@
+C4H64B40Se4
+Atoms(symbols='C4H64B40Se4', pbc=False)

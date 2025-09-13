@@ -1,0 +1,2 @@
+Au4In2Sm4
+Atoms(symbols='Sm4In2Au4', pbc=False)

@@ -1,0 +1,2 @@
+H24As2K2Mg2O20
+Atoms(symbols='K2Mg2As2H24O20', pbc=False)

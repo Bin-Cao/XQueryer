@@ -1,0 +1,2 @@
+In2O16Rb2Te6
+Atoms(symbols='Rb2In2Te6O16', pbc=False)

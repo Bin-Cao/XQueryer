@@ -1,0 +1,2 @@
+Cu2Dy4O24S4
+Atoms(symbols='Dy4Cu2S4O24', pbc=False)

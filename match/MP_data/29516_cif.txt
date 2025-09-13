@@ -1,0 +1,2 @@
+Ba16Pd2Se32U4
+Atoms(symbols='Ba16U4Pd2Se32', pbc=False)

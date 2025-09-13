@@ -1,0 +1,2 @@
+O47W17
+Atoms(symbols='O47W17', pbc=False)

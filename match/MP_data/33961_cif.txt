@@ -1,0 +1,2 @@
+H24Br8O20U4
+Atoms(symbols='U4H24Br8O20', pbc=False)

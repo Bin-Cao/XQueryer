@@ -1,0 +1,2 @@
+H28B40Ba16Ga4O96
+Atoms(symbols='H28B40Ba16Ga4O96', pbc=False)

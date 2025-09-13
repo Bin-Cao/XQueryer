@@ -1,0 +1,2 @@
+Cu7Na12O14
+Atoms(symbols='Na12Cu7O14', pbc=False)

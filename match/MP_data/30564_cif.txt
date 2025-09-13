@@ -1,0 +1,2 @@
+Hf28Ni40
+Atoms(symbols='Hf28Ni40', pbc=False)

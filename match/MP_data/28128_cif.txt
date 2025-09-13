@@ -1,0 +1,2 @@
+Cu5O18S2
+Atoms(symbols='Cu5S2O18', pbc=False)

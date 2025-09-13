@@ -1,0 +1,2 @@
+Cs8Mo20O64
+Atoms(symbols='Cs8Mo20O64', pbc=False)

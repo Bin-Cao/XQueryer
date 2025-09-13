@@ -1,0 +1,2 @@
+Br2Ho2O
+Atoms(symbols='Ho2Br2O', pbc=False)

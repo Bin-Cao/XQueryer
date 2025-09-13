@@ -1,0 +1,2 @@
+H16Ca4O36Se8
+Atoms(symbols='H16Ca4O36Se8', pbc=False)

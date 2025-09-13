@@ -1,0 +1,2 @@
+H16Li4Na4O28Si8
+Atoms(symbols='Na2Li2Si4H8O14Na2Li2Si4H8O14', pbc=False)

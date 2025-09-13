@@ -1,0 +1,2 @@
+Ga42Lu8Ni20
+Atoms(symbols='Ga42Lu8Ni20', pbc=False)

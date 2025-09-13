@@ -1,0 +1,2 @@
+Bi20I36Pt3
+Atoms(symbols='Bi20Pt3I36', pbc=False)

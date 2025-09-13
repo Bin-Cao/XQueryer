@@ -1,0 +1,2 @@
+Bi8Cl32Hg12Te8
+Atoms(symbols='Hg6Bi4Te4Cl16Hg6Bi4Te4Cl16', pbc=False)

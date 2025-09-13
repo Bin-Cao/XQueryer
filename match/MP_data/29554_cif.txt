@@ -1,0 +1,2 @@
+H64B40Na8O104
+Atoms(symbols='H64B40Na8O104', pbc=False)

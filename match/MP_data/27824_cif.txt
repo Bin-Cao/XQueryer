@@ -1,0 +1,2 @@
+C8H24Cl20Se4Ta4
+Atoms(symbols='Ta2H12C4Se2Cl10Ta2H12C4Se2Cl10', pbc=False)

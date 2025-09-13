@@ -1,0 +1,2 @@
+Co34Gd4
+Atoms(symbols='Gd4Co34', pbc=False)

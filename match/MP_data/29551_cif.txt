@@ -1,0 +1,2 @@
+K4Mo12O48Sr2Th4
+Atoms(symbols='K4Mo12O48Sr2Th4', pbc=False)

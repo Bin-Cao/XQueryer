@@ -1,0 +1,2 @@
+Cr2I2O20Rb2U2
+Atoms(symbols='Rb2U2Cr2I2O20', pbc=False)

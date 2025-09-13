@@ -1,0 +1,2 @@
+C16N4O38Si12
+Atoms(symbols='C16N4O38Si12', pbc=False)

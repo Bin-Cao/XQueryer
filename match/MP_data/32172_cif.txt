@@ -1,0 +1,2 @@
+H24B24Sr2
+Atoms(symbols='Sr2B24H24', pbc=False)

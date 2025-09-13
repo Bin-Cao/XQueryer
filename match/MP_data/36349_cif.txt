@@ -1,0 +1,2 @@
+C28Cl8Mo4N2P8S2
+Atoms(symbols='Mo4P8C28S2N2Cl8', pbc=False)

@@ -1,0 +1,2 @@
+Rh8Sc10Si20
+Atoms(symbols='Sc10Si20Rh8', pbc=False)

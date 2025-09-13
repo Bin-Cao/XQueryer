@@ -1,0 +1,2 @@
+I6Lu2O22
+Atoms(symbols='Lu2I6O22', pbc=False)

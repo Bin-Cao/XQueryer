@@ -1,0 +1,2 @@
+C6H30Cl6Mn2N2O6P2
+Atoms(symbols='Mn2P2H30C6N2Cl6O6', pbc=False)

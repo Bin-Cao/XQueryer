@@ -1,0 +1,2 @@
+Br36Co3Sc21
+Atoms(symbols='Sc7CoBr12Sc7CoBr12Sc7CoBr12', pbc=False)

@@ -1,0 +1,2 @@
+H26Cl8N10O4Ru2Zn2
+Atoms(symbols='Zn2H26Ru2N10Cl8O4', pbc=False)

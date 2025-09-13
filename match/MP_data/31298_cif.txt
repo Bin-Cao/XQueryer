@@ -1,0 +1,2 @@
+Cd4Mo30Se38
+Atoms(symbols='Cd4Mo30Se38', pbc=False)

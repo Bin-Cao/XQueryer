@@ -1,0 +1,2 @@
+AuF6K3
+Atoms(symbols='K3AuF6', pbc=False)

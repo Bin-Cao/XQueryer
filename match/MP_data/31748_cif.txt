@@ -1,0 +1,2 @@
+C20H24In8O44
+Atoms(symbols='C20H24In8O44', pbc=False)

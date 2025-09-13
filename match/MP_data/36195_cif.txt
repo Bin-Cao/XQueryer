@@ -1,0 +1,2 @@
+Cu3La3Mg3
+Atoms(symbols='La3Mg3Cu3', pbc=False)

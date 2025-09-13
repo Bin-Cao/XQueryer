@@ -1,0 +1,2 @@
+F44In12Rb8
+Atoms(symbols='F44In12Rb8', pbc=False)

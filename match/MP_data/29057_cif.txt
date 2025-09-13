@@ -1,0 +1,2 @@
+B4Er4Na4O20Te2
+Atoms(symbols='Na4Er4B4Te2O20', pbc=False)

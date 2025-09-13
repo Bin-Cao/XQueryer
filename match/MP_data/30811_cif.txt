@@ -1,0 +1,2 @@
+H32Ni6O32P4
+Atoms(symbols='H32Ni6O32P4', pbc=False)

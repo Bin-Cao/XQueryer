@@ -1,0 +1,2 @@
+AgPrSi
+Atoms(symbols='PrSiAg', pbc=False)

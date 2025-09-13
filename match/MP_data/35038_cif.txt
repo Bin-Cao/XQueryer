@@ -1,0 +1,2 @@
+B6CeCo12
+Atoms(symbols='CeCo12B6', pbc=False)

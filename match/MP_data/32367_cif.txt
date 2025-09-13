@@ -1,0 +1,2 @@
+Ce2Na2O26P6Sr6
+Atoms(symbols='Na2Sr6Ce2P6O26', pbc=False)

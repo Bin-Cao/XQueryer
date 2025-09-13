@@ -1,0 +1,2 @@
+Ge16Ho16Li4
+Atoms(symbols='Li4Ho16Ge16', pbc=False)

@@ -1,0 +1,2 @@
+Mo72P6
+Atoms(symbols='Mo72P6', pbc=False)

@@ -1,0 +1,2 @@
+Ba12Cl4Ga4Se16
+Atoms(symbols='Ba12Ga4Se16Cl4', pbc=False)

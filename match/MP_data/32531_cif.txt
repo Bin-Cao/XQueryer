@@ -1,0 +1,2 @@
+H44Mo6Na6O46Te
+Atoms(symbols='H44Mo6Na6O46Te', pbc=False)

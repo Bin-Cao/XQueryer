@@ -1,0 +1,2 @@
+C2Ca6O50S2Si2
+Atoms(symbols='C2Ca6O50S2Si2', pbc=False)

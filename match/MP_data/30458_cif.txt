@@ -1,0 +1,2 @@
+H22Br4O12Sc2
+Atoms(symbols='Sc2H22Br4O12', pbc=False)

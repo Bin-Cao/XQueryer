@@ -1,0 +1,2 @@
+Ag20Hg4O24Sb4
+Atoms(symbols='Ag10Hg2Sb2O12Ag10Hg2Sb2O12', pbc=False)

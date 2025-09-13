@@ -1,0 +1,2 @@
+HoMg
+Atoms(symbols='HoMg', pbc=False)

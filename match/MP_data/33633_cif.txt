@@ -1,0 +1,2 @@
+I8Mo2O30Sm2
+Atoms(symbols='Sm2Mo2I8O30', pbc=False)

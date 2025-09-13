@@ -1,0 +1,2 @@
+Cr4Mn4O20Y4
+Atoms(symbols='Y4Mn4Cr4O20', pbc=False)

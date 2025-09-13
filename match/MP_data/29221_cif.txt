@@ -1,0 +1,2 @@
+Ge32Rb28Zn2
+Atoms(symbols='Ge32Rb28Zn2', pbc=False)

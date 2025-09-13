@@ -1,0 +1,2 @@
+Ga8S72Sb8Sm32
+Atoms(symbols='Ga8S72Sb8Sm32', pbc=False)

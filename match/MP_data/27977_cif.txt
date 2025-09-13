@@ -1,0 +1,2 @@
+O20S4Tl4V2
+Atoms(symbols='Tl4V2S4O20', pbc=False)

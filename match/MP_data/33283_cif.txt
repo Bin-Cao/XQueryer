@@ -1,0 +1,2 @@
+Hg6Pd16Se18
+Atoms(symbols='Hg6Pd16Se18', pbc=False)

@@ -1,0 +1,2 @@
+O4Rb4Tl4
+Atoms(symbols='Rb2Tl2O2Rb2Tl2O2', pbc=False)

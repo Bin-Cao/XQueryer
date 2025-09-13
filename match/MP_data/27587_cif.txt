@@ -1,0 +1,2 @@
+Co28
+Atoms(symbols='Co28', pbc=False)

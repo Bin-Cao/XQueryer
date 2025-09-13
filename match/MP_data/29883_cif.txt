@@ -1,0 +1,2 @@
+Ge24Ru12Sc12
+Atoms(symbols='Sc12Ge24Ru12', pbc=False)

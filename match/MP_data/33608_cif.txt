@@ -1,0 +1,2 @@
+C4H16Cd2N8O16Re4S4
+Atoms(symbols='Cd2Re4H16C4S4N8O16', pbc=False)

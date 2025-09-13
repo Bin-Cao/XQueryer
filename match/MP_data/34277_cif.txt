@@ -1,0 +1,2 @@
+Fe30P19U6
+Atoms(symbols='U6Fe30P19', pbc=False)

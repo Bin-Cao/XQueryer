@@ -1,0 +1,2 @@
+C12H40As4I4
+Atoms(symbols='As4H40C12I4', pbc=False)

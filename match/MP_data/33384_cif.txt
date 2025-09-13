@@ -1,0 +1,2 @@
+Br28N8Nb12O20
+Atoms(symbols='Br28N8Nb12O20', pbc=False)

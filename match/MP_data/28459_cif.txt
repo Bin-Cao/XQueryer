@@ -1,0 +1,2 @@
+H8F2Na2Ni2O12S2
+Atoms(symbols='Na2Ni2H8S2O12F2', pbc=False)

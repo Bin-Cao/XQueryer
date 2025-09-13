@@ -1,0 +1,2 @@
+AgK2
+Atoms(symbols='K2Ag', pbc=False)

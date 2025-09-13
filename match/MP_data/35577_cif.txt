@@ -1,0 +1,2 @@
+H4Co4
+Atoms(symbols='CoHCoHCoHCoH', pbc=False)

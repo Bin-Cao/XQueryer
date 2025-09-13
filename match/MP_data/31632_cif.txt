@@ -1,0 +1,2 @@
+C44H4Fe12K4O44
+Atoms(symbols='C44H4Fe12K4O44', pbc=False)

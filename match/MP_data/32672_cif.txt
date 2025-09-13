@@ -1,0 +1,2 @@
+C26H42B2MgN14O6
+Atoms(symbols='C26H42B2MgN14O6', pbc=False)

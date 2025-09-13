@@ -1,0 +1,2 @@
+Mg15Sn
+Atoms(symbols='Mg15Sn', pbc=False)

@@ -1,0 +1,2 @@
+K4O20S2Te2
+Atoms(symbols='K4Te2S2O20', pbc=False)

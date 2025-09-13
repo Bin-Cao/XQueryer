@@ -1,0 +1,2 @@
+Ca16In6
+Atoms(symbols='Ca16In6', pbc=False)

@@ -1,0 +1,2 @@
+H32Ca2I4O16
+Atoms(symbols='Ca2H32I4O16', pbc=False)

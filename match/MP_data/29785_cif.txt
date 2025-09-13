@@ -1,0 +1,2 @@
+Pr20Sn16
+Atoms(symbols='Pr20Sn16', pbc=False)

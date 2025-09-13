@@ -1,0 +1,2 @@
+Ba6Ge18O44
+Atoms(symbols='Ba6Ge18O44', pbc=False)

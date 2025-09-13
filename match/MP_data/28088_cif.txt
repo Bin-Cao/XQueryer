@@ -1,0 +1,2 @@
+Mn2S34U16
+Atoms(symbols='U8MnS17U8MnS17', pbc=False)

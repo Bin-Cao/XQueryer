@@ -1,0 +1,2 @@
+Gd22In18Ni8
+Atoms(symbols='Gd11In9Ni4Gd11In9Ni4', pbc=False)

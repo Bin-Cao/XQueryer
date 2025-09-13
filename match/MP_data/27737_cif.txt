@@ -1,0 +1,2 @@
+Ho21I36Pt3
+Atoms(symbols='Ho7PtI12Ho7PtI12Ho7PtI12', pbc=False)

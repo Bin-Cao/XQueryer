@@ -1,0 +1,2 @@
+Co28In3La18
+Atoms(symbols='La18In3Co28', pbc=False)

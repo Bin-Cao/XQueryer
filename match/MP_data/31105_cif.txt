@@ -1,0 +1,2 @@
+H4Eu4Mo6O34Se4
+Atoms(symbols='Eu4Mo6H4Se4O34', pbc=False)

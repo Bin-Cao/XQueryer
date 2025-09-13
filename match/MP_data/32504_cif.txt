@@ -1,0 +1,2 @@
+Ba8Cl2Ge6Na2S20
+Atoms(symbols='Ba8Na2Ge6S20Cl2', pbc=False)

@@ -1,0 +1,2 @@
+Er2GaNi2
+Atoms(symbols='Er2GaNi2', pbc=False)

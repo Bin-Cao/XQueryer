@@ -1,0 +1,2 @@
+Mn21O36Pr3
+Atoms(symbols='PrMn7O12PrMn7O12PrMn7O12', pbc=False)

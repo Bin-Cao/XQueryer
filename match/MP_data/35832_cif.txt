@@ -1,0 +1,2 @@
+MnOP2Pr2
+Atoms(symbols='Pr2MnP2O', pbc=False)

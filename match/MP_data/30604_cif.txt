@@ -1,0 +1,2 @@
+C2H10Ga2Ge4N2O12
+Atoms(symbols='Ga2Ge4H10C2N2O12', pbc=False)

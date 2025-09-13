@@ -1,0 +1,2 @@
+N12Pr6Ta4
+Atoms(symbols='Pr3Ta2N6Pr3Ta2N6', pbc=False)

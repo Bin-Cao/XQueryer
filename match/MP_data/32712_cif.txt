@@ -1,0 +1,2 @@
+C28H76Cl2In2Si8
+Atoms(symbols='C28H76Cl2In2Si8', pbc=False)

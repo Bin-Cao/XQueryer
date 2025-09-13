@@ -1,0 +1,2 @@
+Cs22Fe20O2S32
+Atoms(symbols='Cs22Fe20O2S32', pbc=False)

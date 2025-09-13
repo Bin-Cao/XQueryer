@@ -1,0 +1,2 @@
+C40H120Si20
+Atoms(symbols='C40H120Si20', pbc=False)

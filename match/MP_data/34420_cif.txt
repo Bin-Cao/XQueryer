@@ -1,0 +1,2 @@
+H24Cs4N24O32Rh4
+Atoms(symbols='H24Cs4N24O32Rh4', pbc=False)

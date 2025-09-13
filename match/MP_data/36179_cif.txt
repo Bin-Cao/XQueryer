@@ -1,0 +1,2 @@
+Br12Cs4Mo2
+Atoms(symbols='Cs2MoBr6Cs2MoBr6', pbc=False)

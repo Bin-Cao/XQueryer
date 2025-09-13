@@ -1,0 +1,2 @@
+Nd6Sn14
+Atoms(symbols='Nd3Sn7Nd3Sn7', pbc=False)

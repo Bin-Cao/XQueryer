@@ -1,0 +1,2 @@
+C56Fe4Mn8O56
+Atoms(symbols='C56Fe4Mn8O56', pbc=False)

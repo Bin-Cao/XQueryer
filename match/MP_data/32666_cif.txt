@@ -1,0 +1,2 @@
+Bi16Cl56Se40
+Atoms(symbols='Bi16Cl56Se40', pbc=False)

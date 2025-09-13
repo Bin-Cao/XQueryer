@@ -1,0 +1,2 @@
+Cs16In16Te32
+Atoms(symbols='Cs16In16Te32', pbc=False)

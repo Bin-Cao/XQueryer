@@ -1,0 +1,2 @@
+Ge16Lu20
+Atoms(symbols='Lu20Ge16', pbc=False)

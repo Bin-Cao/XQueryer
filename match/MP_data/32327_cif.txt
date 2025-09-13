@@ -1,0 +1,2 @@
+H20N2O18Se2V2
+Atoms(symbols='V2H20Se2N2O18', pbc=False)

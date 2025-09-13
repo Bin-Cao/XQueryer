@@ -1,0 +1,2 @@
+H48S16
+Atoms(symbols='H48S16', pbc=False)

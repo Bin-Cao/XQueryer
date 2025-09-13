@@ -1,0 +1,2 @@
+Br6O20Y2
+Atoms(symbols='Y2Br6O20', pbc=False)

@@ -1,0 +1,2 @@
+In18Pd8Tb22
+Atoms(symbols='Tb11In9Pd4Tb11In9Pd4', pbc=False)

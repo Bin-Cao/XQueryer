@@ -1,0 +1,2 @@
+As3Nd2Rh3
+Atoms(symbols='Nd2As3Rh3', pbc=False)

@@ -1,0 +1,2 @@
+C36H108Cl2F12Ir4P14
+Atoms(symbols='C36H108Cl2F12Ir4P14', pbc=False)

@@ -1,0 +1,2 @@
+C6H26Cl4N6O2Pt2
+Atoms(symbols='H26Pt2C6N6Cl4O2', pbc=False)

@@ -1,0 +1,2 @@
+Ce8Pd32Sn8
+Atoms(symbols='Ce8Sn8Pd32', pbc=False)

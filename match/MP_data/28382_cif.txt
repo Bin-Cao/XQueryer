@@ -1,0 +1,2 @@
+H2B2In2K2O18P4
+Atoms(symbols='K2In2B2P4H2O18', pbc=False)

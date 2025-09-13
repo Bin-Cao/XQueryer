@@ -1,0 +1,2 @@
+Al2B28Dy2
+Atoms(symbols='Dy2Al2B28', pbc=False)

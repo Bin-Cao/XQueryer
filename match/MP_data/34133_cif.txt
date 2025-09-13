@@ -1,0 +1,2 @@
+Al8Si38
+Atoms(symbols='Al8Si38', pbc=False)

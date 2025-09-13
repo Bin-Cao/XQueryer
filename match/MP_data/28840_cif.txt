@@ -1,0 +1,2 @@
+Cd4Ge6O18
+Atoms(symbols='Cd4Ge6O18', pbc=False)

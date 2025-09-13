@@ -1,0 +1,2 @@
+O64Se12Th12
+Atoms(symbols='O64Se12Th12', pbc=False)

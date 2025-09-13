@@ -1,0 +1,2 @@
+F28Ni6O52U8
+Atoms(symbols='F28Ni6O52U8', pbc=False)

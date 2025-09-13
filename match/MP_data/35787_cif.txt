@@ -1,0 +1,2 @@
+Ce4Co4Zn8
+Atoms(symbols='Ce2Zn4Co2Ce2Zn4Co2', pbc=False)

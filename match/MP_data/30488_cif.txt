@@ -1,0 +1,2 @@
+Co52La24Sn4
+Atoms(symbols='Co52La24Sn4', pbc=False)

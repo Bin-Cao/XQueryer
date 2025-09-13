@@ -1,0 +1,2 @@
+H58N18O20Pd6S6
+Atoms(symbols='H58N18O20Pd6S6', pbc=False)

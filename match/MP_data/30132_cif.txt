@@ -1,0 +1,2 @@
+H4Gd4O20S4
+Atoms(symbols='Gd4H4S4O20', pbc=False)

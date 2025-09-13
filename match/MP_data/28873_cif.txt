@@ -1,0 +1,2 @@
+K4O18Ti8
+Atoms(symbols='K4Ti8O18', pbc=False)

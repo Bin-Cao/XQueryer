@@ -1,0 +1,2 @@
+H44Nd4O64S12
+Atoms(symbols='H44Nd4O64S12', pbc=False)

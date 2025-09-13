@@ -1,0 +1,2 @@
+Ga20Mn32
+Atoms(symbols='Mn16Ga10Mn16Ga10', pbc=False)

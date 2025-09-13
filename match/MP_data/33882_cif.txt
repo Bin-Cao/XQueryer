@@ -1,0 +1,2 @@
+H48N16Te30Zn4
+Atoms(symbols='H48N16Te30Zn4', pbc=False)

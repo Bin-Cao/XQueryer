@@ -1,0 +1,2 @@
+Br96Rb48Zn24
+Atoms(symbols='Br96Rb48Zn24', pbc=False)

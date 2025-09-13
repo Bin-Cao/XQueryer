@@ -1,0 +1,2 @@
+N2O46U6
+Atoms(symbols='U6N2O46', pbc=False)

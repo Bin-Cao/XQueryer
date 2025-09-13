@@ -1,0 +1,2 @@
+AsGdNi
+Atoms(symbols='GdNiAs', pbc=False)

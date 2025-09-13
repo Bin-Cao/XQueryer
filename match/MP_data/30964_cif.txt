@@ -1,0 +1,2 @@
+H40Ag4N24O40Rh4
+Atoms(symbols='H40Ag4N24O40Rh4', pbc=False)

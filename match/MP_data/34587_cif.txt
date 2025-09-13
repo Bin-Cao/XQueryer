@@ -1,0 +1,2 @@
+H72B18Mn9
+Atoms(symbols='H72B18Mn9', pbc=False)

@@ -1,0 +1,2 @@
+C18H54BiCl4GaN4Si6
+Atoms(symbols='C18H54BiCl4GaN4Si6', pbc=False)

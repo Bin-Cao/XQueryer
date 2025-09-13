@@ -1,0 +1,2 @@
+P12Ru19Tb5
+Atoms(symbols='Tb5P12Ru19', pbc=False)

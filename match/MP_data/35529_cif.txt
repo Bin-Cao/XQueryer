@@ -1,0 +1,2 @@
+FOY2
+Atoms(symbols='Y2OF', pbc=False)

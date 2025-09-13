@@ -1,0 +1,2 @@
+B28Ga6Ni54
+Atoms(symbols='B28Ga6Ni54', pbc=False)

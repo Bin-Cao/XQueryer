@@ -1,0 +1,2 @@
+B6Ho2Mo2
+Atoms(symbols='Ho2B6Mo2', pbc=False)

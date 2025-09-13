@@ -1,0 +1,2 @@
+Ga20Tb12
+Atoms(symbols='Tb12Ga20', pbc=False)

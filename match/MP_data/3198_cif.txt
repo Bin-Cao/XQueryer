@@ -1,0 +1,2 @@
+CeHfMg14
+Atoms(symbols='CeHfMg14', pbc=False)

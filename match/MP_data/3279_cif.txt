@@ -1,0 +1,2 @@
+C3Dy2Mo2
+Atoms(symbols='Dy2Mo2C3', pbc=False)

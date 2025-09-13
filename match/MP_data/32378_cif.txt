@@ -1,0 +1,2 @@
+As12N8O68V8
+Atoms(symbols='As12N8O68V8', pbc=False)

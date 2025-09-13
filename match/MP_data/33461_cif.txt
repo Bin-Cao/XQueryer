@@ -1,0 +1,2 @@
+B12K12O40
+Atoms(symbols='B12K12O40', pbc=False)

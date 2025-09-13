@@ -1,0 +1,2 @@
+Cu16Dy4Mn4P12
+Atoms(symbols='Dy4Mn4Cu16P12', pbc=False)

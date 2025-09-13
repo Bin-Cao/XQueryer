@@ -1,0 +1,2 @@
+Mn6Sn24Ti6
+Atoms(symbols='Ti3Mn3Sn12Ti3Mn3Sn12', pbc=False)

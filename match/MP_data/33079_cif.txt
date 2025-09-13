@@ -1,0 +1,2 @@
+B18Cu3O44Tl4
+Atoms(symbols='B18Cu3O44Tl4', pbc=False)

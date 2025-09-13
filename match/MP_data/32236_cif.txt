@@ -1,0 +1,2 @@
+As14K2Mn12O48
+Atoms(symbols='As14K2Mn12O48', pbc=False)

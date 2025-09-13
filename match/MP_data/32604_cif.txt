@@ -1,0 +1,2 @@
+H16Br8Li8O40
+Atoms(symbols='H16Br8Li8O40', pbc=False)

@@ -1,0 +1,2 @@
+C32CuF16N8
+Atoms(symbols='CuC32N8F16', pbc=False)

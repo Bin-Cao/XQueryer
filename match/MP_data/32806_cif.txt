@@ -1,0 +1,2 @@
+H32Cl12CuO22W6
+Atoms(symbols='H32Cl12CuO22W6', pbc=False)

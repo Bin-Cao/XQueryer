@@ -1,0 +1,2 @@
+H16B24F24K4O8
+Atoms(symbols='H16B24F24K4O8', pbc=False)

@@ -1,0 +1,2 @@
+F32O40Rb8U12
+Atoms(symbols='F32O40Rb8U12', pbc=False)

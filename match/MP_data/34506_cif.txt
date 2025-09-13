@@ -1,0 +1,2 @@
+Mo4O22Pb2Se4
+Atoms(symbols='Mo4Pb2Se4O22', pbc=False)

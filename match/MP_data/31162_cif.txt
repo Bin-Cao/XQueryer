@@ -1,0 +1,2 @@
+H20Mo6O36Sm2Te
+Atoms(symbols='H20Mo6O36Sm2Te', pbc=False)

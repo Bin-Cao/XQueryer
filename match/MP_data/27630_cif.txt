@@ -1,0 +1,2 @@
+Cr2Nd8S14
+Atoms(symbols='Nd8Cr2S14', pbc=False)

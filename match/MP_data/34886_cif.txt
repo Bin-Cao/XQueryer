@@ -1,0 +1,2 @@
+Bi2FeLu6
+Atoms(symbols='Lu6FeBi2', pbc=False)

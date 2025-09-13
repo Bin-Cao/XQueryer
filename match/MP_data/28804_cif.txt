@@ -1,0 +1,2 @@
+H10K4O12Sb2
+Atoms(symbols='K4Sb2H10O12', pbc=False)

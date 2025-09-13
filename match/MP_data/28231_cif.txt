@@ -1,0 +1,2 @@
+Cu2Hg2N4O20
+Atoms(symbols='Cu2Hg2N4O20', pbc=False)

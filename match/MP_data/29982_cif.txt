@@ -1,0 +1,2 @@
+H16Cr2F12O8Si2
+Atoms(symbols='Cr2Si2H16O8F12', pbc=False)

@@ -1,0 +1,2 @@
+AsS2Th2
+Atoms(symbols='Th2AsS2', pbc=False)

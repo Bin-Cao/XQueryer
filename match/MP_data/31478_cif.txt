@@ -1,0 +1,2 @@
+C26H46B20Co2
+Atoms(symbols='C26H46B20Co2', pbc=False)

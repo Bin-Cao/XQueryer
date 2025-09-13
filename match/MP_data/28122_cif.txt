@@ -1,0 +1,2 @@
+Ge28Ni16Ti16
+Atoms(symbols='Ti8Ni8Ge14Ti8Ni8Ge14', pbc=False)

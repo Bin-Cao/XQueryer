@@ -1,0 +1,2 @@
+I2Ti
+Atoms(symbols='TiI2', pbc=False)

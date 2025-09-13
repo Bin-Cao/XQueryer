@@ -1,0 +1,2 @@
+Pd64Sb24
+Atoms(symbols='Pd64Sb24', pbc=False)

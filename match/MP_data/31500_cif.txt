@@ -1,0 +1,2 @@
+C8K4O18Sn2
+Atoms(symbols='K4Sn2C8O18', pbc=False)

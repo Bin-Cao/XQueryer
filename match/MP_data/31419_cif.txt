@@ -1,0 +1,2 @@
+B12Cu3Li18O30
+Atoms(symbols='B12Cu3Li18O30', pbc=False)

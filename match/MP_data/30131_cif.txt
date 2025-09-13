@@ -1,0 +1,2 @@
+H40Cl16O20Zn8
+Atoms(symbols='H40Cl16O20Zn8', pbc=False)

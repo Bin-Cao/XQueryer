@@ -1,0 +1,2 @@
+H8F16Mo4Na8O12
+Atoms(symbols='Na8Mo4H8O12F16', pbc=False)

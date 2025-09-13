@@ -1,0 +1,2 @@
+Cl8Hg16O48
+Atoms(symbols='Cl8Hg16O48', pbc=False)

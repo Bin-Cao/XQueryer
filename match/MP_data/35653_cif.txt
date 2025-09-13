@@ -1,0 +1,2 @@
+H12Br8K12O28Pt4S8
+Atoms(symbols='H12Br8K12O28Pt4S8', pbc=False)

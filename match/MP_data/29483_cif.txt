@@ -1,0 +1,2 @@
+B32Er8Ru32
+Atoms(symbols='B32Er8Ru32', pbc=False)

@@ -1,0 +1,2 @@
+C18O18Ru6Se4
+Atoms(symbols='Ru6C18Se4O18', pbc=False)

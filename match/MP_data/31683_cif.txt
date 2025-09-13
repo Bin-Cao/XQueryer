@@ -1,0 +1,2 @@
+B28I4Nd4O60
+Atoms(symbols='B28I4Nd4O60', pbc=False)

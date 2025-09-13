@@ -1,0 +1,2 @@
+Hf4Ni4Sb4
+Atoms(symbols='HfNiSbHfNiSbHfNiSbHfNiSb', pbc=False)

@@ -1,0 +1,2 @@
+Ga40Pt8
+Atoms(symbols='Ga40Pt8', pbc=False)

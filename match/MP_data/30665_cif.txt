@@ -1,0 +1,2 @@
+B22O44Sr4
+Atoms(symbols='B22O44Sr4', pbc=False)

@@ -1,0 +1,2 @@
+H2Cd2O12P2V2
+Atoms(symbols='V2Cd2P2H2O12', pbc=False)

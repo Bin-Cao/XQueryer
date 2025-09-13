@@ -1,0 +1,2 @@
+H64B16Na4Y4
+Atoms(symbols='H64B16Na4Y4', pbc=False)

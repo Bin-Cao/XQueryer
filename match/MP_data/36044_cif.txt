@@ -1,0 +1,2 @@
+CuOSe2Y2
+Atoms(symbols='Y2CuSe2O', pbc=False)
