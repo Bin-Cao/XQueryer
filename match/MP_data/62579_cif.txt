@@ -1,0 +1,2 @@
+O28Ta5Y11
+Atoms(symbols='Y11Ta5O28', pbc=False)

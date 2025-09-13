@@ -1,0 +1,2 @@
+Ag4Ho4Mg2O32W8
+Atoms(symbols='Ho2MgAg2W4O16Ho2MgAg2W4O16', pbc=False)

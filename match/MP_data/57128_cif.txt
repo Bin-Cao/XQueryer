@@ -1,0 +1,2 @@
+CaFeO14P4V
+Atoms(symbols='CaVFeP4O14', pbc=False)

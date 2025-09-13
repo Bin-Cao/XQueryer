@@ -1,0 +1,2 @@
+Al2Ga2O16P4
+Atoms(symbols='AlGaP2O8AlGaP2O8', pbc=False)

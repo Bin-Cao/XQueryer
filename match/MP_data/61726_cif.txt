@@ -1,0 +1,2 @@
+FeV
+Atoms(symbols='VFe', pbc=False)

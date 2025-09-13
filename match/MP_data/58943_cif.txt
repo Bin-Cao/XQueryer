@@ -1,0 +1,2 @@
+Mg40O40
+Atoms(symbols='Mg40O40', pbc=False)

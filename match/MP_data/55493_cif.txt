@@ -1,0 +1,2 @@
+Ba2Ge5O18Si3
+Atoms(symbols='Ba2Si3Ge5O18', pbc=False)

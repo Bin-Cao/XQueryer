@@ -1,0 +1,2 @@
+Dy2Mg2S8Ti2
+Atoms(symbols='Dy2Mg2Ti2S8', pbc=False)

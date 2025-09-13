@@ -1,0 +1,2 @@
+C2Co2N2
+Atoms(symbols='CoCNCoCN', pbc=False)

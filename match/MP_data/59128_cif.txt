@@ -1,0 +1,2 @@
+Fe2N8Ni10
+Atoms(symbols='Fe2Ni10N8', pbc=False)

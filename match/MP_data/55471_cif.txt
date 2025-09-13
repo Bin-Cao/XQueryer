@@ -1,0 +1,2 @@
+Cs6Se24Y14
+Atoms(symbols='Cs6Y14Se24', pbc=False)

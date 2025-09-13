@@ -1,0 +1,2 @@
+Ca12Cd72
+Atoms(symbols='Ca12Cd72', pbc=False)

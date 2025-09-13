@@ -1,0 +1,2 @@
+O22Pb2V12
+Atoms(symbols='V12Pb2O22', pbc=False)

@@ -1,0 +1,2 @@
+As8Mo6O32
+Atoms(symbols='Mo6As8O32', pbc=False)

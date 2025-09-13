@@ -1,0 +1,2 @@
+Ir6Mg2Si14
+Atoms(symbols='Mg2Si14Ir6', pbc=False)

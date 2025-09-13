@@ -1,0 +1,2 @@
+Ce4Co25Zr
+Atoms(symbols='Ce4ZrCo25', pbc=False)

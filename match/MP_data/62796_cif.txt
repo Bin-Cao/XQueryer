@@ -1,0 +1,2 @@
+Ca5La10Mn14Ni2O48
+Atoms(symbols='Ca5La10Mn14Ni2O48', pbc=False)

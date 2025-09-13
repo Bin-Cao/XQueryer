@@ -1,0 +1,2 @@
+Cu36Ho4Mg8
+Atoms(symbols='Ho2Mg4Cu18Ho2Mg4Cu18', pbc=False)

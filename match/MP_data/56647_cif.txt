@@ -1,0 +1,2 @@
+CaNb2O10P2
+Atoms(symbols='CaNb2P2O10', pbc=False)

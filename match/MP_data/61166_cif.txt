@@ -1,0 +1,2 @@
+O12V2W2Zn4
+Atoms(symbols='V2Zn4W2O12', pbc=False)

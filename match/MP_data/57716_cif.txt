@@ -1,0 +1,2 @@
+Ag4LiO12P4
+Atoms(symbols='LiAg4P4O12', pbc=False)

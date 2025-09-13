@@ -1,0 +1,2 @@
+Co2N20Si14
+Atoms(symbols='Co2Si14N20', pbc=False)

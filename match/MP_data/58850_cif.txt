@@ -1,0 +1,2 @@
+Be50O50
+Atoms(symbols='Be50O50', pbc=False)

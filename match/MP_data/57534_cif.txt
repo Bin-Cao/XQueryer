@@ -1,0 +1,2 @@
+Ga2LiMn2O11Sr4
+Atoms(symbols='Sr4LiMn2Ga2O11', pbc=False)

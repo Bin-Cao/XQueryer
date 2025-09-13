@@ -1,0 +1,2 @@
+Ca3Ge12In12O42
+Atoms(symbols='Ca3Ge12In12O42', pbc=False)

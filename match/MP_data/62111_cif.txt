@@ -1,0 +1,2 @@
+O28Re8
+Atoms(symbols='Re4O14Re4O14', pbc=False)

@@ -1,0 +1,2 @@
+Ga4K12O12
+Atoms(symbols='K6Ga2O6K6Ga2O6', pbc=False)

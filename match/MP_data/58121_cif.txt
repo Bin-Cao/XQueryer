@@ -1,0 +1,2 @@
+Cr4Fe8N12
+Atoms(symbols='Cr4Fe8N12', pbc=False)

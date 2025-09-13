@@ -1,0 +1,2 @@
+Al2B2LiO7Sr
+Atoms(symbols='SrLiAl2B2O7', pbc=False)

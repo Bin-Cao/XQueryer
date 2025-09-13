@@ -1,0 +1,2 @@
+ErLa9O15
+Atoms(symbols='La9ErO15', pbc=False)

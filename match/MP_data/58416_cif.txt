@@ -1,0 +1,2 @@
+In20N36Si12
+Atoms(symbols='In20N36Si12', pbc=False)

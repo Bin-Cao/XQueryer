@@ -1,0 +1,2 @@
+LiO8
+Atoms(symbols='LiO8', pbc=False)

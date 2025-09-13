@@ -1,0 +1,2 @@
+Co32Mn12N36
+Atoms(symbols='Co32Mn12N36', pbc=False)

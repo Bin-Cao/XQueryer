@@ -1,0 +1,2 @@
+Ca16Mn16O40
+Atoms(symbols='Ca16Mn16O40', pbc=False)

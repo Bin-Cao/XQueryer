@@ -1,0 +1,2 @@
+Ca20Ge9O44Si3
+Atoms(symbols='Ca20Ge9O44Si3', pbc=False)

@@ -1,0 +1,2 @@
+Fe2LiO12Pr2Ru2Sr2
+Atoms(symbols='Sr2LiPr2Fe2Ru2O12', pbc=False)

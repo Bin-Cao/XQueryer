@@ -1,0 +1,2 @@
+FeLiO14P4V
+Atoms(symbols='LiVFeP4O14', pbc=False)

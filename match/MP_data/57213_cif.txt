@@ -1,0 +1,2 @@
+CoLiO6Sr2W
+Atoms(symbols='Sr2LiCoWO6', pbc=False)

@@ -1,0 +1,2 @@
+BGaN2
+Atoms(symbols='GaBN2', pbc=False)

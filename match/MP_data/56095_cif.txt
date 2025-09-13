@@ -1,0 +1,2 @@
+Ho4Mg4Se12
+Atoms(symbols='Ho2Mg2Se6Ho2Mg2Se6', pbc=False)

@@ -1,0 +1,2 @@
+La4LiNi3O12W
+Atoms(symbols='LiLa4Ni3WO12', pbc=False)

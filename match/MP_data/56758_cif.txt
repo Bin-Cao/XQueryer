@@ -1,0 +1,2 @@
+MgO28Re2Y14
+Atoms(symbols='Y14MgRe2O28', pbc=False)

@@ -1,0 +1,2 @@
+BaFe5O15Sr4
+Atoms(symbols='BaSr4Fe5O15', pbc=False)

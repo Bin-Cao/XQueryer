@@ -1,0 +1,2 @@
+Mg2N2Na2
+Atoms(symbols='NaMgNNaMgN', pbc=False)

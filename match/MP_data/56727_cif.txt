@@ -1,0 +1,2 @@
+CaEr4O14Zr4
+Atoms(symbols='CaEr4Zr4O14', pbc=False)

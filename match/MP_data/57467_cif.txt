@@ -1,0 +1,2 @@
+H2BaLiNi3O10V2
+Atoms(symbols='BaLiV2Ni3H2O10', pbc=False)

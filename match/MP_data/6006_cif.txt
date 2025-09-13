@@ -1,0 +1,2 @@
+BMg30NaO31
+Atoms(symbols='BMg30NaO31', pbc=False)

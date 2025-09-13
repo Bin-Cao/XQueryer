@@ -1,0 +1,2 @@
+AlCo2O7Sr2Tl
+Atoms(symbols='Sr2AlTlCo2O7', pbc=False)

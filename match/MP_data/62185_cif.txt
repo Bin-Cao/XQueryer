@@ -1,0 +1,2 @@
+Ca4Cr4Ni4O36P8
+Atoms(symbols='Ca4Cr4Ni4P8O36', pbc=False)

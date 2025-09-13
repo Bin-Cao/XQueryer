@@ -1,0 +1,2 @@
+Ba6Dy4Mo2O18
+Atoms(symbols='Ba6Dy4Mo2O18', pbc=False)

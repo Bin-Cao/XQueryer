@@ -1,0 +1,2 @@
+Al7Bi4CrO18
+Atoms(symbols='Al7CrBi4O18', pbc=False)

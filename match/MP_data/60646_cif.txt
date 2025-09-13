@@ -1,0 +1,2 @@
+Mn16N32Sr32
+Atoms(symbols='Mn16N32Sr32', pbc=False)

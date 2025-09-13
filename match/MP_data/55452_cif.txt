@@ -1,0 +1,2 @@
+C48Li4
+Atoms(symbols='Li2C24Li2C24', pbc=False)

@@ -1,0 +1,2 @@
+Mg4O12Sb2Ta2
+Atoms(symbols='Mg4Ta2Sb2O12', pbc=False)

@@ -1,0 +1,2 @@
+H29K7Mo12O59Pt2
+Atoms(symbols='H29K7Mo12O59Pt2', pbc=False)

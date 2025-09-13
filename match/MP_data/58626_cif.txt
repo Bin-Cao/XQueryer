@@ -1,0 +1,2 @@
+Fe4Ga4N8
+Atoms(symbols='Ga2Fe2N4Ga2Fe2N4', pbc=False)

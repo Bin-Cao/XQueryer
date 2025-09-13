@@ -1,0 +1,2 @@
+Fe4La16O4Se24
+Atoms(symbols='La16Fe4Se24O4', pbc=False)

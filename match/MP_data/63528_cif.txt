@@ -1,0 +1,2 @@
+S32Zr24
+Atoms(symbols='Zr24S32', pbc=False)

@@ -1,0 +1,2 @@
+CdFeMg14O16
+Atoms(symbols='Mg14CdFeO16', pbc=False)

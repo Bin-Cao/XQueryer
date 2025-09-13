@@ -1,0 +1,2 @@
+Mg54Mo18N72
+Atoms(symbols='Mg54Mo18N72', pbc=False)

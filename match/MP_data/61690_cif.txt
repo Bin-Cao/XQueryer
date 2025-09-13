@@ -1,0 +1,2 @@
+Bi6Mn4O14
+Atoms(symbols='Mn4Bi6O14', pbc=False)

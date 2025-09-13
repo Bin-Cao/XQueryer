@@ -1,0 +1,2 @@
+BaCo3La2O9
+Atoms(symbols='BaLa2Co3O9', pbc=False)

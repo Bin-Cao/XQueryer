@@ -1,0 +1,2 @@
+CaGa2Mn2O11Sr4
+Atoms(symbols='Sr4CaMn2Ga2O11', pbc=False)

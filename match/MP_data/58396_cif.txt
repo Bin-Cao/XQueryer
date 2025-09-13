@@ -1,0 +1,2 @@
+Fe20N16Ni2
+Atoms(symbols='Fe10NiN8Fe10NiN8', pbc=False)

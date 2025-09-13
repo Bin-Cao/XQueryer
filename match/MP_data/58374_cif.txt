@@ -1,0 +1,2 @@
+Ge12N36Nb20
+Atoms(symbols='Ge12N36Nb20', pbc=False)

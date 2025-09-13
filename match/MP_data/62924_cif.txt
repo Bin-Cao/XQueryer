@@ -1,0 +1,2 @@
+O36Re3Sc18
+Atoms(symbols='Sc6ReO12Sc6ReO12Sc6ReO12', pbc=False)

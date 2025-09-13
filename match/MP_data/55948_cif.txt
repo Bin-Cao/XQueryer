@@ -1,0 +1,2 @@
+Ba6O18PtRu3Y2
+Atoms(symbols='Ba6Y2Ru3PtO18', pbc=False)

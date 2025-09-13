@@ -1,0 +1,2 @@
+Er2O2S
+Atoms(symbols='Er2SO2', pbc=False)

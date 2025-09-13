@@ -1,0 +1,2 @@
+O60Ti30
+Atoms(symbols='O60Ti30', pbc=False)

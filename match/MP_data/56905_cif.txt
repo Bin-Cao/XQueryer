@@ -1,0 +1,2 @@
+H38Cr2K4Mo12O64
+Atoms(symbols='H38Cr2K4Mo12O64', pbc=False)

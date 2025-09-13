@@ -1,0 +1,2 @@
+H12Ca2Mn7O35Si10
+Atoms(symbols='H12Ca2Mn7O35Si10', pbc=False)

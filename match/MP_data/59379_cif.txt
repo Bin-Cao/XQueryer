@@ -1,0 +1,2 @@
+Ca4N4Na4
+Atoms(symbols='Na4Ca4N4', pbc=False)

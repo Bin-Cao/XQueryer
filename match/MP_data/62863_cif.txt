@@ -1,0 +1,2 @@
+In18O36Re3
+Atoms(symbols='In6ReO12In6ReO12In6ReO12', pbc=False)

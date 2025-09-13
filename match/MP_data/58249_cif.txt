@@ -1,0 +1,2 @@
+Cr12Ga8N16
+Atoms(symbols='Cr12Ga8N16', pbc=False)

@@ -1,0 +1,2 @@
+Ca20N24Zr8
+Atoms(symbols='Ca10Zr4N12Ca10Zr4N12', pbc=False)

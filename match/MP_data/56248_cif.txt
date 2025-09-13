@@ -1,0 +1,2 @@
+H6As14O31
+Atoms(symbols='As14H6O31', pbc=False)

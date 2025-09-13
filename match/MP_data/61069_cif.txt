@@ -1,0 +1,2 @@
+Cu4Ge2Te6
+Atoms(symbols='Cu2GeTe3Cu2GeTe3', pbc=False)

@@ -1,0 +1,2 @@
+Li2O16Si7V
+Atoms(symbols='Li2VSi7O16', pbc=False)

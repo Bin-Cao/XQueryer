@@ -1,0 +1,2 @@
+Ag8Be12O48Si12
+Atoms(symbols='Ag8Be12O48Si12', pbc=False)

@@ -1,0 +1,2 @@
+IrLi2N2
+Atoms(symbols='Li2IrN2', pbc=False)

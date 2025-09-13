@@ -1,0 +1,2 @@
+Ga50N50
+Atoms(symbols='Ga50N50', pbc=False)

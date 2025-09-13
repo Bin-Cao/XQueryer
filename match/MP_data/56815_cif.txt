@@ -1,0 +1,2 @@
+As3Br9F18Se9
+Atoms(symbols='As3Se9Br9F18', pbc=False)

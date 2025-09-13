@@ -1,0 +1,2 @@
+Ce3Fe51Y3
+Atoms(symbols='CeYFe17CeYFe17CeYFe17', pbc=False)

@@ -1,0 +1,2 @@
+Al8Hg20Se32
+Atoms(symbols='Al8Hg20Se32', pbc=False)

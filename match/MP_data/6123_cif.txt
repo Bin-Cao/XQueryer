@@ -1,0 +1,2 @@
+AlCrO8W2
+Atoms(symbols='AlCrW2O8', pbc=False)

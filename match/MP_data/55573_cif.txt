@@ -1,0 +1,2 @@
+IrTi
+Atoms(symbols='TiIr', pbc=False)

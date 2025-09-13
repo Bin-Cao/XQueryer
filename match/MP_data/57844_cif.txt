@@ -1,0 +1,2 @@
+Lu4MgO26Te10
+Atoms(symbols='Lu4MgTe10O26', pbc=False)

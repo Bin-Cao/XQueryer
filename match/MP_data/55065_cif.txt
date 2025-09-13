@@ -1,0 +1,2 @@
+Cs2Nb2Nd4O20Ti4
+Atoms(symbols='CsNd2Ti2NbO10CsNd2Ti2NbO10', pbc=False)

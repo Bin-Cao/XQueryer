@@ -1,0 +1,2 @@
+Ba20Ga5O44Ru7
+Atoms(symbols='Ba20Ga5O44Ru7', pbc=False)

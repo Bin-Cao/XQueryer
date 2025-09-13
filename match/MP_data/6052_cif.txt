@@ -1,0 +1,2 @@
+O8TiW2
+Atoms(symbols='TiW2O8', pbc=False)

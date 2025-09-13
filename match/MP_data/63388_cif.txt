@@ -1,0 +1,2 @@
+Al2Cr2O6
+Atoms(symbols='Al2Cr2O6', pbc=False)

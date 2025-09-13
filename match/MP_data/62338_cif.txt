@@ -1,0 +1,2 @@
+F11Mn5O
+Atoms(symbols='Mn5OF11', pbc=False)

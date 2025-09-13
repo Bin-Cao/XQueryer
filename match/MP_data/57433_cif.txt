@@ -1,0 +1,2 @@
+FFeLiO3Sr2
+Atoms(symbols='Sr2LiFeO3F', pbc=False)

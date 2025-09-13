@@ -1,0 +1,2 @@
+Co2Ge14N20
+Atoms(symbols='Co2Ge14N20', pbc=False)

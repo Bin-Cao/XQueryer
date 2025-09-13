@@ -1,0 +1,2 @@
+Al8Ce2Co2
+Atoms(symbols='Ce2Al8Co2', pbc=False)

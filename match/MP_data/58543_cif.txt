@@ -1,0 +1,2 @@
+Ge4Mn16N16
+Atoms(symbols='Mn16Ge4N16', pbc=False)

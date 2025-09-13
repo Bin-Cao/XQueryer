@@ -1,0 +1,2 @@
+CaGe4O16V4
+Atoms(symbols='CaV4Ge4O16', pbc=False)

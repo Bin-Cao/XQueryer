@@ -1,0 +1,2 @@
+Bi3ClLiO8PbW
+Atoms(symbols='LiBi3PbWClO8', pbc=False)

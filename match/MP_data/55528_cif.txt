@@ -1,0 +1,2 @@
+AlGeV6
+Atoms(symbols='AlV6Ge', pbc=False)

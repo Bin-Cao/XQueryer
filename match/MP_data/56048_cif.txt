@@ -1,0 +1,2 @@
+Ag12Ce16Ge16O2
+Atoms(symbols='Ce16Ag12Ge16O2', pbc=False)

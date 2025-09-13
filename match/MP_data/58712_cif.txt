@@ -1,0 +1,2 @@
+Ca14N12Rh2
+Atoms(symbols='Ca14Rh2N12', pbc=False)

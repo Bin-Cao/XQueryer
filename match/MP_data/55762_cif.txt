@@ -1,0 +1,2 @@
+BiCuOSe
+Atoms(symbols='CuBiSeO', pbc=False)

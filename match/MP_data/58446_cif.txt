@@ -1,0 +1,2 @@
+Ir4N12Zn8
+Atoms(symbols='Zn4Ir2N6Zn4Ir2N6', pbc=False)

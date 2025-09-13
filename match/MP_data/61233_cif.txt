@@ -1,0 +1,2 @@
+Co10Cu2O16
+Atoms(symbols='Co10Cu2O16', pbc=False)

@@ -1,0 +1,2 @@
+Ca6Co4O28Si8
+Atoms(symbols='Ca3Co2Si4O14Ca3Co2Si4O14', pbc=False)

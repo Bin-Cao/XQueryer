@@ -1,0 +1,2 @@
+Co14N20Sr2
+Atoms(symbols='Sr2Co14N20', pbc=False)

@@ -1,0 +1,2 @@
+Be46Ru7
+Atoms(symbols='Be46Ru7', pbc=False)

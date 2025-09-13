@@ -1,0 +1,2 @@
+N36Sc20Si12
+Atoms(symbols='N36Sc20Si12', pbc=False)

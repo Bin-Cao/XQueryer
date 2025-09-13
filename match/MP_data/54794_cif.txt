@@ -1,0 +1,2 @@
+CaNd4O12Rh4
+Atoms(symbols='CaNd4Rh4O12', pbc=False)

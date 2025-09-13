@@ -1,0 +1,2 @@
+Mg2O24P6Y6
+Atoms(symbols='Y3MgP3O12Y3MgP3O12', pbc=False)

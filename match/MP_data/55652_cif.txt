@@ -1,0 +1,2 @@
+Ba4Fe2Nb8O30Sm2
+Atoms(symbols='Ba4Sm2Nb8Fe2O30', pbc=False)

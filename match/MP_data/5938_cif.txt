@@ -1,0 +1,2 @@
+Ce2Mg2
+Atoms(symbols='Ce2Mg2', pbc=False)

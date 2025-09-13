@@ -1,0 +1,2 @@
+Cl4LiO4Rb12
+Atoms(symbols='Rb12LiCl4O4', pbc=False)

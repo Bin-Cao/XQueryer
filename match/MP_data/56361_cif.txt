@@ -1,0 +1,2 @@
+In6Mo30Se38
+Atoms(symbols='In6Mo30Se38', pbc=False)

@@ -1,0 +1,2 @@
+Ce19Ga13
+Atoms(symbols='Ce19Ga13', pbc=False)

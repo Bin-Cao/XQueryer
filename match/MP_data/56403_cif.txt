@@ -1,0 +1,2 @@
+B39P3
+Atoms(symbols='B13PB13PB13P', pbc=False)

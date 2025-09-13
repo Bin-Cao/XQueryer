@@ -1,0 +1,2 @@
+AuCrTe4
+Atoms(symbols='CrTe4Au', pbc=False)

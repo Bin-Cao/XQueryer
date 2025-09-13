@@ -1,0 +1,2 @@
+Ba4Ge4LiO12
+Atoms(symbols='Ba4LiGe4O12', pbc=False)

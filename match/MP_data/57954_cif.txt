@@ -1,0 +1,2 @@
+F24I8MgO12
+Atoms(symbols='MgI8O12F24', pbc=False)

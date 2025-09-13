@@ -1,0 +1,2 @@
+La24O20Se36Ti12
+Atoms(symbols='La24O20Se36Ti12', pbc=False)

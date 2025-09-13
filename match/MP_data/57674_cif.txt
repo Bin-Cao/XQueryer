@@ -1,0 +1,2 @@
+Ca2Co3I36Pr19
+Atoms(symbols='Ca2Pr19Co3I36', pbc=False)

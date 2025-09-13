@@ -1,0 +1,2 @@
+Nb4Pt12
+Atoms(symbols='Nb4Pt12', pbc=False)

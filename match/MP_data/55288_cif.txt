@@ -1,0 +1,2 @@
+Ag2As4Ba4Mn2O17
+Atoms(symbols='Ba4Mn2Ag2As4O17', pbc=False)

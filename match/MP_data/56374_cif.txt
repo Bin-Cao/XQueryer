@@ -1,0 +1,2 @@
+H2Al3BaMgO14P2
+Atoms(symbols='BaMgAl3P2H2O14', pbc=False)

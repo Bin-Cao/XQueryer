@@ -1,0 +1,2 @@
+Ca9Mg3Ni42
+Atoms(symbols='Ca3MgNi14Ca3MgNi14Ca3MgNi14', pbc=False)

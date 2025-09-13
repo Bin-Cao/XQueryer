@@ -1,0 +1,2 @@
+Ir2O12Ti2Zn4
+Atoms(symbols='Ti2Zn4Ir2O12', pbc=False)

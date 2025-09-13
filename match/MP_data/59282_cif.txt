@@ -1,0 +1,2 @@
+CrLi2N2
+Atoms(symbols='Li2CrN2', pbc=False)

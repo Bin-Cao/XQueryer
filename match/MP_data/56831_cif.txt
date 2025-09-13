@@ -1,0 +1,2 @@
+H4F8MgO6Te4
+Atoms(symbols='MgTe4H4O6F8', pbc=False)

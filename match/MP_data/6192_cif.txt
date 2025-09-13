@@ -1,0 +1,2 @@
+Al2O16Sn2W4
+Atoms(symbols='Al2Sn2W4O16', pbc=False)

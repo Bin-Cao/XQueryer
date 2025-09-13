@@ -1,0 +1,2 @@
+Cu4Na6O12Sb2
+Atoms(symbols='Na3Cu2SbO6Na3Cu2SbO6', pbc=False)

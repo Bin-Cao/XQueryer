@@ -1,0 +1,2 @@
+BaCa3N12O6Si10
+Atoms(symbols='BaCa3Si10N12O6', pbc=False)

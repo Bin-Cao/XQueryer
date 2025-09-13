@@ -1,0 +1,2 @@
+Cs3Mo12O68P12Rb5
+Atoms(symbols='Cs3Mo12O68P12Rb5', pbc=False)

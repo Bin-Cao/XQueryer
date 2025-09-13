@@ -1,0 +1,2 @@
+C12Au6N18
+Atoms(symbols='Au3C6N9Au3C6N9', pbc=False)

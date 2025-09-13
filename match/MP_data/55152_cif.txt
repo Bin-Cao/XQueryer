@@ -1,0 +1,2 @@
+B4Pt6
+Atoms(symbols='B2Pt3B2Pt3', pbc=False)

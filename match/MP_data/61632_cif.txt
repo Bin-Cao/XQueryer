@@ -1,0 +1,2 @@
+H21AlMg5O17
+Atoms(symbols='Mg5AlH21O17', pbc=False)

@@ -1,0 +1,2 @@
+Cr8Mg12O56Si16
+Atoms(symbols='Cr8Mg12O56Si16', pbc=False)

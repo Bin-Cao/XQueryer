@@ -1,0 +1,2 @@
+Co3W
+Atoms(symbols='Co3W', pbc=False)

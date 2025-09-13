@@ -1,0 +1,2 @@
+AlCuPd2
+Atoms(symbols='AlCuPd2', pbc=False)

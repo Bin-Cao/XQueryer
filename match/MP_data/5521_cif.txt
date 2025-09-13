@@ -1,0 +1,2 @@
+Eu2K2P2Se8
+Atoms(symbols='K2Eu2P2Se8', pbc=False)

@@ -1,0 +1,2 @@
+CoK2N6O12Pb
+Atoms(symbols='K2CoPbN6O12', pbc=False)

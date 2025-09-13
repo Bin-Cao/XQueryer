@@ -1,0 +1,2 @@
+CaCo2Mn4O12
+Atoms(symbols='CaMn4Co2O12', pbc=False)

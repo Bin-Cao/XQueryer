@@ -1,0 +1,2 @@
+O34Ti68
+Atoms(symbols='O34Ti68', pbc=False)

@@ -1,0 +1,2 @@
+H10AlBrCa2O8
+Atoms(symbols='Ca2AlH10BrO8', pbc=False)

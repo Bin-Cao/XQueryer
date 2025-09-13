@@ -1,0 +1,2 @@
+Cd4Co8N8
+Atoms(symbols='Cd4Co8N8', pbc=False)

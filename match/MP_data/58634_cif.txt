@@ -1,0 +1,2 @@
+Cd32Mn12N36
+Atoms(symbols='Cd32Mn12N36', pbc=False)

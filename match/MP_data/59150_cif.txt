@@ -1,0 +1,2 @@
+Al25F75
+Atoms(symbols='Al25F75', pbc=False)

@@ -1,0 +1,2 @@
+Al2MgSb2
+Atoms(symbols='MgAl2Sb2', pbc=False)

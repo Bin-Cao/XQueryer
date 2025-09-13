@@ -1,0 +1,2 @@
+F6TiTl2
+Atoms(symbols='TiTl2F6', pbc=False)

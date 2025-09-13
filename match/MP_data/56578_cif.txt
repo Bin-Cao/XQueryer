@@ -1,0 +1,2 @@
+H16Ag28F20I8O10
+Atoms(symbols='H16Ag28F20I8O10', pbc=False)

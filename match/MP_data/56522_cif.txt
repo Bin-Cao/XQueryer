@@ -1,0 +1,2 @@
+Al9Pd12Si3
+Atoms(symbols='Al3SiPd4Al3SiPd4Al3SiPd4', pbc=False)

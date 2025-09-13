@@ -1,0 +1,2 @@
+Cu12S24Y4
+Atoms(symbols='Y4Cu12S24', pbc=False)

@@ -1,0 +1,2 @@
+C24Ga24N56
+Atoms(symbols='C24Ga24N56', pbc=False)

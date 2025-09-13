@@ -1,0 +1,2 @@
+C3Ir2N6
+Atoms(symbols='Ir2C3N6', pbc=False)

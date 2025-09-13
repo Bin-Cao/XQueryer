@@ -1,0 +1,2 @@
+Cd3Fe12Ni3O24
+Atoms(symbols='CdFe4NiO8CdFe4NiO8CdFe4NiO8', pbc=False)

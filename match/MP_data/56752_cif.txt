@@ -1,0 +1,2 @@
+Al3Cr9Mo9Si3
+Atoms(symbols='AlCr3SiMo3AlCr3SiMo3AlCr3SiMo3', pbc=False)

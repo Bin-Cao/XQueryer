@@ -1,0 +1,2 @@
+Ce5Cu19P12
+Atoms(symbols='Ce5Cu19P12', pbc=False)

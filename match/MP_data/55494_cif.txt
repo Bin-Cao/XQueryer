@@ -1,0 +1,2 @@
+Al4Cr4Ni4
+Atoms(symbols='Al2Cr2Ni2Al2Cr2Ni2', pbc=False)

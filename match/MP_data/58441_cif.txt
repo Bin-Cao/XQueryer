@@ -1,0 +1,2 @@
+CGeN2
+Atoms(symbols='GeCN2', pbc=False)

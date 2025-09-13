@@ -1,0 +1,2 @@
+Mg30NaO31Rb
+Atoms(symbols='Mg30NaO31Rb', pbc=False)

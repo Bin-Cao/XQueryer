@@ -1,0 +1,2 @@
+Ba4La16O60Ti16
+Atoms(symbols='Ba4La16O60Ti16', pbc=False)

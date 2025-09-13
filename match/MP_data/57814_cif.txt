@@ -1,0 +1,2 @@
+LiO12P3Y3
+Atoms(symbols='LiY3P3O12', pbc=False)

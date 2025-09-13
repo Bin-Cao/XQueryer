@@ -1,0 +1,2 @@
+FeLiO4Ti
+Atoms(symbols='LiTiFeO4', pbc=False)

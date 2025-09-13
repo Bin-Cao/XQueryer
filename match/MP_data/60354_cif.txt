@@ -1,0 +1,2 @@
+N20Sr2V14
+Atoms(symbols='Sr2V14N20', pbc=False)

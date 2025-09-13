@@ -1,0 +1,2 @@
+Ce16Gd16O56
+Atoms(symbols='Ce16Gd16O56', pbc=False)

@@ -1,0 +1,2 @@
+Co30O60
+Atoms(symbols='Co30O60', pbc=False)

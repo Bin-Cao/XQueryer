@@ -1,0 +1,2 @@
+Cu6N2O27Pb2Se6
+Atoms(symbols='Cu6Pb2Se6N2O27', pbc=False)

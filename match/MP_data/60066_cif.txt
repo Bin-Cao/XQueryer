@@ -1,0 +1,2 @@
+Mn8N32Sr40
+Atoms(symbols='Mn8N32Sr40', pbc=False)

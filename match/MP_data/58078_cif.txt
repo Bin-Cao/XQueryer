@@ -1,0 +1,2 @@
+Al2La4O9
+Atoms(symbols='La4Al2O9', pbc=False)

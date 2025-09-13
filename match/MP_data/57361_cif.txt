@@ -1,0 +1,2 @@
+LiO16Ti8
+Atoms(symbols='LiTi8O16', pbc=False)

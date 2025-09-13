@@ -1,0 +1,2 @@
+O60Y40
+Atoms(symbols='O60Y40', pbc=False)

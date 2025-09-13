@@ -1,0 +1,2 @@
+CsSe6Th2
+Atoms(symbols='CsTh2Se6', pbc=False)

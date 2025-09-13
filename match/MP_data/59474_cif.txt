@@ -1,0 +1,2 @@
+Au2N6Sr6
+Atoms(symbols='Sr6Au2N6', pbc=False)

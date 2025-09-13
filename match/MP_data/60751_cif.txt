@@ -1,0 +1,2 @@
+O75V30
+Atoms(symbols='O75V30', pbc=False)

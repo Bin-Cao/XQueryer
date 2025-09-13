@@ -1,0 +1,2 @@
+Ba12Co12F2O32
+Atoms(symbols='Ba6Co6O16FBa6Co6O16F', pbc=False)

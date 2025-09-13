@@ -1,0 +1,2 @@
+Lu2O2S
+Atoms(symbols='Lu2SO2', pbc=False)

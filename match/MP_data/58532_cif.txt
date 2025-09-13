@@ -1,0 +1,2 @@
+Ag3Cl3Li3O12
+Atoms(symbols='LiAgClO4LiAgClO4LiAgClO4', pbc=False)

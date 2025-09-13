@@ -1,0 +1,2 @@
+O12P3Y3
+Atoms(symbols='Y3P3O12', pbc=False)

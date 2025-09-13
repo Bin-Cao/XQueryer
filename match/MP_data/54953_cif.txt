@@ -1,0 +1,2 @@
+Ca9Co4O24Y3
+Atoms(symbols='Ca9Y3Co4O24', pbc=False)

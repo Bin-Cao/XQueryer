@@ -1,0 +1,2 @@
+Al9BaNi2
+Atoms(symbols='BaAl9Ni2', pbc=False)

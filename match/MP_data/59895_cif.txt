@@ -1,0 +1,2 @@
+Cr3Mg2S8Sc
+Atoms(symbols='Mg2ScCr3S8', pbc=False)

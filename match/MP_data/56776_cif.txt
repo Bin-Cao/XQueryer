@@ -1,0 +1,2 @@
+H16Al4CuFe2O26P4
+Atoms(symbols='Al4Fe2CuP4H16O26', pbc=False)

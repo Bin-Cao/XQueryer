@@ -1,0 +1,2 @@
+C24N18Pd3
+Atoms(symbols='Pd3C24N18', pbc=False)

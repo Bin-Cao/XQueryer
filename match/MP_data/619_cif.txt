@@ -1,0 +1,2 @@
+CoCr
+Atoms(symbols='CrCo', pbc=False)

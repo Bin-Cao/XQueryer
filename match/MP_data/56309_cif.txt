@@ -1,0 +1,2 @@
+C4H32Al2N2O28S4
+Atoms(symbols='C4H32Al2N2O28S4', pbc=False)

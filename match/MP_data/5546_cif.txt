@@ -1,0 +1,2 @@
+BLiMg30O31
+Atoms(symbols='BLiMg30O31', pbc=False)

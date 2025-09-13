@@ -1,0 +1,2 @@
+H3BaIO6
+Atoms(symbols='BaH3IO6', pbc=False)

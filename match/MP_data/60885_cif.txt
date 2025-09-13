@@ -1,0 +1,2 @@
+AsSc
+Atoms(symbols='ScAs', pbc=False)

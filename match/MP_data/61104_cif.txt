@@ -1,0 +1,2 @@
+As2Co2O7
+Atoms(symbols='Co2As2O7', pbc=False)

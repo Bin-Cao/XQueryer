@@ -1,0 +1,2 @@
+LiMo2O12Y5
+Atoms(symbols='LiY5Mo2O12', pbc=False)

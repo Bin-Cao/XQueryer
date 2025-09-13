@@ -1,0 +1,2 @@
+LiO10P2Ti2Zn2
+Atoms(symbols='LiTi2Zn2P2O10', pbc=False)

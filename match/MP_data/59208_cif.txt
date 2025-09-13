@@ -1,0 +1,2 @@
+C12N18Y2
+Atoms(symbols='Y2C12N18', pbc=False)

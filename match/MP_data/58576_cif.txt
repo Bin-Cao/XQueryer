@@ -1,0 +1,2 @@
+H10K8O32P8Te
+Atoms(symbols='K8TeP8H10O32', pbc=False)

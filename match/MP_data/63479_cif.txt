@@ -1,0 +1,2 @@
+Co20O40Sn10
+Atoms(symbols='Co20O40Sn10', pbc=False)

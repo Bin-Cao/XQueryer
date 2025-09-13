@@ -1,0 +1,2 @@
+C12N18Ti2
+Atoms(symbols='Ti2C12N18', pbc=False)

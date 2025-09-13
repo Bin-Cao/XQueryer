@@ -1,0 +1,2 @@
+H2KNa
+Atoms(symbols='KNaH2', pbc=False)

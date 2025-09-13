@@ -1,0 +1,2 @@
+C24H20Cu4O4S4
+Atoms(symbols='Cu4H20C24S4O4', pbc=False)

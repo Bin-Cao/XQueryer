@@ -1,0 +1,2 @@
+As4Cr4Mg4O20
+Atoms(symbols='Mg4Cr4As4O20', pbc=False)

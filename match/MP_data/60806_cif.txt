@@ -1,0 +1,2 @@
+H2Cs2O8Si2Sr2
+Atoms(symbols='Cs2Sr2Si2H2O8', pbc=False)

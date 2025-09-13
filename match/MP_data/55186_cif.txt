@@ -1,0 +1,2 @@
+Ba12Cu24Nd12O56
+Atoms(symbols='Ba12Cu24Nd12O56', pbc=False)

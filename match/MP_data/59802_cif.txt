@@ -1,0 +1,2 @@
+C24Mg3N18
+Atoms(symbols='Mg3C24N18', pbc=False)

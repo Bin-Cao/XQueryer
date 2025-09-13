@@ -1,0 +1,2 @@
+Al12Ce12Pd8Pt4
+Atoms(symbols='Ce12Al12Pd8Pt4', pbc=False)

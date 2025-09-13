@@ -1,0 +1,2 @@
+Mo24Te4
+Atoms(symbols='TeMo6TeMo6TeMo6TeMo6', pbc=False)

@@ -1,0 +1,2 @@
+Ba50O50
+Atoms(symbols='Ba50O50', pbc=False)

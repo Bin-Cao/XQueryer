@@ -1,0 +1,2 @@
+B11Rh18
+Atoms(symbols='B11Rh18', pbc=False)

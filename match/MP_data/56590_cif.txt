@@ -1,0 +1,2 @@
+Cd2Cu20Fe8Se40Sn10
+Atoms(symbols='Cd2Cu20Fe8Se40Sn10', pbc=False)

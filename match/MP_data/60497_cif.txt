@@ -1,0 +1,2 @@
+C32H102As16Ga8O3S36
+Atoms(symbols='C32H102As16Ga8O3S36', pbc=False)

@@ -1,0 +1,2 @@
+Ca2Fe4S10
+Atoms(symbols='Ca2Fe4S10', pbc=False)

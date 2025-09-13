@@ -1,0 +1,2 @@
+AlNi2V
+Atoms(symbols='AlVNi2', pbc=False)

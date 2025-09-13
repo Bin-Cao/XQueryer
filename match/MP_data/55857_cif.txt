@@ -1,0 +1,2 @@
+Al32V20
+Atoms(symbols='Al16V10Al16V10', pbc=False)

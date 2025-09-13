@@ -1,0 +1,2 @@
+Cu2Fe20N16
+Atoms(symbols='Fe10CuN8Fe10CuN8', pbc=False)

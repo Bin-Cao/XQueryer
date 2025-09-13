@@ -1,0 +1,2 @@
+C12H48DyNa12O60Y3
+Atoms(symbols='C12H48DyNa12O60Y3', pbc=False)

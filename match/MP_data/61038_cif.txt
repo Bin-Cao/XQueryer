@@ -1,0 +1,2 @@
+B3Cl12N3
+Atoms(symbols='B3N3Cl12', pbc=False)

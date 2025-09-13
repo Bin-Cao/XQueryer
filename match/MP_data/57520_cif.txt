@@ -1,0 +1,2 @@
+O4P2
+Atoms(symbols='PO2PO2', pbc=False)

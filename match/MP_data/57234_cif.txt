@@ -1,0 +1,2 @@
+LiO6Os2Rb2
+Atoms(symbols='Rb2LiOs2O6', pbc=False)

@@ -1,0 +1,2 @@
+NSc
+Atoms(symbols='ScN', pbc=False)

@@ -1,0 +1,2 @@
+Au16Ca44Cd72
+Atoms(symbols='Au16Ca44Cd72', pbc=False)

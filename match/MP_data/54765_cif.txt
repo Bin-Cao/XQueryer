@@ -1,0 +1,2 @@
+In2K4Mo30Se38
+Atoms(symbols='In2K4Mo30Se38', pbc=False)

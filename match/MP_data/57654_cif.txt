@@ -1,0 +1,2 @@
+CaCl10Nb2OTe4
+Atoms(symbols='CaNb2Te4Cl10O', pbc=False)

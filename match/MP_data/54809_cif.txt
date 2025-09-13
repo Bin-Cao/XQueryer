@@ -1,0 +1,2 @@
+Er18Ge8S42
+Atoms(symbols='Er18Ge8S42', pbc=False)

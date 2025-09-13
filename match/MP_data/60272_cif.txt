@@ -1,0 +1,2 @@
+Co6N10Sr6
+Atoms(symbols='Sr6Co6N10', pbc=False)

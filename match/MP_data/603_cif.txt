@@ -1,0 +1,2 @@
+BiHo
+Atoms(symbols='HoBi', pbc=False)

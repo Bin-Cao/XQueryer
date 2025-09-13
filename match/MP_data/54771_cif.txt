@@ -1,0 +1,2 @@
+Ba2Cl20Sr8
+Atoms(symbols='BaSr4Cl10BaSr4Cl10', pbc=False)

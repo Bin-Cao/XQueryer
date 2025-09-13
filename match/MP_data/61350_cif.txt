@@ -1,0 +1,2 @@
+Dy2O2S
+Atoms(symbols='Dy2SO2', pbc=False)

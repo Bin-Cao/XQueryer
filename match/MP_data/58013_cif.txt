@@ -1,0 +1,2 @@
+CsCuN
+Atoms(symbols='CsCuN', pbc=False)

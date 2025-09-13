@@ -1,0 +1,2 @@
+CoFe2MgO24P6Ti3
+Atoms(symbols='MgTi3Fe2CoP6O24', pbc=False)

@@ -1,0 +1,2 @@
+Nb34O68
+Atoms(symbols='Nb34O68', pbc=False)

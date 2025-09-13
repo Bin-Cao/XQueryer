@@ -1,0 +1,2 @@
+Eu32Sb22
+Atoms(symbols='Eu32Sb22', pbc=False)

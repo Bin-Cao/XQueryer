@@ -1,0 +1,2 @@
+MgO7Si2Tl6
+Atoms(symbols='MgTl6Si2O7', pbc=False)

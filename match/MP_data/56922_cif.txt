@@ -1,0 +1,2 @@
+Hf4La8MgO20
+Atoms(symbols='La8Hf4MgO20', pbc=False)

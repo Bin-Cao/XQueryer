@@ -1,0 +1,2 @@
+Lu2O3
+Atoms(symbols='Lu2O3', pbc=False)

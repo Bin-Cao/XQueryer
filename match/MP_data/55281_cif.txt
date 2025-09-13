@@ -1,0 +1,2 @@
+Cu4Er4Tl4
+Atoms(symbols='Er2Tl2Cu2Er2Tl2Cu2', pbc=False)

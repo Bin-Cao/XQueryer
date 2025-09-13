@@ -1,0 +1,2 @@
+N32Na48Ta16
+Atoms(symbols='N32Na48Ta16', pbc=False)

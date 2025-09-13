@@ -1,0 +1,2 @@
+Fe10N8Sr2
+Atoms(symbols='Sr2Fe10N8', pbc=False)

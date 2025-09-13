@@ -1,0 +1,2 @@
+Bi26Mo10O69
+Atoms(symbols='Bi26Mo10O69', pbc=False)

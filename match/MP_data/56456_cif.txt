@@ -1,0 +1,2 @@
+Al37Cu2Fe12
+Atoms(symbols='Al37Fe12Cu2', pbc=False)

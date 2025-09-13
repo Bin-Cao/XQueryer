@@ -1,0 +1,2 @@
+Cu4O24Si8Zn4
+Atoms(symbols='Zn2Cu2Si4O12Zn2Cu2Si4O12', pbc=False)

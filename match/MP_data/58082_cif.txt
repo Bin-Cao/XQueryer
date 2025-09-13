@@ -1,0 +1,2 @@
+Au5Cs7LiO2
+Atoms(symbols='Cs7LiAu5O2', pbc=False)

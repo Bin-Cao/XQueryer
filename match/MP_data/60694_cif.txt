@@ -1,0 +1,2 @@
+Bi6Mn6N10
+Atoms(symbols='Mn6Bi6N10', pbc=False)

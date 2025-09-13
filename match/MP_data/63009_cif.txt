@@ -1,0 +1,2 @@
+B4LiMn4O12
+Atoms(symbols='LiMn4B4O12', pbc=False)

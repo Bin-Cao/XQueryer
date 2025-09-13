@@ -1,0 +1,2 @@
+Ca32Mn32O84
+Atoms(symbols='Ca32Mn32O84', pbc=False)

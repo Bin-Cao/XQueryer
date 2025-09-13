@@ -1,0 +1,2 @@
+As2Cl8Ga2Hg6S2
+Atoms(symbols='Ga2Hg6As2S2Cl8', pbc=False)

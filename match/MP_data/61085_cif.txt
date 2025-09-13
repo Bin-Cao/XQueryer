@@ -1,0 +1,2 @@
+LiMnTe2
+Atoms(symbols='LiMnTe2', pbc=False)

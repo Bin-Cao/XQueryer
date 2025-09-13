@@ -1,0 +1,2 @@
+C100
+Atoms(symbols='C100', pbc=False)

@@ -1,0 +1,2 @@
+HLiO10P3V
+Atoms(symbols='LiVP3HO10', pbc=False)

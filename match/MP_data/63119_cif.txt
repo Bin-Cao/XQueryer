@@ -1,0 +1,2 @@
+CaFe4Sb12
+Atoms(symbols='CaFe4Sb12', pbc=False)

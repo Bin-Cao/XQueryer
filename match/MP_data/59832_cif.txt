@@ -1,0 +1,2 @@
+Ca6Ga6N10
+Atoms(symbols='Ca6Ga6N10', pbc=False)

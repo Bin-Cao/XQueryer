@@ -1,0 +1,2 @@
+H2K2MgMn2O20P6
+Atoms(symbols='K2MgMn2P6H2O20', pbc=False)

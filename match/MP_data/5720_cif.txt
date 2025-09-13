@@ -1,0 +1,2 @@
+Nb3O10Si
+Atoms(symbols='Nb3SiO10', pbc=False)

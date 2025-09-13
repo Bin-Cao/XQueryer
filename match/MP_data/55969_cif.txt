@@ -1,0 +1,2 @@
+Al3Ba4F4O20P4Ti
+Atoms(symbols='Ba4TiAl3P4O20F4', pbc=False)

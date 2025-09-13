@@ -1,0 +1,2 @@
+Na5O18Si6
+Atoms(symbols='Na5Si6O18', pbc=False)

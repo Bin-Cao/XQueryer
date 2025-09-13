@@ -1,0 +1,2 @@
+Cu24Ga12O84Sr24Y4
+Atoms(symbols='Cu24Ga12O84Sr24Y4', pbc=False)

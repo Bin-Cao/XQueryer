@@ -1,0 +1,2 @@
+FeLiO3Pb
+Atoms(symbols='LiFePbO3', pbc=False)

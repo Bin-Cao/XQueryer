@@ -1,0 +1,2 @@
+Ca14Hg51
+Atoms(symbols='Ca14Hg51', pbc=False)

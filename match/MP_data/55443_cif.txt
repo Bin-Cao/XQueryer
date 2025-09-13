@@ -1,0 +1,2 @@
+CAlW
+Atoms(symbols='AlWC', pbc=False)

@@ -1,0 +1,2 @@
+Bi26I14Pt6
+Atoms(symbols='Bi26Pt6I14', pbc=False)

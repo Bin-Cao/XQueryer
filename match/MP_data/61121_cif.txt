@@ -1,0 +1,2 @@
+HgTe
+Atoms(symbols='HgTe', pbc=False)

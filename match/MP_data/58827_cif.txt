@@ -1,0 +1,2 @@
+C12In2N18
+Atoms(symbols='In2C12N18', pbc=False)

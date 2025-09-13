@@ -1,0 +1,2 @@
+CrLiO6V2
+Atoms(symbols='LiV2CrO6', pbc=False)

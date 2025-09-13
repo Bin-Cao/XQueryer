@@ -1,0 +1,2 @@
+Al3Mo12Ni
+Atoms(symbols='Al3NiMo12', pbc=False)

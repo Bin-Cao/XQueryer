@@ -1,0 +1,2 @@
+Na8Se4
+Atoms(symbols='Na2SeNa2SeNa2SeNa2Se', pbc=False)

@@ -1,0 +1,2 @@
+Ho8Mg4Se16
+Atoms(symbols='Ho4Mg2Se8Ho4Mg2Se8', pbc=False)

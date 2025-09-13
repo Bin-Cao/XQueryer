@@ -1,0 +1,2 @@
+In2LiNb2Nd4O14
+Atoms(symbols='LiNd4Nb2In2O14', pbc=False)

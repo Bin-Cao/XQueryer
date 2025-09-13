@@ -1,0 +1,2 @@
+Be2Pd6
+Atoms(symbols='Be2Pd6', pbc=False)

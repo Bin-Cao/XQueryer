@@ -1,0 +1,2 @@
+Pt9Sc5Si7
+Atoms(symbols='Sc5Si7Pt9', pbc=False)

@@ -1,0 +1,2 @@
+Al79Fe26Si18
+Atoms(symbols='Al79Fe26Si18', pbc=False)

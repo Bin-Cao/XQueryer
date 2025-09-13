@@ -1,0 +1,2 @@
+Al24Ge2O140Se8
+Atoms(symbols='Al24Ge2O140Se8', pbc=False)

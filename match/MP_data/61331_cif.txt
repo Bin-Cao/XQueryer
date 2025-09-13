@@ -1,0 +1,2 @@
+Co2Li4O4
+Atoms(symbols='Li4Co2O4', pbc=False)

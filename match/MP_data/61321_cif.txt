@@ -1,0 +1,2 @@
+O12Sb2Sr4Y2
+Atoms(symbols='Sr4Y2Sb2O12', pbc=False)

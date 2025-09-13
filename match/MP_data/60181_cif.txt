@@ -1,0 +1,2 @@
+HMg16O32Si8
+Atoms(symbols='Mg16Si8HO32', pbc=False)

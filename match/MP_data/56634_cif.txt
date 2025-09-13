@@ -1,0 +1,2 @@
+K19O88Sb29Ti3
+Atoms(symbols='K19O88Sb29Ti3', pbc=False)

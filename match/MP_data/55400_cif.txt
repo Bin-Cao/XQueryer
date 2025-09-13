@@ -1,0 +1,2 @@
+Ag14Al4Si2
+Atoms(symbols='Al4Si2Ag14', pbc=False)

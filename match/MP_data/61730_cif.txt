@@ -1,0 +1,2 @@
+Si16Zr20
+Atoms(symbols='Zr20Si16', pbc=False)

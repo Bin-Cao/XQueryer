@@ -1,0 +1,2 @@
+Mg2O32Pr4Rb4W8
+Atoms(symbols='Rb2Pr2MgW4O16Rb2Pr2MgW4O16', pbc=False)

@@ -1,0 +1,2 @@
+Bi24Co4O64S8
+Atoms(symbols='Bi24Co4O64S8', pbc=False)

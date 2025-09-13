@@ -1,0 +1,2 @@
+Ag45Al15
+Atoms(symbols='Al5Ag15Al5Ag15Al5Ag15', pbc=False)

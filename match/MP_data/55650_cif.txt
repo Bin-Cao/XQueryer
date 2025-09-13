@@ -1,0 +1,2 @@
+AlInSb2
+Atoms(symbols='AlInSb2', pbc=False)

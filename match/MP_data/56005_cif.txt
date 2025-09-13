@@ -1,0 +1,2 @@
+Ca20Cd3Ga9
+Atoms(symbols='Ca20Cd3Ga9', pbc=False)

@@ -1,0 +1,2 @@
+Ag5Al11K6O48Si13
+Atoms(symbols='Ag5Al11K6O48Si13', pbc=False)

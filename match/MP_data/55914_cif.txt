@@ -1,0 +1,2 @@
+AlGe3V12
+Atoms(symbols='AlV12Ge3', pbc=False)

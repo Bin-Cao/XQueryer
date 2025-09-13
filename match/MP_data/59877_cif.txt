@@ -1,0 +1,2 @@
+Ba28Hf4N24
+Atoms(symbols='Ba28Hf4N24', pbc=False)

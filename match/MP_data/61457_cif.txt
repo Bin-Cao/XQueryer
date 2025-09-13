@@ -1,0 +1,2 @@
+Ag4Mn4O8
+Atoms(symbols='Mn4Ag4O8', pbc=False)

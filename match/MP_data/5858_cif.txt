@@ -1,0 +1,2 @@
+C2AuK
+Atoms(symbols='KAuC2', pbc=False)

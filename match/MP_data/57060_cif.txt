@@ -1,0 +1,2 @@
+Lu8Mg4S16
+Atoms(symbols='Lu8Mg4S16', pbc=False)

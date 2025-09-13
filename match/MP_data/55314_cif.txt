@@ -1,0 +1,2 @@
+Cd8Cu7P30
+Atoms(symbols='Cd8Cu7P30', pbc=False)

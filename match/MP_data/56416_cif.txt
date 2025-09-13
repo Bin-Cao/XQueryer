@@ -1,0 +1,2 @@
+Ba4CoO30Ta10
+Atoms(symbols='Ba4Ta10CoO30', pbc=False)

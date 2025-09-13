@@ -1,0 +1,2 @@
+Cu2Li20O20Si4
+Atoms(symbols='Li20Cu2Si4O20', pbc=False)

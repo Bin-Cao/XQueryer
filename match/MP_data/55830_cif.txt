@@ -1,0 +1,2 @@
+Al4Ga2O24P6
+Atoms(symbols='Al2GaP3O12Al2GaP3O12', pbc=False)

@@ -1,0 +1,2 @@
+Al6Be10Ca16O112Si36
+Atoms(symbols='Al6Be10Ca16O112Si36', pbc=False)

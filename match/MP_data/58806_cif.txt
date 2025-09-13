@@ -1,0 +1,2 @@
+N20Si14V2
+Atoms(symbols='V2Si14N20', pbc=False)

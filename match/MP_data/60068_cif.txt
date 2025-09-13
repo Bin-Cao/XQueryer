@@ -1,0 +1,2 @@
+N2Na2Ti
+Atoms(symbols='Na2TiN2', pbc=False)

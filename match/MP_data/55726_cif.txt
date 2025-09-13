@@ -1,0 +1,2 @@
+AlBa6Cu8O20Sm3
+Atoms(symbols='Ba6Sm3AlCu8O20', pbc=False)

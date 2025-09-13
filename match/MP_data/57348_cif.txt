@@ -1,0 +1,2 @@
+Cl2LiO7Pr2Ta2
+Atoms(symbols='LiPr2Ta2Cl2O7', pbc=False)

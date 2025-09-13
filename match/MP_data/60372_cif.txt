@@ -1,0 +1,2 @@
+Co2Cr2Mg2S8
+Atoms(symbols='Mg2Cr2Co2S8', pbc=False)

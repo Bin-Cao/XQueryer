@@ -1,0 +1,2 @@
+C18Al18B6
+Atoms(symbols='Al18B6C18', pbc=False)

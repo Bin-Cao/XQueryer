@@ -1,0 +1,2 @@
+N60Si45
+Atoms(symbols='N60Si45', pbc=False)

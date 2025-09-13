@@ -1,0 +1,2 @@
+Na68O34
+Atoms(symbols='Na68O34', pbc=False)

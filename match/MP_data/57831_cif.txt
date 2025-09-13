@@ -1,0 +1,2 @@
+LiMnO
+Atoms(symbols='LiMnO', pbc=False)

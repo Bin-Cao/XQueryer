@@ -1,0 +1,2 @@
+O14Si6
+Atoms(symbols='Si6O14', pbc=False)

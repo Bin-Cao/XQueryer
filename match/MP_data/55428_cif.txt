@@ -1,0 +1,2 @@
+Ba16Ca6Nb10O48
+Atoms(symbols='Ba16Ca6Nb10O48', pbc=False)

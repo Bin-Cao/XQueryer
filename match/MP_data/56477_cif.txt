@@ -1,0 +1,2 @@
+Ba12FeS20Si3
+Atoms(symbols='Ba12FeSi3S20', pbc=False)

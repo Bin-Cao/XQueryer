@@ -1,0 +1,2 @@
+Co40I8Sb120
+Atoms(symbols='Co40I8Sb120', pbc=False)

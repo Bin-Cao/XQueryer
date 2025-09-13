@@ -1,0 +1,2 @@
+Ag3Al14O48Rb11Si10
+Atoms(symbols='Ag3Al14O48Rb11Si10', pbc=False)

@@ -1,0 +1,2 @@
+Ag2LiNbO6Ta
+Atoms(symbols='LiTaNbAg2O6', pbc=False)

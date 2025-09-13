@@ -1,0 +1,2 @@
+CAlMg14O16
+Atoms(symbols='Mg14AlCO16', pbc=False)

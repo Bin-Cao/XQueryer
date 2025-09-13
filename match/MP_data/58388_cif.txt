@@ -1,0 +1,2 @@
+Al4N12Y8
+Atoms(symbols='Y4Al2N6Y4Al2N6', pbc=False)

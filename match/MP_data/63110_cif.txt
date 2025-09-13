@@ -1,0 +1,2 @@
+Ni12O36Y8
+Atoms(symbols='Y8Ni12O36', pbc=False)

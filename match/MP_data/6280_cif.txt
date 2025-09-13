@@ -1,0 +1,2 @@
+O14Te4Zn2
+Atoms(symbols='Zn2Te4O14', pbc=False)

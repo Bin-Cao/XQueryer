@@ -1,0 +1,2 @@
+Ca5Mn8O20Sr3
+Atoms(symbols='Sr3Ca5Mn8O20', pbc=False)

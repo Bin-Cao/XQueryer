@@ -1,0 +1,2 @@
+HBaLa3O12Sc4
+Atoms(symbols='BaLa3Sc4HO12', pbc=False)

@@ -1,0 +1,2 @@
+Ca2Ce2Fe16Sb48
+Atoms(symbols='Ca2Ce2Fe16Sb48', pbc=False)

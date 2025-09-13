@@ -1,0 +1,2 @@
+Al12La4O48Sr12Ta4
+Atoms(symbols='Al12La4O48Sr12Ta4', pbc=False)

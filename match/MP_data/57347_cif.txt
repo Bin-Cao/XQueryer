@@ -1,0 +1,2 @@
+CoEu2LiO4
+Atoms(symbols='LiEu2CoO4', pbc=False)

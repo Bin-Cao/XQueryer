@@ -1,0 +1,2 @@
+CaCo5O8Sb
+Atoms(symbols='CaCo5SbO8', pbc=False)

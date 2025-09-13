@@ -1,0 +1,2 @@
+As2Bi2LiO10Pb2
+Atoms(symbols='LiBi2As2Pb2O10', pbc=False)

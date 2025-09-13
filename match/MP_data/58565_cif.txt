@@ -1,0 +1,2 @@
+Ba16Ir12N28
+Atoms(symbols='Ba16Ir12N28', pbc=False)

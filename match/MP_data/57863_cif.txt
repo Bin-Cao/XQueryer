@@ -1,0 +1,2 @@
+H2LiMnO10P2V
+Atoms(symbols='LiMnVP2H2O10', pbc=False)

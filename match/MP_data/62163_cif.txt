@@ -1,0 +1,2 @@
+Er2O3
+Atoms(symbols='Er2O3', pbc=False)

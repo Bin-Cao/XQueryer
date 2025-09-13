@@ -1,0 +1,2 @@
+CaCo4Cu3O12
+Atoms(symbols='CaCo4Cu3O12', pbc=False)

@@ -1,0 +1,2 @@
+Ba7Hg31
+Atoms(symbols='Ba7Hg31', pbc=False)

@@ -1,0 +1,2 @@
+Eu16Mn6Nb10O56
+Atoms(symbols='Eu16Mn6Nb10O56', pbc=False)

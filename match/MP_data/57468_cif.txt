@@ -1,0 +1,2 @@
+AcCsLiO3
+Atoms(symbols='CsLiAcO3', pbc=False)

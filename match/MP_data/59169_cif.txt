@@ -1,0 +1,2 @@
+Mg10N12Si4
+Atoms(symbols='Mg10Si4N12', pbc=False)

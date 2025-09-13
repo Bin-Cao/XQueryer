@@ -1,0 +1,2 @@
+Fe40K8N32
+Atoms(symbols='Fe40K8N32', pbc=False)

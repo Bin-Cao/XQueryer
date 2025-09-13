@@ -1,0 +1,2 @@
+Ce4Nb12O36
+Atoms(symbols='Ce4Nb12O36', pbc=False)

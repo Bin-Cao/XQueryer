@@ -1,0 +1,2 @@
+N32Na48Ru16
+Atoms(symbols='N32Na48Ru16', pbc=False)

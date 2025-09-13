@@ -1,0 +1,2 @@
+H2Ce4Fe44Ti4
+Atoms(symbols='Ce2Ti2Fe22HCe2Ti2Fe22H', pbc=False)

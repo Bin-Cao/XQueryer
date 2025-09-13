@@ -1,0 +1,2 @@
+Mo24O84Y16
+Atoms(symbols='Mo24O84Y16', pbc=False)

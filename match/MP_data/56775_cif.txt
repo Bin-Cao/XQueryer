@@ -1,0 +1,2 @@
+Dy12Mg2O48Sb20
+Atoms(symbols='Dy12Mg2O48Sb20', pbc=False)

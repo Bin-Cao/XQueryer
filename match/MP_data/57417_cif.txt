@@ -1,0 +1,2 @@
+H3Cu2LiO10RbS2
+Atoms(symbols='RbLiCu2H3S2O10', pbc=False)

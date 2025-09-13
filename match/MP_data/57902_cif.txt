@@ -1,0 +1,2 @@
+Ce2LiO3
+Atoms(symbols='LiCe2O3', pbc=False)

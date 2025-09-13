@@ -1,0 +1,2 @@
+Co2Lu4Mn2O12
+Atoms(symbols='Lu4Mn2Co2O12', pbc=False)

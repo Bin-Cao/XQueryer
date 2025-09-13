@@ -1,0 +1,2 @@
+Au4Cl4MgO12Se4
+Atoms(symbols='MgAu4Se4Cl4O12', pbc=False)

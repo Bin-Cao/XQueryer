@@ -1,0 +1,2 @@
+H4Mn6O12
+Atoms(symbols='Mn3H2O6Mn3H2O6', pbc=False)

@@ -1,0 +1,2 @@
+Al2Mg60Na2O64
+Atoms(symbols='Al2Mg60Na2O64', pbc=False)

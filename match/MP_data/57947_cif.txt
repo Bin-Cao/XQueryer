@@ -1,0 +1,2 @@
+Co4Mn2N4
+Atoms(symbols='Mn2Co4N4', pbc=False)

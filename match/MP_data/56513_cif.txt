@@ -1,0 +1,2 @@
+Ba8Ni3Si43
+Atoms(symbols='Ba8Si43Ni3', pbc=False)

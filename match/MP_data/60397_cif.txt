@@ -1,0 +1,2 @@
+Ag8O56Si16Zn12
+Atoms(symbols='Ag8O56Si16Zn12', pbc=False)

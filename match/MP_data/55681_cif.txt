@@ -1,0 +1,2 @@
+Al8Ga2Sb10
+Atoms(symbols='Al4GaSb5Al4GaSb5', pbc=False)

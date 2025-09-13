@@ -1,0 +1,2 @@
+Ag4Se2
+Atoms(symbols='Ag2SeAg2Se', pbc=False)

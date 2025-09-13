@@ -1,0 +1,2 @@
+C12N18Re2
+Atoms(symbols='Re2C12N18', pbc=False)

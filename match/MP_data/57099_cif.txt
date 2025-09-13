@@ -1,0 +1,2 @@
+H12F12Li2O4Ti2
+Atoms(symbols='LiTiH6O2F6LiTiH6O2F6', pbc=False)

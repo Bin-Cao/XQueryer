@@ -1,0 +1,2 @@
+MoN
+Atoms(symbols='MoN', pbc=False)

@@ -1,0 +1,2 @@
+CaNi2O14P4
+Atoms(symbols='CaNi2P4O14', pbc=False)

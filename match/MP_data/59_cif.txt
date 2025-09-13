@@ -1,0 +1,2 @@
+C4Re2
+Atoms(symbols='ReC2ReC2', pbc=False)

@@ -1,0 +1,2 @@
+PrTl
+Atoms(symbols='PrTl', pbc=False)

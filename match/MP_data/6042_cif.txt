@@ -1,0 +1,2 @@
+AlBaCuO5V
+Atoms(symbols='BaAlVCuO5', pbc=False)

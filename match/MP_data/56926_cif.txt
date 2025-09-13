@@ -1,0 +1,2 @@
+La2MgMoO6
+Atoms(symbols='La2MgMoO6', pbc=False)

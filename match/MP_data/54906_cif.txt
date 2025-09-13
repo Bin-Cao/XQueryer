@@ -1,0 +1,2 @@
+Cs6F78Lu24
+Atoms(symbols='Cs6F78Lu24', pbc=False)

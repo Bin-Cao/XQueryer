@@ -1,0 +1,2 @@
+H12Ca6Mg2O30P6Zn
+Atoms(symbols='Ca6Mg2ZnP6H12O30', pbc=False)

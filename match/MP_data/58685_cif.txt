@@ -1,0 +1,2 @@
+Co18Fe4N16
+Atoms(symbols='Fe2Co9N8Fe2Co9N8', pbc=False)

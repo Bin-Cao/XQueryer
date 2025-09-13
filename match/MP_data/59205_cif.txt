@@ -1,0 +1,2 @@
+CaGe2N2
+Atoms(symbols='CaGe2N2', pbc=False)

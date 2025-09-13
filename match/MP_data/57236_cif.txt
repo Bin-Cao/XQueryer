@@ -1,0 +1,2 @@
+Gd2K2MgMo4O16
+Atoms(symbols='K2Gd2MgMo4O16', pbc=False)

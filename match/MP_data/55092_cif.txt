@@ -1,0 +1,2 @@
+AlGaP2
+Atoms(symbols='AlGaP2', pbc=False)

@@ -1,0 +1,2 @@
+Ba16Cl2Co4Mn12O44
+Atoms(symbols='Ba16Cl2Co4Mn12O44', pbc=False)

@@ -1,0 +1,2 @@
+In24N18Pb3
+Atoms(symbols='In24Pb3N18', pbc=False)

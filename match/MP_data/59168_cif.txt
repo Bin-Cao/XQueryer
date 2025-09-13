@@ -1,0 +1,2 @@
+Li24N16Re8
+Atoms(symbols='Li12Re4N8Li12Re4N8', pbc=False)

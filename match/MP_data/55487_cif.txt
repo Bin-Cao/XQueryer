@@ -1,0 +1,2 @@
+Ag2Ba6Cu34P12
+Atoms(symbols='Ba3Cu17AgP6Ba3Cu17AgP6', pbc=False)

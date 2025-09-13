@@ -1,0 +1,2 @@
+Mn14N20Sr2
+Atoms(symbols='Sr2Mn14N20', pbc=False)

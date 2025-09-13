@@ -1,0 +1,2 @@
+C32N48Rb16
+Atoms(symbols='C32N48Rb16', pbc=False)

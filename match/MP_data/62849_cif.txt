@@ -1,0 +1,2 @@
+Ca5Cu2Ir2O12
+Atoms(symbols='Ca5Cu2Ir2O12', pbc=False)

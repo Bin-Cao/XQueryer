@@ -1,0 +1,2 @@
+CaMgNi4
+Atoms(symbols='CaMgNi4', pbc=False)

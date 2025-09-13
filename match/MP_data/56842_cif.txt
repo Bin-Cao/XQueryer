@@ -1,0 +1,2 @@
+H12F12MgO4Zr2
+Atoms(symbols='MgZr2H12O4F12', pbc=False)

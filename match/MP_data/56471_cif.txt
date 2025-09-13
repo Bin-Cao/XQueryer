@@ -1,0 +1,2 @@
+MgO24V12Zn6
+Atoms(symbols='MgV12Zn6O24', pbc=False)

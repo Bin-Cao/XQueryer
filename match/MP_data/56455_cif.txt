@@ -1,0 +1,2 @@
+Ba7Cd31
+Atoms(symbols='Ba7Cd31', pbc=False)

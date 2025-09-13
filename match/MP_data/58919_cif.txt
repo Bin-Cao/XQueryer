@@ -1,0 +1,2 @@
+N16Na24Ni8
+Atoms(symbols='Na12Ni4N8Na12Ni4N8', pbc=False)

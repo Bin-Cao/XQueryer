@@ -1,0 +1,2 @@
+CAl4O
+Atoms(symbols='Al4CO', pbc=False)

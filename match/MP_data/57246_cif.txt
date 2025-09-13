@@ -1,0 +1,2 @@
+Ga2MgMn2O11Sr4
+Atoms(symbols='Sr4MgMn2Ga2O11', pbc=False)

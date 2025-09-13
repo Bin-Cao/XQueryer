@@ -1,0 +1,2 @@
+Cr2Cu2MgO16W4
+Atoms(symbols='MgCr2Cu2W4O16', pbc=False)

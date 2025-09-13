@@ -1,0 +1,2 @@
+MgNi9O13
+Atoms(symbols='MgNi9O13', pbc=False)

@@ -1,0 +1,2 @@
+CaF3Mn8O13
+Atoms(symbols='CaMn8O13F3', pbc=False)

@@ -1,0 +1,2 @@
+Cs10Ir10N20
+Atoms(symbols='Cs10Ir10N20', pbc=False)

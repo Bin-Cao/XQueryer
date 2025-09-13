@@ -1,0 +1,2 @@
+Er12Mg2O28Ta4
+Atoms(symbols='Er6MgTa2O14Er6MgTa2O14', pbc=False)

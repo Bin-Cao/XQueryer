@@ -1,0 +1,2 @@
+MgO14Rb4Se4
+Atoms(symbols='Rb4MgSe4O14', pbc=False)

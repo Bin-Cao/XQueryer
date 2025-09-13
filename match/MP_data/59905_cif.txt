@@ -1,0 +1,2 @@
+C24N18Sn3
+Atoms(symbols='Sn3C24N18', pbc=False)

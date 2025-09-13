@@ -1,0 +1,2 @@
+LiN2O11Sr2Ti6
+Atoms(symbols='Sr2LiTi6N2O11', pbc=False)

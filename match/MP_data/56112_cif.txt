@@ -1,0 +1,2 @@
+Cd80Ni16
+Atoms(symbols='Cd80Ni16', pbc=False)

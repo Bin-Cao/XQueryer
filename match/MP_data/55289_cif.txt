@@ -1,0 +1,2 @@
+CaO23V6
+Atoms(symbols='CaV6O23', pbc=False)

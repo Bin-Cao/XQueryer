@@ -1,0 +1,2 @@
+Bi14O24W
+Atoms(symbols='Bi14WO24', pbc=False)

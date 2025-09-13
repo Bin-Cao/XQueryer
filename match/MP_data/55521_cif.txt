@@ -1,0 +1,2 @@
+AlFe2V
+Atoms(symbols='AlVFe2', pbc=False)

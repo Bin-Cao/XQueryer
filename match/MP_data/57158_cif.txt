@@ -1,0 +1,2 @@
+B16Li2Mn4O28
+Atoms(symbols='LiMn2B8O14LiMn2B8O14', pbc=False)

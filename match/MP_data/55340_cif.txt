@@ -1,0 +1,2 @@
+Ba8Hg6Tl26
+Atoms(symbols='Ba4Tl13Hg3Ba4Tl13Hg3', pbc=False)

@@ -1,0 +1,2 @@
+Ba6Hg20Zn2
+Atoms(symbols='Ba6Zn2Hg20', pbc=False)

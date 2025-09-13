@@ -1,0 +1,2 @@
+C12Ga2N18
+Atoms(symbols='Ga2C12N18', pbc=False)

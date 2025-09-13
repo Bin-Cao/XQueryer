@@ -1,0 +1,2 @@
+Lu3Ni3Pb3
+Atoms(symbols='Lu3Ni3Pb3', pbc=False)

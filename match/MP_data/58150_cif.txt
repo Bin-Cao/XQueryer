@@ -1,0 +1,2 @@
+O32Sr16V8
+Atoms(symbols='Sr16V8O32', pbc=False)

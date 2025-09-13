@@ -1,0 +1,2 @@
+BaCoLa8O26Si6
+Atoms(symbols='BaLa8CoSi6O26', pbc=False)

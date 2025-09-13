@@ -1,0 +1,2 @@
+In2K2N2
+Atoms(symbols='KInNKInN', pbc=False)

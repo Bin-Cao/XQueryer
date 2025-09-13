@@ -1,0 +1,2 @@
+Cr14N38Na30
+Atoms(symbols='Cr14N38Na30', pbc=False)

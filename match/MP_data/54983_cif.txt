@@ -1,0 +1,2 @@
+As12Cd3Ga12Se3
+Atoms(symbols='CdGa4As4SeCdGa4As4SeCdGa4As4Se', pbc=False)

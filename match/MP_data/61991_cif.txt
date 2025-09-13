@@ -1,0 +1,2 @@
+Cu4Nd4
+Atoms(symbols='Nd4Cu4', pbc=False)

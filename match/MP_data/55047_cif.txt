@@ -1,0 +1,2 @@
+CAlNSi
+Atoms(symbols='AlSiCN', pbc=False)

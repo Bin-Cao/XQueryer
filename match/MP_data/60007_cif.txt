@@ -1,0 +1,2 @@
+Ba2K2N2
+Atoms(symbols='KBaNKBaN', pbc=False)

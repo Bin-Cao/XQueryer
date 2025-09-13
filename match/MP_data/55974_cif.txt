@@ -1,0 +1,2 @@
+AsO16P3Pb2
+Atoms(symbols='AsP3Pb2O16', pbc=False)

@@ -1,0 +1,2 @@
+Ge16In16N32
+Atoms(symbols='Ge16In16N32', pbc=False)

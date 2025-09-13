@@ -1,0 +1,2 @@
+Ba36Fe16Se64
+Atoms(symbols='Ba36Fe16Se64', pbc=False)

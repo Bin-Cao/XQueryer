@@ -1,0 +1,2 @@
+C2AlW
+Atoms(symbols='AlWC2', pbc=False)

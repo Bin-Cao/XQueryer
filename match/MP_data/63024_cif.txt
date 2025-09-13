@@ -1,0 +1,2 @@
+Cr4S10
+Atoms(symbols='Cr4S10', pbc=False)

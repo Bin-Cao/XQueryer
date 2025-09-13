@@ -1,0 +1,2 @@
+Mg14NaO16Y
+Atoms(symbols='NaYMg14O16', pbc=False)

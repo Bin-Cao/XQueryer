@@ -1,0 +1,2 @@
+Cu6S42Si6Y16
+Atoms(symbols='Cu6S42Si6Y16', pbc=False)

@@ -1,0 +1,2 @@
+Ca12N16U4
+Atoms(symbols='Ca3UN4Ca3UN4Ca3UN4Ca3UN4', pbc=False)

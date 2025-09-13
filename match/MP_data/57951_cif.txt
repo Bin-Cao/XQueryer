@@ -1,0 +1,2 @@
+K2Se12U4
+Atoms(symbols='KU2Se6KU2Se6', pbc=False)

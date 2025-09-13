@@ -1,0 +1,2 @@
+As16Ca11Si9
+Atoms(symbols='Ca11Si9As16', pbc=False)

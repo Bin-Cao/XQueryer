@@ -1,0 +1,2 @@
+Er6LiO14Ta2
+Atoms(symbols='LiEr6Ta2O14', pbc=False)

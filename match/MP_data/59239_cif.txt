@@ -1,0 +1,2 @@
+N24Sn4Sr28
+Atoms(symbols='Sr28Sn4N24', pbc=False)

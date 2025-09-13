@@ -1,0 +1,2 @@
+Ni12O24
+Atoms(symbols='Ni12O24', pbc=False)

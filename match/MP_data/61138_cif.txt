@@ -1,0 +1,2 @@
+B2Ni8Tb2
+Atoms(symbols='Tb2Ni8B2', pbc=False)

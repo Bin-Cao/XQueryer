@@ -1,0 +1,2 @@
+MgO16Ti3V5
+Atoms(symbols='MgTi3V5O16', pbc=False)

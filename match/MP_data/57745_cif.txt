@@ -1,0 +1,2 @@
+Gd6In2LiO12
+Atoms(symbols='LiGd6In2O12', pbc=False)

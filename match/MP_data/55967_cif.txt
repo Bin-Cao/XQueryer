@@ -1,0 +1,2 @@
+Al36Co10Ni6
+Atoms(symbols='Al18Co5Ni3Al18Co5Ni3', pbc=False)

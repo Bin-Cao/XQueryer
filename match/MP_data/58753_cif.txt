@@ -1,0 +1,2 @@
+N2SeTi2
+Atoms(symbols='Ti2SeN2', pbc=False)

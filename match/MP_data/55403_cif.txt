@@ -1,0 +1,2 @@
+B48Mo14
+Atoms(symbols='B48Mo14', pbc=False)

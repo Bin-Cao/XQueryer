@@ -1,0 +1,2 @@
+Nb4O9
+Atoms(symbols='Nb4O9', pbc=False)

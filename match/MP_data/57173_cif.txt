@@ -1,0 +1,2 @@
+Pr2Te6
+Atoms(symbols='Pr2Te6', pbc=False)

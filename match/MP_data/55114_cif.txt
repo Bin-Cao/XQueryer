@@ -1,0 +1,2 @@
+Be3S12Zn9
+Atoms(symbols='BeZn3S4BeZn3S4BeZn3S4', pbc=False)

@@ -1,0 +1,2 @@
+Bi8O40V8
+Atoms(symbols='V8Bi8O40', pbc=False)

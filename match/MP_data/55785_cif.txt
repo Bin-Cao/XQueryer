@@ -1,0 +1,2 @@
+Ba4Co20La16O60
+Atoms(symbols='Ba4Co20La16O60', pbc=False)

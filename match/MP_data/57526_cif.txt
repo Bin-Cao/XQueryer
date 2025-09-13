@@ -1,0 +1,2 @@
+H4Cr4Hg4MgO18
+Atoms(symbols='MgCr4Hg4H4O18', pbc=False)

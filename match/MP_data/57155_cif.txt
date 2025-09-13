@@ -1,0 +1,2 @@
+Ag18O57P18
+Atoms(symbols='Ag18O57P18', pbc=False)

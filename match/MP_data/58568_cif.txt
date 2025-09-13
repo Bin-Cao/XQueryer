@@ -1,0 +1,2 @@
+Cu2N2Na2
+Atoms(symbols='NaCuNNaCuN', pbc=False)

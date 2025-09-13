@@ -1,0 +1,2 @@
+Co4N36Nb20
+Atoms(symbols='Nb20Co4N36', pbc=False)

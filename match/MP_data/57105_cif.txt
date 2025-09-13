@@ -1,0 +1,2 @@
+FLiNb3O7
+Atoms(symbols='LiNb3O7F', pbc=False)

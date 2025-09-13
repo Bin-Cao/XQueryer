@@ -1,0 +1,2 @@
+Al15Se24
+Atoms(symbols='Al5Se8Al5Se8Al5Se8', pbc=False)

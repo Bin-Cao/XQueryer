@@ -1,0 +1,2 @@
+LiO3PbRu
+Atoms(symbols='LiRuPbO3', pbc=False)

@@ -1,0 +1,2 @@
+C12K6O33Rh2
+Atoms(symbols='K6Rh2C12O33', pbc=False)

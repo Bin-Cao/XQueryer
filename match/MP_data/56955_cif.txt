@@ -1,0 +1,2 @@
+C4H20MgN4O12PtZn
+Atoms(symbols='MgZnH20PtC4N4O12', pbc=False)

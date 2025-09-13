@@ -1,0 +1,2 @@
+MgO
+Atoms(symbols='MgO', pbc=False)

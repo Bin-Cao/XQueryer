@@ -1,0 +1,2 @@
+Mo2O12Sb2Zn4
+Atoms(symbols='Zn4Sb2Mo2O12', pbc=False)

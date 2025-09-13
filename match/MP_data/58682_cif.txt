@@ -1,0 +1,2 @@
+BaCa3O96P24Zr16
+Atoms(symbols='BaCa3O96P24Zr16', pbc=False)

@@ -1,0 +1,2 @@
+AlBaGe
+Atoms(symbols='BaAlGe', pbc=False)

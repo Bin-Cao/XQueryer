@@ -1,0 +1,2 @@
+Fe32Mn12N36
+Atoms(symbols='Fe32Mn12N36', pbc=False)

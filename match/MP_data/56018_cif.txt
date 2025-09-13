@@ -1,0 +1,2 @@
+Al6La2O24Sr6Ta2
+Atoms(symbols='Sr3LaTaAl3O12Sr3LaTaAl3O12', pbc=False)

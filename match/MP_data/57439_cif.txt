@@ -1,0 +1,2 @@
+Gd4Mn8O16
+Atoms(symbols='Gd2Mn4O8Gd2Mn4O8', pbc=False)

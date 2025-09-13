@@ -1,0 +1,2 @@
+MgNd
+Atoms(symbols='NdMg', pbc=False)

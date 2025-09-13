@@ -1,0 +1,2 @@
+CaFeMn25O44SbSi4
+Atoms(symbols='CaFeMn25O44SbSi4', pbc=False)

@@ -1,0 +1,2 @@
+In8N4Se6
+Atoms(symbols='In8Se6N4', pbc=False)

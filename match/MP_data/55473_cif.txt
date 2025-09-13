@@ -1,0 +1,2 @@
+Cl24Cs8Os8Re16Se32
+Atoms(symbols='Cl24Cs8Os8Re16Se32', pbc=False)

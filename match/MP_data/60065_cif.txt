@@ -1,0 +1,2 @@
+Al6Na2
+Atoms(symbols='NaAl3NaAl3', pbc=False)

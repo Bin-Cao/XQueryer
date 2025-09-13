@@ -1,0 +1,2 @@
+Er8Ge8O28
+Atoms(symbols='Er8Ge8O28', pbc=False)

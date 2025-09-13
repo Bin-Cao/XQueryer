@@ -1,0 +1,2 @@
+O28V20Zn4
+Atoms(symbols='V10Zn2O14V10Zn2O14', pbc=False)

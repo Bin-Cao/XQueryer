@@ -1,0 +1,2 @@
+BiMg3
+Atoms(symbols='Mg3Bi', pbc=False)

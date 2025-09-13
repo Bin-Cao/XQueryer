@@ -1,0 +1,2 @@
+CaN2O11Sr2Ti6
+Atoms(symbols='Sr2CaTi6N2O11', pbc=False)

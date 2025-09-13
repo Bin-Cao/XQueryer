@@ -1,0 +1,2 @@
+Ca7Mn6O23SrTi2
+Atoms(symbols='SrCa7Ti2Mn6O23', pbc=False)

@@ -1,0 +1,2 @@
+Cu36Mg8Nd4
+Atoms(symbols='Nd2Mg4Cu18Nd2Mg4Cu18', pbc=False)

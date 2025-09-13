@@ -1,0 +1,2 @@
+BiMgO14Ru4Sm3
+Atoms(symbols='Sm3MgBiRu4O14', pbc=False)

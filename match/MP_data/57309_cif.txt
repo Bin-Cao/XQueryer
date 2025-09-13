@@ -1,0 +1,2 @@
+H6LiNd2O6
+Atoms(symbols='LiNd2H6O6', pbc=False)

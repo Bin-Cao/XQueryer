@@ -1,0 +1,2 @@
+Ca3LaMn4O12
+Atoms(symbols='Ca3LaMn4O12', pbc=False)

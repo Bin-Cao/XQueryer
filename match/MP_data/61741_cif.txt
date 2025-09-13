@@ -1,0 +1,2 @@
+AlGeSr
+Atoms(symbols='SrAlGe', pbc=False)

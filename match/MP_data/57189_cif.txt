@@ -1,0 +1,2 @@
+F2K2LiO4S2
+Atoms(symbols='K2LiS2O4F2', pbc=False)

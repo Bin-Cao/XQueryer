@@ -1,0 +1,2 @@
+C18H60B2F8Ir2O3P6
+Atoms(symbols='C18H60B2F8Ir2O3P6', pbc=False)

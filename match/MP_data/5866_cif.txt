@@ -1,0 +1,2 @@
+O16W6Y2
+Atoms(symbols='Y2W6O16', pbc=False)

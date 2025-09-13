@@ -1,0 +1,2 @@
+Ca2Er12O28Ta4
+Atoms(symbols='CaEr6Ta2O14CaEr6Ta2O14', pbc=False)

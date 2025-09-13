@@ -1,0 +1,2 @@
+O16Re2W4
+Atoms(symbols='Re2W4O16', pbc=False)

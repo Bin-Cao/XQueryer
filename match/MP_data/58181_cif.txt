@@ -1,0 +1,2 @@
+Cr3F18Mg3
+Atoms(symbols='MgCrF6MgCrF6MgCrF6', pbc=False)

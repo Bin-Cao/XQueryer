@@ -1,0 +1,2 @@
+La40N8Se48
+Atoms(symbols='La40N8Se48', pbc=False)

@@ -1,0 +1,2 @@
+Al12B8Cu4O34
+Atoms(symbols='Al6Cu2B4O17Al6Cu2B4O17', pbc=False)

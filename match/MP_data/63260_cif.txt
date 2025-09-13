@@ -1,0 +1,2 @@
+Mn16O32Rb3
+Atoms(symbols='Rb3Mn16O32', pbc=False)

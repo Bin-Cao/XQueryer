@@ -1,0 +1,2 @@
+CAu
+Atoms(symbols='AuC', pbc=False)

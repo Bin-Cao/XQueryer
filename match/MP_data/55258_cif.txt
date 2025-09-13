@@ -1,0 +1,2 @@
+B8Mo8W8
+Atoms(symbols='B2Mo2W2B2Mo2W2B2Mo2W2B2Mo2W2', pbc=False)

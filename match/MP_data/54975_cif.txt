@@ -1,0 +1,2 @@
+Fe148W26
+Atoms(symbols='Fe148W26', pbc=False)

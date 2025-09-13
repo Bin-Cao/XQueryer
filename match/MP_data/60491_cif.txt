@@ -1,0 +1,2 @@
+O40Sn40
+Atoms(symbols='O40Sn40', pbc=False)

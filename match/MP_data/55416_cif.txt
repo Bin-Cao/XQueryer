@@ -1,0 +1,2 @@
+BaCaO48P12Zr8
+Atoms(symbols='BaCaO48P12Zr8', pbc=False)

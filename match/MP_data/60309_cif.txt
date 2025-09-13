@@ -1,0 +1,2 @@
+Be52Tb4
+Atoms(symbols='Tb2Be26Tb2Be26', pbc=False)

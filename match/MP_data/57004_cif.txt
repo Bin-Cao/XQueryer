@@ -1,0 +1,2 @@
+Al4MgO12Tl4
+Atoms(symbols='MgAl4Tl4O12', pbc=False)

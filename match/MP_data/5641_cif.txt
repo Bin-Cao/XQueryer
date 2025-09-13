@@ -1,0 +1,2 @@
+Cr2O16W4
+Atoms(symbols='Cr2W4O16', pbc=False)

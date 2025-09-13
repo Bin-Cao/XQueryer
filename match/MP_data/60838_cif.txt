@@ -1,0 +1,2 @@
+Ce4Ga20Pd2
+Atoms(symbols='Ce2Ga10PdCe2Ga10Pd', pbc=False)

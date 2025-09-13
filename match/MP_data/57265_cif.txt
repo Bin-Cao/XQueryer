@@ -1,0 +1,2 @@
+LiNi9O13
+Atoms(symbols='LiNi9O13', pbc=False)

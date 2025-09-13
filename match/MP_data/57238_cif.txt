@@ -1,0 +1,2 @@
+Ho2K4MgNb10O30
+Atoms(symbols='K4Ho2MgNb10O30', pbc=False)

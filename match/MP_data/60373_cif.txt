@@ -1,0 +1,2 @@
+Ag2Si6
+Atoms(symbols='Si6Ag2', pbc=False)

@@ -1,0 +1,2 @@
+Ba3I18O54Ti3
+Atoms(symbols='Ba3I18O54Ti3', pbc=False)

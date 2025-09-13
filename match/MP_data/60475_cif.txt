@@ -1,0 +1,2 @@
+O56Si16Te8
+Atoms(symbols='O56Si16Te8', pbc=False)

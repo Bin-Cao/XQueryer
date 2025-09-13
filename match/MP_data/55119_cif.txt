@@ -1,0 +1,2 @@
+Al12Fe4Si8
+Atoms(symbols='Al6Fe2Si4Al6Fe2Si4', pbc=False)

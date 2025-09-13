@@ -1,0 +1,2 @@
+AlSn3V12
+Atoms(symbols='AlV12Sn3', pbc=False)

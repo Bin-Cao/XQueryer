@@ -1,0 +1,2 @@
+Ge8In8Li2O28
+Atoms(symbols='LiIn4Ge4O14LiIn4Ge4O14', pbc=False)

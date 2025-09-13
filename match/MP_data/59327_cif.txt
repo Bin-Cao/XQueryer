@@ -1,0 +1,2 @@
+N2Re2Te2
+Atoms(symbols='Re2Te2N2', pbc=False)

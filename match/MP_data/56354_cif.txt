@@ -1,0 +1,2 @@
+Mg8Nd16Se32
+Atoms(symbols='Nd16Mg8Se32', pbc=False)

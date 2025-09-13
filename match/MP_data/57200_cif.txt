@@ -1,0 +1,2 @@
+H8CaO6Sr2
+Atoms(symbols='Sr2CaH8O6', pbc=False)

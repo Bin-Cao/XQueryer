@@ -1,0 +1,2 @@
+H4Ba2Fe2O22P6
+Atoms(symbols='Ba2Fe2P6H4O22', pbc=False)

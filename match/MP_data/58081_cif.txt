@@ -1,0 +1,2 @@
+Ag6N18Ti12
+Atoms(symbols='Ti6Ag3N9Ti6Ag3N9', pbc=False)

@@ -1,0 +1,2 @@
+Ca6Cu6O42Sb12
+Atoms(symbols='Ca6Cu6O42Sb12', pbc=False)

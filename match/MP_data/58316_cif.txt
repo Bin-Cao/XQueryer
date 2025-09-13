@@ -1,0 +1,2 @@
+H4Ge7O22
+Atoms(symbols='Ge7H4O22', pbc=False)

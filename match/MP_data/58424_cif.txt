@@ -1,0 +1,2 @@
+Ag6Co12N18
+Atoms(symbols='Co6Ag3N9Co6Ag3N9', pbc=False)

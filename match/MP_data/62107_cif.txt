@@ -1,0 +1,2 @@
+Na4Ni8O12
+Atoms(symbols='Na4Ni8O12', pbc=False)

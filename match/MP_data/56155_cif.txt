@@ -1,0 +1,2 @@
+Al15Bi3N12
+Atoms(symbols='Al5BiN4Al5BiN4Al5BiN4', pbc=False)

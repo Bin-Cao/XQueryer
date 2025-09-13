@@ -1,0 +1,2 @@
+CCu27O
+Atoms(symbols='Cu27CO', pbc=False)

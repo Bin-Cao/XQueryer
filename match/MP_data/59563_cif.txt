@@ -1,0 +1,2 @@
+Cd28N24Si4
+Atoms(symbols='Cd14Si2N12Cd14Si2N12', pbc=False)

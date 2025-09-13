@@ -1,0 +1,2 @@
+Ba20O48PtRu11
+Atoms(symbols='Ba20O48PtRu11', pbc=False)

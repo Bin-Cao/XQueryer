@@ -1,0 +1,2 @@
+CaFe5O8Ti
+Atoms(symbols='CaTiFe5O8', pbc=False)

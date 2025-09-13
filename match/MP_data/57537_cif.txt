@@ -1,0 +1,2 @@
+Al3Er3Ge2Ni
+Atoms(symbols='Er3Al3NiGe2', pbc=False)

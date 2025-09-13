@@ -1,0 +1,2 @@
+Ho2LiO3
+Atoms(symbols='LiHo2O3', pbc=False)

@@ -1,0 +1,2 @@
+As4Ca4Cr4O20
+Atoms(symbols='Ca4Cr4As4O20', pbc=False)

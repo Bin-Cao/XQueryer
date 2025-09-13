@@ -1,0 +1,2 @@
+Ba32Mn12N36
+Atoms(symbols='Ba32Mn12N36', pbc=False)

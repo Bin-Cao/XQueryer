@@ -1,0 +1,2 @@
+CoMgO24P6Sn2V3
+Atoms(symbols='MgV3CoSn2P6O24', pbc=False)

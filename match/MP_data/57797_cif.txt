@@ -1,0 +1,2 @@
+LiO12Ta4
+Atoms(symbols='LiTa4O12', pbc=False)

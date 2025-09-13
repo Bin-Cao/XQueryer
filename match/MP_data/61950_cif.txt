@@ -1,0 +1,2 @@
+F20Mg4Mn4
+Atoms(symbols='Mg4Mn4F20', pbc=False)

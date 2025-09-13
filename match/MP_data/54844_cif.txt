@@ -1,0 +1,2 @@
+Ba4GaSn3
+Atoms(symbols='Ba4GaSn3', pbc=False)

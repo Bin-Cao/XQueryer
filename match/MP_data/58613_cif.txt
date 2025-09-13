@@ -1,0 +1,2 @@
+Ca16N16Ru4
+Atoms(symbols='Ca16Ru4N16', pbc=False)

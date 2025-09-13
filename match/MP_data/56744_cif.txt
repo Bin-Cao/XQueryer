@@ -1,0 +1,2 @@
+Ba20Ir16Nb4O60
+Atoms(symbols='Ba20Ir16Nb4O60', pbc=False)

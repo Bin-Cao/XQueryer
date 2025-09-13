@@ -1,0 +1,2 @@
+HfMg30NaO31
+Atoms(symbols='HfMg30NaO31', pbc=False)

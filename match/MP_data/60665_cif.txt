@@ -1,0 +1,2 @@
+Ca7CrMn7O21Sr
+Atoms(symbols='SrCa7Mn7CrO21', pbc=False)

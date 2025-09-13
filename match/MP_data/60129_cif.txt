@@ -1,0 +1,2 @@
+O65Ti39
+Atoms(symbols='O65Ti39', pbc=False)

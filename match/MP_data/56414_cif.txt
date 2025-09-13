@@ -1,0 +1,2 @@
+Ba20Nb2Ni2O60Ti16
+Atoms(symbols='Ba20Nb2Ni2O60Ti16', pbc=False)

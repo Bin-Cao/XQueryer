@@ -1,0 +1,2 @@
+LiO2SSm2
+Atoms(symbols='LiSm2SO2', pbc=False)

@@ -1,0 +1,2 @@
+C4Al2Br10N4O12
+Atoms(symbols='AlC2Br5N2O6AlC2Br5N2O6', pbc=False)

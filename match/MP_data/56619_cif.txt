@@ -1,0 +1,2 @@
+Bi3CaClO8PbW
+Atoms(symbols='CaBi3PbWClO8', pbc=False)

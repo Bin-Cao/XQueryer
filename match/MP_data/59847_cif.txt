@@ -1,0 +1,2 @@
+LaMg2Mn3S8
+Atoms(symbols='LaMg2Mn3S8', pbc=False)

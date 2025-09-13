@@ -1,0 +1,2 @@
+Cu24Mg12O48
+Atoms(symbols='Cu24Mg12O48', pbc=False)

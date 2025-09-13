@@ -1,0 +1,2 @@
+LiO16Pr2Rb2W4
+Atoms(symbols='Rb2LiPr2W4O16', pbc=False)

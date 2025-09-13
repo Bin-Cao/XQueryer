@@ -1,0 +1,2 @@
+Co5I60La31Na4
+Atoms(symbols='Co5I60La31Na4', pbc=False)

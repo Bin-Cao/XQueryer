@@ -1,0 +1,2 @@
+Ag64As16CuHg3S60
+Atoms(symbols='Ag64As16CuHg3S60', pbc=False)

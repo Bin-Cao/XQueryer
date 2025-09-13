@@ -1,0 +1,2 @@
+Mo20Si12
+Atoms(symbols='Si6Mo10Si6Mo10', pbc=False)

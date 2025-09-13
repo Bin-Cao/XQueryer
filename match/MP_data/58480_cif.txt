@@ -1,0 +1,2 @@
+C14N20Pb2
+Atoms(symbols='Pb2C14N20', pbc=False)

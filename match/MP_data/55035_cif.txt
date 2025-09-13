@@ -1,0 +1,2 @@
+H31Co2N9O11S2
+Atoms(symbols='Co2H31S2N9O11', pbc=False)

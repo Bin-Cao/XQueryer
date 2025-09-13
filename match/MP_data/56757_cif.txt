@@ -1,0 +1,2 @@
+C3Ba10Ge3O26
+Atoms(symbols='Ba10Ge3C3O26', pbc=False)

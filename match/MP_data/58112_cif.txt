@@ -1,0 +1,2 @@
+C4Mg16N16
+Atoms(symbols='Mg16C4N16', pbc=False)

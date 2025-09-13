@@ -1,0 +1,2 @@
+Ba4Cl2Cu4O16Pb4Ta2
+Atoms(symbols='Ba2TaCu2Pb2ClO8Ba2TaCu2Pb2ClO8', pbc=False)

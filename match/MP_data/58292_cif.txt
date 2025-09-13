@@ -1,0 +1,2 @@
+NNiRb
+Atoms(symbols='RbNiN', pbc=False)

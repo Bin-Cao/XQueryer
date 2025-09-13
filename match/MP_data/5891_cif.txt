@@ -1,0 +1,2 @@
+Mn4O12Pr2Zn2
+Atoms(symbols='Pr2Mn4Zn2O12', pbc=False)

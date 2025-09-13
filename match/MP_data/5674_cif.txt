@@ -1,0 +1,2 @@
+LiMg30O31Rb
+Atoms(symbols='LiMg30O31Rb', pbc=False)

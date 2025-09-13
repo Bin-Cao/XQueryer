@@ -1,0 +1,2 @@
+Fe26O56Sb4Si4Y8
+Atoms(symbols='Fe26O56Sb4Si4Y8', pbc=False)

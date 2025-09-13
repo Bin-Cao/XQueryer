@@ -1,0 +1,2 @@
+Al23F35O17
+Atoms(symbols='Al23F35O17', pbc=False)

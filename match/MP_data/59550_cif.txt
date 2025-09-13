@@ -1,0 +1,2 @@
+Ir2N4Na4
+Atoms(symbols='Na2IrN2Na2IrN2', pbc=False)

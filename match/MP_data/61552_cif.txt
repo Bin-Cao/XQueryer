@@ -1,0 +1,2 @@
+Au5K
+Atoms(symbols='KAu5', pbc=False)

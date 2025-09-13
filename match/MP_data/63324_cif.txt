@@ -1,0 +1,2 @@
+Ca22Fe4N20
+Atoms(symbols='Ca11Fe2N10Ca11Fe2N10', pbc=False)

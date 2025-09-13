@@ -1,0 +1,2 @@
+Al2NiPt
+Atoms(symbols='Al2NiPt', pbc=False)

@@ -1,0 +1,2 @@
+Bi10Cu4Pb10S28
+Atoms(symbols='Cu4Bi10Pb10S28', pbc=False)

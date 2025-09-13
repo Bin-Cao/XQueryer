@@ -1,0 +1,2 @@
+C8N40Sr44
+Atoms(symbols='C8N40Sr44', pbc=False)

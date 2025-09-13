@@ -1,0 +1,2 @@
+Ca5Co2O12Sc2
+Atoms(symbols='Ca5Sc2Co2O12', pbc=False)

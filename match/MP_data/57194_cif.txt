@@ -1,0 +1,2 @@
+MgO20Sm8Ti4
+Atoms(symbols='Sm8MgTi4O20', pbc=False)

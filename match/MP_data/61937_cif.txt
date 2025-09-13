@@ -1,0 +1,2 @@
+Lu4Nd4Se12
+Atoms(symbols='Nd2Lu2Se6Nd2Lu2Se6', pbc=False)

@@ -1,0 +1,2 @@
+Ti100
+Atoms(symbols='Ti100', pbc=False)

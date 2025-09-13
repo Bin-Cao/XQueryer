@@ -1,0 +1,2 @@
+Cu8Mo4O28Sr8
+Atoms(symbols='Sr4Cu4Mo2O14Sr4Cu4Mo2O14', pbc=False)

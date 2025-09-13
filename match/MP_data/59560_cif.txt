@@ -1,0 +1,2 @@
+Li30N38W14
+Atoms(symbols='Li30N38W14', pbc=False)

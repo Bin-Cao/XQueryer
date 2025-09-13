@@ -1,0 +1,2 @@
+Er2O53V10
+Atoms(symbols='Er2O53V10', pbc=False)

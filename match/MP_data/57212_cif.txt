@@ -1,0 +1,2 @@
+As4Ba6Li2O16
+Atoms(symbols='Ba3LiAs2O8Ba3LiAs2O8', pbc=False)

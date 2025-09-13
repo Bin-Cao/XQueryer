@@ -1,0 +1,2 @@
+Mg4O26Ti18
+Atoms(symbols='Mg2Ti9O13Mg2Ti9O13', pbc=False)

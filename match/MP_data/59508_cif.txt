@@ -1,0 +1,2 @@
+Cr8N8Ni4
+Atoms(symbols='Cr8Ni4N8', pbc=False)

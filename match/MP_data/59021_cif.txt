@@ -1,0 +1,2 @@
+H38Na4NiO40W6
+Atoms(symbols='H38Na4NiO40W6', pbc=False)

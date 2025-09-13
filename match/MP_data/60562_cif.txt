@@ -1,0 +1,2 @@
+Ga2Ho
+Atoms(symbols='HoGa2', pbc=False)

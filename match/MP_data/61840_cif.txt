@@ -1,0 +1,2 @@
+Lu2Pr2Se6
+Atoms(symbols='Pr2Lu2Se6', pbc=False)

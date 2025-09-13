@@ -1,0 +1,2 @@
+As8Fe6Mg6O32
+Atoms(symbols='Mg6Fe6As8O32', pbc=False)

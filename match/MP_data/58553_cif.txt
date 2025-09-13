@@ -1,0 +1,2 @@
+As3Bi36Mg3O60
+Atoms(symbols='As3Bi36Mg3O60', pbc=False)

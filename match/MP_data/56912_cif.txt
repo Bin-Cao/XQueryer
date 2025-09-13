@@ -1,0 +1,2 @@
+CaCr6F4O4
+Atoms(symbols='CaCr6O4F4', pbc=False)

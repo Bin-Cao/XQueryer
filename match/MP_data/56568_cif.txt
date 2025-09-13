@@ -1,0 +1,2 @@
+Ba10Cu15Er5O34
+Atoms(symbols='Ba10Cu15Er5O34', pbc=False)

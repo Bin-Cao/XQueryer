@@ -1,0 +1,2 @@
+BInN2
+Atoms(symbols='InBN2', pbc=False)

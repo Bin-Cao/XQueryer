@@ -1,0 +1,2 @@
+Ba2CeNbO6
+Atoms(symbols='Ba2CeNbO6', pbc=False)

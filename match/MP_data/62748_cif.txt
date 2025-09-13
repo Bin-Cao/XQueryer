@@ -1,0 +1,2 @@
+Mg12Mo8O28
+Atoms(symbols='Mg6Mo4O14Mg6Mo4O14', pbc=False)

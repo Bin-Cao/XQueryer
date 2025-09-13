@@ -1,0 +1,2 @@
+Mo25O75
+Atoms(symbols='Mo25O75', pbc=False)

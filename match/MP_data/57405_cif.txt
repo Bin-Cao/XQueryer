@@ -1,0 +1,2 @@
+LiO16V8
+Atoms(symbols='LiV8O16', pbc=False)

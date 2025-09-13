@@ -1,0 +1,2 @@
+C16Mn2N12
+Atoms(symbols='MnC8N6MnC8N6', pbc=False)

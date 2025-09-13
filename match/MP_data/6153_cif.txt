@@ -1,0 +1,2 @@
+Bi6O26P6
+Atoms(symbols='Bi6P6O26', pbc=False)

@@ -1,0 +1,2 @@
+As6Ca6CoMg2O30
+Atoms(symbols='Ca6Mg2CoAs6O30', pbc=False)

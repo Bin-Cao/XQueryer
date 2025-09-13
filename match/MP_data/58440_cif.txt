@@ -1,0 +1,2 @@
+Ni
+Atoms(symbols='Ni', pbc=False)

@@ -1,0 +1,2 @@
+Al2LiLu2O6
+Atoms(symbols='LiLu2Al2O6', pbc=False)

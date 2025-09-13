@@ -1,0 +1,2 @@
+Fe20Mg2N16
+Atoms(symbols='MgFe10N8MgFe10N8', pbc=False)

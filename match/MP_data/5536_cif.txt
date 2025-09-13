@@ -1,0 +1,2 @@
+Ba2Bi2K2O12Te2
+Atoms(symbols='K2Ba2Bi2Te2O12', pbc=False)

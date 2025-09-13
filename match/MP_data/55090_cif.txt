@@ -1,0 +1,2 @@
+Al9Ca3O42P3S3
+Atoms(symbols='CaAl3PSO14CaAl3PSO14CaAl3PSO14', pbc=False)

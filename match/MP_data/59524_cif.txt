@@ -1,0 +1,2 @@
+C12N18Ta2
+Atoms(symbols='Ta2C12N18', pbc=False)

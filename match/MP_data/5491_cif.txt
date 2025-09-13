@@ -1,0 +1,2 @@
+Mg2O18V8
+Atoms(symbols='Mg2V8O18', pbc=False)

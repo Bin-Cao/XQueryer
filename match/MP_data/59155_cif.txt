@@ -1,0 +1,2 @@
+InMg2Mo3S8
+Atoms(symbols='Mg2InMo3S8', pbc=False)

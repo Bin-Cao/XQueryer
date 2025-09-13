@@ -1,0 +1,2 @@
+As2Cu6
+Atoms(symbols='Cu6As2', pbc=False)

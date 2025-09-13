@@ -1,0 +1,2 @@
+Co4N12Sr10
+Atoms(symbols='Sr10Co4N12', pbc=False)

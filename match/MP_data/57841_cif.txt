@@ -1,0 +1,2 @@
+Ga4LiO12W2
+Atoms(symbols='LiGa4W2O12', pbc=False)

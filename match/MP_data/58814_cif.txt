@@ -1,0 +1,2 @@
+Co8N16Pb12
+Atoms(symbols='Co8Pb12N16', pbc=False)

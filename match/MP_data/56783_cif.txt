@@ -1,0 +1,2 @@
+Ag4CaO12Y4
+Atoms(symbols='CaY4Ag4O12', pbc=False)

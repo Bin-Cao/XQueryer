@@ -1,0 +1,2 @@
+Ga8In4N12
+Atoms(symbols='In2Ga4N6In2Ga4N6', pbc=False)

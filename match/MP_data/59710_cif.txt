@@ -1,0 +1,2 @@
+Li16N32Sb16
+Atoms(symbols='Li16N32Sb16', pbc=False)

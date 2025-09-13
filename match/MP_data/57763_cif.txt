@@ -1,0 +1,2 @@
+H44O36P4V4
+Atoms(symbols='H44O36P4V4', pbc=False)

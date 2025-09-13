@@ -1,0 +1,2 @@
+Co2La4Ni2O12
+Atoms(symbols='La4Co2Ni2O12', pbc=False)

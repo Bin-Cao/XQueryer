@@ -1,0 +1,2 @@
+Co28N24Si4
+Atoms(symbols='Co28Si4N24', pbc=False)

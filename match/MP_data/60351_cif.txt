@@ -1,0 +1,2 @@
+Co4Mn40N36
+Atoms(symbols='Co4Mn40N36', pbc=False)

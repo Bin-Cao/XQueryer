@@ -1,0 +1,2 @@
+Mn16N8Te12
+Atoms(symbols='Mn16Te12N8', pbc=False)

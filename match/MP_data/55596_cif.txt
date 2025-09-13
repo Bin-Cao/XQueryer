@@ -1,0 +1,2 @@
+Al2Ga2In2Sb6
+Atoms(symbols='AlInGaSb3AlInGaSb3', pbc=False)

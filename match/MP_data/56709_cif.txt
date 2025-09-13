@@ -1,0 +1,2 @@
+CoLiO6Pt3
+Atoms(symbols='LiCoPt3O6', pbc=False)

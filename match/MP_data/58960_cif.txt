@@ -1,0 +1,2 @@
+Co10Fe2N8
+Atoms(symbols='Fe2Co10N8', pbc=False)

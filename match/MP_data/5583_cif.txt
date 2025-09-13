@@ -1,0 +1,2 @@
+F30W6Y2
+Atoms(symbols='Y2W6F30', pbc=False)

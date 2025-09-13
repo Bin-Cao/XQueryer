@@ -1,0 +1,2 @@
+CuHo2LiO12Si4
+Atoms(symbols='LiHo2CuSi4O12', pbc=False)

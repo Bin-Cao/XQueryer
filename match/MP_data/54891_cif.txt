@@ -1,0 +1,2 @@
+Cd86Pd16
+Atoms(symbols='Cd86Pd16', pbc=False)

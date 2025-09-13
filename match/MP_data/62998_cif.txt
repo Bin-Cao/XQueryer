@@ -1,0 +1,2 @@
+Ca6Fe4Ga4O20
+Atoms(symbols='Ca6Ga4Fe4O20', pbc=False)

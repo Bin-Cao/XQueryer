@@ -1,0 +1,2 @@
+H8N4O8Tc4
+Atoms(symbols='Tc4H8N4O8', pbc=False)

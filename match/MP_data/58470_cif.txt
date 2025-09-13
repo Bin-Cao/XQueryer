@@ -1,0 +1,2 @@
+N36Si12Zr20
+Atoms(symbols='N36Si12Zr20', pbc=False)

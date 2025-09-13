@@ -1,0 +1,2 @@
+O6Sb2Y2
+Atoms(symbols='Y2Sb2O6', pbc=False)

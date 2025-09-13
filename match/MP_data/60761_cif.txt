@@ -1,0 +1,2 @@
+NaSi6
+Atoms(symbols='NaSi6', pbc=False)

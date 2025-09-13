@@ -1,0 +1,2 @@
+Cr4O16Ti4
+Atoms(symbols='Ti4Cr4O16', pbc=False)

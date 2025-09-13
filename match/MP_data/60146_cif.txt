@@ -1,0 +1,2 @@
+AlCa4Mn3O11
+Atoms(symbols='Ca4Mn3AlO11', pbc=False)

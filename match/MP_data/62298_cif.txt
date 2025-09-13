@@ -1,0 +1,2 @@
+O3Tb2
+Atoms(symbols='Tb2O3', pbc=False)

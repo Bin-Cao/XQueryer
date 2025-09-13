@@ -1,0 +1,2 @@
+Ba3Cu9La3O22Pr3
+Atoms(symbols='Ba3La3Pr3Cu9O22', pbc=False)

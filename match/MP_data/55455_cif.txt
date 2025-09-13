@@ -1,0 +1,2 @@
+C4Al2O24Si10
+Atoms(symbols='AlSi5C2O12AlSi5C2O12', pbc=False)

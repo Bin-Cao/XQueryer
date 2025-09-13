@@ -1,0 +1,2 @@
+Ca8Mn8O21
+Atoms(symbols='Ca8Mn8O21', pbc=False)

@@ -1,0 +1,2 @@
+N24Pb28Si4
+Atoms(symbols='Si4Pb28N24', pbc=False)

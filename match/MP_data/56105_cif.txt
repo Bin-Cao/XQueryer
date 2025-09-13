@@ -1,0 +1,2 @@
+Ba20Cu2O60W10Zn8
+Atoms(symbols='Ba20Cu2O60W10Zn8', pbc=False)

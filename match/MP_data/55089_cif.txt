@@ -1,0 +1,2 @@
+Ce18N6O6Se12
+Atoms(symbols='Ce9Se6N3O3Ce9Se6N3O3', pbc=False)

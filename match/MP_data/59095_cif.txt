@@ -1,0 +1,2 @@
+Li68O34
+Atoms(symbols='Li68O34', pbc=False)

@@ -1,0 +1,2 @@
+N24Sr28Ti4
+Atoms(symbols='Sr28Ti4N24', pbc=False)

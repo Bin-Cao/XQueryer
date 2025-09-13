@@ -1,0 +1,2 @@
+Ga18K60Sb38
+Atoms(symbols='Ga18K60Sb38', pbc=False)

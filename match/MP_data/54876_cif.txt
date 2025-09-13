@@ -1,0 +1,2 @@
+AlBaF2LiMg2O10Si3
+Atoms(symbols='BaLiMg2AlSi3O10F2', pbc=False)

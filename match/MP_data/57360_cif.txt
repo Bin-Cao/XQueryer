@@ -1,0 +1,2 @@
+K12MgO10Pb4
+Atoms(symbols='K12MgPb4O10', pbc=False)

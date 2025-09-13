@@ -1,0 +1,2 @@
+CaS2Ti
+Atoms(symbols='CaTiS2', pbc=False)

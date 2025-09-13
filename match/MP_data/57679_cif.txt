@@ -1,0 +1,2 @@
+As4LiO16P4
+Atoms(symbols='LiAs4P4O16', pbc=False)

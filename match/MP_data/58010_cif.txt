@@ -1,0 +1,2 @@
+Ge12In12Li3O42
+Atoms(symbols='Ge12In12Li3O42', pbc=False)

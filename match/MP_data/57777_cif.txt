@@ -1,0 +1,2 @@
+LiO7Si2Tl6
+Atoms(symbols='LiTl6Si2O7', pbc=False)

@@ -1,0 +1,2 @@
+Ce4Li2O6
+Atoms(symbols='LiCe2O3LiCe2O3', pbc=False)

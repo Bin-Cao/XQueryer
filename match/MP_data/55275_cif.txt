@@ -1,0 +1,2 @@
+As12Ba4Na2Sn12
+Atoms(symbols='Ba2NaSn6As6Ba2NaSn6As6', pbc=False)

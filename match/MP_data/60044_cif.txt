@@ -1,0 +1,2 @@
+Cr2N6Th4
+Atoms(symbols='Th2CrN3Th2CrN3', pbc=False)

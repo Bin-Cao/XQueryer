@@ -1,0 +1,2 @@
+H8Ba2Fe4O34P8
+Atoms(symbols='Ba2Fe4P8H8O34', pbc=False)

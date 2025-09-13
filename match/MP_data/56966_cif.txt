@@ -1,0 +1,2 @@
+Ag2Eu2MgO16W4
+Atoms(symbols='Eu2MgAg2W4O16', pbc=False)

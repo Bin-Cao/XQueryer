@@ -1,0 +1,2 @@
+Cu18Mg4Pr2
+Atoms(symbols='Pr2Mg4Cu18', pbc=False)

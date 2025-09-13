@@ -1,0 +1,2 @@
+O68Si34
+Atoms(symbols='O68Si34', pbc=False)

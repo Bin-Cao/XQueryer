@@ -1,0 +1,2 @@
+CuKN
+Atoms(symbols='KCuN', pbc=False)

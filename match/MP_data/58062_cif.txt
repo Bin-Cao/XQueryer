@@ -1,0 +1,2 @@
+Er2Na2P4S12
+Atoms(symbols='Na2Er2P4S12', pbc=False)

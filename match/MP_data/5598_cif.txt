@@ -1,0 +1,2 @@
+MoSe8W3
+Atoms(symbols='MoW3Se8', pbc=False)

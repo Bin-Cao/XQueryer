@@ -1,0 +1,2 @@
+Sn4Y2
+Atoms(symbols='Y2Sn4', pbc=False)

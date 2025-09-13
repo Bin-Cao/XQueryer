@@ -1,0 +1,2 @@
+Cu4Ho4S8
+Atoms(symbols='Ho4Cu4S8', pbc=False)

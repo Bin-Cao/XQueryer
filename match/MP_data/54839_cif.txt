@@ -1,0 +1,2 @@
+Al4Ni3Pt
+Atoms(symbols='Al4Ni3Pt', pbc=False)

@@ -1,0 +1,2 @@
+ReS2
+Atoms(symbols='ReS2', pbc=False)

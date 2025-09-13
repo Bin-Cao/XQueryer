@@ -1,0 +1,2 @@
+Al4Cr8
+Atoms(symbols='AlCr2AlCr2AlCr2AlCr2', pbc=False)

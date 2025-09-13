@@ -1,0 +1,2 @@
+MnN2V
+Atoms(symbols='MnVN2', pbc=False)

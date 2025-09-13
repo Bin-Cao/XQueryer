@@ -1,0 +1,2 @@
+Ba6Cu12O24Sm4Sr2
+Atoms(symbols='Ba3SrSm2Cu6O12Ba3SrSm2Cu6O12', pbc=False)

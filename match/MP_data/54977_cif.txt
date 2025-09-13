@@ -1,0 +1,2 @@
+Bi3O21Pb4Sb5
+Atoms(symbols='Bi3Sb5Pb4O21', pbc=False)

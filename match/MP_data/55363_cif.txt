@@ -1,0 +1,2 @@
+C6Ca3FeMg2O18
+Atoms(symbols='Ca3Mg2FeC6O18', pbc=False)

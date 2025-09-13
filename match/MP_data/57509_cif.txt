@@ -1,0 +1,2 @@
+H5Cu4MgO20Rb2S4
+Atoms(symbols='Rb2MgCu4H5S4O20', pbc=False)

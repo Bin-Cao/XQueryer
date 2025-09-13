@@ -1,0 +1,2 @@
+AgLiO6WZn2
+Atoms(symbols='LiZn2AgWO6', pbc=False)

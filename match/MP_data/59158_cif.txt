@@ -1,0 +1,2 @@
+Cr4Fe28O48
+Atoms(symbols='Cr4Fe28O48', pbc=False)

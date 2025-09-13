@@ -1,0 +1,2 @@
+HLi3Mn2O14P4
+Atoms(symbols='Li3Mn2P4HO14', pbc=False)

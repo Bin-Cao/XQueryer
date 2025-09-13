@@ -1,0 +1,2 @@
+Ca10Mn4Ni4O24
+Atoms(symbols='Ca5Mn2Ni2O12Ca5Mn2Ni2O12', pbc=False)

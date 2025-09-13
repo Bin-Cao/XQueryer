@@ -1,0 +1,2 @@
+H50Al4O52S7
+Atoms(symbols='H50Al4O52S7', pbc=False)

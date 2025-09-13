@@ -1,0 +1,2 @@
+In4Mg4Se12
+Atoms(symbols='Mg2In2Se6Mg2In2Se6', pbc=False)

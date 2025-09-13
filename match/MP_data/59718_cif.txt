@@ -1,0 +1,2 @@
+Ag6N18Si12
+Atoms(symbols='Si6Ag3N9Si6Ag3N9', pbc=False)

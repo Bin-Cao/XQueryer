@@ -1,0 +1,2 @@
+H30Cl4Co2N12O4
+Atoms(symbols='Co2H30N12Cl4O4', pbc=False)

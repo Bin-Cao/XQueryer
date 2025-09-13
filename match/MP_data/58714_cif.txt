@@ -1,0 +1,2 @@
+C6Mo4N12
+Atoms(symbols='Mo4C6N12', pbc=False)

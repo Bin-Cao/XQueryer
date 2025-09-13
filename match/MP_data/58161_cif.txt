@@ -1,0 +1,2 @@
+MoS3
+Atoms(symbols='MoS3', pbc=False)

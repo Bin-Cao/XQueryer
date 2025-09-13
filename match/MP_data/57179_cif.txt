@@ -1,0 +1,2 @@
+MgO20Th9Y
+Atoms(symbols='YTh9MgO20', pbc=False)

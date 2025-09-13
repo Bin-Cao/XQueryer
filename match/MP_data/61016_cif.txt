@@ -1,0 +1,2 @@
+O24Si8V4
+Atoms(symbols='V4Si8O24', pbc=False)

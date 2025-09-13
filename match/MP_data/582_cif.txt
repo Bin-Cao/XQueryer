@@ -1,0 +1,2 @@
+OSr
+Atoms(symbols='SrO', pbc=False)

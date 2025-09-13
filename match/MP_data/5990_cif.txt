@@ -1,0 +1,2 @@
+Be12O48Si12Ti8
+Atoms(symbols='Be12O48Si12Ti8', pbc=False)

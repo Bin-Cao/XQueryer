@@ -1,0 +1,2 @@
+FLiO11V6
+Atoms(symbols='LiV6O11F', pbc=False)

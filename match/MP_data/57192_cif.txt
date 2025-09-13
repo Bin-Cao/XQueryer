@@ -1,0 +1,2 @@
+Br2Cu2Li2O4Sr4
+Atoms(symbols='Sr2LiCuBrO2Sr2LiCuBrO2', pbc=False)

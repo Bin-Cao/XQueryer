@@ -1,0 +1,2 @@
+B40O60
+Atoms(symbols='B40O60', pbc=False)

@@ -1,0 +1,2 @@
+Ca33In4O112P28Pb3
+Atoms(symbols='Ca33In4O112P28Pb3', pbc=False)

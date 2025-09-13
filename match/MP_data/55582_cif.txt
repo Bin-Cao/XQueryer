@@ -1,0 +1,2 @@
+Ba6Hf2O30Ta8
+Atoms(symbols='Ba6Hf2Ta8O30', pbc=False)

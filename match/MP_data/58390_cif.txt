@@ -1,0 +1,2 @@
+C3N6Sb2
+Atoms(symbols='Sb2C3N6', pbc=False)

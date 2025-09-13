@@ -1,0 +1,2 @@
+CaO12Ru2Sr4Tb2
+Atoms(symbols='Sr4CaTb2Ru2O12', pbc=False)

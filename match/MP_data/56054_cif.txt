@@ -1,0 +1,2 @@
+Ba3In2MoO9
+Atoms(symbols='Ba3In2MoO9', pbc=False)

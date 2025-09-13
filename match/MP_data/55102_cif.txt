@@ -1,0 +1,2 @@
+Ca6P19Rh30
+Atoms(symbols='Ca6P19Rh30', pbc=False)

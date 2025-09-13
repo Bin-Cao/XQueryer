@@ -1,0 +1,2 @@
+Cd72Er12
+Atoms(symbols='Cd72Er12', pbc=False)

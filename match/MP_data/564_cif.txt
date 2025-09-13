@@ -1,0 +1,2 @@
+EuSe
+Atoms(symbols='EuSe', pbc=False)

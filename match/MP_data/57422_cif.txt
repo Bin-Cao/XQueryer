@@ -1,0 +1,2 @@
+Ba8CaO2Rb2Sb6
+Atoms(symbols='Rb2Ba8CaSb6O2', pbc=False)

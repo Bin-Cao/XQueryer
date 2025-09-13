@@ -1,0 +1,2 @@
+Cr20Cs3Se32
+Atoms(symbols='Cs3Cr20Se32', pbc=False)

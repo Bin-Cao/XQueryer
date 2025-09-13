@@ -1,0 +1,2 @@
+Cu3MgO12W4
+Atoms(symbols='MgCu3W4O12', pbc=False)

@@ -1,0 +1,2 @@
+BaLiO3Zr
+Atoms(symbols='BaLiZrO3', pbc=False)

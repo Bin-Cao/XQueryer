@@ -1,0 +1,2 @@
+Pt42Ti13
+Atoms(symbols='Ti13Pt42', pbc=False)

@@ -1,0 +1,2 @@
+Co4Nb4O18
+Atoms(symbols='Nb4Co4O18', pbc=False)

@@ -1,0 +1,2 @@
+Ba4In32Ni8O60
+Atoms(symbols='Ba4In32Ni8O60', pbc=False)

@@ -1,0 +1,2 @@
+Cr4Cu4S16Zr4
+Atoms(symbols='Zr2Cr2Cu2S8Zr2Cr2Cu2S8', pbc=False)

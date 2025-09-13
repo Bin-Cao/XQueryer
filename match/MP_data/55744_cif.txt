@@ -1,0 +1,2 @@
+Ba18Ge6N21
+Atoms(symbols='Ba6Ge2N7Ba6Ge2N7Ba6Ge2N7', pbc=False)

@@ -1,0 +1,2 @@
+BiLiO14Ru4Sm3
+Atoms(symbols='LiSm3BiRu4O14', pbc=False)

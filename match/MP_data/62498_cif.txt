@@ -1,0 +1,2 @@
+O28W20
+Atoms(symbols='W10O14W10O14', pbc=False)

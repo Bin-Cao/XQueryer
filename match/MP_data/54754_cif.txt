@@ -1,0 +1,2 @@
+Al2Re2Si2
+Atoms(symbols='AlReSiAlReSi', pbc=False)

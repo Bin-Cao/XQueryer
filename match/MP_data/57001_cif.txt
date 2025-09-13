@@ -1,0 +1,2 @@
+CaO7Si2Tl6
+Atoms(symbols='CaTl6Si2O7', pbc=False)

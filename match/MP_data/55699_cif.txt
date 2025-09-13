@@ -1,0 +1,2 @@
+As12In4K24
+Atoms(symbols='K24In4As12', pbc=False)

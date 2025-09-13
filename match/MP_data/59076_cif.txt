@@ -1,0 +1,2 @@
+Co8N8Zr2
+Atoms(symbols='Zr2Co8N8', pbc=False)

@@ -1,0 +1,2 @@
+Ni24O48Zn12
+Atoms(symbols='Ni24O48Zn12', pbc=False)

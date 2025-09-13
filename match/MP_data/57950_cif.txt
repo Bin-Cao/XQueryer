@@ -1,0 +1,2 @@
+C8H20Cs2O26Ti2
+Atoms(symbols='Cs2Ti2H20C8O26', pbc=False)

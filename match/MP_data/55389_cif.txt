@@ -1,0 +1,2 @@
+Ba20Nb8O44
+Atoms(symbols='Ba20Nb8O44', pbc=False)

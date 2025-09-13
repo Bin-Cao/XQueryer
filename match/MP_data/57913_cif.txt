@@ -1,0 +1,2 @@
+F8Fe8LiO8
+Atoms(symbols='LiFe8O8F8', pbc=False)

@@ -1,0 +1,2 @@
+Mn18N36Si12
+Atoms(symbols='Mn18N36Si12', pbc=False)

@@ -1,0 +1,2 @@
+Bi20O60P12
+Atoms(symbols='Bi20O60P12', pbc=False)

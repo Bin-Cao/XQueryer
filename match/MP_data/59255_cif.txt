@@ -1,0 +1,2 @@
+Co8N16Sr12
+Atoms(symbols='Sr6Co4N8Sr6Co4N8', pbc=False)

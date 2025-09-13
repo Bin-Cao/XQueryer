@@ -1,0 +1,2 @@
+Cd4LiO12Tc4
+Atoms(symbols='LiCd4Tc4O12', pbc=False)

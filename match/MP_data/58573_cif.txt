@@ -1,0 +1,2 @@
+Ca3I60La32Os5
+Atoms(symbols='Ca3I60La32Os5', pbc=False)

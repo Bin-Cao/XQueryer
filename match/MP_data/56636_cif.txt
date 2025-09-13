@@ -1,0 +1,2 @@
+Al6Nd2O24Sr6Ta2
+Atoms(symbols='Sr6Nd2Ta2Al6O24', pbc=False)

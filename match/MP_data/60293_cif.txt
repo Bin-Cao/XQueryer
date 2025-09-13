@@ -1,0 +1,2 @@
+Ca50O50
+Atoms(symbols='Ca50O50', pbc=False)

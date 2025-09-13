@@ -1,0 +1,2 @@
+O75Ta30
+Atoms(symbols='O75Ta30', pbc=False)

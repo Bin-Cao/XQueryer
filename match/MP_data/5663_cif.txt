@@ -1,0 +1,2 @@
+Mo2O16W4
+Atoms(symbols='Mo2W4O16', pbc=False)

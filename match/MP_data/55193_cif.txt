@@ -1,0 +1,2 @@
+H12B2N2
+Atoms(symbols='BH6NBH6N', pbc=False)

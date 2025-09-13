@@ -1,0 +1,2 @@
+Co20O28Zn4
+Atoms(symbols='Zn2Co10O14Zn2Co10O14', pbc=False)

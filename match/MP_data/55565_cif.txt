@@ -1,0 +1,2 @@
+AgBiSSe
+Atoms(symbols='AgBiSeS', pbc=False)

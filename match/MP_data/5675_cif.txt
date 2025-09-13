@@ -1,0 +1,2 @@
+K8N56Si40
+Atoms(symbols='K8N56Si40', pbc=False)

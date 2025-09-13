@@ -1,0 +1,2 @@
+F20Li20Ni4O4
+Atoms(symbols='Li20Ni4O4F20', pbc=False)

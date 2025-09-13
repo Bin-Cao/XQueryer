@@ -1,0 +1,2 @@
+Fe100
+Atoms(symbols='Fe100', pbc=False)

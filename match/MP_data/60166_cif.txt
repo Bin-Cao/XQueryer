@@ -1,0 +1,2 @@
+N24Si8Sn20
+Atoms(symbols='Si4Sn10N12Si4Sn10N12', pbc=False)

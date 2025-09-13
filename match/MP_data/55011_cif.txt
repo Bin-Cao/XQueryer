@@ -1,0 +1,2 @@
+Co12Dy39Mg21
+Atoms(symbols='Co12Dy39Mg21', pbc=False)

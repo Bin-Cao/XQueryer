@@ -1,0 +1,2 @@
+H4Ag2Co6MgO24P6
+Atoms(symbols='MgCo6Ag2P6H4O24', pbc=False)

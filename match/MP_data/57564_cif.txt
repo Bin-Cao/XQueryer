@@ -1,0 +1,2 @@
+Ba51O10Pd24
+Atoms(symbols='Ba51O10Pd24', pbc=False)

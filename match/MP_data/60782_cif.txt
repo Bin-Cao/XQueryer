@@ -1,0 +1,2 @@
+Al2Ca4Fe2O10
+Atoms(symbols='Ca4Al2Fe2O10', pbc=False)

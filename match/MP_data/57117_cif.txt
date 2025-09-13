@@ -1,0 +1,2 @@
+MgO20U7Zr3
+Atoms(symbols='MgZr3U7O20', pbc=False)

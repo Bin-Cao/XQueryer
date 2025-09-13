@@ -1,0 +1,2 @@
+LiO10Si5
+Atoms(symbols='LiSi5O10', pbc=False)

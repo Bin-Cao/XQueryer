@@ -1,0 +1,2 @@
+B105
+Atoms(symbols='B105', pbc=False)

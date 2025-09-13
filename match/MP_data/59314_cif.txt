@@ -1,0 +1,2 @@
+Co6In4N8
+Atoms(symbols='In4Co6N8', pbc=False)

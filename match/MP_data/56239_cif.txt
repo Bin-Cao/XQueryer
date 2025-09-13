@@ -1,0 +1,2 @@
+Co2Cs2F12V2
+Atoms(symbols='Cs2V2Co2F12', pbc=False)

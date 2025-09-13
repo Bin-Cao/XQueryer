@@ -1,0 +1,2 @@
+C3Co2N6
+Atoms(symbols='Co2C3N6', pbc=False)

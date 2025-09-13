@@ -1,0 +1,2 @@
+H4AsF6N
+Atoms(symbols='AsH4NF6', pbc=False)

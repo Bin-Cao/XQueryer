@@ -1,0 +1,2 @@
+CaNi2O12V4
+Atoms(symbols='CaV4Ni2O12', pbc=False)

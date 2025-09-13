@@ -1,0 +1,2 @@
+Al3GaN4
+Atoms(symbols='Al3GaN4', pbc=False)

@@ -1,0 +1,2 @@
+Al8CoO16Zn3
+Atoms(symbols='Al8Zn3CoO16', pbc=False)

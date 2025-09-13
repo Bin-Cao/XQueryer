@@ -1,0 +1,2 @@
+H14Cu2MgO18S2Zn3
+Atoms(symbols='MgZn3Cu2H14S2O18', pbc=False)

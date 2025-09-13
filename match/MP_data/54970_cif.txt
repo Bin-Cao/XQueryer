@@ -1,0 +1,2 @@
+BaGa2S6Si
+Atoms(symbols='BaGa2SiS6', pbc=False)

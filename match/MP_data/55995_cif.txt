@@ -1,0 +1,2 @@
+AlCu2GaSe4
+Atoms(symbols='AlGaCu2Se4', pbc=False)

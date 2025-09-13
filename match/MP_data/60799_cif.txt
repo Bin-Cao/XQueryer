@@ -1,0 +1,2 @@
+Al28Cu6Se48
+Atoms(symbols='Al28Cu6Se48', pbc=False)

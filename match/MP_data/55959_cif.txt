@@ -1,0 +1,2 @@
+Dy4Mg4S12
+Atoms(symbols='Dy2Mg2S6Dy2Mg2S6', pbc=False)

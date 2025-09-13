@@ -1,0 +1,2 @@
+CRe
+Atoms(symbols='ReC', pbc=False)

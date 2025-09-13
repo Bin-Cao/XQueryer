@@ -1,0 +1,2 @@
+CoTa
+Atoms(symbols='TaCo', pbc=False)

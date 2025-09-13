@@ -1,0 +1,2 @@
+LiNa2Ni3O6
+Atoms(symbols='Na2LiNi3O6', pbc=False)

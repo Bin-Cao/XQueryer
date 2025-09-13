@@ -1,0 +1,2 @@
+Al20O30
+Atoms(symbols='Al10O15Al10O15', pbc=False)

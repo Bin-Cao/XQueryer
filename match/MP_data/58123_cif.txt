@@ -1,0 +1,2 @@
+LiO12Sm4V4
+Atoms(symbols='LiSm4V4O12', pbc=False)

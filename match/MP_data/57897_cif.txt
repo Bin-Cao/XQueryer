@@ -1,0 +1,2 @@
+CdLiMn9O10
+Atoms(symbols='LiMn9CdO10', pbc=False)

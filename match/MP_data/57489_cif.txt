@@ -1,0 +1,2 @@
+Cr2NaS4
+Atoms(symbols='NaCr2S4', pbc=False)

@@ -1,0 +1,2 @@
+Al11O48Si13Sr5Tl
+Atoms(symbols='Al11O48Si13Sr5Tl', pbc=False)

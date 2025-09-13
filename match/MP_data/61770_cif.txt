@@ -1,0 +1,2 @@
+B2Dy10Si6
+Atoms(symbols='Dy10Si6B2', pbc=False)

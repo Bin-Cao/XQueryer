@@ -1,0 +1,2 @@
+Cu2Mn20N16
+Atoms(symbols='Mn10CuN8Mn10CuN8', pbc=False)

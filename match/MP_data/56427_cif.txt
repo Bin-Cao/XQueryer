@@ -1,0 +1,2 @@
+BaCr10S16
+Atoms(symbols='BaCr10S16', pbc=False)

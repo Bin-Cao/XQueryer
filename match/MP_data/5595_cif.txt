@@ -1,0 +1,2 @@
+B32Be32Na16O88
+Atoms(symbols='B32Be32Na16O88', pbc=False)

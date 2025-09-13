@@ -1,0 +1,2 @@
+N32Ni8Sr40
+Atoms(symbols='N32Ni8Sr40', pbc=False)

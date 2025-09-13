@@ -1,0 +1,2 @@
+Ba12Mn6O36Ru6
+Atoms(symbols='Ba6Mn3Ru3O18Ba6Mn3Ru3O18', pbc=False)

@@ -1,0 +1,2 @@
+Ir2Mg4O12V2
+Atoms(symbols='Mg4V2Ir2O12', pbc=False)

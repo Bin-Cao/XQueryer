@@ -1,0 +1,2 @@
+H12Cu2N2Na6O26P4
+Atoms(symbols='Na6Cu2P4H12N2O26', pbc=False)

@@ -1,0 +1,2 @@
+Ba20Ce16O60Zr4
+Atoms(symbols='Ba20Ce16O60Zr4', pbc=False)

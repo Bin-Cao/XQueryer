@@ -1,0 +1,2 @@
+B36S3
+Atoms(symbols='B12SB12SB12S', pbc=False)

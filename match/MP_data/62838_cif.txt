@@ -1,0 +1,2 @@
+Cu2O14Sr9Zn3
+Atoms(symbols='Sr9Zn3Cu2O14', pbc=False)

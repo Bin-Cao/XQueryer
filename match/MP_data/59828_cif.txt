@@ -1,0 +1,2 @@
+N24Ru8Sr20
+Atoms(symbols='Sr10Ru4N12Sr10Ru4N12', pbc=False)

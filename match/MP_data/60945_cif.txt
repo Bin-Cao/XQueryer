@@ -1,0 +1,2 @@
+H4Be4Ce4O20Si4
+Atoms(symbols='Ce4Be4Si4H4O20', pbc=False)

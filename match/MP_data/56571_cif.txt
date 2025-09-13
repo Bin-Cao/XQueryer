@@ -1,0 +1,2 @@
+Ca2Mo4O24Y10
+Atoms(symbols='CaY5Mo2O12CaY5Mo2O12', pbc=False)

@@ -1,0 +1,2 @@
+K12Ni10O70P20Sr4
+Atoms(symbols='K12Ni10O70P20Sr4', pbc=False)

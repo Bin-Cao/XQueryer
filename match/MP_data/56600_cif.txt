@@ -1,0 +1,2 @@
+Ag8Ca2O24Ru8
+Atoms(symbols='CaAg4Ru4O12CaAg4Ru4O12', pbc=False)

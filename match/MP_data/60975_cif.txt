@@ -1,0 +1,2 @@
+H4Co2O4
+Atoms(symbols='Co2H4O4', pbc=False)

@@ -1,0 +1,2 @@
+B6N2O26Si2Sr14
+Atoms(symbols='Sr14Si2B6N2O26', pbc=False)

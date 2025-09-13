@@ -1,0 +1,2 @@
+CdLiO6Sr2W
+Atoms(symbols='Sr2LiCdWO6', pbc=False)

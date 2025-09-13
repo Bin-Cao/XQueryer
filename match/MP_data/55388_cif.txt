@@ -1,0 +1,2 @@
+BaGeIn
+Atoms(symbols='BaInGe', pbc=False)

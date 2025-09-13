@@ -1,0 +1,2 @@
+N20Ru2Si14
+Atoms(symbols='Si14Ru2N20', pbc=False)

@@ -1,0 +1,2 @@
+O75W25
+Atoms(symbols='O75W25', pbc=False)

@@ -1,0 +1,2 @@
+N24Sr28Te4
+Atoms(symbols='Sr14Te2N12Sr14Te2N12', pbc=False)

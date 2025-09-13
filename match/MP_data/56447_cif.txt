@@ -1,0 +1,2 @@
+Ba4Nb25O40
+Atoms(symbols='Ba4Nb25O40', pbc=False)

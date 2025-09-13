@@ -1,0 +1,2 @@
+LiO14Rb4Se4
+Atoms(symbols='Rb4LiSe4O14', pbc=False)

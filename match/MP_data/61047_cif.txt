@@ -1,0 +1,2 @@
+HCoO2
+Atoms(symbols='CoHO2', pbc=False)

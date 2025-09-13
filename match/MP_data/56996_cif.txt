@@ -1,0 +1,2 @@
+CaFe2La2O12Te2
+Atoms(symbols='CaLa2Fe2Te2O12', pbc=False)

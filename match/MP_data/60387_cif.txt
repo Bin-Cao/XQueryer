@@ -1,0 +1,2 @@
+C36Al34B12
+Atoms(symbols='C36Al34B12', pbc=False)

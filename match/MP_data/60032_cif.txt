@@ -1,0 +1,2 @@
+C8CrN6
+Atoms(symbols='CrC8N6', pbc=False)

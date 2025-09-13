@@ -1,0 +1,2 @@
+Fe6Mg16N16
+Atoms(symbols='Mg8Fe3N8Mg8Fe3N8', pbc=False)

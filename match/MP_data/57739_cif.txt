@@ -1,0 +1,2 @@
+Cr2Cu2Hf2S8
+Atoms(symbols='Hf2Cr2Cu2S8', pbc=False)

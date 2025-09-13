@@ -1,0 +1,2 @@
+Co4N8Pt4
+Atoms(symbols='Co2Pt2N4Co2Pt2N4', pbc=False)

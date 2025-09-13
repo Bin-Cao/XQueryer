@@ -1,0 +1,2 @@
+AgSbTe2
+Atoms(symbols='AgSbTe2', pbc=False)

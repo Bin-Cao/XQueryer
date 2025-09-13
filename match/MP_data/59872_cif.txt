@@ -1,0 +1,2 @@
+C4In4N8
+Atoms(symbols='In2C2N4In2C2N4', pbc=False)

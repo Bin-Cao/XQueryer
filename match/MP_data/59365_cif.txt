@@ -1,0 +1,2 @@
+O50Ti50
+Atoms(symbols='O50Ti50', pbc=False)

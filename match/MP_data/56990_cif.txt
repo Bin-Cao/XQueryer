@@ -1,0 +1,2 @@
+MgO16P4Sn2Sr2Zn2
+Atoms(symbols='Sr2MgZn2Sn2P4O16', pbc=False)

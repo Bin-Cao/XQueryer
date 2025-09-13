@@ -1,0 +1,2 @@
+Cr8O18Zn2
+Atoms(symbols='Zn2Cr8O18', pbc=False)

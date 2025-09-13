@@ -1,0 +1,2 @@
+O16Ti2W4
+Atoms(symbols='Ti2W4O16', pbc=False)

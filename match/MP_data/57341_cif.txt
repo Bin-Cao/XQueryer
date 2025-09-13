@@ -1,0 +1,2 @@
+H2BaCaNi3O10V2
+Atoms(symbols='BaCaV2Ni3H2O10', pbc=False)

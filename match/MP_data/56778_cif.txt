@@ -1,0 +1,2 @@
+Ag6Au26Te64
+Atoms(symbols='Ag6Au26Te64', pbc=False)

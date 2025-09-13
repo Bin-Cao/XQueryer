@@ -1,0 +1,2 @@
+Al6S18Zn9
+Atoms(symbols='Al2Zn3S6Al2Zn3S6Al2Zn3S6', pbc=False)

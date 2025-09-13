@@ -1,0 +1,2 @@
+B24O3
+Atoms(symbols='B24O3', pbc=False)

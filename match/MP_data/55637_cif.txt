@@ -1,0 +1,2 @@
+Al3BaN20OSi9Sm5
+Atoms(symbols='BaSm5Al3Si9N20O', pbc=False)

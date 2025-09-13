@@ -1,0 +1,2 @@
+H2K2LiO6Se2
+Atoms(symbols='K2LiH2Se2O6', pbc=False)

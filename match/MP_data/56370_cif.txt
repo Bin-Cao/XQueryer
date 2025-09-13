@@ -1,0 +1,2 @@
+BaBi2LiOTi2
+Atoms(symbols='BaLiTi2Bi2O', pbc=False)

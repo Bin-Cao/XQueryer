@@ -1,0 +1,2 @@
+N2Pt2
+Atoms(symbols='Pt2N2', pbc=False)

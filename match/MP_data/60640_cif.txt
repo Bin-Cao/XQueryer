@@ -1,0 +1,2 @@
+Al18O27
+Atoms(symbols='Al18O27', pbc=False)

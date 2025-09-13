@@ -1,0 +1,2 @@
+Ba4Ge6
+Atoms(symbols='Ba2Ge3Ba2Ge3', pbc=False)

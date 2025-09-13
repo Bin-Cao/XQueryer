@@ -1,0 +1,2 @@
+Na3P3Sr3
+Atoms(symbols='Na3Sr3P3', pbc=False)

@@ -1,0 +1,2 @@
+B2BaNa4O30Si10Ti2
+Atoms(symbols='BaNa4Ti2Si10B2O30', pbc=False)

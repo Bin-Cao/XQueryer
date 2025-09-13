@@ -1,0 +1,2 @@
+F2Nd2Te2
+Atoms(symbols='Nd2Te2F2', pbc=False)

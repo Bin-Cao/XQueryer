@@ -1,0 +1,2 @@
+Co16Sn4U4
+Atoms(symbols='UCo4SnUCo4SnUCo4SnUCo4Sn', pbc=False)

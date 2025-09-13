@@ -1,0 +1,2 @@
+O7Si2V2
+Atoms(symbols='V2Si2O7', pbc=False)

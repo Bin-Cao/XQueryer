@@ -1,0 +1,2 @@
+Ba2MnO22Sr6Ti7
+Atoms(symbols='Ba2Sr6Ti7MnO22', pbc=False)

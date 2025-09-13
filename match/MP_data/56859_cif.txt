@@ -1,0 +1,2 @@
+MgNb2O12Rb2Te2
+Atoms(symbols='Rb2MgNb2Te2O12', pbc=False)

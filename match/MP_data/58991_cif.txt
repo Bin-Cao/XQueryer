@@ -1,0 +1,2 @@
+Bi44Cl36Se48
+Atoms(symbols='Bi44Cl36Se48', pbc=False)

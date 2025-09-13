@@ -1,0 +1,2 @@
+Ba20Ge8N24
+Atoms(symbols='Ba10Ge4N12Ba10Ge4N12', pbc=False)

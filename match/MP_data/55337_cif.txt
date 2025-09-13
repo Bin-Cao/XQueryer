@@ -1,0 +1,2 @@
+H16Ba16O64P16
+Atoms(symbols='H16Ba16O64P16', pbc=False)

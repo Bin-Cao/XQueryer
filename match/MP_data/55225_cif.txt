@@ -1,0 +1,2 @@
+Ca3Cu9Mn3O36Ru9
+Atoms(symbols='CaMnCu3Ru3O12CaMnCu3Ru3O12CaMnCu3Ru3O12', pbc=False)

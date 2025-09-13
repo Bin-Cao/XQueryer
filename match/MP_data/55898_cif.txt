@@ -1,0 +1,2 @@
+Ag2Al8In2Se16
+Atoms(symbols='Al4InAgSe8Al4InAgSe8', pbc=False)

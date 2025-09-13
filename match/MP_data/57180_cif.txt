@@ -1,0 +1,2 @@
+H4CaO14Ti6
+Atoms(symbols='CaTi6H4O14', pbc=False)

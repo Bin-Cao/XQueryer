@@ -1,0 +1,2 @@
+As3Cl2O24P3Pb10
+Atoms(symbols='As3P3Pb10Cl2O24', pbc=False)

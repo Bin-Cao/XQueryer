@@ -1,0 +1,2 @@
+Ba2O32Ta15
+Atoms(symbols='Ba2Ta15O32', pbc=False)

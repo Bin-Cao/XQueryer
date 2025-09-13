@@ -1,0 +1,2 @@
+Cd2N20Si14
+Atoms(symbols='Cd2Si14N20', pbc=False)

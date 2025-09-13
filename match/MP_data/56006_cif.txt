@@ -1,0 +1,2 @@
+As3P3
+Atoms(symbols='AsPAsPAsP', pbc=False)

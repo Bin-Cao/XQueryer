@@ -1,0 +1,2 @@
+Cu8Eu8O24
+Atoms(symbols='Eu4Cu4O12Eu4Cu4O12', pbc=False)

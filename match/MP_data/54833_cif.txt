@@ -1,0 +1,2 @@
+Ba3Cu6O15Pr3
+Atoms(symbols='Ba3Pr3Cu6O15', pbc=False)

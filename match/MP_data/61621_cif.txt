@@ -1,0 +1,2 @@
+Co10Na6O20
+Atoms(symbols='Na6Co10O20', pbc=False)

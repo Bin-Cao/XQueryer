@@ -1,0 +1,2 @@
+As8Cd12O32
+Atoms(symbols='Cd12As8O32', pbc=False)

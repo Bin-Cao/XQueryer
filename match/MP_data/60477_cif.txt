@@ -1,0 +1,2 @@
+N8Sb16Te12
+Atoms(symbols='Sb16Te12N8', pbc=False)

@@ -1,0 +1,2 @@
+Cr2O12V4
+Atoms(symbols='V4Cr2O12', pbc=False)

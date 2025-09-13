@@ -1,0 +1,2 @@
+Ba20Hf8N24
+Atoms(symbols='Ba10Hf4N12Ba10Hf4N12', pbc=False)

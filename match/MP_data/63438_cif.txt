@@ -1,0 +1,2 @@
+Mo16O24
+Atoms(symbols='Mo8O12Mo8O12', pbc=False)

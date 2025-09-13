@@ -1,0 +1,2 @@
+O24Sc7V9
+Atoms(symbols='Sc7V9O24', pbc=False)

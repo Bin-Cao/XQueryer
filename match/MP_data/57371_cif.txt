@@ -1,0 +1,2 @@
+Dy2LiNb2O8
+Atoms(symbols='LiDy2Nb2O8', pbc=False)

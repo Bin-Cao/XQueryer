@@ -1,0 +1,2 @@
+C4H12AlF4N
+Atoms(symbols='AlH12C4NF4', pbc=False)

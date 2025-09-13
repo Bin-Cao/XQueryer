@@ -1,0 +1,2 @@
+Co2Ir2O12Zn4
+Atoms(symbols='Zn4Co2Ir2O12', pbc=False)

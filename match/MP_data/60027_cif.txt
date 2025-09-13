@@ -1,0 +1,2 @@
+O68Sn34
+Atoms(symbols='O68Sn34', pbc=False)

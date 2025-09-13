@@ -1,0 +1,2 @@
+H51B40F3
+Atoms(symbols='H51B40F3', pbc=False)

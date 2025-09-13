@@ -1,0 +1,2 @@
+Gd16Mg8S32
+Atoms(symbols='Gd16Mg8S32', pbc=False)

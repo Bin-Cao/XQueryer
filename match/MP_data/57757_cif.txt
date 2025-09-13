@@ -1,0 +1,2 @@
+Bi2Cr2N4
+Atoms(symbols='Cr2Bi2N4', pbc=False)

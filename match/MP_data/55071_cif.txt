@@ -1,0 +1,2 @@
+Ce10Nd10Si12
+Atoms(symbols='Ce5Nd5Si6Ce5Nd5Si6', pbc=False)

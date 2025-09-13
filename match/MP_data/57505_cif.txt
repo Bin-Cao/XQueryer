@@ -1,0 +1,2 @@
+LiO6SrU2
+Atoms(symbols='SrLiU2O6', pbc=False)

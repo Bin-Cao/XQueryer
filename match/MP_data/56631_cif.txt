@@ -1,0 +1,2 @@
+As38Ga18K60
+Atoms(symbols='As38Ga18K60', pbc=False)

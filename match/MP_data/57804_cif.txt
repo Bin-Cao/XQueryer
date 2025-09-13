@@ -1,0 +1,2 @@
+ClLiO6Sb3Te
+Atoms(symbols='LiSb3TeClO6', pbc=False)

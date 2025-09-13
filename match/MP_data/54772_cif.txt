@@ -1,0 +1,2 @@
+Al2Pt12Si2
+Atoms(symbols='AlSiPt6AlSiPt6', pbc=False)

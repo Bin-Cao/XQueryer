@@ -1,0 +1,2 @@
+K2MgO18P6Zn2
+Atoms(symbols='K2MgZn2P6O18', pbc=False)

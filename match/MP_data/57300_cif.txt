@@ -1,0 +1,2 @@
+H20Br4MgN4O4
+Atoms(symbols='MgH20Br4N4O4', pbc=False)

@@ -1,0 +1,2 @@
+Co4LiO8Zn
+Atoms(symbols='LiZnCo4O8', pbc=False)

@@ -1,0 +1,2 @@
+In8N16Sr12
+Atoms(symbols='Sr6In4N8Sr6In4N8', pbc=False)

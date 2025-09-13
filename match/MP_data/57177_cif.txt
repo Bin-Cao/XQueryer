@@ -1,0 +1,2 @@
+Cl10MgNb2OTe4
+Atoms(symbols='MgNb2Te4Cl10O', pbc=False)

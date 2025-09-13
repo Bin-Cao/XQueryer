@@ -1,0 +1,2 @@
+LiO12Sm2Sr4Ta2
+Atoms(symbols='Sr4LiSm2Ta2O12', pbc=False)

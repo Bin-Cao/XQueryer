@@ -1,0 +1,2 @@
+Ho2LiO8Ta2
+Atoms(symbols='LiHo2Ta2O8', pbc=False)

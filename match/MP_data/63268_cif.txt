@@ -1,0 +1,2 @@
+S10V4
+Atoms(symbols='V4S10', pbc=False)

@@ -1,0 +1,2 @@
+Ba3Cu3O19Sr5Tl5
+Atoms(symbols='Ba3Sr5Tl5Cu3O19', pbc=False)

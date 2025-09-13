@@ -1,0 +1,2 @@
+CoN6O12PbRb2
+Atoms(symbols='Rb2CoPbN6O12', pbc=False)

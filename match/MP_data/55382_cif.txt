@@ -1,0 +1,2 @@
+BaCa2In6O12
+Atoms(symbols='BaCa2In6O12', pbc=False)

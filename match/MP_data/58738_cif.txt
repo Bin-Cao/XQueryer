@@ -1,0 +1,2 @@
+Co2Li2N2
+Atoms(symbols='LiCoNLiCoN', pbc=False)

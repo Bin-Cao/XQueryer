@@ -1,0 +1,2 @@
+Ga4Mo4N12
+Atoms(symbols='Ga4Mo4N12', pbc=False)

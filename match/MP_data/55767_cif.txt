@@ -1,0 +1,2 @@
+Ba6Fe20O40Sn2
+Atoms(symbols='Ba6Fe20O40Sn2', pbc=False)

@@ -1,0 +1,2 @@
+C24Co3N18
+Atoms(symbols='Co3C24N18', pbc=False)

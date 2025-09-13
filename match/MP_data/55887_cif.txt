@@ -1,0 +1,2 @@
+CaGa4O12W2
+Atoms(symbols='CaGa4W2O12', pbc=False)

@@ -1,0 +1,2 @@
+C2Ag2LiN2O2
+Atoms(symbols='LiAg2C2N2O2', pbc=False)

@@ -1,0 +1,2 @@
+Cu8O32Te8Zn4
+Atoms(symbols='Zn4Cu8Te8O32', pbc=False)

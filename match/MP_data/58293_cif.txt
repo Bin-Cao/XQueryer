@@ -1,0 +1,2 @@
+Dy6F6Li3O6
+Atoms(symbols='LiDy2O2F2LiDy2O2F2LiDy2O2F2', pbc=False)

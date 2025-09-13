@@ -1,0 +1,2 @@
+Ge4Mg20
+Atoms(symbols='Mg5GeMg5GeMg5GeMg5Ge', pbc=False)

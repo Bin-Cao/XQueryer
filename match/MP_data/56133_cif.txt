@@ -1,0 +1,2 @@
+I4K10Na2O44Ru2
+Atoms(symbols='I4K10Na2O44Ru2', pbc=False)

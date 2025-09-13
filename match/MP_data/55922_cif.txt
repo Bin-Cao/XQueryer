@@ -1,0 +1,2 @@
+As18Ca10Fe8Pt6
+Atoms(symbols='Ca10Fe8As18Pt6', pbc=False)

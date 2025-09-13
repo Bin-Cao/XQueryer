@@ -1,0 +1,2 @@
+BaCaFe24O38
+Atoms(symbols='BaCaFe24O38', pbc=False)

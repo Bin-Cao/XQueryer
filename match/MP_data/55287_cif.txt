@@ -1,0 +1,2 @@
+Cr2N2O15Te2
+Atoms(symbols='Cr2Te2N2O15', pbc=False)

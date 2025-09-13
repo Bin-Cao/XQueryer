@@ -1,0 +1,2 @@
+Co2KO4
+Atoms(symbols='KCo2O4', pbc=False)

@@ -1,0 +1,2 @@
+O68W34
+Atoms(symbols='O68W34', pbc=False)

@@ -1,0 +1,2 @@
+Pr2Pt2
+Atoms(symbols='Pr2Pt2', pbc=False)

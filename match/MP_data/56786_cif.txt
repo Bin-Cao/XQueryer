@@ -1,0 +1,2 @@
+AlBi12MgO20
+Atoms(symbols='MgAlBi12O20', pbc=False)

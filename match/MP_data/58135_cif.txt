@@ -1,0 +1,2 @@
+Ba20Fe8N16
+Atoms(symbols='Ba20Fe8N16', pbc=False)

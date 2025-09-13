@@ -1,0 +1,2 @@
+Co4Ge4N8
+Atoms(symbols='Co2Ge2N4Co2Ge2N4', pbc=False)

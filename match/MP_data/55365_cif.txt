@@ -1,0 +1,2 @@
+AlCrFe2
+Atoms(symbols='AlCrFe2', pbc=False)

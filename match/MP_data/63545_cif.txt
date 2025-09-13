@@ -1,0 +1,2 @@
+Fe6O18Y6
+Atoms(symbols='Y6Fe6O18', pbc=False)

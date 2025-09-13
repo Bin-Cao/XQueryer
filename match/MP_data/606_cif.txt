@@ -1,0 +1,2 @@
+Ni8O48V16
+Atoms(symbols='Ni8O48V16', pbc=False)

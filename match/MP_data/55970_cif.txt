@@ -1,0 +1,2 @@
+Ba24Fe16O60Pr8
+Atoms(symbols='Ba24Fe16O60Pr8', pbc=False)

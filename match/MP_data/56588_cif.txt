@@ -1,0 +1,2 @@
+In6Mg6Se18
+Atoms(symbols='Mg6In6Se18', pbc=False)

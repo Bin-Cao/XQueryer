@@ -1,0 +1,2 @@
+La18Ni10S42
+Atoms(symbols='La18Ni10S42', pbc=False)

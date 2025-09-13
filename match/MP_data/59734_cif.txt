@@ -1,0 +1,2 @@
+Ba6N6Ta2
+Atoms(symbols='Ba6Ta2N6', pbc=False)

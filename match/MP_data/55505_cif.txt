@@ -1,0 +1,2 @@
+Ca4Fe3MnO30Si10
+Atoms(symbols='Ca4MnFe3Si10O30', pbc=False)

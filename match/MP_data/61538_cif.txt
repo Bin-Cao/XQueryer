@@ -1,0 +1,2 @@
+Pd26Tl18
+Atoms(symbols='Tl9Pd13Tl9Pd13', pbc=False)

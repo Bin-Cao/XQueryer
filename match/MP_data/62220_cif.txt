@@ -1,0 +1,2 @@
+Cu18Dy2Mg4
+Atoms(symbols='Dy2Mg4Cu18', pbc=False)

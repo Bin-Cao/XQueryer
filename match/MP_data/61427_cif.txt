@@ -1,0 +1,2 @@
+LaN
+Atoms(symbols='LaN', pbc=False)

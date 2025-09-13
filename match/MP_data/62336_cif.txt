@@ -1,0 +1,2 @@
+O36Sb12Y12
+Atoms(symbols='Y6Sb6O18Y6Sb6O18', pbc=False)

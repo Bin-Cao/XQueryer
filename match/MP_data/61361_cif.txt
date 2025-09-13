@@ -1,0 +1,2 @@
+CaSi2
+Atoms(symbols='CaSi2', pbc=False)

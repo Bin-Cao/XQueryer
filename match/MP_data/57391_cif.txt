@@ -1,0 +1,2 @@
+Li2Nd2O4Pr2
+Atoms(symbols='LiPrNdO2LiPrNdO2', pbc=False)

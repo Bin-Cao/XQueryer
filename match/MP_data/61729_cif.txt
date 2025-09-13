@@ -1,0 +1,2 @@
+Al24N72Nd20O36Si36Sr6
+Atoms(symbols='Al24N72Nd20O36Si36Sr6', pbc=False)

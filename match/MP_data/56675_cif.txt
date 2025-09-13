@@ -1,0 +1,2 @@
+H2Al3BaCaO14P2
+Atoms(symbols='BaCaAl3P2H2O14', pbc=False)

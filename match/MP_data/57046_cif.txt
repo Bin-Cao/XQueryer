@@ -1,0 +1,2 @@
+CuHo2MgO12Si4
+Atoms(symbols='Ho2MgCuSi4O12', pbc=False)

@@ -1,0 +1,2 @@
+Ba4Cu6Nd2NiO15
+Atoms(symbols='Ba4Nd2Cu6NiO15', pbc=False)

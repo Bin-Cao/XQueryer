@@ -1,0 +1,2 @@
+BaCoK2LiN6O12
+Atoms(symbols='K2BaLiCoN6O12', pbc=False)

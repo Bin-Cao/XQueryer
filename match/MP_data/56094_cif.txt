@@ -1,0 +1,2 @@
+AlGaN2
+Atoms(symbols='AlGaN2', pbc=False)

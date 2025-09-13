@@ -1,0 +1,2 @@
+HK3O44Si12Zr4
+Atoms(symbols='HK3O44Si12Zr4', pbc=False)

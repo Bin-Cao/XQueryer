@@ -1,0 +1,2 @@
+Ba2Fe4LiO10Y2
+Atoms(symbols='Ba2LiY2Fe4O10', pbc=False)

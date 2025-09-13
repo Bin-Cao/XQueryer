@@ -1,0 +1,2 @@
+Ca3F18Ni3
+Atoms(symbols='CaNiF6CaNiF6CaNiF6', pbc=False)

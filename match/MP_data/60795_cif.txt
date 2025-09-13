@@ -1,0 +1,2 @@
+Be34Ti4
+Atoms(symbols='Ti2Be17Ti2Be17', pbc=False)

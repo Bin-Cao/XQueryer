@@ -1,0 +1,2 @@
+C7Al9NSi
+Atoms(symbols='Al9SiC7N', pbc=False)

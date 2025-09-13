@@ -1,0 +1,2 @@
+Al2Ge2Ni8
+Atoms(symbols='Al2Ni8Ge2', pbc=False)

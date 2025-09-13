@@ -1,0 +1,2 @@
+Be16F32
+Atoms(symbols='Be16F32', pbc=False)

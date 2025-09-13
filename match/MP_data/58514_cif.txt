@@ -1,0 +1,2 @@
+Cd2Mg10N8
+Atoms(symbols='Mg10Cd2N8', pbc=False)

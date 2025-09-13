@@ -1,0 +1,2 @@
+H3KLiNi2O10Se2
+Atoms(symbols='KLiNi2H3Se2O10', pbc=False)

@@ -1,0 +1,2 @@
+Cr4F11O
+Atoms(symbols='Cr4OF11', pbc=False)

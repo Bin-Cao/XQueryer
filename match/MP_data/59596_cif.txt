@@ -1,0 +1,2 @@
+In40O60
+Atoms(symbols='In40O60', pbc=False)

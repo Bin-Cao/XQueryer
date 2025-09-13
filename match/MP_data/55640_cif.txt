@@ -1,0 +1,2 @@
+C2AlCr4Ga
+Atoms(symbols='AlCr4GaC2', pbc=False)

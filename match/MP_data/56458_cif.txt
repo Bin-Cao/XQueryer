@@ -1,0 +1,2 @@
+Ba5Eu5Fe10O26
+Atoms(symbols='Ba5Eu5Fe10O26', pbc=False)

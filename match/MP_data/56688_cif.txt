@@ -1,0 +1,2 @@
+Al3As8FeO28Tl4
+Atoms(symbols='Al3Tl4FeAs8O28', pbc=False)

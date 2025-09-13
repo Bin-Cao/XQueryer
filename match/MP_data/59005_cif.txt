@@ -1,0 +1,2 @@
+Ba12N16Sc8
+Atoms(symbols='Ba6Sc4N8Ba6Sc4N8', pbc=False)

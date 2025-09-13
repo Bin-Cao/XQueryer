@@ -1,0 +1,2 @@
+LiO10Si2V2Zn2
+Atoms(symbols='LiV2Zn2Si2O10', pbc=False)

@@ -1,0 +1,2 @@
+Ba2Co2O12Pr2Ta2
+Atoms(symbols='Ba2Pr2Ta2Co2O12', pbc=False)

@@ -1,0 +1,2 @@
+Mn7Na5O15
+Atoms(symbols='Na5Mn7O15', pbc=False)

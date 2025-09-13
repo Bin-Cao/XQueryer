@@ -1,0 +1,2 @@
+As6Bi26Mo12O84
+Atoms(symbols='As6Bi26Mo12O84', pbc=False)

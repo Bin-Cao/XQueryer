@@ -1,0 +1,2 @@
+H12Al2K2Na4
+Atoms(symbols='K2Na4Al2H12', pbc=False)

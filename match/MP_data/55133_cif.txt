@@ -1,0 +1,2 @@
+Al9Ce6Fe3
+Atoms(symbols='Ce2Al3FeCe2Al3FeCe2Al3Fe', pbc=False)

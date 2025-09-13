@@ -1,0 +1,2 @@
+As2Bi2Mg2O12
+Atoms(symbols='Mg2Bi2As2O12', pbc=False)

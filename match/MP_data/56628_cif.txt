@@ -1,0 +1,2 @@
+CaNi4O12Tl4
+Atoms(symbols='CaTl4Ni4O12', pbc=False)

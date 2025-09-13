@@ -1,0 +1,2 @@
+I2Na2
+Atoms(symbols='Na2I2', pbc=False)

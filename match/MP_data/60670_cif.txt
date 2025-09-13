@@ -1,0 +1,2 @@
+N96Sb48Sr24
+Atoms(symbols='N96Sb48Sr24', pbc=False)

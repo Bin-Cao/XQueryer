@@ -1,0 +1,2 @@
+AgLiO2Rb
+Atoms(symbols='RbLiAgO2', pbc=False)

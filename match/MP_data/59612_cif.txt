@@ -1,0 +1,2 @@
+C12Ir2N18
+Atoms(symbols='Ir2C12N18', pbc=False)

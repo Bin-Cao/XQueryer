@@ -1,0 +1,2 @@
+Cu24Th4
+Atoms(symbols='Th4Cu24', pbc=False)

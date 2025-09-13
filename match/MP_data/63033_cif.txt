@@ -1,0 +1,2 @@
+Co24Mg8O56
+Atoms(symbols='Co24Mg8O56', pbc=False)

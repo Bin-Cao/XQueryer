@@ -1,0 +1,2 @@
+Ba2Nb10O30Sr3
+Atoms(symbols='Ba2Sr3Nb10O30', pbc=False)

@@ -1,0 +1,2 @@
+AlCo2Ga
+Atoms(symbols='AlGaCo2', pbc=False)
