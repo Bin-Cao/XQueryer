@@ -7,24 +7,19 @@ This folder contains code and data for matching mineral entries from the RRUFF d
 
 We first converted the RRUFF database into a structured database file (`.db`) by matching RRUFF CIF IDs with its PDF IDs. For each entry, we saved its crystal structure, diffraction pattern, space group, and other metadata. Due to licensing restrictions from the RRUFF project, this converted database **cannot be shared publicly**. However, if you are using it for research purposes, feel free to contact me directly at **[bcao686@connect.hkust-gz.edu.cn](mailto:bcao686@connect.hkust-gz.edu.cn)**, and I’d be happy to share it personally.
 
-### Matching Criteria
+### Folders 
 
-A two-fold matching strategy is applied:
+* `strict`:  
+  Contains diffraction data and structure data of strictly matched RRUFF entries.
 
-1. **Strict Matching**:
-   We require that the matched MP entry has:
+* `relaxed`:  
+  Contains diffraction data and structure data of relaxed matched RRUFF entries.
 
-   * The **same elemental composition** as the RRUFF entry.
-   * **Lattice constants within 5%** deviation.
-     These pairs are labeled as `strict` in the file [`matched_pairs.txt`](./matched_pairs.txt).
+* `MP_data`:  
+  Contains diffraction data and structure data of matched MP entries.  
+  **If an unstable connection interrupts the download of the entire folder, a ZIP archive is also available on [HuggingFace](https://huggingface.co/datasets/caobin/PyXplore/resolve/main/MP_data.zip?download=true).**
 
-2. **Relaxed Matching**:
-   We allow:
 
-   * **Lattice constants within 1%** deviation, even if exact elemental matches are not present.
-     These pairs are labeled as `relaxed` in the same file.
-
-The second matching type is motivated by the fact that RRUFF is a relatively small database, and many structures not be present in the MP dataset. Therefore, this relaxed matching allows us to capture similar crystal structures that induce **similar XRD peak distributions**, even if they are not identical in composition. This aligns with the *in-library identification* concept discussed in the supplementary materials of our paper.
 
 ### Files
 
