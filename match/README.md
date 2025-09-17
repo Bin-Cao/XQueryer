@@ -1,12 +1,4 @@
 
-## RRUFF–MP ID Matching
-
-This folder contains code and data for matching mineral entries from the RRUFF database with corresponding materials in the Materials Project (MP) database. The main matching script is located in [`./main.py`](./main.py).
-
-### Overview
-
-We first converted the RRUFF database into a structured database file (`.db`) by matching RRUFF CIF IDs with its PDF IDs. For each entry, we saved its crystal structure, diffraction pattern, space group, and other metadata. Due to licensing restrictions from the RRUFF project, this converted database **cannot be shared publicly**. However, if you are using it for research purposes, feel free to contact me directly at **[bcao686@connect.hkust-gz.edu.cn](mailto:bcao686@connect.hkust-gz.edu.cn)**, and I’d be happy to share it personally.
-
 ### Folders 
 
 * `strict`:  
