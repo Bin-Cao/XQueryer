@@ -16,7 +16,7 @@ The Official Implementation of **XQueryer: An Intelligent Crystal Structure Iden
 
 Our system revolutionizes PXRD-based crystal identification through high-fidelity data synthesis and the cutting-edge **XQueryer** model. Seamlessly integrated with diffractometers, it enables precise, AI-driven material discovery and extends its capabilities to broader chemical applications. **XQueryer** comprises **1.03 B** parameters.
 
-(The paper is currently under peer review, and updates may be made during this time.)
+
 
 
 ## Overview
