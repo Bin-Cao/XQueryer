@@ -5,7 +5,7 @@
   Contains diffraction and structure data of **strictly matched** RRUFF entries. Identified structures share the same elements and lattice constants.
 
 * `relaxed`:
-  Contains diffraction and structure data of **relaxed matched** RRUFF entries. Identified structures may have different elements but share the same lattice constants.
+  Contains diffraction and structure data of **relaxed matched** RRUFF entries. Identified structures have different elements but share the same lattice constants.
 
 * `MP_data`:
   Contains diffraction and structure data of MP entries.
