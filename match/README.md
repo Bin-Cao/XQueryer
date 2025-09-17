@@ -1,15 +1,19 @@
 
-### Folders 
+### Folders
 
-* `strict`:  
-  Contains diffraction data and structure data of strictly matched RRUFF entries.
+* `strict`:
+  Contains diffraction and structure data of **strictly matched** RRUFF entries. Identified structures share the same elements and lattice constants.
 
-* `relaxed`:  
-  Contains diffraction data and structure data of relaxed matched RRUFF entries.
+* `relaxed`:
+  Contains diffraction and structure data of **relaxed matched** RRUFF entries. Identified structures may have different elements but share the same lattice constants.
 
-* `MP_data`:  
-  Contains diffraction data and structure data of matched MP entries.  
-  **If an unstable connection interrupts the download of the entire folder, a ZIP archive is also available on [HuggingFace](https://huggingface.co/datasets/caobin/PyXplore/resolve/main/MP_data.zip?download=true).**
+* `MP_data`:
+  Contains diffraction and structure data of MP entries.
+  **If an unstable connection interrupts the download of this folder, a ZIP archive is also available on [HuggingFace](https://huggingface.co/datasets/caobin/PyXplore/resolve/main/MP_data.zip?download=true).**
+
+Note: All matches are subject to certain tolerances, as no two crystals are perfectly identical. The reference structure derived from **XQueryer** serves as the input for further structure determination during the refinement step.
+
+
 
 
 
