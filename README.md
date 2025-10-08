@@ -11,7 +11,7 @@
 ## The Official Implementation of **XQueryer: An Intelligent Crystal Structure Identifier for Powder X-ray Diffraction**
 
 
-## [Paper](https://doi.org/10.1093/nsr/nwaf421) | [YouTube](https://www.youtube.com/watch?v=OYPoh7K5uM0) | [Benchmarks](https://github.com/WPEM/XqueryerBench) | [MRS Orial, Seattle USA](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/presentations/view/2025-mrs-spring-meeting/2025-mrs-spring-meeting-4205765) | [Website](https://xqueryer.caobin.asia/about) 
+## [Paper](https://doi.org/10.1093/nsr/nwaf421) | [Website](https://xqueryer.caobin.asia/about) | [YouTube](https://www.youtube.com/watch?v=OYPoh7K5uM0) | [Benchmarks](https://github.com/WPEM/XqueryerBench) | [MRS Orial, Seattle USA](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/presentations/view/2025-mrs-spring-meeting/2025-mrs-spring-meeting-4205765) 
 
 
 Our system revolutionizes PXRD-based crystal identification through high-fidelity data synthesis and the cutting-edge **XQueryer** model. Seamlessly integrated with diffractometers, it enables precise, AI-driven material discovery and extends its capabilities to broader chemical applications. **XQueryer** comprises **1.03 B** parameters.
