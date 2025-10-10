@@ -1,12 +1,6 @@
 
 
 
-<h1 align="center">
-  <a href=""><img src="https://github.com/user-attachments/assets/09eaddef-a9a2-408a-897f-d2c355331c60" alt="Bgolearn" width="300"></a>
-  <br>
-  XQueryer System
-  <br>
-</h1>
 
 ## The Official Implementation of **XQueryer: An Intelligent Crystal Structure Identifier for Powder X-ray Diffraction**
 
@@ -34,3 +28,12 @@ Our system revolutionizes PXRD-based crystal identification through high-fidelit
 ## About 
 Maintained by Bin Cao. Please feel free to open issues in the Github or contact Bin Cao
 (bcao686@connect.hkust-gz.edu.cn) in case of any problems/comments/suggestions in using the code. 
+
+
+<h1 align="center">
+  <a href=""><img src="https://github.com/user-attachments/assets/09eaddef-a9a2-408a-897f-d2c355331c60" alt="Bgolearn" width="500"></a>
+  <br>
+  XQueryer System
+  <br>
+</h1>
+
