@@ -30,10 +30,22 @@ Maintained by Bin Cao. Please feel free to open issues in the Github or contact 
 (bcao686@connect.hkust-gz.edu.cn) in case of any problems/comments/suggestions in using the code. 
 
 
-<h1 align="center">
-  <a href=""><img src="https://github.com/user-attachments/assets/09eaddef-a9a2-408a-897f-d2c355331c60" alt="Bgolearn" width="500"></a>
-  <br>
-  XQueryer System
-  <br>
-</h1>
+---
+
+<table>
+  <tr>
+    <td width="160" align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/7e77bd5a-42d6-45db-b8e6-2c82cac81b9d" width="140" style="border-radius: 50%;"/>
+    </td>
+    <td valign="top">
+      <b>For any inquiries or assistance, feel free to contact Mr. CAO Bin at:</b><br>
+      📧 Email: <a href="mailto:bcao686@connect.hkust-gz.edu.cn">bcao686@connect.hkust-gz.edu.cn</a><br><br>
+      Cao Bin is a PhD candidate at the <b>Hong Kong University of Science and Technology (Guangzhou)</b>, 
+      under the supervision of Professor <a href="https://gbaaa.org.hk/en-us/article/67">Zhang Tong-Yi</a>. His research focuses on 
+      <b>AI for science</b>, especially intelligent crystal-structure analysis and discovery. 
+      Learn more about his work on his 
+      <a href="https://www.caobin.asia/">homepage</a>.
+    </td>
+  </tr>
+</table>
 
