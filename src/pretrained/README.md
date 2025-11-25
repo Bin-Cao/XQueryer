@@ -1,1 +1,0 @@
-download the pre-trained models from the following links: https://huggingface.co/datasets/caobin/XQueryer
