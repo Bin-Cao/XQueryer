@@ -5,7 +5,33 @@
 ## The Official Implementation of **XQueryer: An Intelligent Crystal Structure Identifier for Powder X-ray Diffraction**
 
 
-## [Paper](https://doi.org/10.1093/nsr/nwaf421) | [Website](https://xqueryer.caobin.asia/about) | [YouTube](https://www.youtube.com/watch?v=OYPoh7K5uM0) | [Benchmarks](https://github.com/WPEM/XqueryerBench) | Orial : [MRS](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/presentations/view/2025-mrs-spring-meeting/2025-mrs-spring-meeting-4205765) ; [ChinaData](https://ccf.org.cn/chinadata2025/schedule_d_4038)
+<p align="center">
+
+  <a href="https://doi.org/10.1093/nsr/nwaf421">
+    <img src="https://img.shields.io/badge/DOI-Paper-darkred?style=for-the-badge" />
+  </a>
+
+  <a href="https://xqueryer.caobin.asia/about">
+    <img src="https://img.shields.io/badge/Website-Project-black?style=for-the-badge" />
+  </a>
+
+  <a href="https://www.youtube.com/watch?v=OYPoh7K5uM0">
+    <img src="https://img.shields.io/badge/YouTube-Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/WPEM/XqueryerBench">
+    <img src="https://img.shields.io/badge/Benchmarks-Code-blue?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/presentations/view/2025-mrs-spring-meeting/2025-mrs-spring-meeting-4205765">
+    <img src="https://img.shields.io/badge/MRS-Talk-6A5ACD?style=for-the-badge" />
+  </a>
+
+  <a href="https://ccf.org.cn/chinadata2025/schedule_d_4038">
+    <img src="https://img.shields.io/badge/ChinaData-Presentation-008080?style=for-the-badge" />
+  </a>
+
+</p>
 
 
 Our system revolutionizes PXRD-based crystal identification through high-fidelity data synthesis and the cutting-edge **XQueryer** model. Seamlessly integrated with diffractometers, it enables precise, AI-driven material discovery and extends its capabilities to broader chemical applications. **XQueryer** comprises **1.03 B** parameters.
