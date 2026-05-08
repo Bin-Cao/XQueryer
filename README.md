@@ -38,6 +38,11 @@ Our system revolutionizes PXRD-based crystal identification through high-fidelit
 
 
 
+> [!IMPORTANT]
+> **XQueryer is among the first AI frameworks to enable cross-system crystal structure identification directly from X-ray diffraction patterns without relying on conventional search-match pipelines.**  
+> Unlike traditional XRD analysis workflows that heavily depend on handcrafted databases, phase-by-phase retrieval, and expert-guided matching strategies, XQueryer reformulates crystal identification as a representation learning problem over diffraction space itself. By combining large-scale simulated diffraction data, deep feature alignment, and cross-system structural retrieval, XQueryer demonstrates that neural networks can learn transferable diffraction representations spanning diverse crystal systems and compositions. This work represents a major step toward universal AI-driven diffraction understanding, enabling automated crystal identification beyond fixed candidate libraries and moving XRD analysis closer to foundation-model-style structural reasoning.
+
+
 
 ## Overview
 - **Source Code**: Available in the [./src](./src) directory.
@@ -56,22 +61,4 @@ Maintained by Bin Cao. Please feel free to open issues in the Github or contact 
 (bcao686@connect.hkust-gz.edu.cn) in case of any problems/comments/suggestions in using the code. 
 
 
----
-
-<table>
-  <tr>
-    <td width="160" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/7e77bd5a-42d6-45db-b8e6-2c82cac81b9d" width="140" style="border-radius: 50%;"/>
-    </td>
-    <td valign="top">
-      <b>For any inquiries or assistance, feel free to contact Mr. CAO Bin at:</b><br>
-      📧 Email: <a href="mailto:bcao686@connect.hkust-gz.edu.cn">bcao686@connect.hkust-gz.edu.cn</a><br><br>
-      Cao Bin is a PhD candidate at the <b>Hong Kong University of Science and Technology (Guangzhou)</b>, 
-      under the supervision of Professor <a href="https://gbaaa.org.hk/en-us/article/67">Zhang Tong-Yi</a>. His research focuses on 
-      <b>AI for science</b>, especially intelligent crystal-structure analysis and discovery. 
-      Learn more about his work on his 
-      <a href="https://www.caobin.asia/">homepage</a>.
-    </td>
-  </tr>
-</table>
 
