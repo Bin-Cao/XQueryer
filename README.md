@@ -81,6 +81,7 @@ Our system revolutionizes PXRD-based crystal identification through high-fidelit
 - **Benchmarks**: Access the benchmark code at repo [XqueryerBench](https://github.com/WPEM/XqueryerBench).
 - **Simulation Code**: Available in the [./sim](./sim) directory.
 - **RRUFF–MP ID Matching**: Available in the [./match](./match) directory.
+- **RRUFF.db and Alex-MP-20 dataset**: available in the release
 
 ## Tutorials
 - **Training/Val/Testing**: [model_tutorial](./src/Tutorial.ipynb)
