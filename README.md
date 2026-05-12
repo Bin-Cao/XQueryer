@@ -1,8 +1,41 @@
 
+<h1 align="center">XQueryer</h1>
+
+<p align="center">
+  Intelligent Crystal Structure Identifier for Powder X-ray Diffraction
+</p>
+
+<p align="center">
+  An AI-driven PXRD analysis framework for real-time crystal structure identification from experimental diffraction patterns.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Bin-Cao/XQueryer/stargazers">
+    <img src="https://img.shields.io/github/stars/Bin-Cao/XQueryer?style=social" alt="GitHub Stars">
+  </a>
+
+  <a href="https://github.com/Bin-Cao/XQueryer/network/members">
+    <img src="https://img.shields.io/github/forks/Bin-Cao/XQueryer?style=social" alt="GitHub Forks">
+  </a>
+
+  <a href="https://github.com/Bin-Cao/XQueryer/issues">
+    <img src="https://img.shields.io/github/issues/Bin-Cao/XQueryer" alt="Open Issues">
+  </a>
+
+  <a href="https://github.com/Bin-Cao/XQueryer/issues?q=is%3Aissue+is%3Aclosed">
+    <img src="https://img.shields.io/github/issues-closed/Bin-Cao/XQueryer" alt="Closed Issues">
+  </a>
+
+  <a href="https://github.com/Bin-Cao/XQueryer/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Bin-Cao/XQueryer" alt="License">
+  </a>
+
+  <a href="https://academic.oup.com/nsr/article/12/12/nwaf421/8268901">
+    <img src="https://img.shields.io/badge/NSR-2025-red" alt="NSR Paper">
+  </a>
+</p>
 
 
-
-## The Official Implementation of **XQueryer: An Intelligent Crystal Structure Identifier for Powder X-ray Diffraction**
 
 
 <p align="center">
