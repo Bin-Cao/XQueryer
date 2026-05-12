@@ -1,9 +1,6 @@
 
 <h1 align="center">XQueryer</h1>
 
-<p align="center">
-  Intelligent Crystal Structure Identifier for Powder X-ray Diffraction
-</p>
 
 <p align="center">
   An AI-driven PXRD analysis framework for real-time crystal structure identification from experimental diffraction patterns.
