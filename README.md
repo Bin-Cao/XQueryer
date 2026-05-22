@@ -11,9 +11,7 @@
     <img src="https://img.shields.io/github/stars/Bin-Cao/XQueryer?style=social" alt="GitHub Stars">
   </a>
 
-  <a href="https://github.com/Bin-Cao/XQueryer/network/members">
-    <img src="https://img.shields.io/github/forks/Bin-Cao/XQueryer?style=social" alt="GitHub Forks">
-  </a>
+
 
   <a href="https://github.com/Bin-Cao/XQueryer/issues">
     <img src="https://img.shields.io/github/issues/Bin-Cao/XQueryer" alt="Open Issues">
