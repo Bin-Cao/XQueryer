@@ -65,6 +65,8 @@
 Our system revolutionizes PXRD-based crystal identification through high-fidelity data synthesis and the cutting-edge **XQueryer** model. Seamlessly integrated with diffractometers, it enables precise, AI-driven material discovery and extends its capabilities to broader chemical applications. **XQueryer** comprises **1.03 B** parameters.
 
 
+### lightweight improved version of XQueryer : [XQueryer-Lightweight](https://github.com/Asterbin/Asterbin-XQueryer-Lightweight) 
+
 
 > [!IMPORTANT]
 > **XQueryer is among the first AI frameworks to enable cross-system crystal structure identification directly from X-ray diffraction patterns without relying on conventional search-match pipelines.**  
